@@ -58,15 +58,15 @@
 }
 
 .content {
+  padding: 20px 6vw 0;
   display: flex;
   flex-wrap: wrap;
-  padding: 20px;
 }
 
 .file {
-  margin: 3.5%;
-  width: 18%;
-  min-width: 225px;
+  width: fit-content;
+  margin: 40px 3% 0;
+  width: 250px;
   height: 350px;
   background-color: #d9d9d9;
   border-radius: 4px;
