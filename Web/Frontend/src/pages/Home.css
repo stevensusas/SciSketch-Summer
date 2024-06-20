@@ -1,0 +1,118 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #d9d9d9;
+    padding: 0 55px;
+    min-height: 70px;
+  }
+  
+  .logo {
+    height: 50px;
+    width: 60px;
+  }
+  
+  .search-bar {
+    width: 33%;
+    height: 30px;
+    min-width: 200px;
+    border-radius: 25px;
+    background-color: #b0b0b0;
+    padding: 5px 15px;
+    border: none;
+  }
+  
+  .search-bar::placeholder {
+    color: white;
+    opacity: 1;
+    text-align: center;
+  }
+  
+  .settings-button {
+    background: none;
+    border: none;
+    text-align: center;
+  }
+  
+  .settings-button img {
+    height: 50px;
+    width: 50px;
+  }
+  
+  .fab {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 999;
+    border-radius: 50%;
+    padding: 15px;
+    background-color: #777777;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    border: none;
+  }
+  
+  .fab-icon {
+    height: 35px;
+    width: 35px;
+  }
+  
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  
+  .file {
+    margin: 3.5%;
+    width: 18%;
+    min-width: 225px;
+    height: 350px;
+    background-color: #d9d9d9;
+    border-radius: 4px;
+    overflow: hidden;
+    text-align: center;
+    line-height: 350px;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .file:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  .file-options-button {
+    position: absolute;
+    top: 0;
+    right: -10px;
+    display: none;
+    border: none;
+    background: none;
+  }
+  
+  .file-options-button img {
+    height: 50px;
+  }
+  
+  .file:hover .file-options-button {
+    display: block;
+  }
+  
+  .tool-bar {
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    top: 70px;
+    right: 0;
+    z-index: 1000;
+  }
+  
+  .tool-icon {
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+  }
+  
