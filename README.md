@@ -12,7 +12,7 @@ I am currently actively working on building the second iteration of SciSketch's 
 
 ## BioIllustra: The Training Dataset
 
-Please read more about BioIllustra from its Huggingface Dataset Card!
+Check out the dataset itself on Hugging Face!
 
 To create SciSketch, I created BioIllustra, a the dataset consisting of 30,000+ biomedical text abstracts and their corresponding graphical abstracts. To create BioIllustra, I utilized the ScienceDirect API to collect data from more than 50,000 published research articles in Cell Press. Then, I used OCR and DBSCAN clustering to extract the text entities in the graphical abstracts, as well as their coordinates and width, height in the graphic. The extracted information is presented in JSON format to accomodate downstream model training purposes.
 
