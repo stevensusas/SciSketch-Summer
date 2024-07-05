@@ -5,7 +5,7 @@ SciSketch addresses these challenges by offering a streamlined and automated sol
 
 With SciSketch, researchers can efficiently create the necessary visuals for their manuscripts, grant proposals, and presentations, allowing them to dedicate more time to their scientific discoveries and advancements.
 
-Watch the first iteration of SciSketch's prototype ([Repo(https://github.com/stevensusas/SciSketch)]), built solely with React, Flask, and the OpenAI API at the 2024 Penn Generative AI Hackathon:
+Watch the first iteration of SciSketch's prototype and its [Repo(https://github.com/stevensusas/SciSketch)], built solely with React, Flask, and the OpenAI API at the 2024 Penn Generative AI Hackathon:
 
 
 https://github.com/stevensusas/SciSketch-Summer/assets/113653645/666215e6-09c8-4e9a-9e1b-6f9b45812c07
