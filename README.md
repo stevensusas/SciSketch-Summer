@@ -8,6 +8,9 @@ With SciSketch, researchers can efficiently create the necessary visuals for the
 Watch the first iteration of SciSketch's prototype, built solely with React, Flask, and the OpenAI API at the 2024 Penn Generative AI Hackathon:
 
 
+https://github.com/stevensusas/SciSketch-Summer/assets/113653645/666215e6-09c8-4e9a-9e1b-6f9b45812c07
+
+
 I am currently actively working on building the second iteration of SciSketch's prototype. It involves the following smaller parts, some already complete and other still being works in progress, given the immensity of the project's scale:
 
 ## BioIllustra: The Training Dataset
