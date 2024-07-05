@@ -13,7 +13,7 @@ https://github.com/stevensusas/SciSketch-Summer/assets/113653645/666215e6-09c8-4
 
 I am currently actively working on building the second iteration of SciSketch's prototype. It involves the following smaller parts, some already complete and other still being works in progress, given the immensity of the project's scale:
 
-## BioIllustra: The Training Dataset
+## [BioIllustra: The Training Dataset](https://huggingface.co/datasets/stevensu123/BioIllustra)
 
 Check out the dataset itself on Hugging Face!
 
