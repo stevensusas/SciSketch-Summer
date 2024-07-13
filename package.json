@@ -1,1 +1,5 @@
-{}
+{
+  "dependencies": {
+    "webodf": "^0.5.10"
+  }
+}
