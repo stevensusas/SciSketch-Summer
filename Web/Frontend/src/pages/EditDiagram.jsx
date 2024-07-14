@@ -13,17 +13,51 @@ function EditDiagram() {
   const [isCollapsed, setIsCollapsed] = useState(false);
   const [activeTab, setActiveTab] = useState('iconsLibrary');
 
-  const imageCount = 3;
+  const [searchTerm, setSearchTerm] = useState('');
 
-  const images = Array.from({ length: imageCount }, (_, index) => `image${index + 1}.png`);
+  const images = [
+    '/icon_library/microscope.png',
+    '/icon_library/mouse1.png',
+    '/icon_library/mouse2.png',
+    // Add more images as needed
+  ];
+
+  // const [images, setImages] = useState([]);
 
 
   useEffect(() => {
+    
+
     const canvas = new fabric.Canvas('diagram-canvas');
+    const parentDiv = document.getElementById('canvas-parent-div'); 
+
+    const handleKeyDown = (e) => {
+      if (e.key === 'Backspace') {
+        const activeObjects = canvas.getActiveObjects();
+        canvas.discardActiveObject();
+        if (activeObjects.length) {
+          canvas.remove.apply(canvas, activeObjects);
+        }
+      }
+    };
+
+    // Function to resize canvas
+    const resizeCanvas = () => {
+      canvas.setWidth(parentDiv.offsetWidth);
+      canvas.setHeight(parentDiv.offsetHeight);
+      canvas.renderAll();
+    };
+
+    // Initial resize
+    resizeCanvas();
+
+    // Resize canvas on window resize
+    window.addEventListener('resize', resizeCanvas);
+    window.addEventListener('keydown', handleKeyDown);
+
 
     canvas.backgroundColor = 'rgba(255,255,255,1)';
     canvas.renderAll();
-
   
     // Function to load images onto the canvas
     function handleDrop(e) {
@@ -34,8 +68,8 @@ function EditDiagram() {
 
       fabric.Image.fromURL(imageUrl, function(img) {
         img.set({
-          left: e.layerX,
-          top: e.layerY,
+          left: e.layerX - (img.width / 2) / 2,
+          top: e.layerY - (img.height / 2) / 2,
           scaleX: 0.5,
           scaleY: 0.5
         });
@@ -43,6 +77,8 @@ function EditDiagram() {
       });
 
     }
+
+    
   
     // Adding event listeners for the drag and drop
     const canvasContainer = document.getElementById('diagram-canvas').parentNode;
@@ -81,8 +117,8 @@ function EditDiagram() {
         </button>
       </div>
       <div className="flex flex-1 bg-gray-200 rounded-lg p-2">
-        <div className={`flex-1 bg-gray-300 p-2 my-4 mx-16 shadow-lg rounded-lg flex justify-center items-center`}>
-            <canvas id="diagram-canvas" width="1000" height="800"></canvas>
+        <div id="canvas-parent-div" className={`flex-1 bg-gray-300 my-4 mx-16 shadow-lg rounded-lg`}>
+            <canvas id="diagram-canvas"></canvas>
         </div>
         <div className={`flex flex-col w-1/3 bg-gray-700 rounded-lg text-white transition-transform duration-500 ${isCollapsed ? 'transform translate-x-full w-0' : 'transform translate-x-0'}`}>
           <div className="flex items-center bg-gray-600 p-2 rounded-t-lg">
@@ -106,13 +142,14 @@ function EditDiagram() {
             {activeTab === 'iconsLibrary' ? (
               <>
                 <div className="relative mt-2 mb-4">
-                  <input type="text" placeholder="Search" className="w-full p-2 rounded-lg text-black" />
+                  <input type="text" placeholder="Search" className="w-full p-2 rounded-lg text-black" value={searchTerm}
+      onChange={(e) => setSearchTerm(e.target.value)}/>
                   {!isCollapsed && <FontAwesomeIcon icon={faSearch} className="absolute top-3 right-3 text-gray-500" />}
                 </div>
                 <div className="grid grid-cols-3 gap-2">
                   {/* <div className="h-32 bg-gray-500 rounded-lg"></div> */}
-                  {images.map((image, index) => (
-                    <div key={index} className='flex justify-center p-2 w-48 bg-slate-800 rounded-lg'>
+                  {images.filter((image) => image.includes(searchTerm)).map((image, index) => (
+                    <div key={index} className='flex justify-center p-2 2xl:w-48 bg-slate-800 rounded-lg'>
                         <img
                             key={index}
                             src={image}
