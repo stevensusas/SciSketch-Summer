@@ -3,7 +3,11 @@ import Quill from "quill";
 import "quill/dist/quill.snow.css";
 import { useParams, useNavigate } from "react-router-dom";
 import axios from "axios";
+import ImageResize from "quill-image-resize-module-react";
 import "./EditFile.css";
+
+// Register the ImageResize module with Quill
+Quill.register("modules/imageResize", ImageResize);
 
 const SAVE_INTERVAL_MS = 2000;
 const TOOLBAR_OPTIONS = [
@@ -76,11 +80,56 @@ export default function TextEditor() {
     wrapper.append(editor);
     const q = new Quill(editor, {
       theme: "snow",
-      modules: { toolbar: TOOLBAR_OPTIONS },
+      modules: {
+        toolbar: TOOLBAR_OPTIONS,
+        imageResize: {
+          modules: ["Resize", "DisplaySize"],
+
+          displayStyles: {
+            backgroundColor: "black",
+            border: "none",
+            color: "white",
+            // other camelCase styles for size display
+          },
+          toolbarStyles: {
+            backgroundColor: "black",
+            border: "none",
+            color: "white",
+            // other camelCase styles for size display
+          },
+          toolbarButtonStyles: {
+            // ...
+          },
+          toolbarButtonSvgStyles: {
+            // ...
+          },
+        },
+      },
     });
+
     q.disable();
     setQuill(q);
   }, []);
+
+  useEffect(() => {
+    if (quill == null) return;
+
+    const handleImageRightClick = (event) => {
+      const target = event.target;
+      console.log("Target:", target);
+      if (target.closest("img")) {
+        // Handle right-click logic for the selected image
+        console.log("Image right-clicked:", target.src);
+      }
+    };
+
+    const quillContainer = quill.container;
+    quillContainer.addEventListener("contextmenu", handleImageRightClick);
+
+    return () => {
+      quillContainer.removeEventListener("contextmenu", handleImageRightClick);
+    };
+  }, [quill]);
 
   const handleBackToHome = () => {
     saveDocument(); // Save document before navigating back

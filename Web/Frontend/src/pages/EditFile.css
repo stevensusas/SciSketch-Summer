@@ -90,3 +90,26 @@
     display: none;
   }
 }
+/* ContextMenu.css */
+
+.context-menu {
+  position: absolute;
+  background: white;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.context-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.context-menu li {
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+.context-menu li:hover {
+  background-color: #f0f0f0;
+}
