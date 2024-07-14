@@ -7,7 +7,7 @@ import optionsIcon from "../res/icons/options.png";
 import sortIcon from "../res/icons/bx_sort.png";
 import { useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCloudArrowUp, faNoteSticky, faRobot } from '@fortawesome/free-solid-svg-icons';
+import { faCloudArrowUp, faNoteSticky, faRobot, faBars, faGrip } from '@fortawesome/free-solid-svg-icons';
 import FilesDragAndDrop from "../components/FilesDragAndDrop";
 import gridIcon from "../res/icons/grid.png";
 import axios from "axios";
@@ -54,7 +54,8 @@ function Home() {
   useEffect(() => {
     const fetchDocuments = async () => {
       try {
-        const response = await axios.get("http://localhost:5000/api/documents");
+        // const response = await axios.get("http://localhost:5000/api/documents");
+        const response = await axios.get("http://127.0.0.1:5000/api/documents");
         setDocuments(response.data);
       } catch (error) {
         console.error("Error fetching documents:", error);
@@ -71,6 +72,11 @@ function Home() {
           return a.name.localeCompare(b.name);
         } else if (order === "name-desc") {
           return b.name.localeCompare(a.name);
+        } else if (order === "date-asc") {
+          console.log(a);
+          return new Date(a.date) - new Date(b.date);
+        } else if (order === "date-desc") {
+          return new Date(b.date) - new Date(a.date);
         }
         return 0;
       });
@@ -84,9 +90,15 @@ function Home() {
   };
 
   const sortFiles = (order) => {
-    sortOrder === "name-asc"
-      ? setSortOrder("name-desc")
-      : setSortOrder("name-asc");
+    if (order === "name") {
+      sortOrder.startsWith("name")
+        ? setSortOrder(sortOrder === "name-asc" ? "name-desc" : "name-asc")
+        : setSortOrder("name-asc");
+    } else if (order === "date") {
+      sortOrder.startsWith("date")
+        ? setSortOrder(sortOrder === "date-asc" ? "date-desc" : "date-asc")
+        : setSortOrder("date-asc");
+    }
   };
 
   const handleFileClick = (documentId) => {
@@ -105,7 +117,8 @@ function Home() {
 
   const handleDeleteDocument = async (documentId) => {
     try {
-      await axios.delete(`http://localhost:5000/api/documents/${documentId}`);
+      // await axios.delete(`http://localhost:5000/api/documents/${documentId}`);
+      await axios.delete(`http://127.0.0.1:5000/api/documents/${documentId}`);
       setDocuments(documents.filter((doc) => doc.id !== documentId));
       setOptionsMenu(null); // Close the options menu after deletion
     } catch (error) {
@@ -134,40 +147,76 @@ function Home() {
       </div>
 
       <div className="tool-bar">
-        <button onClick={toggleView}>
-          <img src={gridIcon} alt="List View" className="tool-icon" />
+        <button onClick={toggleView} className="mx-2">
+          {filesView === "grid" ? (
+            <FontAwesomeIcon icon={faBars} className="fa-lg fa-regular" color="gray"/>
+          ) : (
+            <FontAwesomeIcon icon={faGrip} className="fa-lg fa-regular" color="gray"/>
+          )}
+          {/* <img src={gridIcon} alt="List View" className="tool-icon" /> */}
         </button>
-        <button onClick={() => sortFiles("name-asc")}>
-          <img src={sortIcon} alt="Sort A-Z" className="tool-icon" />
+        <button onClick={() => sortFiles("name")}>
+          <img src={sortIcon} alt="Sort by name" className="tool-icon" />
         </button>
-        <button onClick={() => sortFiles("name-desc")}>
-          <img src={sortIcon} alt="Sort Z-A" className="tool-icon" />
+        <button onClick={() => sortFiles("date")}>
+          <img src={sortIcon} alt="Sort by date" className="tool-icon" />
         </button>
       </div>
 
-      <div className="content">
-        {filteredDocuments.map((document) => (
-          <div
-            key={document.id}
-            className="file"
-            onClick={() => handleFileClick(document.id)}
-            onMouseEnter={() => setOptionsMenu(document.id)}
-            onMouseLeave={() => setOptionsMenu(null)}
-          >
-            <p className="file-name">{document.name}</p>
-
-            <button
-              className="file-options-button"
-              onClick={(e) => handleOptionsMenu(e, document.id)}
+      <div>
+        
+        {filesView === "grid" ? (
+          <div className="content"> {/* Grid Display */}
+          {filteredDocuments.map((document) => (
+            <div
+              key={document.id}
+              className="file"
+              onClick={() => handleFileClick(document.id)}
+              onMouseEnter={() => setOptionsMenu(document.id)}
+              onMouseLeave={() => setOptionsMenu(null)}
             >
-              <img
-                src={optionsIcon}
-                alt="Options"
-                className="file-options-icon"
-              />
-            </button>
+              <p className="file-name">{document.name}</p>
+  
+              <button
+                className="file-options-button"
+                onClick={(e) => handleOptionsMenu(e, document.id)}
+              >
+                <img
+                  src={optionsIcon}
+                  alt="Options"
+                  className="file-options-icon"
+                />
+              </button>
+            </div>
+          ))}
           </div>
-        ))}
+          ) : (
+          <div className="flex flex-col gap-2 mt-10"> {/* List Display */}
+          {filteredDocuments.map((document) => (
+            <div
+              key={document.id}
+              className="bg-gray-300 rounded-lg mx-20 p-5"
+              onClick={() => handleFileClick(document.id)}
+              onMouseEnter={() => setOptionsMenu(document.id)}
+              onMouseLeave={() => setOptionsMenu(null)}
+            >
+              <p className="file-name">{document.name}</p>
+  
+              <button
+                className="file-options-button"
+                onClick={(e) => handleOptionsMenu(e, document.id)}
+              >
+                <img
+                  src={optionsIcon}
+                  alt="Options"
+                  className="file-options-icon"
+                />
+              </button>
+            </div>
+          ))}
+          </div>
+          )}
+        
       </div>
 
       <button className="hover:bg-gray-700 fab" onClick={openAddModal}>
