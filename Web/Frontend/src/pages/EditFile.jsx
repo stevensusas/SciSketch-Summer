@@ -32,8 +32,7 @@ export default function TextEditor() {
     const fetchDocument = async () => {
       try {
         const response = await axios.get(
-          // `http://localhost:5000/api/documents/${documentId}`
-          `http://127.0.0.1:5000/api/documents/${documentId}`
+          `http://localhost:5000/api/documents/${documentId}`
         );
         if (quill) {
           quill.setContents(response.data.content);
@@ -64,8 +63,7 @@ export default function TextEditor() {
   const saveDocument = async () => {
     if (!quill) return;
     try {
-      // await axios.post(`http://localhost:5000/api/documents/${documentId}`, {
-      await axios.post(`http://127.0.0.1:5000/api/documents/${documentId}`, {
+      await axios.post(`http://localhost:5000/api/documents/${documentId}`, {
         content: quill.getContents(),
         name: fileName,
       });

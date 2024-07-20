@@ -13,6 +13,7 @@ class Document(db.Model):
     id = db.Column(db.String, primary_key=True)
     name = db.Column(db.String, nullable=False)
     content = db.Column(db.Text, nullable=False)
+    
 
 # Initialize database
 with app.app_context():
