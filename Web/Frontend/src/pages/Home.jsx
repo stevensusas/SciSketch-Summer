@@ -1,11 +1,11 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import "./Home.css";
 import settingsIcon from "../res/icons/settings.png";
 import SciSketchIcon from "../res/icons/SciSketch.png";
 import addIcon from "../res/icons/add.png";
 import optionsIcon from "../res/icons/options.png";
 import sortIcon from "../res/icons/bx_sort.png";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faCloudArrowUp,
@@ -13,6 +13,12 @@ import {
   faRobot,
   faBars,
   faGrip,
+  faSearch,
+  faGear,
+  faSortAlphaAsc,
+  faSortAmountAsc,
+  faSortNumericAsc,
+  faEllipsisV,
 } from "@fortawesome/free-solid-svg-icons";
 import FilesDragAndDrop from "../components/FilesDragAndDrop";
 import gridIcon from "../res/icons/grid.png";
@@ -24,6 +30,11 @@ function Home() {
   const [searchQuery, setSearchQuery] = useState("");
   const [isAddModalOpen, setIsAddModalOpen] = useState(false);
   const [isUploadModalOpen, setIsUploadModalOpen] = useState(false);
+  const [showOptionsMenu, setShowOptionsMenu] = useState(false);
+  const optionsButtonRefs = useRef({});
+  var optionsMenuRef = useRef();
+
+
 
   const openAddModal = () => {
     setIsAddModalOpen(true);
@@ -54,8 +65,8 @@ function Home() {
   useEffect(() => {
     const fetchDocuments = async () => {
       try {
-        const response = await axios.get("http://localhost:5000/api/documents");
-        //const response = await axios.get("http://127.0.0.1:5000/api/documents");
+        //const response = await axios.get("http://localhost:5000/api/documents");
+        const response = await axios.get("http://127.0.0.1:5000/api/documents");
         setDocuments(response.data);
       } catch (error) {
         console.error("Error fetching documents:", error);
@@ -85,6 +96,21 @@ function Home() {
     sortDocuments(sortOrder);
   }, [sortOrder]);
 
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (optionsMenu && optionsButtonRefs.current[optionsMenu] && !optionsMenuRef.contains(event.target)) {
+        console.log("Options menu ref clicked outside:", optionsButtonRefs.current[optionsMenu]);
+        setOptionsMenu(null);
+        setShowOptionsMenu(false);
+      }
+    };
+  
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      // document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [optionsMenu]);
+
   const toggleView = () => {
     setFilesView(filesView === "grid" ? "list" : "grid");
   };
@@ -109,13 +135,21 @@ function Home() {
     console.log(files);
   };
 
+  // const handleOptionsMenu = (event, documentId) => {
+  //   event.stopPropagation();
+  //   setOptionsMenu(documentId === optionsMenu ? null : documentId);
+  //   handleDeleteDocument(documentId);
+  // };
+
   const handleOptionsMenu = (event, documentId) => {
     event.stopPropagation();
     setOptionsMenu(documentId === optionsMenu ? null : documentId);
-    handleDeleteDocument(documentId);
+    console.log("optionsMenu:", optionsMenu);
+    setShowOptionsMenu(true);
   };
 
   const handleDeleteDocument = async (documentId) => {
+    event.stopPropagation();
     try {
       await axios.delete(`http://127.0.0.1:5000/api/documents/${documentId}`);
       setDocuments(documents.filter((doc) => doc.id !== documentId));
@@ -131,70 +165,92 @@ function Home() {
 
   return (
     <div className="app-container">
-      <div className="header">
-        <img src={SciSketchIcon} alt="sciSketch" className="logo" />
-        <input
-          type="text"
-          placeholder="Search"
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-          className="search-bar"
-        />
-        <button className="settings-button">
-          <img src={settingsIcon} alt="Settings" className="settings-icon" />
+      <div className="flex py-3 px-5 justify-between items-center bg-gray-800">
+        <Link to="/">
+          <img src={SciSketchIcon} alt="sciSketch" className="logo" />
+        </Link>
+        <div className="relative w-1/3">
+          <input
+            type="text"
+            placeholder="Search"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="rounded-3xl py-2 px-4 pl-10 focus:outline-none w-full"
+          />
+          <FontAwesomeIcon
+            icon={faSearch}
+            className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"
+          />
+        </div>
+        <button className="settings-button outline outline-white text-white rounded-md p-2 hover:bg-blue-500 hover:text-white">
+          <FontAwesomeIcon
+            icon={faGear}
+            className="fa-lg fa-regular"
+          />
         </button>
       </div>
 
-      <div className="tool-bar">
-        <button onClick={toggleView} className="mx-2">
-          {filesView === "grid" ? (
+      <div className="py-3 px-12 flex justify-between border-b border-b-black items-center">
+        <div className="text-2xl font-bold">Your Projects</div>
+        <div className="flex items-center">
+          <button onClick={toggleView} className="h-10 w-10 border-t border-l border-b border-black rounded-l-lg">
+            {filesView === "grid" ? (
+              <FontAwesomeIcon
+                icon={faBars}
+                className="fa-lg fa-regular"
+                color="black"
+              />
+            ) : (
+              <FontAwesomeIcon
+                icon={faGrip}
+                className="fa-lg fa-regular"
+                color="black"
+              />
+            )}
+            {/* <img src={gridIcon} alt="List View" className="tool-icon" /> */}
+          </button>
+          <button onClick={() => sortFiles("name")} className="h-10 w-10 border border-black">
             <FontAwesomeIcon
-              icon={faBars}
+              icon={faSortAlphaAsc}
               className="fa-lg fa-regular"
-              color="gray"
+              color="black"
             />
-          ) : (
+          </button>
+          <button onClick={() => sortFiles("date")} className="h-10 w-10 border-t border-r border-b border-black rounded-r-lg">
             <FontAwesomeIcon
-              icon={faGrip}
+              icon={faSortNumericAsc}
               className="fa-lg fa-regular"
-              color="gray"
+              color="black"
             />
-          )}
-          {/* <img src={gridIcon} alt="List View" className="tool-icon" /> */}
-        </button>
-        <button onClick={() => sortFiles("name")}>
-          <img src={sortIcon} alt="Sort by name" className="tool-icon" />
-        </button>
-        <button onClick={() => sortFiles("date")}>
-          <img src={sortIcon} alt="Sort by date" className="tool-icon" />
-        </button>
+          </button>
+        </div>
       </div>
 
       <div>
         {filesView === "grid" ? (
-          <div className="content">
+          <div className="grid grid-cols-4 gap-y-10 p-5 justify-items-center">
             {" "}
             {/* Grid Display */}
             {filteredDocuments.map((document) => (
               <div
                 key={document.id}
-                className="file"
+                className="relative w-64 h-72 bg-blue-100 outline outline-blue-500 rounded-lg shadow-sm hover:shadow-2xl flex justify-center items-end"
                 onClick={() => handleFileClick(document.id)}
-                onMouseEnter={() => setOptionsMenu(document.id)}
-                onMouseLeave={() => setOptionsMenu(null)}
+                // onMouseEnter={() => setOptionsMenu(document.id)}
+                // onMouseLeave={() => setOptionsMenu(null)}
               >
-                <p className="file-name">{document.name}</p>
-
                 <button
-                  className="file-options-button"
+                  className="absolute top-0 right-0 p-2"
                   onClick={(e) => handleOptionsMenu(e, document.id)}
+                  ref={(el) => optionsButtonRefs.current[document.id] = el}
                 >
-                  <img
-                    src={optionsIcon}
-                    alt="Options"
-                    className="file-options-icon"
+                  <FontAwesomeIcon
+                    icon={faEllipsisV}
+                    className="fa-lg fa-regular"
+                    color="black"
                   />
                 </button>
+                <p className="w-full text-center border-t border-blue-500 font-bold p-2 bg-white">{document.name}</p>
               </div>
             ))}
           </div>
@@ -228,7 +284,7 @@ function Home() {
         )}
       </div>
 
-      <button className="hover:bg-gray-700 fab" onClick={openAddModal}>
+      <button className="bg-blue-500 hover:bg-blue-600 fab" onClick={openAddModal}>
         <img src={addIcon} alt="FAB" className="fab-icon" />
       </button>
 
@@ -329,6 +385,34 @@ function Home() {
                 <FilesDragAndDrop onUpload={onUpload} />
               </div>
             </div>
+          </div>
+        </div>
+      )}
+
+      {showOptionsMenu && optionsMenu != null && (
+        <div
+          style={{
+            top: optionsButtonRefs.current[optionsMenu].getBoundingClientRect().top,
+            left: optionsButtonRefs.current[optionsMenu].getBoundingClientRect().left
+          }}
+          ref={(el) => optionsMenuRef = el}
+          className="absolute mt-2 w-48 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5"
+        >
+          <div className="py-1" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
+            <button
+              onClick={() => handleDeleteDocument(optionsMenu)}
+              className="w-full text-start px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+              role="menuitem"
+            >
+              Delete Document
+            </button>
+            <button
+              className="w-full text-start px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+              role="menuitem"
+            >
+              Other
+            </button>
+            {/* Add more options here */}
           </div>
         </div>
       )}
