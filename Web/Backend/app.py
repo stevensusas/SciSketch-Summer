@@ -65,4 +65,5 @@ def get_all_documents():
     return jsonify(documents_data)
 
 if __name__ == '__main__':
+    # app.run(host='localhost', port=5000, debug=True)
     app.run(debug=True)

@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
 import Quill from "quill";
 import "quill/dist/quill.snow.css";
-import { useParams, useNavigate } from "react-router-dom";
+import { useParams, useNavigate, Link, useLocation } from "react-router-dom";
 import axios from "axios";
 import ImageResize from "quill-image-resize-module-react";
 import "./EditFile.css";
@@ -25,6 +25,7 @@ const TOOLBAR_OPTIONS = [
 export default function TextEditor() {
   const { id: documentId } = useParams();
   const navigate = useNavigate();
+  const location = useLocation(); 
   const [quill, setQuill] = useState(null);
   const [fileName, setFileName] = useState(null);
 
@@ -32,11 +33,17 @@ export default function TextEditor() {
     const fetchDocument = async () => {
       try {
         const response = await axios.get(
-          // `http://localhost:5000/api/documents/${documentId}`
+          //`http://localhost:5000/api/documents/${documentId}`
           `http://127.0.0.1:5000/api/documents/${documentId}`
         );
         if (quill) {
+          console.log("quill fetching document data");
           quill.setContents(response.data.content);
+          if (location.state && location.state.image && quill) {
+            console.log("INSERTING IMAGE");
+            quill.insertEmbed(0, 'image', location.state.image); // Insert the image at the top of the editor
+            // quill.setSelection(quill.getLength(), 0); // Move the cursor to the end of the editor
+          }
           quill.enable();
         }
         setFileName(response.data.name);
@@ -46,7 +53,7 @@ export default function TextEditor() {
     };
 
     fetchDocument();
-  }, [documentId, quill]);
+  }, [location, documentId, quill]);
 
   useEffect(() => {
     if (quill == null) return;
@@ -64,7 +71,7 @@ export default function TextEditor() {
   const saveDocument = async () => {
     if (!quill) return;
     try {
-      // await axios.post(`http://localhost:5000/api/documents/${documentId}`, {
+      //await axios.post(`http://localhost:5000/api/documents/${documentId}`, {
       await axios.post(`http://127.0.0.1:5000/api/documents/${documentId}`, {
         content: quill.getContents(),
         name: fileName,
@@ -142,18 +149,25 @@ export default function TextEditor() {
     setFileName(e.target.value);
   };
 
+  const handleAddDiagram = () => {
+    navigate(`/edit-diagram`, { state: { documentId: documentId } })
+  };
+
   return (
     <div className="cont">
-      <div className="top-bar">
-        <button onClick={handleBackToHome} className="back-button">
-          Home
-        </button>
-        <input
-          type="text"
-          value={fileName}
-          onChange={handleFileNameChange}
-          className="file-name-input"
-        />
+      <div className="flex justify-between top-bar">
+        <div>
+          <button onClick={handleBackToHome} className="back-button">
+            Home
+          </button>
+          <input
+            type="text"
+            value={fileName}
+            onChange={handleFileNameChange}
+            className="file-name-input"
+          />
+        </div>
+        <button onClick={handleAddDiagram} className="bg-blue-500 rounded-md text-white p-2">Add Diagram</button>
       </div>
       <div className="container" ref={wrapperRef}></div>
     </div>
