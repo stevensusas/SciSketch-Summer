@@ -11,7 +11,7 @@ repo_id = f"{username}/{repo_name}"
 # Step 6: Use the Hugging Face Inference API
 import requests
 
-API_TOKEN = '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'  # Replace with your Hugging Face API token
+API_TOKEN = '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'  # Replace with your Hugging Face API token
 API_URL = f"https://api-inference.huggingface.co/models/{repo_id}"
 headers = {"Authorization": f"Bearer {API_TOKEN}"}
 
