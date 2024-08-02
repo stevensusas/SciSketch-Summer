@@ -1,0 +1,115 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.cont {
+  background-color: #f3f3f3;
+}
+
+.container .ql-editor {
+  background-color: #ffffff;
+  width: 8.5in;
+  min-height: 11in;
+  padding: 1in;
+  margin: 1rem;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}
+
+.container .ql-container.ql-snow {
+  border: none;
+  display: flex;
+  justify-content: center;
+}
+
+.top-bar {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  background-color: #ffffff;
+  position: sticky;
+  margin-bottom: 20px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}
+
+.back-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.file-name-input {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-left: 10px;
+  display: inline-block;
+  width: auto;
+  flex-grow: 0.5;
+  flex-shrink: 0;
+}
+
+.container .ql-toolbar.ql-snow {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #f3f3f3;
+  border: none;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+  width: 70%;
+  min-width: 8.5in;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+@page {
+  margin: 1in;
+}
+
+@media print {
+  body {
+    background: none;
+  }
+
+  .container .ql-editor {
+    width: 6.5in;
+    height: 9in;
+    padding: 0;
+    margin: 0;
+    box-shadow: none;
+    align-self: flex-start;
+  }
+
+  .container .ql-toolbar.ql-snow {
+    display: none;
+  }
+}
+/* ContextMenu.css */
+
+.context-menu {
+  position: absolute;
+  background: white;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.context-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.context-menu li {
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+.context-menu li:hover {
+  background-color: #f0f0f0;
+}
