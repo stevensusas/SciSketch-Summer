@@ -1,0 +1,4 @@
+Model filter=lfs diff=lfs merge=lfs -text
+and filter=lfs diff=lfs merge=lfs -text
+Inference/T5ForCoordinateRegression/regression-model-flan-t5-base filter=lfs diff=lfs merge=lfs -text
+/Users/stevensu/SciSketch-Summer/Model filter=lfs diff=lfs merge=lfs -text
