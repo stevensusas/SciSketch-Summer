@@ -1,13 +1,15 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate, useLocation } from 'react-router-dom';
 import { fabric } from 'fabric';
+import axios from "axios";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCog, faUndo, faRedo, faMousePointer, faHandPaper, faSearch, faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 // import './EditDiagram.css'; // Note: using tailwindcss instead for now
 
 
 function EditDiagram() {
-    console.log("MOUNTING");
+  console.log("MOUNTING");
+  const { id: diagramId } = useParams();
 
   const { fileId } = useParams();
   const [isCollapsed, setIsCollapsed] = useState(false);
@@ -21,6 +23,8 @@ function EditDiagram() {
   const navigate = useNavigate();
   const location = useLocation();
 
+  const [diagramData, setDiagramData] = useState(null); // State to hold fetched diagram data
+
   const images = [
     '/icon_library/microscope.png',
     '/icon_library/mouse1.png',
@@ -28,33 +32,51 @@ function EditDiagram() {
     // Add more images as needed
   ];
 
-  // const [images, setImages] = useState([]);
+
+
 
   useEffect(() => {
     console.log("USE EFFECT");
     console.log("location", location);
     const canvas = new fabric.Canvas('diagram-canvas');
+
+    const fetchDiagram = async () => {
+      try {
+        const response = await axios.get(
+          `http://127.0.0.1:5000/api/diagrams/${diagramId}`
+        );
+        console.log("canvas loading");
+        console.log("response.data.canvas_data", response.data.canvas_data);
+        canvas.loadFromJSON(response.data.canvas_data, canvas.renderAll.bind(canvas));
+      } catch (error) {
+        console.error("Error fetching diagram:", error);
+      }
+    };
+    fetchDiagram();
+
     const parentDiv = document.getElementById('canvas-parent-div');
 
-    const handleSave = () => {
+    const handleSave = async () => {
       console.log("SAVING DIAGRAM");
       const dataURL = canvas.toDataURL({
         format: 'png',
         quality: 1.0
       });
 
-      // navigate(-1, { state: { image: dataURL } });
-
-      console.log("location.state", location.state);
-      if (location.state && location.state.documentId) {
-        navigate(`/documents/${location.state.documentId}`, { state: { image: dataURL } });
+      try {
+        //await axios.post(`http://localhost:5000/api/documents/${documentId}`, {
+        await axios.post(`http://127.0.0.1:5000/api/diagrams/${diagramId}`, {
+          canvas_data: canvas.toJSON(),
+          name: "diagram-name-placeholder",
+        });
+        console.log("location.state", location.state);
+        if (location.state && location.state.documentId) {
+          navigate(`/documents/${location.state.documentId}`, { state: { image: dataURL, diagramId: diagramId } });
+        }
+      } catch (error) {
+        console.error("Error saving document:", error);
       }
       
-
-      // const link = document.createElement('a');
-      // link.href = dataURL;
-      // link.download = 'diagram.png';
-      // link.click();
     }
 
     handleSaveRef.current = handleSave;

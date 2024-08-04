@@ -22,7 +22,7 @@ function App() {
           path="/documents"
           element={<Navigate to={`/documents/${uuidV4()}`} />}
         />
-        <Route path="/edit-diagram" element={<EditDiagram />} />
+        <Route path="/diagrams/:id" element={<EditDiagram />} />
         <Route path="/documents/:id" element={<EditFile />} />
         {/* Add other routes as needed */}
       </Routes>
