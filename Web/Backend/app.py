@@ -21,7 +21,7 @@ with app.app_context():
 
 @app.route('/api/documents/<document_id>', methods=['GET'])
 def get_document(document_id):
-    document = db.session.get(Document, document_id)
+    document = db.session.get(Document, document_id) #the document_id is the primary key
     if document is None:
         return jsonify({"name": "Untitled Document", "content": ""})
     return jsonify({"name": document.name, "content": json.loads(document.content)})
