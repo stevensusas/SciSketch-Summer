@@ -1,0 +1,1301 @@
+Edoardo Pasolli, Francesco Asnicar, Serena Manara, Moreno Zolfo, Nicolai Karcher, Federica Armanini, Francesco Beghini, Paolo Manghi, Adrian Tett, Paolo Ghensi, Maria Carmen Collado, Benjamin L. Rice, Casey DuLong, Xochitl C. Morgan, Christopher D. Golden, Christopher Quince, Curtis Huttenhower, Nicola Segata,
+Extensive Unexplored Human Microbiome Diversity Revealed by Over 150,000 Genomes from Metagenomes Spanning Age, Geography, and Lifestyle,
+Cell,
+Volume 176, Issue 3,
+2019,
+Pages 649-662.e20,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.001.
+(https://www.sciencedirect.com/science/article/pii/S0092867419300017)
+Abstract: Summary
+The body-wide human microbiome plays a role in health, but its full diversity remains uncharacterized, particularly outside of the gut and in international populations. We leveraged 9,428 metagenomes to reconstruct 154,723 microbial genomes (45% of high quality) spanning body sites, ages, countries, and lifestyles. We recapitulated 4,930 species-level genome bins (SGBs), 77% without genomes in public repositories (unknown SGBs [uSGBs]). uSGBs are prevalent (in 93% of well-assembled samples), expand underrepresented phyla, and are enriched in non-Westernized populations (40% of the total SGBs). We annotated 2.85 M genes in SGBs, many associated with conditions including infant development (94,000) or Westernization (106,000). SGBs and uSGBs permit deeper microbiome analyses and increase the average mappability of metagenomic reads from 67.76% to 87.51% in the gut (median 94.26%) and 65.14% to 82.34% in the mouth. We thus identify thousands of microbial genomes from yet-to-be-named species, expand the pangenomes of human-associated microbes, and allow better exploitation of metagenomic technologies.
+Keywords: human microbiome; metagenomics; metagenomic meta-analysis; metagenomic assembly; non-Westernized microbiomes; unexplored microbial diversity; metagenomic mappability
+
+Liqiang Pan, Tian-Min Fu, Wenbin Zhao, Linlin Zhao, Wen Chen, Chixiao Qiu, Wenhui Liu, Zhijun Liu, Alessandro Piai, Qingshan Fu, Shuqing Chen, Hao Wu, James J. Chou,
+Higher-Order Clustering of the Transmembrane Anchor of DR5 Drives Signaling,
+Cell,
+Volume 176, Issue 6,
+2019,
+Pages 1477-1489.e14,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.02.001.
+(https://www.sciencedirect.com/science/article/pii/S0092867419301503)
+Abstract: Summary
+Receptor clustering on the cell membrane is critical in the signaling of many immunoreceptors, and this mechanism has previously been attributed to the extracellular and/or the intracellular interactions. Here, we report an unexpected finding that for death receptor 5 (DR5), a receptor in the tumor necrosis factor receptor superfamily, the transmembrane helix (TMH) alone in the receptor directly assembles a higher-order structure to drive signaling and that this structure is inhibited by the unliganded ectodomain. Nuclear magnetic resonance structure of the TMH in bicelles shows distinct trimerization and dimerization faces, allowing formation of dimer-trimer interaction networks. Single-TMH mutations that disrupt either trimerization or dimerization abolish ligand-induced receptor activation. Surprisingly, proteolytic removal of the DR5 ectodomain can fully activate downstream signaling in the absence of ligand. Our data suggest a receptor activation mechanism in which binding of ligand or antibodies to overcome the pre-ligand autoinhibition allows TMH clustering and thus signaling.
+
+Marc Christian Thier, Oliver Hommerding, Jasper Panten, Roberta Pinna, Diego García-González, Thomas Berger, Philipp Wörsdörfer, Yassen Assenov, Roberta Scognamiglio, Adriana Przybylla, Paul Kaschutnig, Lisa Becker, Michael D. Milsom, Anna Jauch, Jochen Utikal, Carl Herrmann, Hannah Monyer, Frank Edenhofer, Andreas Trumpp,
+Identification of Embryonic Neural Plate Border Stem Cells and Their Generation by Direct Reprogramming from Adult Human Blood Cells,
+Cell Stem Cell,
+Volume 24, Issue 1,
+2019,
+Pages 166-182.e13,
+ISSN 1934-5909,
+https://doi.org/10.1016/j.stem.2018.11.015.
+(https://www.sciencedirect.com/science/article/pii/S1934590918305514)
+Abstract: Summary
+We report the direct reprogramming of both adult human fibroblasts and blood cells into induced neural plate border stem cells (iNBSCs) by ectopic expression of four neural transcription factors. Self-renewing, clonal iNBSCs can be robustly expanded in defined media while retaining multilineage differentiation potential. They generate functional cell types of neural crest and CNS lineages and could be used to model a human pain syndrome via gene editing of SCN9A in iNBSCs. NBSCs can also be derived from human pluripotent stem cells and share functional and molecular features with NBSCs isolated from embryonic day 8.5 (E8.5) mouse neural folds. Single-cell RNA sequencing identified the anterior hindbrain as the origin of mouse NBSCs, with human iNBSCs sharing a similar regional identity. In summary, we identify embryonic NBSCs and report their generation by direct reprogramming in human, which may facilitate insights into neural development and provide a neural stem cell source for applications in regenerative medicine.
+Keywords: iNSC; NSC; neural progenitor; neural plate border; direct conversion; neural crest; neural stem cells; CRISPR; regenerative medicine
+
+Rastislav Horos, Magdalena Büscher, Rozemarijn Kleinendorst, Anne-Marie Alleaume, Abul K. Tarafder, Thomas Schwarzl, Dmytro Dziuba, Christian Tischer, Elisabeth M. Zielonka, Asli Adak, Alfredo Castello, Wolfgang Huber, Carsten Sachse, Matthias W. Hentze,
+The Small Non-coding Vault RNA1-1 Acts as a Riboregulator of Autophagy,
+Cell,
+Volume 176, Issue 5,
+2019,
+Pages 1054-1067.e12,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.030.
+(https://www.sciencedirect.com/science/article/pii/S0092867419300935)
+Abstract: Summary
+Vault RNAs (vtRNA) are small non-coding RNAs transcribed by RNA polymerase III found in many eukaryotes. Although they have been linked to drug resistance, apoptosis, and viral replication, their molecular functions remain unclear. Here, we show that vault RNAs directly bind the autophagy receptor sequestosome-1/p62 in human and murine cells. Overexpression of human vtRNA1-1 inhibits, while its antisense LNA-mediated knockdown enhances p62-dependent autophagy. Starvation of cells reduces the steady-state and p62-bound levels of vault RNA1-1 and induces autophagy. Mechanistically, p62 mutants that fail to bind vtRNAs display increased p62 homo-oligomerization and augmented interaction with autophagic effectors. Thus, vtRNA1-1 directly regulates selective autophagy by binding p62 and interference with oligomerization, a critical step of p62 function. Our data uncover a striking example of the potential of RNA to control protein functions directly, as previously recognized for protein-protein interactions and post-translational modifications.
+Keywords: vault RNA; autophagy; p62; sequestosome-1; vtRNA1-1; vtRNA; starvation; non-coding RNA; SQSTM1
+
+Moritz Mühlhofer, Evi Berchtold, Chris G. Stratil, Gergely Csaba, Elena Kunold, Nina C. Bach, Stephan A. Sieber, Martin Haslbeck, Ralf Zimmer, Johannes Buchner,
+The Heat Shock Response in Yeast Maintains Protein Homeostasis by Chaperoning and Replenishing Proteins,
+Cell Reports,
+Volume 29, Issue 13,
+2019,
+Pages 4593-4607.e8,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.109.
+(https://www.sciencedirect.com/science/article/pii/S2211124719316328)
+Abstract: Summary
+Life is resilient because living systems are able to respond to elevated temperatures with an ancient gene expression program called the heat shock response (HSR). In yeast, the transcription of hundreds of genes is upregulated at stress temperatures. Besides stress protection conferred by chaperones, the function of the majority of the upregulated genes under stress has remained enigmatic. We show that those genes are required to directly counterbalance increased protein turnover at stress temperatures and to maintain the metabolism. This anaplerotic reaction together with molecular chaperones allows yeast to efficiently buffer proteotoxic stress. When the capacity of this system is exhausted at extreme temperatures, aggregation processes stop translation and growth pauses. The emerging concept is that the HSR is modular with distinct programs dependent on the severity of the stress.
+Keywords: heat shock response; protein aggregation; chaperones; transcriptome; translatome; proteome; S. cerevisiae; ribosome profiling; mass spectrometry
+
+Li-Jin Chew, Xiaotian Ming, Brian McEllin, Jeffrey Dupree, Elim Hong, Mackenzie Catron, Melissa Fauveau, Brahim Nait-Oumesmar, Vittorio Gallo,
+Sox17 Regulates a Program of Oligodendrocyte Progenitor Cell Expansion and Differentiation during Development and Repair,
+Cell Reports,
+Volume 29, Issue 10,
+2019,
+Pages 3173-3186.e7,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.10.121.
+(https://www.sciencedirect.com/science/article/pii/S2211124719314548)
+Abstract: Summary
+Sox17, a SoxF family member transiently upregulated during postnatal oligodendrocyte (OL) development, promotes OL cell differentiation, but its function in white matter development and pathology in vivo is unknown. Our analysis of oligodendroglial- and OL-progenitor-cell-targeted ablation in vivo using a floxed Sox17 mouse establishes a dependence of postnatal oligodendrogenesis on Sox17 and reveals Notch signaling as a mediator of Sox17 function. Following Sox17 ablation, reduced numbers of Olig2-expressing cells and mature OLs led to developmental hypomyelination and motor dysfunction. After demyelination, Sox17 deficiency inhibited OL regeneration. OL decline was unexpectedly preceded by transiently increased differentiation and a reduction of OL progenitor cells. Evidence of a dual role for Sox17 in progenitor cell expansion by Notch and differentiation involving TCF7L2 expression were found. A program of progenitor expansion and differentiation promoted by Sox17 through Notch thus contributes to OL production and determines the outcome of white matter repair.
+Keywords: Oligodendrocyte Progenitor Cell; Oligodendrocyte; Sox17; TCF7L2; Notch; Olig2; Proliferation; Differentiation; myelination; regeneration
+
+Jun Xia, Li-Ya Chiu, Ralf B. Nehring, María Angélica Bravo Núñez, Qian Mei, Mercedes Perez, Yin Zhai, Devon M. Fitzgerald, John P. Pribis, Yumeng Wang, Chenyue W. Hu, Reid T. Powell, Sandra A. LaBonte, Ali Jalali, Meztli L. Matadamas Guzmán, Alfred M. Lentzsch, Adam T. Szafran, Mohan C. Joshi, Megan Richters, Janet L. Gibson, Ryan L. Frisch, P.J. Hastings, David Bates, Christine Queitsch, Susan G. Hilsenbeck, Cristian Coarfa, James C. Hu, Deborah A. Siegele, Kenneth L. Scott, Han Liang, Michael A. Mancini, Christophe Herman, Kyle M. Miller, Susan M. Rosenberg,
+Bacteria-to-Human Protein Networks Reveal Origins of Endogenous DNA Damage,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 127-143.e24,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.008.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316222)
+Abstract: Summary
+DNA damage provokes mutations and cancer and results from external carcinogens or endogenous cellular processes. However, the intrinsic instigators of endogenous DNA damage are poorly understood. Here, we identify proteins that promote endogenous DNA damage when overproduced: the DNA “damage-up” proteins (DDPs). We discover a large network of DDPs in Escherichia coli and deconvolute them into six function clusters, demonstrating DDP mechanisms in three: reactive oxygen increase by transmembrane transporters, chromosome loss by replisome binding, and replication stalling by transcription factors. Their 284 human homologs are over-represented among known cancer drivers, and their RNAs in tumors predict heavy mutagenesis and a poor prognosis. Half of the tested human homologs promote DNA damage and mutation when overproduced in human cells, with DNA damage-elevating mechanisms like those in E. coli. Our work identifies networks of DDPs that provoke endogenous DNA damage and may reveal DNA damage-associated functions of many human known and newly implicated cancer-promoting proteins.
+Keywords: cancer; DNA damage response; DNA double-strand breaks; Escherichia coli; evolution; genome instability; human cells; microbial cancer models; replication fork reversal; DNMT1
+
+Raviv Pryluk, Yoav Kfir, Hagar Gelbard-Sagiv, Itzhak Fried, Rony Paz,
+A Tradeoff in the Neural Code across Regions and Species,
+Cell,
+Volume 176, Issue 3,
+2019,
+Pages 597-609.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.032.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316465)
+Abstract: Summary
+Many evolutionary years separate humans and macaques, and although the amygdala and cingulate cortex evolved to enable emotion and cognition in both, an evident functional gap exists. Although they were traditionally attributed to differential neuroanatomy, functional differences might also arise from coding mechanisms. Here we find that human neurons better utilize information capacity (efficient coding) than macaque neurons in both regions, and that cingulate neurons are more efficient than amygdala neurons in both species. In contrast, we find more overlap in the neural vocabulary and more synchronized activity (robustness coding) in monkeys in both regions and in the amygdala of both species. Our findings demonstrate a tradeoff between robustness and efficiency across species and regions. We suggest that this tradeoff can contribute to differential cognitive functions between species and underlie the complementary roles of the amygdala and the cingulate cortex. In turn, it can contribute to fragility underlying human psychopathologies.
+Keywords: amygdala; cingulate-cortex; neural code; primates; evolution; anxiety/mood disorders; cognition; efficiency; robustness
+
+Yi-Rong Peng, Karthik Shekhar, Wenjun Yan, Dustin Herrmann, Anna Sappington, Gregory S. Bryman, Tavé van Zyl, Michael Tri. H. Do, Aviv Regev, Joshua R. Sanes,
+Molecular Classification and Comparative Taxonomics of Foveal and Peripheral Cells in Primate Retina,
+Cell,
+Volume 176, Issue 5,
+2019,
+Pages 1222-1237.e22,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.004.
+(https://www.sciencedirect.com/science/article/pii/S0092867419300376)
+Abstract: Summary
+High-acuity vision in primates, including humans, is mediated by a small central retinal region called the fovea. As more accessible organisms lack a fovea, its specialized function and its dysfunction in ocular diseases remain poorly understood. We used 165,000 single-cell RNA-seq profiles to generate comprehensive cellular taxonomies of macaque fovea and peripheral retina. More than 80% of >60 cell types match between the two regions but exhibit substantial differences in proportions and gene expression, some of which we relate to functional differences. Comparison of macaque retinal types with those of mice reveals that interneuron types are tightly conserved. In contrast, projection neuron types and programs diverge, despite exhibiting conserved transcription factor codes. Key macaque types are conserved in humans, allowing mapping of cell-type and region-specific expression of >190 genes associated with 7 human retinal diseases. Our work provides a framework for comparative single-cell analysis across tissue regions and species.
+
+Nicolas J. Lehrbach, Peter C. Breen, Gary Ruvkun,
+Protein Sequence Editing of SKN-1A/Nrf1 by Peptide:N-Glycanase Controls Proteasome Gene Expression,
+Cell,
+Volume 177, Issue 3,
+2019,
+Pages 737-750.e15,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.03.035.
+(https://www.sciencedirect.com/science/article/pii/S0092867419303368)
+Abstract: Summary
+The proteasome mediates selective protein degradation and is dynamically regulated in response to proteotoxic challenges. SKN-1A/Nrf1, an endoplasmic reticulum (ER)-associated transcription factor that undergoes N-linked glycosylation, serves as a sensor of proteasome dysfunction and triggers compensatory upregulation of proteasome subunit genes. Here, we show that the PNG-1/NGLY1 peptide:N-glycanase edits the sequence of SKN-1A protein by converting particular N-glycosylated asparagine residues to aspartic acid. Genetically introducing aspartates at these N-glycosylation sites bypasses the requirement for PNG-1/NGLY1, showing that protein sequence editing rather than deglycosylation is key to SKN-1A function. This pathway is required to maintain sufficient proteasome expression and activity, and SKN-1A hyperactivation confers resistance to the proteotoxicity of human amyloid beta peptide. Deglycosylation-dependent protein sequence editing explains how ER-associated and cytosolic isoforms of SKN-1 perform distinct cytoprotective functions corresponding to those of mammalian Nrf1 and Nrf2. Thus, we uncover an unexpected mechanism by which N-linked glycosylation regulates protein function and proteostasis.
+Keywords: SKN-1; SKN-1A; Nrf1; Nrf2; NFE2L1; NFE2L2; PNG-1; NGLY1; peptide:N-glycanase; PNGase; NGLY1 deficiency; neurodegenerative diseases; bortezomib; proteasome; proteostasis; protein sequence editing; deglycosylation; glycobiology; N-linked glycosylation; protein quality control
+
+Peng Xia, Daniel Gütl, Vanessa Zheden, Carl-Philipp Heisenberg,
+Lateral Inhibition in Cell Specification Mediated by Mechanical Signals Modulating TAZ Activity,
+Cell,
+Volume 176, Issue 6,
+2019,
+Pages 1379-1392.e14,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.019.
+(https://www.sciencedirect.com/science/article/pii/S0092867419300522)
+Abstract: Summary
+Cell fate specification by lateral inhibition typically involves contact signaling through the Delta-Notch signaling pathway. However, whether this is the only signaling mode mediating lateral inhibition remains unclear. Here we show that in zebrafish oogenesis, a group of cells within the granulosa cell layer at the oocyte animal pole acquire elevated levels of the transcriptional coactivator TAZ in their nuclei. One of these cells, the future micropyle precursor cell (MPC), accumulates increasingly high levels of nuclear TAZ and grows faster than its surrounding cells, mechanically compressing those cells, which ultimately lose TAZ from their nuclei. Strikingly, relieving neighbor-cell compression by MPC ablation or aspiration restores nuclear TAZ accumulation in neighboring cells, eventually leading to MPC re-specification from these cells. Conversely, MPC specification is defective in taz−/− follicles. These findings uncover a novel mode of lateral inhibition in cell fate specification based on mechanical signals controlling TAZ activity.
+Keywords: morphogenesis; cell fate specification; lateral inhibition; YAP/TAZ; oogenesis; zebrafish
+
+Javier Gallego-Bartolomé, Wanlu Liu, Peggy Hsuanyu Kuo, Suhua Feng, Basudev Ghoshal, Jason Gardiner, Jenny Miao-Chi Zhao, Soo Young Park, Joanne Chory, Steven E. Jacobsen,
+Co-targeting RNA Polymerases IV and V Promotes Efficient De Novo DNA Methylation in Arabidopsis,
+Cell,
+Volume 176, Issue 5,
+2019,
+Pages 1068-1082.e19,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.029.
+(https://www.sciencedirect.com/science/article/pii/S0092867419300923)
+Abstract: Summary
+The RNA-directed DNA methylation (RdDM) pathway in plants controls gene expression via cytosine DNA methylation. The ability to manipulate RdDM would shed light on the mechanisms and applications of DNA methylation to control gene expression. Here, we identified diverse RdDM proteins that are capable of targeting methylation and silencing in Arabidopsis when tethered to an artificial zinc finger (ZF-RdDM). We studied their order of action within the RdDM pathway by testing their ability to target methylation in different mutants. We also evaluated ectopic siRNA biogenesis, RNA polymerase V (Pol V) recruitment, targeted DNA methylation, and gene-expression changes at thousands of ZF-RdDM targets. We found that co-targeting both arms of the RdDM pathway, siRNA biogenesis and Pol V recruitment, dramatically enhanced targeted methylation. This work defines how RdDM components establish DNA methylation and enables new strategies for epigenetic gene regulation via targeted DNA methylation.
+
+Mariela D. Petkova, Gašper Tkačik, William Bialek, Eric F. Wieschaus, Thomas Gregor,
+Optimal Decoding of Cellular Identities in a Genetic Network,
+Cell,
+Volume 176, Issue 4,
+2019,
+Pages 844-855.e15,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.007.
+(https://www.sciencedirect.com/science/article/pii/S0092867419300406)
+Abstract: Summary
+In developing organisms, spatially prescribed cell identities are thought to be determined by the expression levels of multiple genes. Quantitative tests of this idea, however, require a theoretical framework capable of exposing the rules and precision of cell specification over developmental time. We use the gap gene network in the early fly embryo as an example to show how expression levels of the four gap genes can be jointly decoded into an optimal specification of position with 1% accuracy. The decoder correctly predicts, with no free parameters, the dynamics of pair-rule expression patterns at different developmental time points and in various mutant backgrounds. Precise cellular identities are thus available at the earliest stages of development, contrasting the prevailing view of positional information being slowly refined across successive layers of the patterning network. Our results suggest that developmental enhancers closely approximate a mathematically optimal decoding strategy.
+Keywords: genetic networks; optimality; developmental precision; embryonic patterning; cell specification; cell fate; quantitative imaging; Drosophila
+
+Carlos R. Ponce, Will Xiao, Peter F. Schade, Till S. Hartmann, Gabriel Kreiman, Margaret S. Livingstone,
+Evolving Images for Visual Neurons Using a Deep Generative Network Reveals Coding Principles and Neuronal Preferences,
+Cell,
+Volume 177, Issue 4,
+2019,
+Pages 999-1009.e10,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.04.005.
+(https://www.sciencedirect.com/science/article/pii/S0092867419303915)
+Abstract: Summary
+What specific features should visual neurons encode, given the infinity of real-world images and the limited number of neurons available to represent them? We investigated neuronal selectivity in monkey inferotemporal cortex via the vast hypothesis space of a generative deep neural network, avoiding assumptions about features or semantic categories. A genetic algorithm searched this space for stimuli that maximized neuronal firing. This led to the evolution of rich synthetic images of objects with complex combinations of shapes, colors, and textures, sometimes resembling animals or familiar people, other times revealing novel patterns that did not map to any clear semantic category. These results expand our conception of the dictionary of features encoded in the cortex, and the approach can potentially reveal the internal representations of any system whose input can be captured by a generative model.
+Keywords: neural networks; inferotemporal cortex; generative adversarial network
+
+Patrick L. Collins, Marina Cella, Sofia I. Porter, Shasha Li, Greer L. Gurewitz, Henoch S. Hong, R. Paul Johnson, Eugene M. Oltz, Marco Colonna,
+Gene Regulatory Programs Conferring Phenotypic Identities to Human NK Cells,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 348-360.e12,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.045.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315708)
+Abstract: Summary
+Natural killer (NK) cells develop from common progenitors but diverge into distinct subsets, which differ in cytokine production, cytotoxicity, homing, and memory traits. Given their promise in adoptive cell therapies for cancer, a deeper understanding of regulatory modules controlling clinically beneficial NK phenotypes is of high priority. We report integrated “-omics” analysis of human NK subsets, which revealed super-enhancers associated with gene cohorts that may coordinate NK functions and localization. A transcription factor-based regulatory scheme also emerged, which is evolutionarily conserved and shared by innate and adaptive lymphocytes. For both NK and T lineages, a TCF1-LEF1-MYC axis dominated the regulatory landscape of long-lived, proliferative subsets that traffic to lymph nodes. In contrast, effector populations circulating between blood and peripheral tissues shared a PRDM1-dominant landscape. This resource defines transcriptional modules, regulated by feedback loops, which may be leveraged to enhance phenotypes for NK cell-based therapies.
+
+Liisa Andersen, Alexandra Franziska Gülich, Marlis Alteneder, Teresa Preglej, Maria Jonah Orola, Narendra Dhele, Valentina Stolz, Alexandra Schebesta, Patricia Hamminger, Anastasiya Hladik, Stefan Floess, Thomas Krausgruber, Thomas Faux, Syed Bilal Ahmad Andrabi, Jochen Huehn, Sylvia Knapp, Tim Sparwasser, Christoph Bock, Asta Laiho, Laura L. Elo, Omid Rasool, Riitta Lahesmaa, Shinya Sakaguchi, Wilfried Ellmeier,
+The Transcription Factor MAZR/PATZ1 Regulates the Development of FOXP3+ Regulatory T Cells,
+Cell Reports,
+Volume 29, Issue 13,
+2019,
+Pages 4447-4459.e6,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.089.
+(https://www.sciencedirect.com/science/article/pii/S2211124719315876)
+Abstract: Summary
+Forkhead box protein P3+ (FOXP3+) regulatory T cells (Treg cells) play a key role in maintaining tolerance and immune homeostasis. Here, we report that a T cell-specific deletion of the transcription factor MAZR (also known as PATZ1) leads to an increased frequency of Treg cells, while enforced MAZR expression impairs Treg cell differentiation. Further, MAZR expression levels are progressively downregulated during thymic Treg cell development and during in-vitro-induced human Treg cell differentiation, suggesting that MAZR protein levels are critical for controlling Treg cell development. However, MAZR-deficient Treg cells show only minor transcriptional changes ex vivo, indicating that MAZR is not essential for establishing the transcriptional program of peripheral Treg cells. Finally, the loss of MAZR reduces the clinical score in dextran-sodium sulfate (DSS)-induced colitis, suggesting that MAZR activity in T cells controls the extent of intestinal inflammation. Together, these data indicate that MAZR is part of a Treg cell-intrinsic transcriptional network that modulates Treg cell development.
+Keywords: MAZR; PATZ1; FOXP3; regulatory T cells; Treg; DSS-induced colitis
+
+Yongguo Li, Petra C. Schwalie, Andrea Bast-Habersbrunner, Sabine Mocek, Julie Russeil, Tobias Fromme, Bart Deplancke, Martin Klingenspor,
+Systems-Genetics-Based Inference of a Core Regulatory Network Underlying White Fat Browning,
+Cell Reports,
+Volume 29, Issue 12,
+2019,
+Pages 4099-4113.e5,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.053.
+(https://www.sciencedirect.com/science/article/pii/S2211124719315359)
+Abstract: Summary
+Recruitment of brite/beige cells, known as browning of white adipose tissue (WAT), is an efficient way to turn an energy-storing organ into an energy-dissipating one and may therefore be of therapeutic value in combating obesity. However, a comprehensive understanding of the regulatory mechanisms mediating WAT browning is still lacking. Here, we exploit the large natural variation in WAT browning propensity between inbred mouse strains to gain an inclusive view of the core regulatory network coordinating this cellular process. Combining comparative transcriptomics, perturbation-based validations, and gene network analyses, we present a comprehensive gene regulatory network of inguinal WAT browning, revealing up to four distinct regulatory modules with key roles for uncovered transcriptional factors, while also providing deep insights into the genetic architecture of brite adipogenesis. The presented findings therefore greatly increase our understanding of the molecular drivers mediating the intriguing cellular heterogeneity and plasticity of adipose tissue.
+Keywords: UCP1; browning, thermogenesis; inbred mouse strains; molecular network; brite/beige adipogenesis; adipose tissue; obesity; transcription factor
+
+Minhee Park, Nikit Patel, Albert J. Keung, Ahmad S. Khalil,
+Engineering Epigenetic Regulation Using Synthetic Read-Write Modules,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 227-238.e20,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.002.
+(https://www.sciencedirect.com/science/article/pii/S0092867418314612)
+Abstract: Summary
+Chemical modifications to DNA and histone proteins are involved in epigenetic programs underlying cellular differentiation and development. Regulatory networks involving molecular writers and readers of chromatin marks are thought to control these programs. Guided by this common principle, we established an orthogonal epigenetic regulatory system in mammalian cells using N6-methyladenine (m6A), a DNA modification not commonly found in metazoan epigenomes. Our system utilizes synthetic factors that write and read m6A and consequently recruit transcriptional regulators to control reporter loci. Inspired by models of chromatin spreading and epigenetic inheritance, we used our system and mathematical models to construct regulatory circuits that induce m6A-dependent transcriptional states, promote their spatial propagation, and maintain epigenetic memory of the states. These minimal circuits were able to program epigenetic functions de novo, conceptually validating “read-write” architectures. This work provides a toolkit for investigating models of epigenetic regulation and encoding additional layers of epigenetic information in cells.
+Keywords: synthetic biology; epigenetics; chromatin; DNA methylation; N6-methyladenine; epigenetic memory; read-write; gene regulation; cell engineering
+
+Guangyun Tan, Zhaohong Yi, Hongxiao Song, Fengchao Xu, Feng Li, Roghiyh Aliyari, Hong Zhang, Peishuang Du, Yanhua Ding, Junqi Niu, Xiaosong Wang, Lishan Su, F. Xiao-Feng Qin, Genhong Cheng,
+Type-I-IFN-Stimulated Gene TRIM5γ Inhibits HBV Replication by Promoting HBx Degradation,
+Cell Reports,
+Volume 29, Issue 11,
+2019,
+Pages 3551-3563.e3,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.041.
+(https://www.sciencedirect.com/science/article/pii/S2211124719315232)
+Abstract: Summary
+To understand the molecular mechanisms that mediate the anti-hepatitis B virus (HBV) effect of interferon (IFN) therapy, we conduct high-throughput bimolecular fluorescence complementation screening to identify potential physical interactions between the HBx protein and 145 IFN-stimulated genes (ISGs). Seven HBx-interacting ISGs have consistent and significant inhibitory effects on HBV replication, among which TRIM5γ suppresses HBV replication by promoting K48-linked ubiquitination and degradation of the HBx protein on the K95 ubiquitin site. The B-Box domain of TRIM5γ under overexpression conditions is sufficient to trigger HBx degradation and is responsible both for interacting with HBx and recruiting TRIM31, which is an ubiquitin ligase that triggers HBx ubiquitination. High expression levels of TRIM5γ in IFN-α-treated HBV patients might indicate a better therapeutic effect. Thus, our studies identify a crucial role for TRIM5γ and TRIM31 in promoting HBx degradation, which may facilitate the development of therapeutic agents for the treatment of patients with IFN-resistant HBV infection.
+Keywords: type I IFN; HBV; HBx; TRIM5γ; TRIM31
+
+Adam J. Rubin, Kevin R. Parker, Ansuman T. Satpathy, Yanyan Qi, Beijing Wu, Alvin J. Ong, Maxwell R. Mumbach, Andrew L. Ji, Daniel S. Kim, Seung Woo Cho, Brian J. Zarnegar, William J. Greenleaf, Howard Y. Chang, Paul A. Khavari,
+Coupled Single-Cell CRISPR Screening and Epigenomic Profiling Reveals Causal Gene Regulatory Networks,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 361-376.e17,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.022.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315149)
+Abstract: Summary
+Here, we present Perturb-ATAC, a method that combines multiplexed CRISPR interference or knockout with genome-wide chromatin accessibility profiling in single cells based on the simultaneous detection of CRISPR guide RNAs and open chromatin sites by assay of transposase-accessible chromatin with sequencing (ATAC-seq). We applied Perturb-ATAC to transcription factors (TFs), chromatin-modifying factors, and noncoding RNAs (ncRNAs) in ∼4,300 single cells, encompassing more than 63 genotype-phenotype relationships. Perturb-ATAC in human B lymphocytes uncovered regulators of chromatin accessibility, TF occupancy, and nucleosome positioning and identified a hierarchy of TFs that govern B cell state, variation, and disease-associated cis-regulatory elements. Perturb-ATAC in primary human epidermal cells revealed three sequential modules of cis-elements that specify keratinocyte fate. Combinatorial deletion of all pairs of these TFs uncovered their epistatic relationships and highlighted genomic co-localization as a basis for synergistic interactions. Thus, Perturb-ATAC is a powerful strategy to dissect gene regulatory networks in development and disease.
+Keywords: single-cell genomics; CRISPR; pooled screens; epigenomics; ATAC-seq; chromatin accessibility
+
+Yu-San Yang, Masato Kato, Xi Wu, Athanasios Litsios, Benjamin M. Sutter, Yun Wang, Chien-Hsiang Hsu, N. Ezgi Wood, Andrew Lemoff, Hamid Mirzaei, Matthias Heinemann, Benjamin P. Tu,
+Yeast Ataxin-2 Forms an Intracellular Condensate Required for the Inhibition of TORC1 Signaling during Respiratory Growth,
+Cell,
+Volume 177, Issue 3,
+2019,
+Pages 697-710.e17,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.02.043.
+(https://www.sciencedirect.com/science/article/pii/S0092867419302260)
+Abstract: Summary
+Yeast ataxin-2, also known as Pbp1 (polyA binding protein-binding protein 1), is an intrinsically disordered protein implicated in stress granule formation, RNA biology, and neurodegenerative disease. To understand the endogenous function of this protein, we identify Pbp1 as a dedicated regulator of TORC1 signaling and autophagy under conditions that require mitochondrial respiration. Pbp1 binds to TORC1 specifically during respiratory growth, but utilizes an additional methionine-rich, low complexity (LC) region to inhibit TORC1. This LC region causes phase separation, forms reversible fibrils, and enables self-association into assemblies required for TORC1 inhibition. Mutants that weaken phase separation in vitro exhibit reduced capacity to inhibit TORC1 and induce autophagy. Loss of Pbp1 leads to mitochondrial dysfunction and reduced fitness during nutritional stress. Thus, Pbp1 forms a condensate in response to respiratory status to regulate TORC1 signaling.
+Keywords: Pbp1; Ataxin-2; TORC1; Autophagy; mitochondria; respiration; Low-complexity sequence; phase separation; cross-β; polymer; gel
+
+Jan Jakub Żylicz, Aurélie Bousard, Kristina Žumer, Francois Dossin, Eusra Mohammad, Simão Teixeira da Rocha, Björn Schwalb, Laurène Syx, Florent Dingli, Damarys Loew, Patrick Cramer, Edith Heard,
+The Implication of Early Chromatin Changes in X Chromosome Inactivation,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 182-197.e23,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.041.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315666)
+Abstract: Summary
+During development, the precise relationships between transcription and chromatin modifications often remain unclear. We use the X chromosome inactivation (XCI) paradigm to explore the implication of chromatin changes in gene silencing. Using female mouse embryonic stem cells, we initiate XCI by inducing Xist and then monitor the temporal changes in transcription and chromatin by allele-specific profiling. This reveals histone deacetylation and H2AK119 ubiquitination as the earliest chromatin alterations during XCI. We show that HDAC3 is pre-bound on the X chromosome and that, upon Xist coating, its activity is required for efficient gene silencing. We also reveal that first PRC1-associated H2AK119Ub and then PRC2-associated H3K27me3 accumulate initially at large intergenic domains that can then spread into genes only in the context of histone deacetylation and gene silencing. Our results reveal the hierarchy of chromatin events during the initiation of XCI and identify key roles for chromatin in the early steps of transcriptional silencing.
+Keywords: epigenetics; X chromosome inactivation; embryonic stem cells; Xist; histone deacetylase; histone acetylation; Polycomb; PRC1; PRC2
+
+Jared A.M. Bard, Charlene Bashore, Ken C. Dong, Andreas Martin,
+The 26S Proteasome Utilizes a Kinetic Gateway to Prioritize Substrate Degradation,
+Cell,
+Volume 177, Issue 2,
+2019,
+Pages 286-298.e15,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.02.031.
+(https://www.sciencedirect.com/science/article/pii/S0092867419302144)
+Abstract: Summary
+The 26S proteasome is the principal macromolecular machine responsible for protein degradation in eukaryotes. However, little is known about the detailed kinetics and coordination of the underlying substrate-processing steps of the proteasome, and their correlation with observed conformational states. Here, we used reconstituted 26S proteasomes with unnatural amino-acid-attached fluorophores in a series of FRET- and anisotropy-based assays to probe substrate-proteasome interactions, the individual steps of the processing pathway, and the conformational state of the proteasome itself. We develop a complete kinetic picture of proteasomal degradation, which reveals that the engagement steps prior to substrate commitment are fast relative to subsequent deubiquitination, translocation, and unfolding. Furthermore, we find that non-ideal substrates are rapidly rejected by the proteasome, which thus employs a kinetic proofreading mechanism to ensure degradation fidelity and substrate prioritization.
+Keywords: 26S proteasome; ubiquitin-proteasome system; AAA+ protease; ATP-dependent protein degradation; unnatural amino-acid incorporation
+
+Khushboo Borah, Martin Beyß, Axel Theorell, Huihai Wu, Piyali Basu, Tom A. Mendum, Katharina Nӧh, Dany J.V. Beste, Johnjoe McFadden,
+Intracellular Mycobacterium tuberculosis Exploits Multiple Host Nitrogen Sources during Growth in Human Macrophages,
+Cell Reports,
+Volume 29, Issue 11,
+2019,
+Pages 3580-3591.e4,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.037.
+(https://www.sciencedirect.com/science/article/pii/S2211124719315190)
+Abstract: Summary
+Nitrogen metabolism of Mycobacterium tuberculosis (Mtb) is crucial for the survival of this important pathogen in its primary human host cell, the macrophage, but little is known about the source(s) and their assimilation within this intracellular niche. Here, we have developed 15N-flux spectral ratio analysis (15N-FSRA) to explore Mtb’s nitrogen metabolism; we demonstrate that intracellular Mtb has access to multiple amino acids in the macrophage, including glutamate, glutamine, aspartate, alanine, glycine, and valine; and we identify glutamine as the predominant nitrogen donor. Each nitrogen source is uniquely assimilated into specific amino acid pools, indicating compartmentalized metabolism during intracellular growth. We have discovered that serine is not available to intracellular Mtb, and we show that a serine auxotroph is attenuated in macrophages. This work provides a systems-based tool for exploring the nitrogen metabolism of intracellular pathogens and highlights the enzyme phosphoserine transaminase as an attractive target for the development of novel anti-tuberculosis therapies.
+Keywords: Mycobacterium tuberculosis; tuberculosis; host macrophages; intracellular pathogen; nitrogen metabolism; systems biology; isotopic labeling; flux analysis; host metabolism; amino acid
+
+Jun Wang, Miguel F. Sanmamed, Ila Datar, Tina Tianjiao Su, Lan Ji, Jingwei Sun, Ling Chen, Yusheng Chen, Gefeng Zhu, Weiwei Yin, Linghua Zheng, Ting Zhou, Ti Badri, Sheng Yao, Shu Zhu, Agedi Boto, Mario Sznol, Ignacio Melero, Dario A.A. Vignali, Kurt Schalper, Lieping Chen,
+Fibrinogen-like Protein 1 Is a Major Immune Inhibitory Ligand of LAG-3,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 334-347.e12,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.010.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315022)
+Abstract: Summary
+Lymphocyte-activation gene 3 (LAG-3) is an immune inhibitory receptor, with major histocompatibility complex class II (MHC-II) as a canonical ligand. However, it remains controversial whether MHC-II is solely responsible for the inhibitory function of LAG-3. Here, we demonstrate that fibrinogen-like protein 1 (FGL1), a liver-secreted protein, is a major LAG-3 functional ligand independent from MHC-II. FGL1 inhibits antigen-specific T cell activation, and ablation of FGL1 in mice promotes T cell immunity. Blockade of the FGL1-LAG-3 interaction by monoclonal antibodies stimulates tumor immunity and is therapeutic against established mouse tumors in a receptor-ligand inter-dependent manner. FGL1 is highly produced by human cancer cells, and elevated FGL1 in the plasma of cancer patients is associated with a poor prognosis and resistance to anti-PD-1/B7-H1 therapy. Our findings reveal an immune evasion mechanism and have implications for the design of cancer immunotherapy.
+Keywords: cancer; immunology; immunotherapy; tumor immune-evasion mechanism; LAG-3; FGL1
+
+Bing Zhang, Jun Li, Xiaolin Yang, Lijie Wu, Jia Zhang, Yang Yang, Yao Zhao, Lu Zhang, Xiuna Yang, Xiaobao Yang, Xi Cheng, Zhijie Liu, Biao Jiang, Hualiang Jiang, Luke W. Guddat, Haitao Yang, Zihe Rao,
+Crystal Structures of Membrane Transporter MmpL3, an Anti-TB Drug Target,
+Cell,
+Volume 176, Issue 3,
+2019,
+Pages 636-648.e13,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.003.
+(https://www.sciencedirect.com/science/article/pii/S0092867419300364)
+Abstract: Summary
+Despite intensive efforts to discover highly effective treatments to eradicate tuberculosis (TB), it remains as a major threat to global human health. For this reason, new TB drugs directed toward new targets are highly coveted. MmpLs (Mycobacterial membrane proteins Large), which play crucial roles in transporting lipids, polymers and immunomodulators and which also extrude therapeutic drugs, are among the most important therapeutic drug targets to emerge in recent times. Here, crystal structures of mycobacterial MmpL3 alone and in complex with four TB drug candidates, including SQ109 (in Phase 2b-3 clinical trials), are reported. MmpL3 consists of a periplasmic pore domain and a twelve-helix transmembrane domain. Two Asp-Tyr pairs centrally located in this domain appear to be key facilitators of proton-translocation. SQ109, AU1235, ICA38, and rimonabant bind inside the transmembrane region and disrupt these Asp-Tyr pairs. This structural data will greatly advance the development of MmpL3 inhibitors as new TB drugs.
+
+Josh N. Vo, Marcin Cieslik, Yajia Zhang, Sudhanshu Shukla, Lanbo Xiao, Yuping Zhang, Yi-Mi Wu, Saravana M. Dhanasekaran, Carl G. Engelke, Xuhong Cao, Dan R. Robinson, Alexey I. Nesvizhskii, Arul M. Chinnaiyan,
+The Landscape of Circular RNA in Cancer,
+Cell,
+Volume 176, Issue 4,
+2019,
+Pages 869-881.e13,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.021.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316350)
+Abstract: Summary
+Circular RNAs (circRNAs) are an intriguing class of RNA due to their covalently closed structure, high stability, and implicated roles in gene regulation. Here, we used an exome capture RNA sequencing protocol to detect and characterize circRNAs across >2,000 cancer samples. When compared against Ribo-Zero and RNase R, capture sequencing significantly enhanced the enrichment of circRNAs and preserved accurate circular-to-linear ratios. Using capture sequencing, we built the most comprehensive catalog of circRNA species to date: MiOncoCirc, the first database to be composed primarily of circRNAs directly detected in tumor tissues. Using MiOncoCirc, we identified candidate circRNAs to serve as biomarkers for prostate cancer and were able to detect circRNAs in urine. We further detected a novel class of circular transcripts, termed read-through circRNAs, that involved exons originating from different genes. MiOncoCirc will serve as a valuable resource for the development of circRNAs as diagnostic or therapeutic targets across cancer types.
+Keywords: circRNA; exome capture sequencing; biomarkers; cancer; read-through transcripts; non-coding RNA; circRNA database
+
+Erin M. Gibson, Surya Nagaraja, Alfonso Ocampo, Lydia T. Tam, Lauren S. Wood, Praveen N. Pallegar, Jacob J. Greene, Anna C. Geraghty, Andrea K. Goldstein, Lijun Ni, Pamelyn J. Woo, Ben A. Barres, Shane Liddelow, Hannes Vogel, Michelle Monje,
+Methotrexate Chemotherapy Induces Persistent Tri-glial Dysregulation that Underlies Chemotherapy-Related Cognitive Impairment,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 43-55.e13,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.10.049.
+(https://www.sciencedirect.com/science/article/pii/S0092867418314053)
+Abstract: Summary
+Chemotherapy results in a frequent yet poorly understood syndrome of long-term neurological deficits. Neural precursor cell dysfunction and white matter dysfunction are thought to contribute to this debilitating syndrome. Here, we demonstrate persistent depletion of oligodendrocyte lineage cells in humans who received chemotherapy. Developing a mouse model of methotrexate chemotherapy-induced neurological dysfunction, we find a similar depletion of white matter OPCs, increased but incomplete OPC differentiation, and a persistent deficit in myelination. OPCs from chemotherapy-naive mice similarly exhibit increased differentiation when transplanted into the microenvironment of previously methotrexate-exposed brains, indicating an underlying microenvironmental perturbation. Methotrexate results in persistent activation of microglia and subsequent astrocyte activation that is dependent on inflammatory microglia. Microglial depletion normalizes oligodendroglial lineage dynamics, myelin microstructure, and cognitive behavior after methotrexate chemotherapy. These findings indicate that methotrexate chemotherapy exposure is associated with persistent tri-glial dysregulation and identify inflammatory microglia as a therapeutic target to abrogate chemotherapy-related cognitive impairment.
+Video Abstract
+
+Keywords: chemotherapy; chemobrain; chemotherapy-related cognitive impairment; OPC; oligodendrocyte; myelin; astrocyte; microglia
+
+Gabriel E. Neurohr, Rachel L. Terry, Jette Lengefeld, Megan Bonney, Gregory P. Brittingham, Fabien Moretto, Teemu P. Miettinen, Laura Pontano Vaites, Luis M. Soares, Joao A. Paulo, J. Wade Harper, Stephen Buratowski, Scott Manalis, Folkert J. van Werven, Liam J. Holt, Angelika Amon,
+Excessive Cell Growth Causes Cytoplasm Dilution And Contributes to Senescence,
+Cell,
+Volume 176, Issue 5,
+2019,
+Pages 1083-1097.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.018.
+(https://www.sciencedirect.com/science/article/pii/S0092867419300510)
+Abstract: Summary
+Cell size varies greatly between cell types, yet within a specific cell type and growth condition, cell size is narrowly distributed. Why maintenance of a cell-type specific cell size is important remains poorly understood. Here we show that growing budding yeast and primary mammalian cells beyond a certain size impairs gene induction, cell-cycle progression, and cell signaling. These defects are due to the inability of large cells to scale nucleic acid and protein biosynthesis in accordance with cell volume increase, which effectively leads to cytoplasm dilution. We further show that loss of scaling beyond a certain critical size is due to DNA becoming limiting. Based on the observation that senescent cells are large and exhibit many of the phenotypes of large cells, we propose that the range of DNA:cytoplasm ratio that supports optimal cell function is limited and that ratios outside these bounds contribute to aging.
+
+Natalie Romanov, Michael Kuhn, Ruedi Aebersold, Alessandro Ori, Martin Beck, Peer Bork,
+Disentangling Genetic and Environmental Effects on the Proteotypes of Individuals,
+Cell,
+Volume 177, Issue 5,
+2019,
+Pages 1308-1318.e10,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.03.015.
+(https://www.sciencedirect.com/science/article/pii/S0092867419302776)
+Abstract: Summary
+Proteotypes, like genotypes, have been found to vary between individuals in several studies, but consistent molecular functional traits across studies remain to be quantified. In a meta-analysis of 11 proteomics datasets from humans and mice, we use co-variation of proteins in known functional modules across datasets and individuals to obtain a consensus landscape of proteotype variation. We find that individuals differ considerably in both protein complex abundances and stoichiometry. We disentangle genetic and environmental factors impacting these metrics, with genetic sex and specific diets together explaining 13.5% and 11.6% of the observed variation of complex abundance and stoichiometry, respectively. Sex-specific differences, for example, include various proteins and complexes, where the respective genes are not located on sex-specific chromosomes. Diet-specific differences, added to the individual genetic backgrounds, might become a starting point for personalized proteotype modulation toward desired features.
+
+Yan Wang, Nam X. Nguyen, Ji She, Weizhong Zeng, Yi Yang, Xiao-chen Bai, Youxing Jiang,
+Structural Mechanism of EMRE-Dependent Gating of the Human Mitochondrial Calcium Uniporter,
+Cell,
+Volume 177, Issue 5,
+2019,
+Pages 1252-1261.e13,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.03.050.
+(https://www.sciencedirect.com/science/article/pii/S009286741930385X)
+Abstract: Summary
+Mitochondrial calcium uptake is crucial to the regulation of eukaryotic Ca2+ homeostasis and is mediated by the mitochondrial calcium uniporter (MCU). While MCU alone can transport Ca2+ in primitive eukaryotes, metazoans require an essential single membrane-spanning auxiliary component called EMRE to form functional channels; however, the molecular mechanism of EMRE regulation remains elusive. Here, we present the cryo-EM structure of the human MCU-EMRE complex, which defines the interactions between MCU and EMRE as well as pinpoints the juxtamembrane loop of MCU and extended linker of EMRE as the crucial elements in the EMRE-dependent gating mechanism among metazoan MCUs. The structure also features the dimerization of two MCU-EMRE complexes along an interface at the N-terminal domain (NTD) of human MCU that is a hotspot for post-translational modifications. Thus, the human MCU-EMRE complex, which constitutes the minimal channel components among metazoans, provides a framework for future mechanistic studies on MCU.
+Keywords: intracellular calcium signaling; calcium channel; mitochondrial calcium uniporter
+
+Molly Gasperini, Andrew J. Hill, José L. McFaline-Figueroa, Beth Martin, Seungsoo Kim, Melissa D. Zhang, Dana Jackson, Anh Leith, Jacob Schreiber, William S. Noble, Cole Trapnell, Nadav Ahituv, Jay Shendure,
+A Genome-wide Framework for Mapping Gene Regulation via Cellular Genetic Screens,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 377-390.e19,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.029.
+(https://www.sciencedirect.com/science/article/pii/S009286741831554X)
+Abstract: Summary
+Over one million candidate regulatory elements have been identified across the human genome, but nearly all are unvalidated and their target genes uncertain. Approaches based on human genetics are limited in scope to common variants and in resolution by linkage disequilibrium. We present a multiplex, expression quantitative trait locus (eQTL)-inspired framework for mapping enhancer-gene pairs by introducing random combinations of CRISPR/Cas9-mediated perturbations to each of many cells, followed by single-cell RNA sequencing (RNA-seq). Across two experiments, we used dCas9-KRAB to perturb 5,920 candidate enhancers with no strong a priori hypothesis as to their target gene(s), measuring effects by profiling 254,974 single-cell transcriptomes. We identified 664 (470 high-confidence) cis enhancer-gene pairs, which were enriched for specific transcription factors, non-housekeeping status, and genomic and 3D conformational proximity to their target genes. This framework will facilitate the large-scale mapping of enhancer-gene regulatory interactions, a critical yet largely uncharted component of the cis-regulatory landscape of the human genome.
+Keywords: crisprQTL; CRISPR; CRISPRi; human genetics; enhancer; genetic screen; eQTL; single cell; RNA-seq; gene regulation
+
+Mitali A. Tambe, Bobby G. Ng, Hudson H. Freeze,
+N-Glycanase 1 Transcriptionally Regulates Aquaporins Independent of Its Enzymatic Activity,
+Cell Reports,
+Volume 29, Issue 13,
+2019,
+Pages 4620-4631.e4,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.097.
+(https://www.sciencedirect.com/science/article/pii/S2211124719315979)
+Abstract: Summary
+Patients with pathogenic mutations in NGLY1 cannot make tears and have global developmental delay and liver dysfunction. Traditionally, NGLY1 cleaves intact N-glycans from misfolded, retrotranslocated glycoproteins before proteasomal degradation. We demonstrate that Ngly1-null mouse embryonic fibroblasts, NGLY1 knockout human cells, and patient fibroblasts are resistant to hypotonic lysis. Ngly1-deficient mouse embryonic fibroblasts swell slower and have reduced aquaporin1 mRNA and protein expression. Ngly1 knockdown and overexpression confirms that Ngly1 regulates aquaporin1 and hypotonic cell lysis. Patient fibroblasts and NGLY1 knockout cells show reduced aquaporin11 mRNA, supporting NGLY1 as regulating expression of multiple aquaporins across species. Complementing Ngly1-deficient cells with catalytically inactive NGLY1 (p.Cys309Ala) restores normal hypotonic lysis and aquaporin1 protein. We show that transcription factors Atf1/Creb1 regulate aquaporin1 and that the Atf1/Creb1 signaling pathway is disrupted in Ngly1-deficient mouse embryonic fibroblasts. These results identify a non-enzymatic, regulatory function of NGLY1 in aquaporin transcription, possibly related to alacrima and neurological symptoms.
+Keywords: N-glycanase 1; aquaporins; Atf1/Creb1; hypotonic stress; deglycosylation
+
+Gérald Kénanian, Claire Morvan, Antonin Weckel, Amit Pathania, Jamila Anba-Mondoloni, David Halpern, Marine Gaillard, Audrey Solgadi, Laetitia Dupont, Céline Henry, Claire Poyart, Agnès Fouet, Gilles Lamberet, Karine Gloux, Alexandra Gruss,
+Permissive Fatty Acid Incorporation Promotes Staphylococcal Adaptation to FASII Antibiotics in Host Environments,
+Cell Reports,
+Volume 29, Issue 12,
+2019,
+Pages 3974-3982.e4,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.071.
+(https://www.sciencedirect.com/science/article/pii/S2211124719315621)
+Abstract: Summary
+The essentiality of fatty acid synthesis (FASII) products in the human pathogen Staphylococcus aureus is the underlying rationale for FASII-targeted antimicrobial drug design. Reports of anti-FASII efficacy in animals support this choice. However, restricted test conditions used previously led us to investigate this postulate in a broader, host-relevant context. We report that S. aureus rapidly adapts to FASII antibiotics without FASII mutations when exposed to host environments. FASII antibiotic administration upon signs of infection, rather than just after inoculation as commonly practiced, fails to eliminate S. aureus in a septicemia model. In vitro, serum lowers S. aureus membrane stress, leading to a greater retention of the substrates required for environmental fatty acid (eFA) utilization: eFAs and the acyl carrier protein. In this condition, eFA occupies both phospholipid positions, regardless of anti-FASII selection. Our results identify S. aureus membrane plasticity in host environments as a main limitation for using FASII antibiotics in monotherapeutic treatments.
+Keywords: firmicute pathogens; infection; treatment failure; conditional antibiotic adaptation; antibiotic resistance; membrane phospholipids; fatty acid stress; triclosan; AFN-1252
+
+Sung-Hwan Moon, Chun-Hao Huang, Shauna L. Houlihan, Kausik Regunath, William A. Freed-Pastor, John P. Morris, Darjus F. Tschaharganeh, Edward R. Kastenhuber, Anthony M. Barsotti, Rachel Culp-Hill, Wen Xue, Yu-Jui Ho, Timour Baslan, Xiang Li, Allison Mayle, Elisa de Stanchina, Lars Zender, David R. Tong, Angelo D’Alessandro, Scott W. Lowe, Carol Prives,
+p53 Represses the Mevalonate Pathway to Mediate Tumor Suppression,
+Cell,
+Volume 176, Issue 3,
+2019,
+Pages 564-580.e19,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.011.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315034)
+Abstract: Summary
+There are still gaps in our understanding of the complex processes by which p53 suppresses tumorigenesis. Here we describe a novel role for p53 in suppressing the mevalonate pathway, which is responsible for biosynthesis of cholesterol and nonsterol isoprenoids. p53 blocks activation of SREBP-2, the master transcriptional regulator of this pathway, by transcriptionally inducing the ABCA1 cholesterol transporter gene. A mouse model of liver cancer reveals that downregulation of mevalonate pathway gene expression by p53 occurs in premalignant hepatocytes, when p53 is needed to actively suppress tumorigenesis. Furthermore, pharmacological or RNAi inhibition of the mevalonate pathway restricts the development of murine hepatocellular carcinomas driven by p53 loss. Like p53 loss, ablation of ABCA1 promotes murine liver tumorigenesis and is associated with increased SREBP-2 maturation. Our findings demonstrate that repression of the mevalonate pathway is a crucial component of p53-mediated liver tumor suppression and outline the mechanism by which this occurs.
+Keywords: p53; tumor suppression; cancer metabolism; mevalonate pathway; SREBP-2; ABCA1
+
+Hao Wu, Lingyun Li, Kuan-Ming Chen, David Homolka, Pascal Gos, Fabienne Fleury-Olela, Andrew A. McCarthy, Ramesh S. Pillai,
+Decapping Enzyme NUDT12 Partners with BLMH for Cytoplasmic Surveillance of NAD-Capped RNAs,
+Cell Reports,
+Volume 29, Issue 13,
+2019,
+Pages 4422-4434.e13,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.108.
+(https://www.sciencedirect.com/science/article/pii/S2211124719316316)
+Abstract: Summary
+RNA polymerase II transcripts receive a protective 5ʹ,5ʹ-triphosphate-linked 7-methylguanosine (m7G) cap, and its removal by decapping enzymes like DCP2 is critical for initiation of RNA decay. Alternative RNA caps can be acquired when transcription initiation uses metabolites like nicotinamide adenine dinucleotide (NAD), generating NAD-RNAs. Here, we identify human NUDT12 as a cytosolic NAD-RNA decapping enzyme. NUDT12 is active only as homodimers, with each monomer contributing to creation of the two functional catalytic pockets. We identify an ∼600-kDa dodecamer complex between bleomycin hydrolase (BLMH) and NUDT12, with BLMH being required for localization of NUDT12 to a few discrete cytoplasmic granules that are distinct from P-bodies. Both proteins downregulate gene expression when artificially tethered to a reporter RNA in vivo. Furthermore, loss of Nudt12 results in a significant upregulation of circadian clock transcripts in mouse liver. Overall, our study points to a physiological role for NUDT12 in the cytosolic surveillance of NAD-RNAs.
+Keywords: human NUDT12; BLMH; NAD-RNA; m7G; RNA decay; deNADding; circadian clock
+
+Mirella Georgouli, Cecilia Herraiz, Eva Crosas-Molist, Bruce Fanshawe, Oscar Maiques, Anna Perdrix, Pahini Pandya, Irene Rodriguez-Hernandez, Kristina M. Ilieva, Gaia Cantelli, Panagiotis Karagiannis, Silvia Mele, Hoyin Lam, Debra H. Josephs, Xavier Matias-Guiu, Rosa M. Marti, Frank O. Nestle, Jose L. Orgaz, Ilaria Malanchi, Gilbert O. Fruhwirth, Sophia N. Karagiannis, Victoria Sanz-Moreno,
+Regional Activation of Myosin II in Cancer Cells Drives Tumor Progression via a Secretory Cross-Talk with the Immune Microenvironment,
+Cell,
+Volume 176, Issue 4,
+2019,
+Pages 757-774.e23,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.038.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316520)
+Abstract: Summary
+ROCK-Myosin II drives fast rounded-amoeboid migration in cancer cells during metastatic dissemination. Analysis of human melanoma biopsies revealed that amoeboid melanoma cells with high Myosin II activity are predominant in the invasive fronts of primary tumors in proximity to CD206+CD163+ tumor-associated macrophages and vessels. Proteomic analysis shows that ROCK-Myosin II activity in amoeboid cancer cells controls an immunomodulatory secretome, enabling the recruitment of monocytes and their differentiation into tumor-promoting macrophages. Both amoeboid cancer cells and their associated macrophages support an abnormal vasculature, which ultimately facilitates tumor progression. Mechanistically, amoeboid cancer cells perpetuate their behavior via ROCK-Myosin II-driven IL-1α secretion and NF-κB activation. Using an array of tumor models, we show that high Myosin II activity in tumor cells reprograms the innate immune microenvironment to support tumor growth. We describe an unexpected role for Myosin II dynamics in cancer cells controlling myeloid function via secreted factors.
+Keywords: ROCK-Myosin II; rounded-amoeboid melanoma cells; tumor invasive front; protein secretion; NF-κB; macrophages
+
+Yimu Zhao, Naimeh Rafatian, Nicole T. Feric, Brian J. Cox, Roozbeh Aschar-Sobbi, Erika Yan Wang, Praful Aggarwal, Boyang Zhang, Genevieve Conant, Kacey Ronaldson-Bouchard, Aric Pahnke, Stephanie Protze, Jee Hoon Lee, Locke Davenport Huyer, Danica Jekic, Anastasia Wickeler, Hani E. Naguib, Gordon M. Keller, Gordana Vunjak-Novakovic, Ulrich Broeckel, Peter H. Backx, Milica Radisic,
+A Platform for Generation of Chamber-Specific Cardiac Tissues and Disease Modeling,
+Cell,
+Volume 176, Issue 4,
+2019,
+Pages 913-927.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.042.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315678)
+Abstract: Summary
+Tissue engineering using cardiomyocytes derived from human pluripotent stem cells holds a promise to revolutionize drug discovery, but only if limitations related to cardiac chamber specification and platform versatility can be overcome. We describe here a scalable tissue-cultivation platform that is cell source agnostic and enables drug testing under electrical pacing. The plastic platform enabled on-line noninvasive recording of passive tension, active force, contractile dynamics, and Ca2+ transients, as well as endpoint assessments of action potentials and conduction velocity. By combining directed cell differentiation with electrical field conditioning, we engineered electrophysiologically distinct atrial and ventricular tissues with chamber-specific drug responses and gene expression. We report, for the first time, engineering of heteropolar cardiac tissues containing distinct atrial and ventricular ends, and we demonstrate their spatially confined responses to serotonin and ranolazine. Uniquely, electrical conditioning for up to 8 months enabled modeling of polygenic left ventricular hypertrophy starting from patient cells.
+Keywords: Cardiomyocyte; tissue engineering; drug testing; electrophysiology; contractility; atrial; ventricular; heart; calcium transient; action potential; polygenic cardiac disease
+
+Jeffrey L. Rhoades, Jessica C. Nelson, Ijeoma Nwabudike, Stephanie K. Yu, Ian G. McLachlan, Gurrein K. Madan, Eden Abebe, Joshua R. Powers, Daniel A. Colón-Ramos, Steven W. Flavell,
+ASICs Mediate Food Responses in an Enteric Serotonergic Neuron that Controls Foraging Behaviors,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 85-97.e14,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.023.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315150)
+Abstract: Summary
+Animals must respond to the ingestion of food by generating adaptive behaviors, but the role of gut-brain signaling in behavioral regulation is poorly understood. Here, we identify conserved ion channels in an enteric serotonergic neuron that mediate its responses to food ingestion and decipher how these responses drive changes in foraging behavior. We show that the C. elegans serotonergic neuron NSM acts as an enteric sensory neuron that acutely detects food ingestion. We identify the novel and conserved acid-sensing ion channels (ASICs) DEL-7 and DEL-3 as NSM-enriched channels required for feeding-dependent NSM activity, which in turn drives slow locomotion while animals feed. Point mutations that alter the DEL-7 channel change NSM dynamics and associated behavioral dynamics of the organism. This study provides causal links between food ingestion, molecular and physiological properties of an enteric serotonergic neuron, and adaptive feeding behaviors, yielding a new view of how enteric neurons control behavior.
+Keywords: serotonin; neural circuits; behavioral states; C. elegans; ion channels; ASIC; foraging; feeding; hunger; gut-brain signaling
+
+Mark J. Wagner, Tony Hyun Kim, Jonathan Kadmon, Nghia D. Nguyen, Surya Ganguli, Mark J. Schnitzer, Liqun Luo,
+Shared Cortex-Cerebellum Dynamics in the Execution and Learning of a Motor Task,
+Cell,
+Volume 177, Issue 3,
+2019,
+Pages 669-682.e24,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.02.019.
+(https://www.sciencedirect.com/science/article/pii/S0092867419301680)
+Abstract: Summary
+Throughout mammalian neocortex, layer 5 pyramidal (L5) cells project via the pons to a vast number of cerebellar granule cells (GrCs), forming a fundamental pathway. Yet, it is unknown how neuronal dynamics are transformed through the L5→GrC pathway. Here, by directly comparing premotor L5 and GrC activity during a forelimb movement task using dual-site two-photon Ca2+ imaging, we found that in expert mice, L5 and GrC dynamics were highly similar. L5 cells and GrCs shared a common set of task-encoding activity patterns, possessed similar diversity of responses, and exhibited high correlations comparable to local correlations among L5 cells. Chronic imaging revealed that these dynamics co-emerged in cortex and cerebellum over learning: as behavioral performance improved, initially dissimilar L5 cells and GrCs converged onto a shared, low-dimensional, task-encoding set of neural activity patterns. Thus, a key function of cortico-cerebellar communication is the propagation of shared dynamics that emerge during learning.
+Keywords: cerebellum; neocortex; granule cells; layer 5; dimensional expansion; brain state; motor learning; movement planning; reward; pontine nuclei
+
+Yu Kitadate, David J. Jörg, Moe Tokue, Ayumi Maruyama, Rie Ichikawa, Soken Tsuchiya, Eri Segi-Nishida, Toshinori Nakagawa, Aya Uchida, Chiharu Kimura-Yoshida, Seiya Mizuno, Fumihiro Sugiyama, Takuya Azami, Masatsugu Ema, Chiyo Noda, Satoru Kobayashi, Isao Matsuo, Yoshiakira Kanai, Takashi Nagasawa, Yukihiko Sugimoto, Satoru Takahashi, Benjamin D. Simons, Shosei Yoshida,
+Competition for Mitogens Regulates Spermatogenic Stem Cell Homeostasis in an Open Niche,
+Cell Stem Cell,
+Volume 24, Issue 1,
+2019,
+Pages 79-92.e6,
+ISSN 1934-5909,
+https://doi.org/10.1016/j.stem.2018.11.013.
+(https://www.sciencedirect.com/science/article/pii/S1934590918305496)
+Abstract: Summary
+In many tissues, homeostasis is maintained by physical contact between stem cells and an anatomically defined niche. However, how stem cell homeostasis is achieved in environments where cells are motile and dispersed among their progeny remains unknown. Using murine spermatogenesis as a model, we find that spermatogenic stem cell density is tightly regulated by the supply of fibroblast growth factors (FGFs) from lymphatic endothelial cells. We propose that stem cell homeostasis is achieved through competition for a limited supply of FGFs. We show that the quantitative dependence of stem cell density on FGF dosage, the biased localization of stem cells toward FGF sources, and stem cell dynamics during regeneration following injury can all be predicted and explained within the framework of a minimal theoretical model based on “mitogen competition.” We propose that this model provides a generic and robust mechanism to support stem cell homeostasis in open, or facultative, niche environments.
+Keywords: stem cells; spermatogenesis; density homeostasis; open niche; biophysical modeling; mitogen competition; fibroblast growth factors
+
+Justin E. Silpe, Bonnie L. Bassler,
+A Host-Produced Quorum-Sensing Autoinducer Controls a Phage Lysis-Lysogeny Decision,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 268-280.e13,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.10.059.
+(https://www.sciencedirect.com/science/article/pii/S0092867418314582)
+Abstract: Summary
+Vibrio cholerae uses a quorum-sensing (QS) system composed of the autoinducer 3,5-dimethylpyrazin-2-ol (DPO) and receptor VqmA (VqmAVc), which together repress genes for virulence and biofilm formation. vqmA genes exist in Vibrio and in one vibriophage, VP882. Phage-encoded VqmA (VqmAPhage) binds to host-produced DPO, launching the phage lysis program via an antirepressor that inactivates the phage repressor by sequestration. The antirepressor interferes with repressors from related phages. Like phage VP882, these phages encode DNA-binding proteins and partner antirepressors, suggesting that they, too, integrate host-derived information into their lysis-lysogeny decisions. VqmAPhage activates the host VqmAVc regulon, whereas VqmAVc cannot induce phage-mediated lysis, suggesting an asymmetry whereby the phage influences host QS while enacting its own lytic-lysogeny program without interference. We reprogram phages to activate lysis in response to user-defined cues. Our work shows that a phage, causing bacterial infections, and V. cholerae, causing human infections, rely on the same signal molecule for pathogenesis.
+Keywords: phage; quorum sensing; autoinducer; DPO; lysis-lysogeny; VqmA; Vibrio; antirepressor; Qtip; kill switch
+
+Petra Bacher, Thordis Hohnstein, Eva Beerbaum, Marie Röcker, Matthew G. Blango, Svenja Kaufmann, Jobst Röhmel, Patience Eschenhagen, Claudia Grehn, Kathrin Seidel, Volker Rickerts, Laura Lozza, Ulrik Stervbo, Mikalai Nienen, Nina Babel, Julia Milleck, Mario Assenmacher, Oliver A. Cornely, Maren Ziegler, Hilmar Wisplinghoff, Guido Heine, Margitta Worm, Britta Siegmund, Jochen Maul, Petra Creutz, Christoph Tabeling, Christoph Ruwwe-Glösenkamp, Leif E. Sander, Christoph Knosalla, Sascha Brunke, Bernhard Hube, Olaf Kniemeyer, Axel A. Brakhage, Carsten Schwarz, Alexander Scheffold,
+Human Anti-fungal Th17 Immunity and Pathology Rely on Cross-Reactivity against Candida albicans,
+Cell,
+Volume 176, Issue 6,
+2019,
+Pages 1340-1355.e15,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.041.
+(https://www.sciencedirect.com/science/article/pii/S0092867419301047)
+Abstract: Summary
+Th17 cells provide protection at barrier tissues but may also contribute to immune pathology. The relevance and induction mechanisms of pathologic Th17 responses in humans are poorly understood. Here, we identify the mucocutaneous pathobiont Candida albicans as the major direct inducer of human anti-fungal Th17 cells. Th17 cells directed against other fungi are induced by cross-reactivity to C. albicans. Intestinal inflammation expands total C. albicans and cross-reactive Th17 cells. Strikingly, Th17 cells cross-reactive to the airborne fungus Aspergillus fumigatus are selectively activated and expanded in patients with airway inflammation, especially during acute allergic bronchopulmonary aspergillosis. This indicates a direct link between protective intestinal Th17 responses against C. albicans and lung inflammation caused by airborne fungi. We identify heterologous immunity to a single, ubiquitous member of the microbiota as a central mechanism for systemic induction of human anti-fungal Th17 responses and as a potential risk factor for pulmonary inflammatory diseases.
+Keywords: microbiota; anti-fungal immunity; Th17; T cell cross-reactivity; Candida albicans; Aspergillus fumigatus; airway inflammation; cystic fibrosis; allergic bronchopulmonary aspergillosis (ABPA); antigen-reactive T cell enrichment (ARTE); heterologous immunity
+
+Ursula Quitterer, Xuebin Fu, Armin Pohl, Karam M. Bayoumy, Andreas Langer, Said AbdAlla,
+Beta-Arrestin1 Prevents Preeclampsia by Downregulation of Mechanosensitive AT1-B2 Receptor Heteromers,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 318-333.e19,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.10.050.
+(https://www.sciencedirect.com/science/article/pii/S0092867418314065)
+Abstract: Summary
+Preeclampsia is the most frequent pregnancy-related complication worldwide with no cure. While a number of molecular features have emerged, the underlying causal mechanisms behind the disorder remain obscure. Here, we find that increased complex formation between angiotensin II AT1 and bradykinin B2, two G protein-coupled receptors with opposing effects on blood vessel constriction, triggers symptoms of preeclampsia in pregnant mice. Aberrant heteromerization of AT1-B2 led to exaggerated calcium signaling and high vascular smooth muscle mechanosensitivity, which could explain the onset of preeclampsia symptoms at late-stage pregnancy as mechanical forces increase with fetal mass. AT1-B2 receptor aggregation was inhibited by beta-arrestin-mediated downregulation. Importantly, symptoms of preeclampsia were prevented by transgenic ARRB1 expression or a small-molecule drug. Because AT1-B2 heteromerization was found to occur in human placental biopsies from pregnancies complicated by preeclampsia, specifically targeting AT1-B2 heteromerization and its downstream consequences represents a promising therapeutic approach.
+Keywords: AGTR1; BDKRB2; preeclampsia; heterodimer; bradykinin; angiotensin II; mechanosensitivity; ARRB1; biased agonist; amlodipine
+
+Alexander J. Davies, Hyoung Woo Kim, Rafael Gonzalez-Cano, Jahyang Choi, Seung Keun Back, Seung Eon Roh, Errin Johnson, Melanie Gabriac, Mi-Sun Kim, Jaehee Lee, Jeong Eun Lee, Yun Sook Kim, Yong Chul Bae, Sang Jeong Kim, Kyung-Mi Lee, Heung Sik Na, Priscilla Riva, Alban Latremoliere, Simon Rinaldi, Sophie Ugolini, Michael Costigan, Seog Bae Oh,
+Natural Killer Cells Degenerate Intact Sensory Afferents following Nerve Injury,
+Cell,
+Volume 176, Issue 4,
+2019,
+Pages 716-728.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.022.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316362)
+Abstract: Summary
+Sensory axons degenerate following separation from their cell body, but partial injury to peripheral nerves may leave the integrity of damaged axons preserved. We show that an endogenous ligand for the natural killer (NK) cell receptor NKG2D, Retinoic Acid Early 1 (RAE1), is re-expressed in adult dorsal root ganglion neurons following peripheral nerve injury, triggering selective degeneration of injured axons. Infiltration of cytotoxic NK cells into the sciatic nerve by extravasation occurs within 3 days following crush injury. Using a combination of genetic cell ablation and cytokine-antibody complex stimulation, we show that NK cell function correlates with loss of sensation due to degeneration of injured afferents and reduced incidence of post-injury hypersensitivity. This neuro-immune mechanism of selective NK cell-mediated degeneration of damaged but intact sensory axons complements Wallerian degeneration and suggests the therapeutic potential of modulating NK cell function to resolve painful neuropathy through the clearance of partially damaged nerves.
+Keywords: autoimmunity; dorsal root ganglia; innate immunity; natural cytotoxicity; neurodegeneration; neuroimmune; neuropathic pain; peripheral neuropathy; sciatic nerve crush; Wallerian degeneration
+
+Suhas Vasaikar, Chen Huang, Xiaojing Wang, Vladislav A. Petyuk, Sara R. Savage, Bo Wen, Yongchao Dou, Yun Zhang, Zhiao Shi, Osama A. Arshad, Marina A. Gritsenko, Lisa J. Zimmerman, Jason E. McDermott, Therese R. Clauss, Ronald J. Moore, Rui Zhao, Matthew E. Monroe, Yi-Ting Wang, Matthew C. Chambers, Robbert J.C. Slebos, Ken S. Lau, Qianxing Mo, Li Ding, Matthew Ellis, Mathangi Thiagarajan, Christopher R. Kinsinger, Henry Rodriguez, Richard D. Smith, Karin D. Rodland, Daniel C. Liebler, Tao Liu, Bing Zhang, Akhilesh Pandey, Amanda Paulovich, Andrew Hoofnagle, D.R. Mani, Daniel W. Chan, David F. Ransohoff, David Fenyo, David L. Tabb, Douglas A. Levine, Emily S. Boja, Eric Kuhn, Forest M. White, Gordon A. Whiteley, Heng Zhu, Hui Zhang, Ie-Ming Shih, Jasmin Bavarva, Jeffrey Whiteaker, Karen A. Ketchum, Karl R. Clauser, Kelly Ruggles, Kimberly Elburn, Linda Hannick, Mark Watson, Mauricio Oberti, Mehdi Mesri, Melinda E. Sanders, Melissa Borucki, Michael A. Gillette, Michael Snyder, Nathan J. Edwards, Negin Vatanian, Paul A. Rudnick, Peter B. McGarvey, Philip Mertins, R. Reid Townsend, Ratna R. Thangudu, Robert C. Rivers, Samuel H. Payne, Sherri R. Davies, Shuang Cai, Stephen E. Stein, Steven A. Carr, Steven J. Skates, Subha Madhavan, Tara Hiltke, Xian Chen, Yingming Zhao, Yue Wang, Zhen Zhang,
+Proteogenomic Analysis of Human Colon Cancer Reveals New Therapeutic Opportunities,
+Cell,
+Volume 177, Issue 4,
+2019,
+Pages 1035-1049.e19,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.03.030.
+(https://www.sciencedirect.com/science/article/pii/S0092867419302922)
+Abstract: Summary
+We performed the first proteogenomic study on a prospectively collected colon cancer cohort. Comparative proteomic and phosphoproteomic analysis of paired tumor and normal adjacent tissues produced a catalog of colon cancer-associated proteins and phosphosites, including known and putative new biomarkers, drug targets, and cancer/testis antigens. Proteogenomic integration not only prioritized genomically inferred targets, such as copy-number drivers and mutation-derived neoantigens, but also yielded novel findings. Phosphoproteomics data associated Rb phosphorylation with increased proliferation and decreased apoptosis in colon cancer, which explains why this classical tumor suppressor is amplified in colon tumors and suggests a rationale for targeting Rb phosphorylation in colon cancer. Proteomics identified an association between decreased CD8 T cell infiltration and increased glycolysis in microsatellite instability-high (MSI-H) tumors, suggesting glycolysis as a potential target to overcome the resistance of MSI-H tumors to immune checkpoint blockade. Proteogenomics presents new avenues for biological discoveries and therapeutic development.
+Keywords: colon cancer; proteomics; proteogenomics; tumor antigen; immune evasion; glycolysis; drug targets; biomarkers; RB1; SOX9
+
+Olga L. Rojas, Anne-Katrin Pröbstel, Elisa A. Porfilio, Angela A. Wang, Marc Charabati, Tian Sun, Dennis S.W. Lee, Georgina Galicia, Valeria Ramaglia, Lesley A. Ward, Leslie Y.T. Leung, Ghazal Najafi, Khashayar Khaleghi, Beatriz Garcillán, Angela Li, Rickvinder Besla, Ikbel Naouar, Eric Y. Cao, Pailin Chiaranunt, Kyle Burrows, Hannah G. Robinson, Jessica R. Allanach, Jennifer Yam, Helen Luck, Daniel J. Campbell, David Allman, David G. Brooks, Michio Tomura, Ryan Baumann, Scott S. Zamvil, Amit Bar-Or, Marc S. Horwitz, Daniel A. Winer, Arthur Mortha, Fabienne Mackay, Alexandre Prat, Lisa C. Osborne, Clinton Robbins, Sergio E. Baranzini, Jennifer L. Gommerman,
+Recirculating Intestinal IgA-Producing Cells Regulate Neuroinflammation via IL-10,
+Cell,
+Volume 176, Issue 3,
+2019,
+Pages 610-624.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.035.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315605)
+Abstract: Summary
+Plasma cells (PC) are found in the CNS of multiple sclerosis (MS) patients, yet their source and role in MS remains unclear. We find that some PC in the CNS of mice with experimental autoimmune encephalomyelitis (EAE) originate in the gut and produce immunoglobulin A (IgA). Moreover, we show that IgA+ PC are dramatically reduced in the gut during EAE, and likewise, a reduction in IgA-bound fecal bacteria is seen in MS patients during disease relapse. Removal of plasmablast (PB) plus PC resulted in exacerbated EAE that was normalized by the introduction of gut-derived IgA+ PC. Furthermore, mice with an over-abundance of IgA+ PB and/or PC were specifically resistant to the effector stage of EAE, and expression of interleukin (IL)-10 by PB plus PC was necessary and sufficient to confer resistance. Our data show that IgA+ PB and/or PC mobilized from the gut play an unexpected role in suppressing neuroinflammation.
+Keywords: multiple sclerosis; MS; experimental autoimmune encephalomyelitis; EAE; B cells; plasma cells; small intestinal lamina propria; IgA; microbiota
+
+Alex A. Pollen, Aparna Bhaduri, Madeline G. Andrews, Tomasz J. Nowakowski, Olivia S. Meyerson, Mohammed A. Mostajo-Radji, Elizabeth Di Lullo, Beatriz Alvarado, Melanie Bedolli, Max L. Dougherty, Ian T. Fiddes, Zev N. Kronenberg, Joe Shuga, Anne A. Leyrat, Jay A. West, Marina Bershteyn, Craig B. Lowe, Bryan J. Pavlovic, Sofie R. Salama, David Haussler, Evan E. Eichler, Arnold R. Kriegstein,
+Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution,
+Cell,
+Volume 176, Issue 4,
+2019,
+Pages 743-756.e17,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.017.
+(https://www.sciencedirect.com/science/article/pii/S0092867419300509)
+Abstract: Summary
+Direct comparisons of human and non-human primate brains can reveal molecular pathways underlying remarkable specializations of the human brain. However, chimpanzee tissue is inaccessible during neocortical neurogenesis when differences in brain size first appear. To identify human-specific features of cortical development, we leveraged recent innovations that permit generating pluripotent stem cell-derived cerebral organoids from chimpanzee. Despite metabolic differences, organoid models preserve gene regulatory networks related to primary cell types and developmental processes. We further identified 261 differentially expressed genes in human compared to both chimpanzee organoids and macaque cortex, enriched for recent gene duplications, and including multiple regulators of PI3K-AKT-mTOR signaling. We observed increased activation of this pathway in human radial glia, dependent on two receptors upregulated specifically in human: INSR and ITGB8. Our findings establish a platform for systematic analysis of molecular changes contributing to human brain development and evolution.
+Keywords: single-cell RNA sequencing; chimpanzee; human-specific evolution; cerebral organoids; macaque; cortical development; neural progenitor cells; radial glia; mTOR
+
+Jakob Trendel, Thomas Schwarzl, Rastislav Horos, Ananth Prakash, Alex Bateman, Matthias W. Hentze, Jeroen Krijgsveld,
+The Human RNA-Binding Proteome and Its Dynamics during Translational Arrest,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 391-403.e19,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.004.
+(https://www.sciencedirect.com/science/article/pii/S0092867418314636)
+Abstract: Summary
+Proteins and RNA functionally and physically intersect in multiple biological processes, however, currently no universal method is available to purify protein-RNA complexes. Here, we introduce XRNAX, a method for the generic purification of protein-crosslinked RNA, and demonstrate its versatility to study the composition and dynamics of protein-RNA interactions by various transcriptomic and proteomic approaches. We show that XRNAX captures all RNA biotypes and use this to characterize the sub-proteomes that interact with coding and non-coding RNAs (ncRNAs) and to identify hundreds of protein-RNA interfaces. Exploiting the quantitative nature of XRNAX, we observe drastic remodeling of the RNA-bound proteome during arsenite-induced stress, distinct from autophagy-related changes in the total proteome. In addition, we combine XRNAX with crosslinking immunoprecipitation sequencing (CLIP-seq) to validate the interaction of ncRNA with lamin B1 and EXOSC2. Thus, XRNAX is a resourceful approach to study structural and compositional aspects of protein-RNA interactions to address fundamental questions in RNA-biology.
+Keywords: protein-RNA interactions; mass spectrometry; Trizol; UV-crosslinking; autophagy; ribophagy; RNA-binding domain; mRNA; ncRNA; proteomics
+
+Sofia Gkountela, Francesc Castro-Giner, Barbara Maria Szczerba, Marcus Vetter, Julia Landin, Ramona Scherrer, Ilona Krol, Manuel C. Scheidmann, Christian Beisel, Christian U. Stirnimann, Christian Kurzeder, Viola Heinzelmann-Schwarz, Christoph Rochlitz, Walter Paul Weber, Nicola Aceto,
+Circulating Tumor Cell Clustering Shapes DNA Methylation to Enable Metastasis Seeding,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 98-112.e14,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.046.
+(https://www.sciencedirect.com/science/article/pii/S009286741831571X)
+Abstract: Summary
+The ability of circulating tumor cells (CTCs) to form clusters has been linked to increased metastatic potential. Yet biological features and vulnerabilities of CTC clusters remain largely unknown. Here, we profile the DNA methylation landscape of single CTCs and CTC clusters from breast cancer patients and mouse models on a genome-wide scale. We find that binding sites for stemness- and proliferation-associated transcription factors are specifically hypomethylated in CTC clusters, including binding sites for OCT4, NANOG, SOX2, and SIN3A, paralleling embryonic stem cell biology. Among 2,486 FDA-approved compounds, we identify Na+/K+ ATPase inhibitors that enable the dissociation of CTC clusters into single cells, leading to DNA methylation remodeling at critical sites and metastasis suppression. Thus, our results link CTC clustering to specific changes in DNA methylation that promote stemness and metastasis and point to cluster-targeting compounds to suppress the spread of cancer.
+Keywords: circulating tumor cells; circulating tumor cell clusters; single cell sequencing; bisulfite sequencing; RNA sequencing; stemness-associated transcription factors; proliferation-associated transcription factors; drug screen
+
+Toufic Mayassi, Kristin Ladell, Herman Gudjonson, James E. McLaren, Dustin G. Shaw, Mai T. Tran, Jagoda J. Rokicka, Ian Lawrence, Jean-Christophe Grenier, Vincent van Unen, Cezary Ciszewski, Matthew Dimaano, Hoda E. Sayegh, Vinod Kumar, Cisca Wijmenga, Peter H.R. Green, Ranjana Gokhale, Hilary Jericho, Carol E. Semrad, Stefano Guandalini, Aaron R. Dinner, Sonia S. Kupfer, Hugh H. Reid, Luis B. Barreiro, Jamie Rossjohn, David A. Price, Bana Jabri,
+Chronic Inflammation Permanently Reshapes Tissue-Resident Immunity in Celiac Disease,
+Cell,
+Volume 176, Issue 5,
+2019,
+Pages 967-981.e19,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.039.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316532)
+Abstract: Summary
+Tissue-resident lymphocytes play a key role in immune surveillance, but it remains unclear how these inherently stable cell populations respond to chronic inflammation. In the setting of celiac disease (CeD), where exposure to dietary antigen can be controlled, gluten-induced inflammation triggered a profound depletion of naturally occurring Vγ4+/Vδ1+ intraepithelial lymphocytes (IELs) with innate cytolytic properties and specificity for the butyrophilin-like (BTNL) molecules BTNL3/BTNL8. Creation of a new niche with reduced expression of BTNL8 and loss of Vγ4+/Vδ1+ IELs was accompanied by the expansion of gluten-sensitive, interferon-γ-producing Vδ1+ IELs bearing T cell receptors (TCRs) with a shared non-germline-encoded motif that failed to recognize BTNL3/BTNL8. Exclusion of dietary gluten restored BTNL8 expression but was insufficient to reconstitute the physiological Vγ4+/Vδ1+ subset among TCRγδ+ IELs. Collectively, these data show that chronic inflammation permanently reconfigures the tissue-resident TCRγδ+ IEL compartment in CeD.
+Video Abstract
+
+Keywords: butyrophilin-like molecules; celiac disease; γδ T cells; intraepithelial lymphocytes; tissue-resident lymphocytes
+
+Julien Boudet, Jean-Christophe Devillier, Thomas Wiegand, Loic Salmon, Beat H. Meier, Georg Lipps, Frédéric H.-T. Allain,
+A Small Helical Bundle Prepares Primer Synthesis by Binding Two Nucleotides that Enhance Sequence-Specific Recognition of the DNA Template,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 154-166.e13,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.031.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315563)
+Abstract: Summary
+Primases have a fundamental role in DNA replication. They synthesize a primer that is then extended by DNA polymerases. Archaeoeukaryotic primases require for synthesis a catalytic and an accessory domain, the exact contribution of the latter being unresolved. For the pRN1 archaeal primase, this domain is a 115-amino acid helix bundle domain (HBD). Our structural investigations of this small HBD by liquid- and solid-state nuclear magnetic resonance (NMR) revealed that only the HBD binds the DNA template. DNA binding becomes sequence-specific after a major allosteric change in the HBD, triggered by the binding of two nucleotide triphosphates. The spatial proximity of the two nucleotides and the DNA template in the quaternary structure of the HBD strongly suggests that this small domain brings together the substrates to prepare the first catalytic step of primer synthesis. This efficient mechanism is likely general for all archaeoeukaryotic primases.
+Keywords: archaeoeukaryotic primase; helix-bundle domain; dinucleotide synthesis; DNA replication; template binding; NMR; hybrid-structure; enhanced specificity; synergistic binding; protein-DNA complex
+
+Shailendra S. Rathore, Yinghui Liu, Haijia Yu, Chun Wan, MyeongSeon Lee, Qian Yin, Michael H.B. Stowell, Jingshi Shen,
+Intracellular Vesicle Fusion Requires a Membrane-Destabilizing Peptide Located at the Juxtamembrane Region of the v-SNARE,
+Cell Reports,
+Volume 29, Issue 13,
+2019,
+Pages 4583-4592.e3,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.107.
+(https://www.sciencedirect.com/science/article/pii/S2211124719316304)
+Abstract: Summary
+Intracellular vesicle fusion is mediated by soluble N-ethylmaleimide sensitive factor attachment protein receptors (SNAREs) and Sec1/Munc18 (SM) proteins. It is generally accepted that membrane fusion occurs when the vesicle and target membranes are brought into close proximity by SNAREs and SM proteins. In this work, we demonstrate that, for fusion to occur, membrane bilayers must be destabilized by a conserved membrane-embedded motif located at the juxtamembrane region of the vesicle-anchored v-SNARE. Comprised of basic and hydrophobic residues, the juxtamembrane motif perturbs the lipid bilayer structure and promotes SNARE-SM-mediated membrane fusion. The juxtamembrane motif can be functionally substituted with an unrelated membrane-disrupting peptide in the membrane fusion reaction. These findings establish the juxtamembrane motif of the v-SNARE as a membrane-destabilizing peptide. Requirement of membrane-destabilizing peptides is likely a common feature of biological membrane fusion.
+
+Dennis K. Jeppesen, Aidan M. Fenix, Jeffrey L. Franklin, James N. Higginbotham, Qin Zhang, Lisa J. Zimmerman, Daniel C. Liebler, Jie Ping, Qi Liu, Rachel Evans, William H. Fissell, James G. Patton, Leonard H. Rome, Dylan T. Burnette, Robert J. Coffey,
+Reassessment of Exosome Composition,
+Cell,
+Volume 177, Issue 2,
+2019,
+Pages 428-445.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.02.029.
+(https://www.sciencedirect.com/science/article/pii/S0092867419302120)
+Abstract: Summary
+The heterogeneity of small extracellular vesicles and presence of non-vesicular extracellular matter have led to debate about contents and functional properties of exosomes. Here, we employ high-resolution density gradient fractionation and direct immunoaffinity capture to precisely characterize the RNA, DNA, and protein constituents of exosomes and other non-vesicle material. Extracellular RNA, RNA-binding proteins, and other cellular proteins are differentially expressed in exosomes and non-vesicle compartments. Argonaute 1–4, glycolytic enzymes, and cytoskeletal proteins were not detected in exosomes. We identify annexin A1 as a specific marker for microvesicles that are shed directly from the plasma membrane. We further show that small extracellular vesicles are not vehicles of active DNA release. Instead, we propose a new model for active secretion of extracellular DNA through an autophagy- and multivesicular-endosome-dependent but exosome-independent mechanism. This study demonstrates the need for a reassessment of exosome composition and offers a framework for a clearer understanding of extracellular vesicle heterogeneity.
+Keywords: exosomes; microvesicles; exomeres; extracellular vesicles; Argonaute; extracellular RNA; extracellular DNA; annexin; autophagy; amphisomes
+
+Jill E. Kucab, Xueqing Zou, Sandro Morganella, Madeleine Joel, A. Scott Nanda, Eszter Nagy, Celine Gomez, Andrea Degasperi, Rebecca Harris, Stephen P. Jackson, Volker M. Arlt, David H. Phillips, Serena Nik-Zainal,
+A Compendium of Mutational Signatures of Environmental Agents,
+Cell,
+Volume 177, Issue 4,
+2019,
+Pages 821-836.e16,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.03.001.
+(https://www.sciencedirect.com/science/article/pii/S0092867419302636)
+Abstract: Summary
+Whole-genome-sequencing (WGS) of human tumors has revealed distinct mutation patterns that hint at the causative origins of cancer. We examined mutational signatures in 324 WGS human-induced pluripotent stem cells exposed to 79 known or suspected environmental carcinogens. Forty-one yielded characteristic substitution mutational signatures. Some were similar to signatures found in human tumors. Additionally, six agents produced double-substitution signatures and eight produced indel signatures. Investigating mutation asymmetries across genome topography revealed fully functional mismatch and transcription-coupled repair pathways. DNA damage induced by environmental mutagens can be resolved by disparate repair and/or replicative pathways, resulting in an assortment of signature outcomes even for a single agent. This compendium of experimentally induced mutational signatures permits further exploration of roles of environmental agents in cancer etiology and underscores how human stem cell DNA is directly vulnerable to environmental agents.
+Video Abstract
+
+Keywords: Mutational signatures; mutagenesis; DNA damage; environmental mutagens; carcinogens
+
+Jung-Hoon Yoon, Mark J. McArthur, Jeseong Park, Debashree Basu, Maki Wakamiya, Louise Prakash, Satya Prakash,
+Error-Prone Replication through UV Lesions by DNA Polymerase θ Protects against Skin Cancers,
+Cell,
+Volume 176, Issue 6,
+2019,
+Pages 1295-1309.e15,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.023.
+(https://www.sciencedirect.com/science/article/pii/S009286741930056X)
+Abstract: Summary
+Cancers from sun-exposed skin accumulate “driver” mutations, causally implicated in oncogenesis. Because errors incorporated during translesion synthesis (TLS) opposite UV lesions would generate these mutations, TLS mechanisms are presumed to underlie cancer development. To address the role of TLS in skin cancer formation, we determined which DNA polymerase is responsible for generating UV mutations, analyzed the relative contributions of error-free TLS by Polη and error-prone TLS by Polθ to the replication of UV-damaged DNA and to genome stability, and examined the incidence of UV-induced skin cancers in Polθ−/−, Polη−/−, and Polθ−/− Polη−/− mice. Our findings that the incidence of skin cancers rises in Polθ−/− mice and is further exacerbated in Polθ−/− Polη−/− mice compared with Polη−/− mice support the conclusion that error-prone TLS by Polθ provides a safeguard against tumorigenesis and suggest that cancer formation can ensue in the absence of somatic point mutations.
+Keywords: UV lesions; replication through UV lesions; UV signature mutations; error-free translesion synthesis; error-prone translesion synthesis; DNA polymerase θ; DNA polymerase η; replication stress; genomic rearrangements; skin cancers
+
+Antoine Fages, Kristian Hanghøj, Naveed Khan, Charleen Gaunitz, Andaine Seguin-Orlando, Michela Leonardi, Christian McCrory Constantz, Cristina Gamba, Khaled A.S. Al-Rasheid, Silvia Albizuri, Ahmed H. Alfarhan, Morten Allentoft, Saleh Alquraishi, David Anthony, Nurbol Baimukhanov, James H. Barrett, Jamsranjav Bayarsaikhan, Norbert Benecke, Eloísa Bernáldez-Sánchez, Luis Berrocal-Rangel, Fereidoun Biglari, Sanne Boessenkool, Bazartseren Boldgiv, Gottfried Brem, Dorcas Brown, Joachim Burger, Eric Crubézy, Linas Daugnora, Hossein Davoudi, Peter de Barros Damgaard, María de los Ángeles de Chorro y de Villa-Ceballos, Sabine Deschler-Erb, Cleia Detry, Nadine Dill, Maria do Mar Oom, Anna Dohr, Sturla Ellingvåg, Diimaajav Erdenebaatar, Homa Fathi, Sabine Felkel, Carlos Fernández-Rodríguez, Esteban García-Viñas, Mietje Germonpré, José D. Granado, Jón H. Hallsson, Helmut Hemmer, Michael Hofreiter, Aleksei Kasparov, Mutalib Khasanov, Roya Khazaeli, Pavel Kosintsev, Kristian Kristiansen, Tabaldiev Kubatbek, Lukas Kuderna, Pavel Kuznetsov, Haeedeh Laleh, Jennifer A. Leonard, Johanna Lhuillier, Corina Liesau von Lettow-Vorbeck, Andrey Logvin, Lembi Lõugas, Arne Ludwig, Cristina Luis, Ana Margarida Arruda, Tomas Marques-Bonet, Raquel Matoso Silva, Victor Merz, Enkhbayar Mijiddorj, Bryan K. Miller, Oleg Monchalov, Fatemeh A. Mohaseb, Arturo Morales, Ariadna Nieto-Espinet, Heidi Nistelberger, Vedat Onar, Albína H. Pálsdóttir, Vladimir Pitulko, Konstantin Pitskhelauri, Mélanie Pruvost, Petra Rajic Sikanjic, Anita Rapan Papeša, Natalia Roslyakova, Alireza Sardari, Eberhard Sauer, Renate Schafberg, Amelie Scheu, Jörg Schibler, Angela Schlumbaum, Nathalie Serrand, Aitor Serres-Armero, Beth Shapiro, Shiva Sheikhi Seno, Irina Shevnina, Sonia Shidrang, John Southon, Bastiaan Star, Naomi Sykes, Kamal Taheri, William Taylor, Wolf-Rüdiger Teegen, Tajana Trbojević Vukičević, Simon Trixl, Dashzeveg Tumen, Sainbileg Undrakhbold, Emma Usmanova, Ali Vahdati, Silvia Valenzuela-Lamas, Catarina Viegas, Barbara Wallner, Jaco Weinstock, Victor Zaibert, Benoit Clavel, Sébastien Lepetz, Marjan Mashkour, Agnar Helgason, Kári Stefánsson, Eric Barrey, Eske Willerslev, Alan K. Outram, Pablo Librado, Ludovic Orlando,
+Tracking Five Millennia of Horse Management with Extensive Ancient Genome Time Series,
+Cell,
+Volume 177, Issue 6,
+2019,
+Pages 1419-1435.e31,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.03.049.
+(https://www.sciencedirect.com/science/article/pii/S0092867419303848)
+Abstract: Summary
+Horse domestication revolutionized warfare and accelerated travel, trade, and the geographic expansion of languages. Here, we present the largest DNA time series for a non-human organism to date, including genome-scale data from 149 ancient animals and 129 ancient genomes (≥1-fold coverage), 87 of which are new. This extensive dataset allows us to assess the modern legacy of past equestrian civilizations. We find that two extinct horse lineages existed during early domestication, one at the far western (Iberia) and the other at the far eastern range (Siberia) of Eurasia. None of these contributed significantly to modern diversity. We show that the influence of Persian-related horse lineages increased following the Islamic conquests in Europe and Asia. Multiple alleles associated with elite-racing, including at the MSTN “speed gene,” only rose in popularity within the last millennium. Finally, the development of modern breeding impacted genetic diversity more dramatically than the previous millennia of human management.
+Keywords: ancient DNA; domestication; animal breeding; horses; mules; extinct lineages; selection; diversity; management; equestrian civilizations
+
+Yuxuan Miao, Hanseul Yang, John Levorse, Shaopeng Yuan, Lisa Polak, Megan Sribour, Bhuvanesh Singh, Michael D. Rosenblum, Elaine Fuchs,
+Adaptive Immune Resistance Emerges from Tumor-Initiating Stem Cells,
+Cell,
+Volume 177, Issue 5,
+2019,
+Pages 1172-1186.e14,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.03.025.
+(https://www.sciencedirect.com/science/article/pii/S0092867419302879)
+Abstract: Summary
+Our bodies are equipped with powerful immune surveillance to clear cancerous cells as they emerge. How tumor-initiating stem cells (tSCs) that form and propagate cancers equip themselves to overcome this barrier remains poorly understood. To tackle this problem, we designed a skin cancer model for squamous cell carcinoma (SCC) that can be effectively challenged by adoptive cytotoxic T cell transfer (ACT)-based immunotherapy. Using single-cell RNA sequencing (RNA-seq) and lineage tracing, we found that transforming growth factor β (TGF-β)-responding tSCs are superior at resisting ACT and form the root of tumor relapse. Probing mechanism, we discovered that during malignancy, tSCs selectively acquire CD80, a surface ligand previously identified on immune cells. Moreover, upon engaging cytotoxic T lymphocyte antigen-4 (CTLA4), CD80-expressing tSCs directly dampen cytotoxic T cell activity. Conversely, upon CTLA4- or TGF-β-blocking immunotherapies or Cd80 ablation, tSCs become vulnerable, diminishing tumor relapse after ACT treatment. Our findings place tSCs at the crux of how immune checkpoint pathways are activated.
+Keywords: tumor stem cell; squamous cell carcinoma; immune-stem cell interactions; single-cell RNA sequencing; lineage tracing; immune evasion; adoptive T cell transfer therapy
+
+Nicolás Rascovan, Karl-Göran Sjögren, Kristian Kristiansen, Rasmus Nielsen, Eske Willerslev, Christelle Desnues, Simon Rasmussen,
+Emergence and Spread of Basal Lineages of Yersinia pestis during the Neolithic Decline,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 295-305.e10,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.005.
+(https://www.sciencedirect.com/science/article/pii/S0092867418314648)
+Abstract: Summary
+Between 5,000 and 6,000 years ago, many Neolithic societies declined throughout western Eurasia due to a combination of factors that are still largely debated. Here, we report the discovery and genome reconstruction of Yersinia pestis, the etiological agent of plague, in Neolithic farmers in Sweden, pre-dating and basal to all modern and ancient known strains of this pathogen. We investigated the history of this strain by combining phylogenetic and molecular clock analyses of the bacterial genome, detailed archaeological information, and genomic analyses from infected individuals and hundreds of ancient human samples across Eurasia. These analyses revealed that multiple and independent lineages of Y. pestis branched and expanded across Eurasia during the Neolithic decline, spreading most likely through early trade networks rather than massive human migrations. Our results are consistent with the existence of a prehistoric plague pandemic that likely contributed to the decay of Neolithic populations in Europe.
+Keywords: Yersinia pestis; plague; ancient DNA; Neolithic decline; mega settlements; pathogen evolution; emergence and spread of infectious diseases; metagenomics
+
+Jiao Sima, Abhijit Chakraborty, Vishnu Dileep, Marco Michalski, Kyle N. Klein, Nicolas P. Holcomb, Jesse L. Turner, Michelle T. Paulsen, Juan Carlos Rivera-Mulia, Claudia Trevilla-Garcia, Daniel A. Bartlett, Peiyao A. Zhao, Brian K. Washburn, Elphège P. Nora, Katerina Kraft, Stefan Mundlos, Benoit G. Bruneau, Mats Ljungman, Peter Fraser, Ferhat Ay, David M. Gilbert,
+Identifying cis Elements for Spatiotemporal Control of Mammalian DNA Replication,
+Cell,
+Volume 176, Issue 4,
+2019,
+Pages 816-830.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.036.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315617)
+Abstract: Summary
+The temporal order of DNA replication (replication timing [RT]) is highly coupled with genome architecture, but cis-elements regulating either remain elusive. We created a series of CRISPR-mediated deletions and inversions of a pluripotency-associated topologically associating domain (TAD) in mouse ESCs. CTCF-associated domain boundaries were dispensable for RT. CTCF protein depletion weakened most TAD boundaries but had no effect on RT or A/B compartmentalization genome-wide. By contrast, deletion of three intra-TAD CTCF-independent 3D contact sites caused a domain-wide early-to-late RT shift, an A-to-B compartment switch, weakening of TAD architecture, and loss of transcription. The dispensability of TAD boundaries and the necessity of these “early replication control elements” (ERCEs) was validated by deletions and inversions at additional domains. Our results demonstrate that discrete cis-regulatory elements orchestrate domain-wide RT, A/B compartmentalization, TAD architecture, and transcription, revealing fundamental principles linking genome structure and function.
+Keywords: replication timing; sub-nuclear compartment; topologically associating domain; ERCEs; CTCF; chromatin interactions; genome architecture; super-enhancer; Dppa
+
+Almudena del Río-Martín, Iara Pérez-Taboada, Antonio Fernández-Pérez, Rosario Moratalla, Pedro de la Villa, Mario Vallejo,
+Hypomorphic Expression of Pitx3 Disrupts Circadian Clocks and Prevents Metabolic Entrainment of Energy Expenditure,
+Cell Reports,
+Volume 29, Issue 11,
+2019,
+Pages 3678-3692.e4,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.027.
+(https://www.sciencedirect.com/science/article/pii/S2211124719314986)
+Abstract: Summary
+Daily adaptation of metabolic activity to light-dark cycles to maintain homeostasis is controlled by hypothalamic nuclei receiving information from the retina and from nutritional inputs that vary according to feeding cycles. We show that selective hypomorphic expression of the transcription factor gene Pitx3 prevents light-dependent entrainment of the central pacemaker in the suprachiasmatic nucleus. This translates into altered behavioral and metabolic outputs affecting locomotor activity, feeding patterns, energy expenditure, and corticosterone secretion that correlate with dysfunctional expression of clock genes in the ventromedial hypothalamus, liver, and brown adipose tissue. Metabolic entrainment by time-restricted feeding restores clock function in the liver and brown adipose tissue but not in the ventromedial hypothalamus and, remarkably, fails to synchronize energy expenditure and locomotor and hormonal outputs. Thus, our study reveals a central role of the priming of the suprachiasmatic nucleus with retinal innervation in the hypothalamic regulation of cyclic metabolic homeostasis.
+Keywords: suprachiasmatic nucleus; ventromedial hypothalamus; retinohypothalamic tract; intrinsically photosensitive retinal ganglion cells; circadian clock; energy metabolism; food intake; arcuate nucleus; time restricted feeding; brown adipose tissue
+
+Lilan You, Jun Ma, Jiuyu Wang, Daria Artamonova, Min Wang, Liang Liu, Hua Xiang, Konstantin Severinov, Xinzheng Zhang, Yanli Wang,
+Structure Studies of the CRISPR-Csm Complex Reveal Mechanism of Co-transcriptional Interference,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 239-253.e16,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.10.052.
+(https://www.sciencedirect.com/science/article/pii/S009286741831451X)
+Abstract: Summary
+Csm, a type III-A CRISPR-Cas interference complex, is a CRISPR RNA (crRNA)-guided RNase that also possesses target RNA-dependent DNase and cyclic oligoadenylate (cOA) synthetase activities. However, the structural features allowing target RNA-binding-dependent activation of DNA cleavage and cOA generation remain unknown. Here, we report the structure of Csm in complex with crRNA together with structures of cognate or non-cognate target RNA bound Csm complexes. We show that depending on complementarity with the 5′ tag of crRNA, the 3′ anti-tag region of target RNA binds at two distinct sites of the Csm complex. Importantly, the interaction between the non-complementary anti-tag region of cognate target RNA and Csm1 induces a conformational change at the Csm1 subunit that allosterically activates DNA cleavage and cOA generation. Together, our structural studies provide crucial insights into the mechanistic processes required for crRNA-meditated sequence-specific RNA cleavage, RNA target-dependent non-specific DNA cleavage, and cOA generation.
+Keywords: Csm complex; type III-A; CRISPR-Cas 9 system
+
+Chengcheng Jin, Georgia K. Lagoudas, Chen Zhao, Susan Bullman, Arjun Bhutkar, Bo Hu, Samuel Ameh, Demi Sandel, Xu Sue Liang, Sarah Mazzilli, Mark T. Whary, Matthew Meyerson, Ronald Germain, Paul C. Blainey, James G. Fox, Tyler Jacks,
+Commensal Microbiota Promote Lung Cancer Development via γδ T Cells,
+Cell,
+Volume 176, Issue 5,
+2019,
+Pages 998-1013.e16,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.040.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316544)
+Abstract: Summary
+Lung cancer is closely associated with chronic inflammation, but the causes of inflammation and the specific immune mediators have not been fully elucidated. The lung is a mucosal tissue colonized by a diverse bacterial community, and pulmonary infections commonly present in lung cancer patients are linked to clinical outcomes. Here, we provide evidence that local microbiota provoke inflammation associated with lung adenocarcinoma by activating lung-resident γδ T cells. Germ-free or antibiotic-treated mice were significantly protected from lung cancer development induced by Kras mutation and p53 loss. Mechanistically, commensal bacteria stimulated Myd88-dependent IL-1β and IL-23 production from myeloid cells, inducing proliferation and activation of Vγ6+Vδ1+ γδ T cells that produced IL-17 and other effector molecules to promote inflammation and tumor cell proliferation. Our findings clearly link local microbiota-immune crosstalk to lung tumor development and thereby define key cellular and molecular mediators that may serve as effective targets in lung cancer intervention.
+Keywords: lung cancer; lung adenocarcinoma; microbiota; γδ T cells; IL-17; inflammation; tumor microenvironment; neutrophils
+
+Justin L. Sparks, Gheorghe Chistol, Alan O. Gao, Markus Räschle, Nicolai B. Larsen, Matthias Mann, Julien P. Duxin, Johannes C. Walter,
+The CMG Helicase Bypasses DNA-Protein Cross-Links to Facilitate Their Repair,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 167-181.e21,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.10.053.
+(https://www.sciencedirect.com/science/article/pii/S0092867418314521)
+Abstract: Summary
+Covalent DNA-protein cross-links (DPCs) impede replication fork progression and threaten genome integrity. Using Xenopus egg extracts, we previously showed that replication fork collision with DPCs causes their proteolysis, followed by translesion DNA synthesis. We show here that when DPC proteolysis is blocked, the replicative DNA helicase CMG (CDC45, MCM2-7, GINS), which travels on the leading strand template, bypasses an intact leading strand DPC. Single-molecule imaging reveals that GINS does not dissociate from CMG during bypass and that CMG slows dramatically after bypass, likely due to uncoupling from the stalled leading strand. The DNA helicase RTEL1 facilitates bypass, apparently by generating single-stranded DNA beyond the DPC. The absence of RTEL1 impairs DPC proteolysis, suggesting that CMG must bypass the DPC to enable proteolysis. Our results suggest a mechanism that prevents inadvertent CMG destruction by DPC proteases, and they reveal CMG’s remarkable capacity to overcome obstacles on its translocation strand.
+Keywords: DNA-protein cross-links; replication-coupled DNA repair; eukaryotic DNA replication; bulky lesion bypass; eukaryotic replicative helicase; CMG; helicase uncoupling; single-molecule approach; KEHRMIT; Xenopus laevis egg extracts
+
+Hanjie Li, Anne M. van der Leun, Ido Yofe, Yaniv Lubling, Dikla Gelbard-Solodkin, Alexander C.J. van Akkooi, Marlous van den Braber, Elisa A. Rozeman, John B.A.G. Haanen, Christian U. Blank, Hugo M. Horlings, Eyal David, Yael Baran, Akhiad Bercovich, Aviezer Lifshitz, Ton N. Schumacher, Amos Tanay, Ido Amit,
+Dysfunctional CD8 T Cells Form a Proliferative, Dynamically Regulated Compartment within Human Melanoma,
+Cell,
+Volume 176, Issue 4,
+2019,
+Pages 775-789.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.043.
+(https://www.sciencedirect.com/science/article/pii/S009286741831568X)
+Abstract: Summary
+Tumor immune cell compositions play a major role in response to immunotherapy, but the heterogeneity and dynamics of immune infiltrates in human cancer lesions remain poorly characterized. Here, we identify conserved intratumoral CD4 and CD8 T cell behaviors in scRNA-seq data from 25 melanoma patients. We discover a large population of CD8 T cells showing continuous progression from an early effector “transitional” into a dysfunctional T cell state. CD8 T cells that express a complete cytotoxic gene set are rare, and TCR sharing data suggest their independence from the transitional and dysfunctional cell states. Notably, we demonstrate that dysfunctional T cells are the major intratumoral proliferating immune cell compartment and that the intensity of the dysfunctional signature is associated with tumor reactivity. Our data demonstrate that CD8 T cells previously defined as exhausted are in fact a highly proliferating, clonal, and dynamically differentiating cell population within the human tumor microenvironment.
+Keywords: T cell dysfunction; melanoma; single-cell RNA-seq; tumor microenvironment; tumor reactivity; immunotherapy; immune checkpoints; immunology; tumor immunology
+
+Guido van Mierlo, René A.M. Dirks, Laura De Clerck, Arie B. Brinkman, Michelle Huth, Susan L. Kloet, Nehmé Saksouk, Leonie I. Kroeze, Sander Willems, Matthias Farlik, Christoph Bock, Joop H. Jansen, Dieter Deforce, Michiel Vermeulen, Jérôme Déjardin, Maarten Dhaenens, Hendrik Marks,
+Integrative Proteomic Profiling Reveals PRC2-Dependent Epigenetic Crosstalk Maintains Ground-State Pluripotency,
+Cell Stem Cell,
+Volume 24, Issue 1,
+2019,
+Pages 123-137.e8,
+ISSN 1934-5909,
+https://doi.org/10.1016/j.stem.2018.10.017.
+(https://www.sciencedirect.com/science/article/pii/S1934590918304983)
+Abstract: Summary
+The pluripotent ground state is defined as a basal state free of epigenetic restrictions, which influence lineage specification. While naive embryonic stem cells (ESCs) can be maintained in a hypomethylated state with open chromatin when grown using two small-molecule inhibitors (2i)/leukemia inhibitory factor (LIF), in contrast to serum/LIF-grown ESCs that resemble early post-implantation embryos, broader features of the ground-state pluripotent epigenome are not well understood. We identified epigenetic features of mouse ESCs cultured using 2i/LIF or serum/LIF by proteomic profiling of chromatin-associated complexes and histone modifications. Polycomb-repressive complex 2 (PRC2) and its product H3K27me3 are highly abundant in 2i/LIF ESCs, and H3K27me3 is distributed genome-wide in a CpG-dependent fashion. Consistently, PRC2-deficient ESCs showed increased DNA methylation at sites normally occupied by H3K27me3 and increased H4 acetylation. Inhibiting DNA methylation in PRC2-deficient ESCs did not affect their viability or transcriptome. Our findings suggest a unique H3K27me3 configuration protects naive ESCs from lineage priming, and they reveal widespread epigenetic crosstalk in ground-state pluripotency.
+Keywords: chromatin profiling; epigenetics; H3K27me3; embryonic stem cells; ground-state pluripotency; histone modifications
+
+Jianing Fu, Julien Zuber, Mercedes Martinez, Brittany Shonts, Aleksandar Obradovic, Hui Wang, Sai-ping Lau, Amy Xia, Elizabeth E. Waffarn, Kristjana Frangaj, Thomas M. Savage, Michael T. Simpson, Suxiao Yang, Xinzheng V. Guo, Michelle Miron, Takashi Senda, Kortney Rogers, Adeeb Rahman, Siu-hong Ho, Yufeng Shen, Adam Griesemer, Donna L. Farber, Tomoaki Kato, Megan Sykes,
+Human Intestinal Allografts Contain Functional Hematopoietic Stem and Progenitor Cells that Are Maintained by a Circulating Pool,
+Cell Stem Cell,
+Volume 24, Issue 2,
+2019,
+Pages 227-239.e8,
+ISSN 1934-5909,
+https://doi.org/10.1016/j.stem.2018.11.007.
+(https://www.sciencedirect.com/science/article/pii/S1934590918305435)
+Abstract: Summary
+Human intestinal transplantation often results in long-term mixed chimerism of donor and recipient blood in transplant patients. We followed the phenotypes of chimeric peripheral blood cells in 21 patients receiving intestinal allografts over 5 years. Donor lymphocyte phenotypes suggested a contribution of hematopoietic stem and progenitor cells (HSPCs) from the graft. Surprisingly, we detected donor-derived HSPCs in intestinal mucosa, Peyer’s patches, mesenteric lymph nodes, and liver. Human gut HSPCs are phenotypically similar to bone marrow HSPCs and have multilineage differentiation potential in vitro and in vivo. Analysis of circulating post-transplant donor T cells suggests that they undergo selection in recipient lymphoid organs to acquire immune tolerance. Our longitudinal study of human HSPCs carried in intestinal allografts demonstrates their turnover kinetics and gradual replacement of donor-derived HSPCs from a circulating pool. Thus, we have demonstrated the existence of functioning HSPCs in human intestines with implications for promoting tolerance in transplant recipients.
+Keywords: intestinal transplantation; intestinal allograft; hematopoietic stem cell; hematopoietic progenitor cell; mixed chimerism; immune tolerance; recent thymic immigrants; T cell receptor; recipient repopulation; circulating pool
+
+Abhishek Bhattacharya, Ulkar Aghayeva, Emily G. Berghoff, Oliver Hobert,
+Plasticity of the Electrical Connectome of C. elegans,
+Cell,
+Volume 176, Issue 5,
+2019,
+Pages 1174-1189.e16,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.024.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316386)
+Abstract: Summary
+The specific patterns and functional properties of electrical synapses of a nervous system are defined by the neuron-specific complement of electrical synapse constituents. We systematically examined the molecular composition of the electrical connectome of the nematode C. elegans through a genome- and nervous-system-wide analysis of the expression patterns of the invertebrate electrical synapse constituents, the innexins. We observe highly complex combinatorial expression patterns throughout the nervous system and found that these patterns change in a strikingly neuron-type-specific manner throughout the nervous system when animals enter an insulin-controlled diapause arrest stage under harsh environmental conditions, the dauer stage. By analyzing several individual synapses, we demonstrate that dauer-specific electrical synapse remodeling is responsible for specific aspects of the altered locomotory and chemosensory behavior of dauers. We describe an intersectional gene regulatory mechanism involving terminal selector and FoxO transcription factors mediating dynamic innexin expression plasticity in a neuron-type- and environment-specific manner.
+Keywords: connectome; electrical synapse; innexins; Caenorhabditis elegans; synaptic plasticity
+
+Jonathan J. Ruprecht, Martin S. King, Thomas Zögg, Antoniya A. Aleksandrova, Els Pardon, Paul G. Crichton, Jan Steyaert, Edmund R.S. Kunji,
+The Molecular Mechanism of Transport by the Mitochondrial ADP/ATP Carrier,
+Cell,
+Volume 176, Issue 3,
+2019,
+Pages 435-447.e15,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.025.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315174)
+Abstract: Summary
+Mitochondrial ADP/ATP carriers transport ADP into the mitochondrial matrix for ATP synthesis, and ATP out to fuel the cell, by cycling between cytoplasmic-open and matrix-open states. The structure of the cytoplasmic-open state is known, but it has proved difficult to understand the transport mechanism in the absence of a structure in the matrix-open state. Here, we describe the structure of the matrix-open state locked by bongkrekic acid bound in the ADP/ATP-binding site at the bottom of the central cavity. The cytoplasmic side of the carrier is closed by conserved hydrophobic residues, and a salt bridge network, braced by tyrosines. Glycine and small amino acid residues allow close-packing of helices on the matrix side. Uniquely, the carrier switches between states by rotation of its three domains about a fulcrum provided by the substrate-binding site. Because these features are highly conserved, this mechanism is likely to apply to the whole mitochondrial carrier family.
+Video Abstract
+
+Keywords: adenine nucleotide translocator; adenine nucleotide translocase; bongkrekate; cardiolipin; induced fit; transport mechanism; bioenergetics; mitochondria; alternating access mechanism
+
+Yuichi Makino, Denis Polygalov, Federico Bolaños, Andrea Benucci, Thomas J. McHugh,
+Physiological Signature of Memory Age in the Prefrontal-Hippocampal Circuit,
+Cell Reports,
+Volume 29, Issue 12,
+2019,
+Pages 3835-3846.e5,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.075.
+(https://www.sciencedirect.com/science/article/pii/S2211124719315669)
+Abstract: Summary
+The long-term storage of episodic memory requires communication between prefrontal cortex and hippocampus. However, how consolidation alters dynamic interactions between these regions during subsequent recall remains unexplored. Here we perform simultaneous electrophysiological recordings from anterior cingulate cortex (ACC) and hippocampal CA1 in mice during recall of recent and remote contextual fear memory. We find that, in contrast to recent memory, remote memory recall is accompanied by increased ACC-CA1 synchronization at multiple frequency bands. The augmented ACC-CA1 interaction is associated with strengthened coupling among distally spaced CA1 neurons, suggesting an ACC-driven organization of a sparse code. This robust shift in physiology permits a support vector machine classifier to accurately determine memory age on the basis of the ACC-CA1 synchronization pattern. Our findings reveal that memory consolidation alters the dynamic coupling of the prefrontal-hippocampal circuit and results in a physiological signature of memory age.
+Keywords: prefrontal cortex; hippocampus; contextual fear conditioning; remote memory; theta oscillation; gamma oscillation; cross-frequency coupling; spike phase-locking; co-firing; machine learning
+
+Michael A. Wheeler, Merja Jaronen, Ruxandra Covacu, Stephanie E.J. Zandee, Giulia Scalisi, Veit Rothhammer, Emily C. Tjon, Chun-Cheih Chao, Jessica E. Kenison, Manon Blain, Vijayaraghava T.S. Rao, Patrick Hewson, Andreia Barroso, Cristina Gutiérrez-Vázquez, Alexandre Prat, Jack P. Antel, Russ Hauser, Francisco J. Quintana,
+Environmental Control of Astrocyte Pathogenic Activities in CNS Inflammation,
+Cell,
+Volume 176, Issue 3,
+2019,
+Pages 581-596.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.012.
+(https://www.sciencedirect.com/science/article/pii/S009286741831626X)
+Abstract: Summary
+Genome-wide studies have identified genetic variants linked to neurologic diseases. Environmental factors also play important roles, but no methods are available for their comprehensive investigation. We developed an approach that combines genomic data, screens in a novel zebrafish model, computational modeling, perturbation studies, and multiple sclerosis (MS) patient samples to evaluate the effects of environmental exposure on CNS inflammation. We found that the herbicide linuron amplifies astrocyte pro-inflammatory activities by activating signaling via sigma receptor 1, inositol-requiring enzyme-1α (IRE1α), and X-box binding protein 1 (XBP1). Indeed, astrocyte-specific shRNA- and CRISPR/Cas9-driven gene inactivation combined with RNA-seq, ATAC-seq, ChIP-seq, and study of patient samples suggest that IRE1α-XBP1 signaling promotes CNS inflammation in experimental autoimmune encephalomyelitis (EAE) and, potentially, MS. In summary, these studies define environmental mechanisms that control astrocyte pathogenic activities and establish a multidisciplinary approach for the systematic investigation of the effects of environmental exposure in neurologic disorders.
+Keywords: multiple sclerosis; astrocyte; inflammation; Sigmar1; IRE1α; XBP1; zebrafish; neurodegeneration; glia
+
+Guy S. Jacobs, Georgi Hudjashov, Lauri Saag, Pradiptajati Kusuma, Chelzie C. Darusallam, Daniel J. Lawson, Mayukh Mondal, Luca Pagani, François-Xavier Ricaut, Mark Stoneking, Mait Metspalu, Herawati Sudoyo, J. Stephen Lansing, Murray P. Cox,
+Multiple Deeply Divergent Denisovan Ancestries in Papuans,
+Cell,
+Volume 177, Issue 4,
+2019,
+Pages 1010-1021.e32,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.02.035.
+(https://www.sciencedirect.com/science/article/pii/S0092867419302181)
+Abstract: Summary
+Genome sequences are known for two archaic hominins—Neanderthals and Denisovans—which interbred with anatomically modern humans as they dispersed out of Africa. We identified high-confidence archaic haplotypes in 161 new genomes spanning 14 island groups in Island Southeast Asia and New Guinea and found large stretches of DNA that are inconsistent with a single introgressing Denisovan origin. Instead, modern Papuans carry hundreds of gene variants from two deeply divergent Denisovan lineages that separated over 350 thousand years ago. Spatial and temporal structure among these lineages suggest that introgression from one of these Denisovan groups predominantly took place east of the Wallace line and continued until near the end of the Pleistocene. A third Denisovan lineage occurs in modern East Asians. This regional mosaic suggests considerable complexity in archaic contact, with modern humans interbreeding with multiple Denisovan groups that were geographically isolated from each other over deep evolutionary time.
+Keywords: archaic ancestry; Denisovan; Neanderthal; Island Southeast Asia; Indonesia; New Guinea
+
+Daniel W. Bayless, Taehong Yang, Matthew M. Mason, Albert A.T. Susanto, Alexandra Lobdell, Nirao M. Shah,
+Limbic Neurons Shape Sex Recognition and Social Behavior in Sexually Naive Males,
+Cell,
+Volume 176, Issue 5,
+2019,
+Pages 1190-1205.e20,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.041.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316556)
+Abstract: Summary
+Sexually naive animals have to distinguish between the sexes because they show species-typical interactions with males and females without meaningful prior experience. However, central neural pathways in naive mammals that recognize sex of other individuals remain poorly characterized. We examined the role of the principal component of the bed nucleus of stria terminalis (BNSTpr), a limbic center, in social interactions in mice. We find that activity of aromatase-expressing BNSTpr (AB) neurons appears to encode sex of other animals and subsequent displays of mating in sexually naive males. Silencing these neurons in males eliminates preference for female pheromones and abrogates mating success, whereas activating them even transiently promotes male-male mating. Surprisingly, female AB neurons do not appear to control sex recognition, mating, or maternal aggression. In summary, AB neurons represent sex of other animals and govern ensuing social behaviors in sexually naive males.
+Keywords: aromatase; sexual dimorphism; bed nucleus of the stria terminalis; mating; sexual behavior; aggression; emotional behavior; social behavior; innate behavior; gender recognition
+
+Amar N. Mirza, Siegen A. McKellar, Nicole M. Urman, Alexander S. Brown, Tyler Hollmig, Sumaira Z. Aasi, Anthony E. Oro,
+LAP2 Proteins Chaperone GLI1 Movement between the Lamina and Chromatin to Regulate Transcription,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 198-212.e15,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.10.054.
+(https://www.sciencedirect.com/science/article/pii/S0092867418314533)
+Abstract: Summary
+Understanding transcription factor navigation through the nucleus remains critical for developing targeted therapeutics. The GLI1 transcription factor must maintain maximal Hedgehog pathway output in basal cell carcinomas (BCCs), and we have previously shown that resistant BCCs increase GLI1 deacetylation through atypical protein kinase Cι/λ (aPKC) and HDAC1. Here we identify a lamina-associated polypeptide 2 (LAP2) isoform-dependent nuclear chaperoning system that regulates GLI1 movement between the nuclear lamina and nucleoplasm to achieve maximal activation. LAP2β forms a two-site interaction with the GLI1 zinc-finger domain and acetylation site, stabilizing an acetylation-dependent reserve on the inner nuclear membrane (INM). By contrast, the nucleoplasmic LAP2α competes with LAP2β for GLI1 while scaffolding HDAC1 to deacetylate the secondary binding site. aPKC functions to promote GLI1 association with LAP2α, promoting egress off the INM. GLI1 intranuclear trafficking by LAP2 isoforms represents a powerful signal amplifier in BCCs with implications for zinc finger-based signal transduction and therapeutics.
+Keywords: GLI; Hedgehog signaling; nuclear lamina; LEM domain; LAP2; aPKC; HDAC1; basal cell carcinoma; nucleoskeleton
+
+Vidhya Rangaraju, Marcel Lauterbach, Erin M. Schuman,
+Spatially Stable Mitochondrial Compartments Fuel Local Translation during Plasticity,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 73-84.e15,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.013.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316271)
+Abstract: Summary
+Local translation meets protein turnover and plasticity demands at synapses, however, the location of its energy supply is unknown. We found that local translation in neurons is powered by mitochondria and not by glycolysis. Super-resolution microscopy revealed that dendritic mitochondria exist as stable compartments of single or multiple filaments. To test if these mitochondrial compartments can serve as local energy supply for synaptic translation, we stimulated individual synapses to induce morphological plasticity and visualized newly synthesized proteins. Depletion of local mitochondrial compartments abolished both the plasticity and the stimulus-induced synaptic translation. These mitochondrial compartments serve as spatially confined energy reserves, as local depletion of a mitochondrial compartment did not affect synaptic translation at remote spines. The length and stability of dendritic mitochondrial compartments and the spatial functional domain were altered by cytoskeletal disruption. These results indicate that cytoskeletally tethered local energy compartments exist in dendrites to fuel local translation during synaptic plasticity.
+Keywords: protein synthesis; energy; synaptic plasticity; mitochondria; compartments; nascent protein; local translation; cytoskeleton; ATP
+
+Andrei V. Krivtsov, Kathryn Evans, Jayant Y. Gadrey, Benjamin K. Eschle, Charlie Hatton, Hannah J. Uckelmann, Kenneth N. Ross, Florian Perner, Sarah N. Olsen, Tara Pritchard, Lisa McDermott, Connor D. Jones, Duohui Jing, Ali Braytee, Diego Chacon, Eric Earley, Brian M. McKeever, David Claremon, Andrew J. Gifford, Heather J. Lee, Beverly A. Teicher, John E. Pimanda, Dominik Beck, Jennifer A. Perry, Malcolm A. Smith, Gerard M. McGeehan, Richard B. Lock, Scott A. Armstrong,
+A Menin-MLL Inhibitor Induces Specific Chromatin Changes and Eradicates Disease in Models of MLL-Rearranged Leukemia,
+Cancer Cell,
+Volume 36, Issue 6,
+2019,
+Pages 660-673.e11,
+ISSN 1535-6108,
+https://doi.org/10.1016/j.ccell.2019.11.001.
+(https://www.sciencedirect.com/science/article/pii/S1535610819305215)
+Abstract: Summary
+Inhibition of the Menin (MEN1) and MLL (MLL1, KMT2A) interaction is a potential therapeutic strategy for MLL-rearranged (MLL-r) leukemia. Structure-based design yielded the potent, highly selective, and orally bioavailable small-molecule inhibitor VTP50469. Cell lines carrying MLL rearrangements were selectively responsive to VTP50469. VTP50469 displaced Menin from protein complexes and inhibited chromatin occupancy of MLL at select genes. Loss of MLL binding led to changes in gene expression, differentiation, and apoptosis. Patient-derived xenograft (PDX) models derived from patients with either MLL-r acute myeloid leukemia or MLL-r acute lymphoblastic leukemia (ALL) showed dramatic reductions of leukemia burden when treated with VTP50469. Multiple mice engrafted with MLL-r ALL remained disease free for more than 1 year after treatment. These data support rapid translation of this approach to clinical trials.
+Keywords: MLL fusion; Menin inhibitor; leukemia; acute myeloid leukemia (AML); infant B cell acute lymphoblastic leukemia (B-ALL); chromatin remodeling; DOT1L
+
+Joseph Rodriguez, Gang Ren, Christopher R. Day, Keji Zhao, Carson C. Chow, Daniel R. Larson,
+Intrinsic Dynamics of a Human Gene Reveal the Basis of Expression Heterogeneity,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 213-226.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.026.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315186)
+Abstract: Summary
+Transcriptional regulation in metazoans occurs through long-range genomic contacts between enhancers and promoters, and most genes are transcribed in episodic “bursts” of RNA synthesis. To understand the relationship between these two phenomena and the dynamic regulation of genes in response to upstream signals, we describe the use of live-cell RNA imaging coupled with Hi-C measurements and dissect the endogenous regulation of the estrogen-responsive TFF1 gene. Although TFF1 is highly induced, we observe short active periods and variable inactive periods ranging from minutes to days. The heterogeneity in inactive times gives rise to the widely observed “noise” in human gene expression and explains the distribution of protein levels in human tissue. We derive a mathematical model of regulation that relates transcription, chromosome structure, and the cell’s ability to sense changes in estrogen and predicts that hypervariability is largely dynamic and does not reflect a stable biological state.
+Keywords: live-cell; single-molecule; imaging; transcription; estrogen; steroid; heterogeneity; chromosome; fluorescence; RNA
+
+Geoffrey Schiebinger, Jian Shu, Marcin Tabaka, Brian Cleary, Vidya Subramanian, Aryeh Solomon, Joshua Gould, Siyan Liu, Stacie Lin, Peter Berube, Lia Lee, Jenny Chen, Justin Brumbaugh, Philippe Rigollet, Konrad Hochedlinger, Rudolf Jaenisch, Aviv Regev, Eric S. Lander,
+Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming,
+Cell,
+Volume 176, Issue 4,
+2019,
+Pages 928-943.e22,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.006.
+(https://www.sciencedirect.com/science/article/pii/S009286741930039X)
+Abstract: Summary
+Understanding the molecular programs that guide differentiation during development is a major challenge. Here, we introduce Waddington-OT, an approach for studying developmental time courses to infer ancestor-descendant fates and model the regulatory programs that underlie them. We apply the method to reconstruct the landscape of reprogramming from 315,000 single-cell RNA sequencing (scRNA-seq) profiles, collected at half-day intervals across 18 days. The results reveal a wider range of developmental programs than previously characterized. Cells gradually adopt either a terminal stromal state or a mesenchymal-to-epithelial transition state. The latter gives rise to populations related to pluripotent, extra-embryonic, and neural cells, with each harboring multiple finer subpopulations. The analysis predicts transcription factors and paracrine signals that affect fates and experiments validate that the TF Obox6 and the cytokine GDF9 enhance reprogramming efficiency. Our approach sheds light on the process and outcome of reprogramming and provides a framework applicable to diverse temporal processes in biology.
+Keywords: optimal-transport; reprogramming; scRNA-seq; trajectories; ancestors; descendants; development; regulation; paracrine interactions; iPSCs
+
+Amélie Montel-Hagen, Christopher S. Seet, Suwen Li, Brent Chick, Yuhua Zhu, Patrick Chang, Steven Tsai, Victoria Sun, Shawn Lopez, Ho-Chung Chen, Chongbin He, Chee Jia Chin, David Casero, Gay M. Crooks,
+Organoid-Induced Differentiation of Conventional T Cells from Human Pluripotent Stem Cells,
+Cell Stem Cell,
+Volume 24, Issue 3,
+2019,
+Pages 376-389.e8,
+ISSN 1934-5909,
+https://doi.org/10.1016/j.stem.2018.12.011.
+(https://www.sciencedirect.com/science/article/pii/S1934590918306015)
+Abstract: Summary
+The ability to generate T cells from pluripotent stem cells (PSCs) has the potential to transform autologous T cell immunotherapy by facilitating universal, off-the-shelf cell products. However, differentiation of human PSCs into mature, conventional T cells has been challenging with existing methods. We report that a continuous 3D organoid system induced an orderly sequence of commitment and differentiation from PSC-derived embryonic mesoderm through hematopoietic specification and efficient terminal differentiation to naive CD3+CD8αβ+ and CD3+CD4+ conventional T cells with a diverse T cell receptor (TCR) repertoire. Introduction of an MHC class I-restricted TCR in PSCs produced naive, antigen-specific CD8αβ+ T cells that lacked endogenous TCR expression and showed anti-tumor efficacy in vitro and in vivo. Functional assays and RNA sequencing aligned PSC-derived T cells with primary naive CD8+ T cells. The PSC-artificial thymic organoid (ATO) system presented here is an efficient platform for generating functional, mature T cells from human PSCs.
+Keywords: human pluripotent stem cells; T cell development; 3D organoids; conventional T cells; immunotherapy; lymphopoiesis; in vitro; hematopoiesis
+
+Leif S. Ludwig, Caleb A. Lareau, Jacob C. Ulirsch, Elena Christian, Christoph Muus, Lauren H. Li, Karin Pelka, Will Ge, Yaara Oren, Alison Brack, Travis Law, Christopher Rodman, Jonathan H. Chen, Genevieve M. Boland, Nir Hacohen, Orit Rozenblatt-Rosen, Martin J. Aryee, Jason D. Buenrostro, Aviv Regev, Vijay G. Sankaran,
+Lineage Tracing in Humans Enabled by Mitochondrial Mutations and Single-Cell Genomics,
+Cell,
+Volume 176, Issue 6,
+2019,
+Pages 1325-1339.e22,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.022.
+(https://www.sciencedirect.com/science/article/pii/S0092867419300558)
+Abstract: Summary
+Lineage tracing provides key insights into the fate of individual cells in complex organisms. Although effective genetic labeling approaches are available in model systems, in humans, most approaches require detection of nuclear somatic mutations, which have high error rates, limited scale, and do not capture cell state information. Here, we show that somatic mutations in mtDNA can be tracked by single-cell RNA or assay for transposase accessible chromatin (ATAC) sequencing. We leverage somatic mtDNA mutations as natural genetic barcodes and demonstrate their utility as highly accurate clonal markers to infer cellular relationships. We track native human cells both in vitro and in vivo and relate clonal dynamics to gene expression and chromatin accessibility. Our approach should allow clonal tracking at a 1,000-fold greater scale than with nuclear genome sequencing, with simultaneous information on cell state, opening the way to chart cellular dynamics in human health and disease.
+Keywords: lineage tracing; single cell genomics; somatic mutations; mitochondrial DNA; mtDNA; sequencing; hematopoiesis; chronic myeloid leukemia; colon cancer
+
+Federico Rojas, Eleanor Silvester, Julie Young, Rachel Milne, Mabel Tettey, Douglas R. Houston, Malcolm D. Walkinshaw, Irene Pérez-Pi, Manfred Auer, Helen Denton, Terry K. Smith, Joanne Thompson, Keith R. Matthews,
+Oligopeptide Signaling through TbGPR89 Drives Trypanosome Quorum Sensing,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 306-317.e16,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.10.041.
+(https://www.sciencedirect.com/science/article/pii/S0092867418313977)
+Abstract: Summary
+Trypanosome parasites control their virulence and spread by using quorum sensing (QS) to generate transmissible “stumpy forms” in their host bloodstream. However, the QS signal “stumpy induction factor” (SIF) and its reception mechanism are unknown. Although trypanosomes lack G protein-coupled receptor signaling, we have identified a surface GPR89-family protein that regulates stumpy formation. TbGPR89 is expressed on bloodstream “slender form” trypanosomes, which receive the SIF signal, and when ectopically expressed, TbGPR89 drives stumpy formation in a SIF-pathway-dependent process. Structural modeling of TbGPR89 predicts unexpected similarity to oligopeptide transporters (POT), and when expressed in bacteria, TbGPR89 transports oligopeptides. Conversely, expression of an E. coli POT in trypanosomes drives parasite differentiation, and oligopeptides promote stumpy formation in vitro. Furthermore, the expression of secreted trypanosome oligopeptidases generates a paracrine signal that accelerates stumpy formation in vivo. Peptidase-generated oligopeptide QS signals being received through TbGPR89 provides a mechanism for both trypanosome SIF production and reception.
+Keywords: Trypanosome brucei; parasite; quorum sensing; stumpy induction factor; differentiation; GPR89; oligopeptide; sleeping sickness
+
+Shuo Liu, Simone Hausmann, Scott Moore Carlson, Mary Esmeralda Fuentes, Joel William Francis, Renjitha Pillai, Shane Michael Lofgren, Laura Hulea, Kristofferson Tandoc, Jiuwei Lu, Ami Li, Nicholas Dang Nguyen, Marcello Caporicci, Michael Paul Kim, Anirban Maitra, Huamin Wang, Ignacio Ivan Wistuba, John Anthony Porco, Michael Cory Bassik, Joshua Eric Elias, Jikui Song, Ivan Topisirovic, Capucine Van Rechem, Pawel Karol Mazur, Or Gozani,
+METTL13 Methylation of eEF1A Increases Translational Output to Promote Tumorigenesis,
+Cell,
+Volume 176, Issue 3,
+2019,
+Pages 491-504.e21,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.11.038.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315630)
+Abstract: Summary
+Increased protein synthesis plays an etiologic role in diverse cancers. Here, we demonstrate that METTL13 (methyltransferase-like 13) dimethylation of eEF1A (eukaryotic elongation factor 1A) lysine 55 (eEF1AK55me2) is utilized by Ras-driven cancers to increase translational output and promote tumorigenesis in vivo. METTL13-catalyzed eEF1A methylation increases eEF1A’s intrinsic GTPase activity in vitro and protein production in cells. METTL13 and eEF1AK55me2 levels are upregulated in cancer and negatively correlate with pancreatic and lung cancer patient survival. METTL13 deletion and eEF1AK55me2 loss dramatically reduce Ras-driven neoplastic growth in mouse models and in patient-derived xenografts (PDXs) from primary pancreatic and lung tumors. Finally, METTL13 depletion renders PDX tumors hypersensitive to drugs that target growth-signaling pathways. Together, our work uncovers a mechanism by which lethal cancers become dependent on the METTL13-eEF1AK55me2 axis to meet their elevated protein synthesis requirement and suggests that METTL13 inhibition may constitute a targetable vulnerability of tumors driven by aberrant Ras signaling.
+Keywords: METTL13; eEF1A; lysine methylation; RAS; protein methylation; translation; translation elongation; pancreatic cancer; lung cancer
+
+Laura B. Duvall, Lavoisier Ramos-Espiritu, Kyrollos E. Barsoum, J. Fraser Glickman, Leslie B. Vosshall,
+Small-Molecule Agonists of Ae. aegypti Neuropeptide Y Receptor Block Mosquito Biting,
+Cell,
+Volume 176, Issue 4,
+2019,
+Pages 687-701.e5,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.004.
+(https://www.sciencedirect.com/science/article/pii/S0092867418315873)
+Abstract: Summary
+Female Aedes aegypti mosquitoes bite humans to obtain blood to develop their eggs. Remarkably, their strong attraction to humans is suppressed for days after the blood meal by an unknown mechanism. We investigated a role for neuropeptide Y (NPY)-related signaling in long-term behavioral suppression and discovered that drugs targeting human NPY receptors modulate mosquito host-seeking. In a screen of all 49 predicted Ae. aegypti peptide receptors, we identified NPY-like receptor 7 (NPYLR7) as the sole target of these drugs. To obtain small-molecule agonists selective for NPYLR7, we performed a high-throughput cell-based assay of 265,211 compounds and isolated six highly selective NPYLR7 agonists that inhibit mosquito attraction to humans. NPYLR7 CRISPR-Cas9 null mutants are defective in behavioral suppression and resistant to these drugs. Finally, we show that these drugs can inhibit biting and blood-feeding on a live host, suggesting a novel approach to control infectious disease transmission by controlling mosquito behavior.
+Video Abstract
+
+Keywords: Aedes aegypti; mosquito; neuropeptide Y; feeding; host-seeking behavior; high-throughput small-molecule screen; blood-feeding; Zika; dengue; CRISPR-Cas9
+
+Kareem N. Mohni, Sarah R. Wessel, Runxiang Zhao, Andrea C. Wojciechowski, Jessica W. Luzwick, Hillary Layden, Brandt F. Eichman, Petria S. Thompson, Kavi P.M. Mehta, David Cortez,
+HMCES Maintains Genome Integrity by Shielding Abasic Sites in Single-Strand DNA,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 144-153.e13,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.10.055.
+(https://www.sciencedirect.com/science/article/pii/S0092867418314545)
+Abstract: Summary
+Abasic sites are one of the most common DNA lesions. All known abasic site repair mechanisms operate only when the damage is in double-stranded DNA. Here, we report the discovery of 5-hydroxymethylcytosine (5hmC) binding, ESC-specific (HMCES) as a sensor of abasic sites in single-stranded DNA. HMCES acts at replication forks, binds PCNA and single-stranded DNA, and generates a DNA-protein crosslink to shield abasic sites from error-prone processing. This unusual HMCES DNA-protein crosslink intermediate is resolved by proteasome-mediated degradation. Acting as a suicide enzyme, HMCES prevents translesion DNA synthesis and the action of endonucleases that would otherwise generate mutations and double-strand breaks. HMCES is evolutionarily conserved in all domains of life, and its biochemical properties are shared with its E. coli ortholog. Thus, HMCES is an ancient DNA lesion recognition protein that preserves genome integrity by promoting error-free repair of abasic sites in single-stranded DNA.
+Keywords: HMCES; SRAP; DNA replication; DNA repair; replication stress; translesion DNA synthesis; DNA-protein crosslink; 5-hydroxymethylcytosine; REV1; PCNA
+
+Helmuth Gehart, Johan H. van Es, Karien Hamer, Joep Beumer, Kai Kretzschmar, Johanna F. Dekkers, Anne Rios, Hans Clevers,
+Identification of Enteroendocrine Regulators by Real-Time Single-Cell Differentiation Mapping,
+Cell,
+Volume 176, Issue 5,
+2019,
+Pages 1158-1173.e16,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.029.
+(https://www.sciencedirect.com/science/article/pii/S009286741831643X)
+Abstract: Summary
+Homeostatic regulation of the intestinal enteroendocrine lineage hierarchy is a poorly understood process. We resolved transcriptional changes during enteroendocrine differentiation in real time at single-cell level using a novel knockin allele of Neurog3, the master regulator gene briefly expressed at the onset of enteroendocrine specification. A bi-fluorescent reporter, Neurog3Chrono, measures time from the onset of enteroendocrine differentiation and enables precise positioning of single-cell transcriptomes along an absolute time axis. This approach yielded a definitive description of the enteroendocrine hierarchy and its sub-lineages, uncovered differential kinetics between sub-lineages, and revealed time-dependent hormonal plasticity in enterochromaffin and L cells. The time-resolved map of transcriptional changes predicted multiple novel molecular regulators. Nine of these were validated by conditional knockout in mice or CRISPR modification in intestinal organoids. Six novel candidate regulators (Sox4, Rfx6, Tox3, Myt1, Runx1t1, and Zcchc12) yielded specific enteroendocrine phenotypes. Our time-resolved single-cell transcriptional map presents a rich resource to unravel enteroendocrine differentiation.
+Keywords: enteroendocrine; single-cell sequencing; timer; organoid; plasticity; fate mapping; hormone; intestine; Neurog3
+
+Christine R. Beck, Claudia M.B. Carvalho, Zeynep C. Akdemir, Fritz J. Sedlazeck, Xiaofei Song, Qingchang Meng, Jianhong Hu, Harsha Doddapaneni, Zechen Chong, Edward S. Chen, Philip C. Thornton, Pengfei Liu, Bo Yuan, Marjorie Withers, Shalini N. Jhangiani, Divya Kalra, Kimberly Walker, Adam C. English, Yi Han, Ken Chen, Donna M. Muzny, Grzegorz Ira, Chad A. Shaw, Richard A. Gibbs, P.J. Hastings, James R. Lupski,
+Megabase Length Hypermutation Accompanies Human Structural Variation at 17p11.2,
+Cell,
+Volume 176, Issue 6,
+2019,
+Pages 1310-1324.e10,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.045.
+(https://www.sciencedirect.com/science/article/pii/S0092867419301084)
+Abstract: Summary
+DNA rearrangements resulting in human genome structural variants (SVs) are caused by diverse mutational mechanisms. We used long- and short-read sequencing technologies to investigate end products of de novo chromosome 17p11.2 rearrangements and query the molecular mechanisms underlying both recurrent and non-recurrent events. Evidence for an increased rate of clustered single-nucleotide variant (SNV) mutation in cis with non-recurrent rearrangements was found. Indel and SNV formation are associated with both copy-number gains and losses of 17p11.2, occur up to ∼1 Mb away from the breakpoint junctions, and favor C > G transversion substitutions; results suggest that single-stranded DNA is formed during the genesis of the SV and provide compelling support for a microhomology-mediated break-induced replication (MMBIR) mechanism for SV formation. Our data show an additional mutational burden of MMBIR consisting of hypermutation confined to the locus and manifesting as SNVs and indels predominantly within genes.
+Keywords: complex rearrangements; CNVs; long-read sequencing; phasing; genomic characterization; DNA repair; genomic disorders
+
+Emily S. Bell, Paula Pinto Coelho, Colin D.H. Ratcliffe, Charles V. Rajadurai, Pascal Peschard, Richard Vaillancourt, Dongmei Zuo, Morag Park,
+LC3C-Mediated Autophagy Selectively Regulates the Met RTK and HGF-Stimulated Migration and Invasion,
+Cell Reports,
+Volume 29, Issue 12,
+2019,
+Pages 4053-4068.e6,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.063.
+(https://www.sciencedirect.com/science/article/pii/S2211124719315542)
+Abstract: Summary
+The Met/hepatocyte growth factor (HGF) receptor tyrosine kinase (RTK) is deregulated in many cancers and is a recognized target for cancer therapies. Following HGF stimulation, the signaling output of Met is tightly controlled by receptor internalization and sorting for degradation or recycling. Here, we uncover a role for autophagy in selective degradation of Met and regulation of Met-dependent cell migration and invasion. Met engagement with the autophagic pathway is dependent on complex formation with the mammalian ATG8 family member MAP1LC3C. LC3C deletion abrogates Met entry into the autophagy-dependent degradative pathway, allowing identification of LC3C domains required for rescue. Cancer cells with low LC3C levels show enhanced Met stability, signaling, and cell invasion. These findings provide mechanistic insight into RTK recruitment to autophagosomes and establish distinct roles for ATG8 proteins in this process, supporting that differential expression of ATG8 proteins can shape the functional consequences of autophagy in cancer development and progression.
+Keywords: MET; autophagy; RTK; LC3C; VHL; cell migration; cell signaling; membrane trafficking; endocytosis; cancer
+
+Zhe Zhang, Peng Zhong, Fei Hu, Zeke Barger, Yulan Ren, Xinlu Ding, Shangzhong Li, Franz Weber, Shinjae Chung, Richard D. Palmiter, Yang Dan,
+An Excitatory Circuit in the Perioculomotor Midbrain for Non-REM Sleep Control,
+Cell,
+Volume 177, Issue 5,
+2019,
+Pages 1293-1307.e16,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.03.041.
+(https://www.sciencedirect.com/science/article/pii/S0092867419303423)
+Abstract: Summary
+The perioculomotor (pIII) region of the midbrain was postulated as a sleep-regulating center in the 1890s but largely neglected in subsequent studies. Using activity-dependent labeling and gene expression profiling, we identified pIII neurons that promote non-rapid eye movement (NREM) sleep. Optrode recording showed that pIII glutamatergic neurons expressing calcitonin gene-related peptide alpha (CALCA) are NREM-sleep active; optogenetic and chemogenetic activation/inactivation showed that they strongly promote NREM sleep. Within the pIII region, CALCA neurons form reciprocal connections with another population of glutamatergic neurons that express the peptide cholecystokinin (CCK). Activation of CCK neurons also promoted NREM sleep. Both CALCA and CCK neurons project rostrally to the preoptic hypothalamus, whereas CALCA neurons also project caudally to the posterior ventromedial medulla. Activation of each projection increased NREM sleep. Together, these findings point to the pIII region as an excitatory sleep center where different subsets of glutamatergic neurons promote NREM sleep through both local reciprocal connections and long-range projections.
+Keywords: NREM sleep; midbrain; perioculomotor; gene profiling; optogenetics; chemogenetics; glutamatergic; calcitonin-gene related peptide; cholecystokinin
+
+Nikki K. Lytle, L. Paige Ferguson, Nirakar Rajbhandari, Kathryn Gilroy, Raymond G. Fox, Anagha Deshpande, Christian M. Schürch, Michael Hamilton, Neil Robertson, Wei Lin, Pawan Noel, Martin Wartenberg, Inti Zlobec, Micha Eichmann, José A. Galván, Eva Karamitopoulou, Tami Gilderman, Lourdes Adriana Esparza, Yutaka Shima, Philipp Spahn, Randall French, Nathan E. Lewis, Kathleen M. Fisch, Roman Sasik, Sara Brin Rosenthal, Marcie Kritzik, Daniel Von Hoff, Haiyong Han, Trey Ideker, Aniruddha J. Deshpande, Andrew M. Lowy, Peter D. Adams, Tannishtha Reya,
+A Multiscale Map of the Stem Cell State in Pancreatic Adenocarcinoma,
+Cell,
+Volume 177, Issue 3,
+2019,
+Pages 572-586.e22,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.03.010.
+(https://www.sciencedirect.com/science/article/pii/S0092867419302727)
+Abstract: Summary
+Drug resistance and relapse remain key challenges in pancreatic cancer. Here, we have used RNA sequencing (RNA-seq), chromatin immunoprecipitation (ChIP)-seq, and genome-wide CRISPR analysis to map the molecular dependencies of pancreatic cancer stem cells, highly therapy-resistant cells that preferentially drive tumorigenesis and progression. This integrated genomic approach revealed an unexpected utilization of immuno-regulatory signals by pancreatic cancer epithelial cells. In particular, the nuclear hormone receptor retinoic-acid-receptor-related orphan receptor gamma (RORγ), known to drive inflammation and T cell differentiation, was upregulated during pancreatic cancer progression, and its genetic or pharmacologic inhibition led to a striking defect in pancreatic cancer growth and a marked improvement in survival. Further, a large-scale retrospective analysis in patients revealed that RORγ expression may predict pancreatic cancer aggressiveness, as it positively correlated with advanced disease and metastasis. Collectively, these data identify an orthogonal co-option of immuno-regulatory signals by pancreatic cancer stem cells, suggesting that autoimmune drugs should be evaluated as novel treatment strategies for pancreatic cancer patients.
+Keywords: stem cells; Musashi; Msi; cancer stem cells; pancreatic cancer; cancer; PDAC; RORg; immune; cytokines
+
+Masatoshi Inoue, Atsuya Takeuchi, Satoshi Manita, Shin-ichiro Horigane, Masayuki Sakamoto, Ryosuke Kawakami, Kazushi Yamaguchi, Kouhei Otomo, Hiroyuki Yokoyama, Ryang Kim, Tatsushi Yokoyama, Sayaka Takemoto-Kimura, Manabu Abe, Michiko Okamura, Yayoi Kondo, Sean Quirin, Charu Ramakrishnan, Takeshi Imamura, Kenji Sakimura, Tomomi Nemoto, Masanobu Kano, Hajime Fujii, Karl Deisseroth, Kazuo Kitamura, Haruhiko Bito,
+Rational Engineering of XCaMPs, a Multicolor GECI Suite for In Vivo Imaging of Complex Brain Circuit Dynamics,
+Cell,
+Volume 177, Issue 5,
+2019,
+Pages 1346-1360.e24,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.04.007.
+(https://www.sciencedirect.com/science/article/pii/S0092867419303939)
+Abstract: Summary
+To decipher dynamic brain information processing, current genetically encoded calcium indicators (GECIs) are limited in single action potential (AP) detection speed, combinatorial spectral compatibility, and two-photon imaging depth. To address this, here, we rationally engineered a next-generation quadricolor GECI suite, XCaMPs. Single AP detection was achieved within 3–10 ms of spike onset, enabling measurements of fast-spike trains in parvalbumin (PV)-positive interneurons in the barrel cortex in vivo and recording three distinct (two inhibitory and one excitatory) ensembles during pre-motion activity in freely moving mice. In vivo paired recording of pre- and postsynaptic firing revealed spatiotemporal constraints of dendritic inhibition in layer 1 in vivo, between axons of somatostatin (SST)-positive interneurons and apical tufts dendrites of excitatory pyramidal neurons. Finally, non-invasive, subcortical imaging using red XCaMP-R uncovered somatosensation-evoked persistent activity in hippocampal CA1 neurons. Thus, the XCaMPs offer a critical enhancement of solution space in studies of complex neuronal circuit dynamics.
+Video Abstract
+
+Keywords: genetically encoded calcium indicators; two-photon Ca2+ imaging; XCaMP; PV recording; paired pre- and post-synapse recording; non-invasive hippocampal recording; ckkap sequence; multiplex imaging
+
+Ayesh K. Seneviratne, Mingjing Xu, Juan J. Aristizabal Henao, Val A. Fajardo, Zhenyue Hao, Veronique Voisin, G. Wei Xu, Rose Hurren, S. Kim, Neil MacLean, Xiaoming Wang, Marcela Gronda, Danny Jeyaraju, Yulia Jitkova, Troy Ketela, Michael Mullokandov, David Sharon, Geethu Thomas, Raphaël Chouinard-Watkins, James R. Hawley, Caitlin Schafer, Helen Loo Yau, Zaza Khuchua, Ahmed Aman, Rima Al-awar, Atan Gross, Steven M. Claypool, Richard P. Bazinet, Mathieu Lupien, Steven Chan, Daniel D. De Carvalho, Mark D. Minden, Gary D. Bader, Ken D. Stark, Paul LeBlanc, Aaron D. Schimmer,
+The Mitochondrial Transacylase, Tafazzin, Regulates AML Stemness by Modulating Intracellular Levels of Phospholipids,
+Cell Stem Cell,
+Volume 24, Issue 4,
+2019,
+Pages 621-636.e16,
+ISSN 1934-5909,
+https://doi.org/10.1016/j.stem.2019.02.020.
+(https://www.sciencedirect.com/science/article/pii/S1934590919300724)
+Abstract: Summary
+Tafazzin (TAZ) is a mitochondrial transacylase that remodels the mitochondrial cardiolipin into its mature form. Through a CRISPR screen, we identified TAZ as necessary for the growth and viability of acute myeloid leukemia (AML) cells. Genetic inhibition of TAZ reduced stemness and increased differentiation of AML cells both in vitro and in vivo. In contrast, knockdown of TAZ did not impair normal hematopoiesis under basal conditions. Mechanistically, inhibition of TAZ decreased levels of cardiolipin but also altered global levels of intracellular phospholipids, including phosphatidylserine, which controlled AML stemness and differentiation by modulating toll-like receptor (TLR) signaling.
+Keywords: tafazzin; cardiolipin; phosphatidylserine; phospholipids; mitochondria; cancer differentiation; leukemia initiating cell; acute myeloid leukemia
+
+Harry Mickalide, Seppe Kuehn,
+Higher-Order Interaction between Species Inhibits Bacterial Invasion of a Phototroph-Predator Microbial Community,
+Cell Systems,
+Volume 9, Issue 6,
+2019,
+Pages 521-533.e10,
+ISSN 2405-4712,
+https://doi.org/10.1016/j.cels.2019.11.004.
+(https://www.sciencedirect.com/science/article/pii/S2405471219303904)
+Abstract: Summary
+The composition of an ecosystem is thought to be important for determining its resistance to invasion. Studies of natural ecosystems, from plant to microbial communities, have found that more diverse communities are more resistant to invasion. In some cases, more diverse communities resist invasion by more completely consuming the resources necessary for the invader. We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present. The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption. We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation. This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification.
+Keywords: ecology; microbial ecology; ecological modeling; higher-order interactions; physics of living systems; population dynamics
+
+Tetsuro Kobayashi, Benjamin Voisin, Do Young Kim, Elizabeth A. Kennedy, Jay-Hyun Jo, Han-Yu Shih, Amanda Truong, Thomas Doebel, Keiko Sakamoto, Chang-Yi Cui, David Schlessinger, Kazuyo Moro, Susumu Nakae, Keisuke Horiuchi, Jinfang Zhu, Warren J. Leonard, Heidi H. Kong, Keisuke Nagao,
+Homeostatic Control of Sebaceous Glands by Innate Lymphoid Cells Regulates Commensal Bacteria Equilibrium,
+Cell,
+Volume 176, Issue 5,
+2019,
+Pages 982-997.e16,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.031.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316453)
+Abstract: Summary
+Immune cells and epithelium form sophisticated barrier systems in symbiotic relationships with microbiota. Evidence suggests that immune cells can sense microbes through intact barriers, but regulation of microbial commensalism remain largely unexplored. Here, we uncovered spatial compartmentalization of skin-resident innate lymphoid cells (ILCs) and modulation of sebaceous glands by a subset of RORγt+ ILCs residing within hair follicles in close proximity to sebaceous glands. Their persistence in skin required IL-7 and thymic stromal lymphopoietin, and localization was dependent on the chemokine receptor CCR6. ILC subsets expressed TNF receptor ligands, which limited sebocyte growth by repressing Notch signaling pathway. Consequently, loss of ILCs resulted in sebaceous hyperplasia with increased production of antimicrobial lipids and restricted commensalism of Gram-positive bacterial communities. Thus, epithelia-derived signals maintain skin-resident ILCs that regulate microbial commensalism through sebaceous gland-mediated tuning of the barrier surface, highlighting an immune-epithelia circuitry that facilitates host-microbe symbiosis.
+
+Michael D. Vahey, Daniel A. Fletcher,
+Low-Fidelity Assembly of Influenza A Virus Promotes Escape from Host Cells,
+Cell,
+Volume 176, Issues 1–2,
+2019,
+Pages 281-294.e19,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.10.056.
+(https://www.sciencedirect.com/science/article/pii/S0092867418314557)
+Abstract: Summary
+Influenza viruses inhabit a wide range of host environments using a limited repertoire of protein components. Unlike viruses with stereotyped shapes, influenza produces virions with significant morphological variability even within clonal populations. Whether this tendency to form pleiomorphic virions is coupled to compositional heterogeneity and whether it affects replicative fitness remains unclear. Here, we address these questions by developing a strain of influenza A virus amenable to rapid compositional characterization through quantitative, site-specific labeling of viral proteins. Using this strain, we find that influenza A produces virions with broad variations in size and composition from even single infected cells. This phenotypic variability contributes to virus survival during environmental challenges, including exposure to antivirals. Complementing genetic adaptations that act over larger populations and longer times, this “low-fidelity” assembly of influenza A virus allows small populations to survive environments that fluctuate over individual replication cycles.
+
+Peter A. Audano, Arvis Sulovari, Tina A. Graves-Lindsay, Stuart Cantsilieris, Melanie Sorensen, AnneMarie E. Welch, Max L. Dougherty, Bradley J. Nelson, Ankeeta Shah, Susan K. Dutcher, Wesley C. Warren, Vincent Magrini, Sean D. McGrath, Yang I. Li, Richard K. Wilson, Evan E. Eichler,
+Characterizing the Major Structural Variant Alleles of the Human Genome,
+Cell,
+Volume 176, Issue 3,
+2019,
+Pages 663-675.e19,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.019.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316337)
+Abstract: Summary
+In order to provide a comprehensive resource for human structural variants (SVs), we generated long-read sequence data and analyzed SVs for fifteen human genomes. We sequence resolved 99,604 insertions, deletions, and inversions including 2,238 (1.6 Mbp) that are shared among all discovery genomes with an additional 13,053 (6.9 Mbp) present in the majority, indicating minor alleles or errors in the reference. Genotyping in 440 additional genomes confirms the most common SVs in unique euchromatin are now sequence resolved. We report a ninefold SV bias toward the last 5 Mbp of human chromosomes with nearly 55% of all VNTRs (variable number of tandem repeats) mapping to this portion of the genome. We identify SVs affecting coding and noncoding regulatory loci improving annotation and interpretation of functional variation. These data provide the framework to construct a canonical human reference and a resource for developing advanced representations capable of capturing allelic diversity.
+Keywords: whole-genome sequence and assembly; single-molecule; real-time (SMRT) sequencing; structural variation; gap closure; major allele; human reference genome
+
+Kevin Bode, Fatmire Bujupi, Corinna Link, Tobias Hein, Stephanie Zimmermann, Diluka Peiris, Vincent Jaquet, Bernd Lepenies, Heiko Weyd, Peter H. Krammer,
+Dectin-1 Binding to Annexins on Apoptotic Cells Induces Peripheral Immune Tolerance via NADPH Oxidase-2,
+Cell Reports,
+Volume 29, Issue 13,
+2019,
+Pages 4435-4446.e9,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2019.11.086.
+(https://www.sciencedirect.com/science/article/pii/S2211124719315773)
+Abstract: Summary
+Uptake of apoptotic cells (ACs) by dendritic cells (DCs) and induction of a tolerogenic DC phenotype is an important mechanism for establishing peripheral tolerance to self-antigens. The receptors involved and underlying signaling pathways are not fully understood. Here, we identify Dectin-1 as a crucial tolerogenic receptor binding with nanomolar affinity to the core domain of several annexins (annexin A1, A5, and A13) exposed on ACs. Annexins bind to Dectin-1 on a site distinct from the interaction site of pathogen-derived β-glucans. Subsequent tolerogenic signaling induces selective phosphorylation of spleen tyrosine kinase (SYK), causing activation of NADPH oxidase-2 and moderate production of reactive oxygen species. Thus, mice deficient for Dectin-1 develop autoimmune pathologies (autoantibodies and splenomegaly) and generate stronger immune responses (cytotoxic T cells) against ACs. Our data describe an important immunological checkpoint system and provide a link between immunosuppressive signals of ACs and maintenance of peripheral immune tolerance.
+Keywords: Dectin-1; annexin (A1, A5, and A13); apoptotic cells; dendritic cells; peripheral immune tolerance; autoimmunity; SYK; NOX-2; reactive oxygen species; biased agonism
+
+Lea H. Gregersen, Richard Mitter, Alejandro P. Ugalde, Takayuki Nojima, Nicholas J. Proudfoot, Reuven Agami, Aengus Stewart, Jesper Q. Svejstrup,
+SCAF4 and SCAF8, mRNA Anti-Terminator Proteins,
+Cell,
+Volume 177, Issue 7,
+2019,
+Pages 1797-1813.e18,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.04.038.
+(https://www.sciencedirect.com/science/article/pii/S009286741930457X)
+Abstract: Summary
+Accurate regulation of mRNA termination is required for correct gene expression. Here, we describe a role for SCAF4 and SCAF8 as anti-terminators, suppressing the use of early, alternative polyadenylation (polyA) sites. The SCAF4/8 proteins bind the hyper-phosphorylated RNAPII C-terminal repeat domain (CTD) phosphorylated on both Ser2 and Ser5 and are detected at early, alternative polyA sites. Concomitant knockout of human SCAF4 and SCAF8 results in altered polyA selection and subsequent early termination, leading to expression of truncated mRNAs and proteins lacking functional domains and is cell lethal. While SCAF4 and SCAF8 work redundantly to suppress early mRNA termination, they also have independent, non-essential functions. SCAF8 is an RNAPII elongation factor, whereas SCAF4 is required for correct termination at canonical, distal transcription termination sites in the presence of SCAF8. Together, SCAF4 and SCAF8 coordinate the transition between elongation and termination, ensuring correct polyA site selection and RNAPII transcriptional termination in human cells.
+Keywords: SCAF4; SCAF8; RNA polymerase II; C-terminal repeat domain (CTD); CTD phosphorylation; transcriptional termination; transcript elongation; co-transcriptional mRNA processing; polyadenylation; anti-termination
+
+Shunxin Wang, Carl Veller, Fei Sun, Aurora Ruiz-Herrera, Yongliang Shang, Hongbin Liu, Denise Zickler, Zijiang Chen, Nancy Kleckner, Liangran Zhang,
+Per-Nucleus Crossover Covariation and Implications for Evolution,
+Cell,
+Volume 177, Issue 2,
+2019,
+Pages 326-338.e16,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.02.021.
+(https://www.sciencedirect.com/science/article/pii/S009286741930203X)
+Abstract: Summary
+Crossing over is a nearly universal feature of sexual reproduction. Here, analysis of crossover numbers on a per-chromosome and per-nucleus basis reveals a fundamental, evolutionarily conserved feature of meiosis: within individual nuclei, crossover frequencies covary across different chromosomes. This effect results from per-nucleus covariation of chromosome axis lengths. Crossovers can promote evolutionary adaptation. However, the benefit of creating favorable new allelic combinations must outweigh the cost of disrupting existing favorable combinations. Covariation concomitantly increases the frequencies of gametes with especially high, or especially low, numbers of crossovers, and thus might concomitantly enhance the benefits of crossing over while reducing its costs. A four-locus population genetic model suggests that such an effect can pertain in situations where the environment fluctuates: hyper-crossover gametes are advantageous when the environment changes while hypo-crossover gametes are advantageous in periods of environmental stasis. These findings reveal a new feature of the basic meiotic program and suggest a possible adaptive advantage.
+Keywords: meiosis; recombination; crossover; genome-wide recombination rate; crossover covariation; crossover variance; chromosome axis legngth; chromosome loops; evolution of recombination; evolution of sex
+
+Kishore Jaganathan, Sofia Kyriazopoulou Panagiotopoulou, Jeremy F. McRae, Siavash Fazel Darbandi, David Knowles, Yang I. Li, Jack A. Kosmicki, Juan Arbelaez, Wenwu Cui, Grace B. Schwartz, Eric D. Chow, Efstathios Kanterakis, Hong Gao, Amirali Kia, Serafim Batzoglou, Stephan J. Sanders, Kyle Kai-How Farh,
+Predicting Splicing from Primary Sequence with Deep Learning,
+Cell,
+Volume 176, Issue 3,
+2019,
+Pages 535-548.e24,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.12.015.
+(https://www.sciencedirect.com/science/article/pii/S0092867418316295)
+Abstract: Summary
+The splicing of pre-mRNAs into mature transcripts is remarkable for its precision, but the mechanisms by which the cellular machinery achieves such specificity are incompletely understood. Here, we describe a deep neural network that accurately predicts splice junctions from an arbitrary pre-mRNA transcript sequence, enabling precise prediction of noncoding genetic variants that cause cryptic splicing. Synonymous and intronic mutations with predicted splice-altering consequence validate at a high rate on RNA-seq and are strongly deleterious in the human population. De novo mutations with predicted splice-altering consequence are significantly enriched in patients with autism and intellectual disability compared to healthy controls and validate against RNA-seq in 21 out of 28 of these patients. We estimate that 9%–11% of pathogenic mutations in patients with rare genetic disorders are caused by this previously underappreciated class of disease variation.
+Keywords: splicing; genetics; artificial intelligence; deep learning
+
+Summer B. Thyme, Lindsey M. Pieper, Eric H. Li, Shristi Pandey, Yiqun Wang, Nathan S. Morris, Carrie Sha, Joo Won Choi, Kristian J. Herrera, Edward R. Soucy, Steve Zimmerman, Owen Randlett, Joel Greenwood, Steven A. McCarroll, Alexander F. Schier,
+Phenotypic Landscape of Schizophrenia-Associated Genes Defines Candidates and Their Shared Functions,
+Cell,
+Volume 177, Issue 2,
+2019,
+Pages 478-491.e20,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2019.01.048.
+(https://www.sciencedirect.com/science/article/pii/S0092867419301114)
+Abstract: Summary
+Genomic studies have identified hundreds of candidate genes near loci associated with risk for schizophrenia. To define candidates and their functions, we mutated zebrafish orthologs of 132 human schizophrenia-associated genes. We created a phenotype atlas consisting of whole-brain activity maps, brain structural differences, and profiles of behavioral abnormalities. Phenotypes were diverse but specific, including altered forebrain development and decreased prepulse inhibition. Exploration of these datasets identified promising candidates in more than 10 gene-rich regions, including the magnesium transporter cnnm2 and the translational repressor gigyf2, and revealed shared anatomical sites of activity differences, including the pallium, hypothalamus, and tectum. Single-cell RNA sequencing uncovered an essential role for the understudied transcription factor znf536 in the development of forebrain neurons implicated in social behavior and stress. This phenotypic landscape of schizophrenia-associated genes prioritizes more than 30 candidates for further study and provides hypotheses to bridge the divide between genetic association and biological mechanism.
+Keywords: GWAS; neuropsychiatric disorder; schizophrenia; zebrafish; behavior; whole-brain activity; neurodevelopment; forebrain; prepulse inhibition; single-cell RNA-sequencing
