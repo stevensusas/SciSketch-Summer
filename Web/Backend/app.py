@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
+from flask_migrate import Migrate
 import json
 
 app = Flask(__name__)
@@ -8,12 +9,17 @@ CORS(app)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///documents.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
+migrate = Migrate(app, db)
 
 class Document(db.Model):
     id = db.Column(db.String, primary_key=True)
     name = db.Column(db.String, nullable=False)
     content = db.Column(db.Text, nullable=False)
-    
+
+class Diagram(db.Model):
+    id = db.Column(db.String, primary_key=True)
+    name = db.Column(db.String, nullable=False)
+    canvas_data = db.Column(db.Text, nullable=False)
 
 # Initialize database
 with app.app_context():
@@ -63,6 +69,29 @@ def get_all_documents():
     documents = Document.query.all()
     documents_data = [{"id": doc.id, "content": json.loads(doc.content), "name": doc.name} for doc in documents]
     return jsonify(documents_data)
+
+@app.route('/api/diagrams/<diagram_id>', methods=['POST'])
+def save_diagram(diagram_id):
+    data = request.json
+    name = data.get('name')
+    canvas_data = data.get('canvas_data')
+    canvas_data_str = json.dumps(canvas_data)  # Convert content to JSON string
+    diagram = db.session.get(Diagram, diagram_id)
+    if diagram is None:
+        diagram = Diagram(id=diagram_id, name=name, canvas_data=canvas_data_str)
+    else:
+        diagram.name = name
+        diagram.canvas_data = canvas_data_str
+    db.session.add(diagram)
+    db.session.commit()
+    return jsonify({"status": "success"}), 200
+
+@app.route('/api/diagrams/<diagram_id>', methods=['GET'])
+def get_diagram(diagram_id):
+    diagram = db.session.get(Diagram, diagram_id)
+    if diagram is None:
+        return jsonify({"name": "untitled diagram", "canvas_data": ""})
+    return jsonify({"name": diagram.name, "canvas_data": json.loads(diagram.canvas_data)})
 
 if __name__ == '__main__':
     # app.run(host='localhost', port=5000, debug=True)
