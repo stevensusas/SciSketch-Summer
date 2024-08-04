@@ -1,19 +1,29 @@
-import React, { useState, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
+import React, { useState, useEffect, useRef } from 'react';
+import { useParams, useNavigate, useLocation } from 'react-router-dom';
 import { fabric } from 'fabric';
+import axios from "axios";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCog, faUndo, faRedo, faMousePointer, faHandPaper, faSearch, faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 // import './EditDiagram.css'; // Note: using tailwindcss instead for now
 
 
 function EditDiagram() {
-    console.log("MOUNTING");
+  console.log("MOUNTING");
+  const { id: diagramId } = useParams();
 
   const { fileId } = useParams();
   const [isCollapsed, setIsCollapsed] = useState(false);
   const [activeTab, setActiveTab] = useState('iconsLibrary');
 
   const [searchTerm, setSearchTerm] = useState('');
+
+  const saveButtonRef = useRef(null);
+  const handleSaveRef = useRef(null);
+  
+  const navigate = useNavigate();
+  const location = useLocation();
+
+  const [diagramData, setDiagramData] = useState(null); // State to hold fetched diagram data
 
   const images = [
     '/icon_library/microscope.png',
@@ -22,14 +32,59 @@ function EditDiagram() {
     // Add more images as needed
   ];
 
-  // const [images, setImages] = useState([]);
+
 
 
   useEffect(() => {
-    
-
+    console.log("USE EFFECT");
+    console.log("location", location);
     const canvas = new fabric.Canvas('diagram-canvas');
-    const parentDiv = document.getElementById('canvas-parent-div'); 
+
+    const fetchDiagram = async () => {
+      try {
+        const response = await axios.get(
+          `http://127.0.0.1:5000/api/diagrams/${diagramId}`
+        );
+        console.log("canvas loading");
+        console.log("response.data.canvas_data", response.data.canvas_data);
+        canvas.loadFromJSON(response.data.canvas_data, canvas.renderAll.bind(canvas));
+      } catch (error) {
+        console.error("Error fetching diagram:", error);
+      }
+    };
+    fetchDiagram();
+
+    const parentDiv = document.getElementById('canvas-parent-div');
+
+    const handleSave = async () => {
+      console.log("SAVING DIAGRAM");
+      const dataURL = canvas.toDataURL({
+        format: 'png',
+        quality: 1.0
+      });
+
+      try {
+        //await axios.post(`http://localhost:5000/api/documents/${documentId}`, {
+        await axios.post(`http://127.0.0.1:5000/api/diagrams/${diagramId}`, {
+          canvas_data: canvas.toJSON(),
+          name: "diagram-name-placeholder",
+        });
+        console.log("location.state", location.state);
+        if (location.state && location.state.documentId) {
+          navigate(`/documents/${location.state.documentId}`, { state: { image: dataURL, diagramId: diagramId } });
+        }
+      } catch (error) {
+        console.error("Error saving document:", error);
+      }
+      
+    }
+
+    handleSaveRef.current = handleSave;
+
+    if (saveButtonRef.current) {
+      saveButtonRef.current.addEventListener('click', handleSaveRef.current);
+      console.log("save button ref event listener added");
+    }
 
     const handleKeyDown = (e) => {
       if (e.key === 'Backspace') {
@@ -74,11 +129,11 @@ function EditDiagram() {
           scaleY: 0.5
         });
         canvas.add(img);
+        console.log("Image added to canvas");
       });
 
     }
 
-    
   
     // Adding event listeners for the drag and drop
     const canvasContainer = document.getElementById('diagram-canvas').parentNode;
@@ -87,17 +142,22 @@ function EditDiagram() {
   
     // Clean up function
     return () => {
-        console.log("cleaning up...");
+      console.log("cleaning up...");
+        // if (saveButtonRef.current) {
+        //   saveButtonRef.current.removeEventListener('click', handleSave);
+        //   console.log("event listener removed");
+        // }
     //   canvasContainer.removeEventListener('dragover', e => e.preventDefault());
     //   canvasContainer.removeEventListener('drop', handleDrop);
     };
   }, []);
 
+
   return (
     <div className={`flex flex-col h-screen ${isCollapsed ? 'collapsed' : ''}`}>
       <div className="flex justify-between items-center bg-gray-300 p-2">
         <span className="text-xl ml-3">Diagram Title</span>
-        <button className="bg-green-500 hover:bg-green-600 text-white w-36 px-4 py-2 rounded-lg">Export</button>
+        <button ref={saveButtonRef} className="bg-green-500 hover:bg-green-600 text-white w-36 px-4 py-2 rounded-lg">Save</button>
       </div>
       <div className="flex items-center bg-gray-400 p-2">
         <button className="mr-2 w-10 h-10 rounded hover:bg-gray-600 transition">

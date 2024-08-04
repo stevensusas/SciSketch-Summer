@@ -1,0 +1,1239 @@
+Junjie Zhang, Hao Zhang, Jing Wu, Xin Qian, Bai Song, Cheng-Te Lin, Te-Huan Liu, Ronggui Yang,
+Vacancy-induced phonon localization in boron arsenide using a unified neural network interatomic potential,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101760,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101760.
+(https://www.sciencedirect.com/science/article/pii/S2666386423006057)
+Abstract: Summary
+Boron arsenide, considered an ideal semiconductor, inevitably introduces arsenic defects during crystal growth. Here, we develop a unified neural network interatomic potential with quantum-mechanical precision that accurately describes phonon transport properties in both perfect and defective boron arsenides. Through molecular dynamics simulations, we quantitatively explore the degree of phonon localization in boron arsenide caused by arsenic vacancies. We confirm that this localization primarily affects vibration modes within the frequency range of 2.0–4.0 THz, which is a challenge for conventional first-principles approaches. In addition, we examine the fluctuation of the heat flux autocorrelation function, which reveals the extent of phonon phase disruption resulting from arsenic voids and lattice anharmonicity from a more fundamental perspective. Our study highlights the applicability of molecular dynamics simulations in conjunction with neural network interatomic potential for defective systems, laying the theoretical groundwork for phonon engineering in real semiconductor crystals.
+Keywords: boron arsenide; neural networks; localized phonon; thermal conductivity; atomistic simulation
+
+Junhua Lu, Shuo Chen, Hairong Wang, Long Qiu, Chenyu Wu, Wencan Qian, Zhijie Wang, Kai Huang, Jiang Wu, Huan Chen, Yuxing Gao,
+Replacing the electron-hole transport layer with doping: SCAPS simulation of lead-free germanium-based perovskite solar cells based on CsGeI3,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112883,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112883.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001958)
+Abstract: In recent years, scientists have shown increasing interest in perovskite solar cells because of their remarkable light absorption capabilities and promising prospects, among which germanium-based perovskite solar cells have been praised for non-toxicity. However, the defects between the charge transport layers affect its performance, and the charge transport layer materials also bring environmental hazards due to some organic properties. In this work, we propose to replace the charge transport layer with a solar cell based entirely on the germanium-based perovskite absorption layer by varying the CsGeI3 doping concentration. We created n-CsGeI3 and p-CsGeI3 layers conducive to electron hole transport, thus effectively reducing the defects between the interface transport layers, improving the electron hole transport environment, and improving the transmission efficiency. We employed SCAPS software for designing and optimizing the cell structure, enabling us to model and fine-tune parameters such as band gap, thickness, doping concentration, and defect density. These optimizations led to the calculation of optimal values, resulting in an impressive 34.57 % efficiency. The cell structure developed in this work validates the feasibility of germanium-based perovskite solar cells without electron hole transport layer, reducing environmental risks and optimizing performance parameters to some extent. This provides a valuable reference for future research on such solar cells.
+Keywords: Germanium-based perovskite; Solar cells; SCAPS; Optimizing performance
+
+Ziqiang Cheng, Gang Xu, Yong Liu, Gaorong Han,
+Topotactic layer-to-tunnel crystallization for h-WO3 films with enhanced electrochromic performance,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112859,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112859.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001715)
+Abstract: Benefitting from large-sized ion tunnels and stable crystalline structures, hexagonal WO3 (h-WO3) is a promising electrochromic (EC) material. However, long reaction times and highly controlled reaction conditions for preparation hinder the practical application. Here, a novel method with a simple process and moderate condition, named topotactic layer-to-tunnel crystallization (TLTC), to prepare h-WO3 films is reported. The hexagonal tunnel structure is transformed from a layered structure by annealing, assisted by the structure director. The ACTEM with atomic resolution reveals the position of the structure director in the crystal lattice, which is left in the hexagonal tunnel. The mechanism of TLTC has been studied by the characterization of samples at different formation stages, and the key is the structure director, which maintains the hexagonal tunnel by steric effect. The prepared h-WO3 film exhibits significant optical modulation (65.8 % at 633 nm and 72.8 % at 1200 nm) and outstanding cyclic stability (98.1 % of initial optical modulation remained over 600 cycles). The TLTC method is based on the structure transition to construct large tunnels in lattice, providing a new technical route to prepare h-WO3 and showing great potential for EC materials manufacturing.
+Keywords: Electrochromism; Tungsten oxide; Smart window
+
+Hansung Kim, Szymon P. Cias,
+Effect of oxide diffusion barrier and substrate on the reliability of stainless-steel-based CIGS solar cells,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112888,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112888.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002009)
+Abstract: This paper investigates the effect of the oxide diffusion barrier and substrate on the residual stress and the delamination at the CIGS/Molybdenum (Mo) interface when stainless-steel-based CIGS solar cells cool down to room temperature from the CIGS deposition process (500 °C) and hotspot conditions (100, 200, 300, and 400 °C). The focus is on the performance of Al2O3 and SiO2 oxide diffusion barriers and SS 304, SS Duplex, and SS 430 substrates. Through Finite Element method (FEM) and Machine Learning (ML) simulations, we calculated the energy release rate (J integral) of the CIGS/Mo interface crack and residual stress of the CIGS layer while concurrently varying the thickness of the diffusion barrier layer from 0.1 to 3 μm and the SS substrate from 25 to 200 μm. ML algorithms were used to predict the J integral at the CIGS/Mo interface and the CIGS residual stress for arbitrary CIGS deposition temperatures. Our simulation method is validated by the agreement between some of our simulation results and experimental findings from other researchers. Based on the simulation results, the following key findings were observed 1) A thinner diffusion barrier (for both SiO2 and Al2O3) is more effective in preventing the delamination at the CIGS/Mo interface, but a thicker diffusion barrier is more effective in reducing the stress in the CIGS layer 2) SiO2 diffusion barrier is better suited for preventing the CIGS/Mo interface delamination, while an Al2O3 diffusion barrier is better suited for reducing the residual stress in the CIGS layer 3) The thickness of stainless steel substrate significantly alters the residual stress in the CIGS layer (up to ∼30 times) 4) The SS 430 substrate is better suited for minimizing the residual stress in the CIGS layer and preventing delamination at the CIGS/Mo interface. The proposed methodology can be applied to other flexible solar cells to enhance their reliability.
+
+Yumiko Maruyama, Hidekazu Nishikii, Naoki Kurita, Tatsuhiro Sakamoto, Keiichiro Hattori, Yasuhito Suehara, Yasuhisa Yokoyama, Takayasu Kato, Naoshi Obara, Mamiko Sakata-Yanagimoto, Shigeru Chiba,
+Impact of CD34 positive cell dose in donor graft on the outcomes after haploidentical peripheral blood stem cell transplantation with post-transplant cyclophosphamide – A retrospective single-center study with a Japanese cohort,
+Blood Cells, Molecules, and Diseases,
+Volume 105,
+2024,
+102820,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102820.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000979)
+Abstract: Background
+Haploidentical peripheral blood stem cell transplantation (haplo-PBSCT) with post-transplant cyclophosphamide (PTCy) is an important therapeutic option for patients lacking an HLA-matched donor. However, the significance of CD34+ cell dose in grafts has not been fully elucidated.
+Objective
+We aimed to explore the impact of CD34+ cell dose on outcomes after haplo-PBSCT with PTCy.
+Study Design
+We retrospectively investigated 111 consecutive patients who underwent haplo-PBSCT with PTCy or HLA-matched PBSCT from related donors.
+Results
+There were no statistically significant differences in 3-year overall survival (p = 0.559) or progression-free survival (p = 0.974) between haplo-PBSCT and matched PBSCT. Delayed neutrophil engraftment and a lower incidence of graft-versus-host disease were observed in haplo-PBSCT. The median dose of CD34+ cells was 4.9 × 106 /kg in 57 haplo-PBSCT and 4.5 × 106 /kg in 54 matched PBSCTs. Importantly, patients who underwent haplo-PBSCT with the administration of CD34+ cell at a dose of ≥4.0 × 106 /kg significantly had improved OS (p = 0.015) and decreased incidence of disease relapse (p = 0.001) without increasing incidence of GVHD.
+Conclusion
+Our data suggest that a higher dose of CD34+ cells in haplo-PBSCT with PTCy positively impacts the outcomes without an increase of GVHD.
+Keywords: Allogeneic hematopoietic stem cell transplantation; Haploidentical transplantation; Post-transplant cyclophosphamide
+
+Hemalatha Sundaramoorthi, Weam Fallatah, Jabila Mary, Pudur Jagadeeswaran,
+Discovery of seven hox genes in zebrafish thrombopoiesis,
+Blood Cells, Molecules, and Diseases,
+Volume 104,
+2024,
+102796,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102796.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000736)
+Abstract: Thrombopoiesis is the production of platelets from megakaryocytes in the bone marrow of mammals. In fish, thrombopoiesis involves the formation of thrombocytes without megakaryocyte-like precursors but derived from erythrocyte thrombocyte bi-functional precursor cells. One unique feature of thrombocyte differentiation involves the maturation of young thrombocytes in circulation. In this study, we investigated the role of hox genes in zebrafish thrombopoiesis to model platelet production. We selected hoxa10b, hoxb2a, hoxc5a, hoxd3a, and hoxc11b from thrombocyte RNA expression data, and checked whether they are expressed in young or mature thrombocytes. We found hoxa10b, hoxb2a, hoxc5a, and hoxd3a were expressed in both young and mature thrombocytes and hoxc11b was expressed in only young thrombocytes. We then performed knockdowns of these 5 hox genes and found hoxc11b knockdown resulted in thrombocytosis and the rest showed thrombocytopenia. To identify hox genes that could have been missed by the above datasets, we performed knockdowns 47 hox genes in the zebrafish genome and found hoxa9a, and hoxb1a knockdowns resulted in thrombocytopenia and they were expressed in both young and mature thrombocytes. In conclusion, our comprehensive knockdown study identified Hoxa10b, Hoxb2a, Hoxc5a, Hoxd3a, Hoxa9a, and Hoxb1a, as positive regulators and Hoxc11b, as a negative regulator for thrombocyte development.
+Keywords: Thrombopoiesis; Zebrafish; Hox genes; Homeobox; Thrombocytes
+
+Debabrata Panda, Akhilesh Kumar Sahu, Krunal M. Gangawane,
+Eutectic phase change composites with MXene nanoparticles for enhanced photothermal absorption and conversion capacity,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112911,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112911.
+(https://www.sciencedirect.com/science/article/pii/S092702482400223X)
+Abstract: Phase change composite materials with uniform nanomaterial dispersion are potential solutions for improving thermophysical properties and enhancing latent heat capacity applicable in thermal management. In this study, various transitional carbide-based MXene samples were synthesised via acid etching to augment the heat transfer capacity and efficiency of the solar thermal energy storage (TES). These samples were then uniformly dispersed in a eutectic mixture (1:1) of paraffin wax (PW) and polyethylene glycol (PEG-6000), resulting in the formation of a MePCM composite. The controllable porous structure and hydrogen interactions with the external layer of MXene and long-chain PCM benefitted in the well impregnation of PCM and compatibility impregnated into the composite. An exceptionally higher mass fraction of 1 wt % Ti3C2Tx MXene-based phase change composite unveiled a higher phase change enthalpy of 138.66 J/g in the melting phase and 139.54 J/g in the solidification phase with 89.82 % energy storage efficiency. In contrast to pure eutectic PCM (0.2593 W/mK), the thermal conductivity of MePCM composite is relatively higher and provides a thermal conductivity of 0.9209 W/mK for Ti3C2Tx MXene-based composite. The enhancement of thermal conductivity is ascribed to the increased heat conduction pathway facilitated by the MXene arrangement. The utilisation of spatially constrained eutectic phase change material (PCM) assembly resulted in the development of MePCM, which exhibited enhanced thermal conductivity, chemical and physical stability, and thermal consistency across 500 melting-solidification cycles. Benefitting from the thermal conduction path, the MePCM exhibits an excellent photothermal conversion efficiency of 98.53 %. The thermal responsive tests of Ti3C2Tx and V2CTx MXene composite samples provide better thermal response than eutectic PCM without thermal reduction. With a higher thermal storage capacity and higher heat transfer property, thermally reliable MePCM composites exhibited tremendous potential for photothermal applications.
+Keywords: MXene framework; Phase change material; Eutectic mixture; Photothermal conversion; Thermal conduction
+
+Yunqi Wang, Xinyu Tan, Xiongbo Yang, Guiguang Qi, Yiteng Tu,
+Hydroxypropyl cellulose thermochromic hydrogel with efficient passive radiative cooling and adjustable visible light transmittance,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112871,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112871.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001831)
+Abstract: The rising temperature of ground objects under solar irradiation has led people to an increasing dependence on cooling methods that consume huge energy such as air conditioners and fans. Building windows and vehicle windows also have caused huge losses of energy due to allowing sunlight to enter. Therefore, it is of great significance to simultaneously endow outdoor application materials with radiative cooling capacity and adjustable light transmittance. In this study, hydroxypropyl cellulose (HPC) hydrogel radiative cooler was developed with high emissivity (0.96) and excellent visible light modulation ability (ΔTlum) with a high maximum transmittance (91.2 %) and ΔTlum (83.8 %). An ultra-low phase change temperature of 45 °C is achieved to meet insulation requirements and energy saving targets under hot climatic conditions. In the outdoor experiment, the HPC hydrogel radiative cooler can reduce the temperature by approximately 5 °C and 15 °C compared with the ordinary glass and aluminum sheet. The HPC hydrogel after phase transformation shows excellent cooling effect on different substrates such as glass and aluminum sheet. After 20 heating/cooling cycles and one month of exposure, the transmittance and ΔTlum of the cooler have no obvious changes. The significant temperature rise suppression effect and transmittance adjustable performance of the HPC hydrogel radiative cooler opens up a promising avenue for application.
+Keywords: HPC hydrogel; Phase change; Emissivity; Visible light modulation ability; Radiative cooling
+
+F. Butrichi, V. Trifiletti, G. Tseberlidis, B.E.G. Colombo, F. Taglietti, M. Rancan, L. Armelao, S. Binetti,
+Wet synthesis of Cu2MnSnS4 thin films for photovoltaics: Oxidation control and CdS impact on device performances,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112924,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112924.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002368)
+Abstract: The manganese-based quaternary chalcogenide Cu2MnSnS4 could have the chance to promote the production of sustainable solar cells, but the reported photovoltaic efficiencies are still too poor to push the research on the topic. Herein, a low-cost, straightforward, and sustainable wet methodology to synthesise Cu2MnSnS4 thin films is reported. The main issues that hindered their power conversion efficiencies have been investigated. Firstly, the manganese oxidation state has been stabilised by fine-tuning the synthesis parameters. Cu2MnSnS4 was obtained in the crystalline structure of stannite, and no oxygen was found in the material bulk. Prototype devices in substrate configuration were produced, and the new record efficiency (η = 0.92 %) for wet-synthesised Cu2MnSnS4 was reached. Since the photovoltaic performances were poor despite the high quality of Cu2MnSnS4 produced, the interface between the light absorber material and the buffer layer, CdS, was investigated, and its suitability to work as an efficient photovoltaic p-n junction was evaluated. We reveal that the buffer layer deposition procedure highly impacts the composition of the Cu2MnSnS4 surface, and that band alignment between Cu2MnSnS4 and CdS is unfavourable. The statements have been sustained by X-ray diffraction and Raman analysis, X-ray and ultraviolet photoelectron, electron paramagnetic resonance, and energy dispersive X-ray spectroscopies.
+Keywords: Earth-abundant photovoltaic; Kesterite; Manganese; Oxidation control; Band alignment; Alternative buffer layer
+
+José Montero-Amenedo,
+Photochromism in rare earth oxyhydrides for large-area transmittance control,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112900,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112900.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002125)
+Abstract: Photochromic coatings are attractive materials for achieving dynamic transmittance control in glazing. However, state-of-the-art photochromic materials are either not durable enough (the case of organic photochromic dyes), or not easily manufactured onto large glass panes (the case of silver halides). The requirements of durability and large area fabrication have hitherto hindered the application of photochromism in smart glazing. Thus, the importance of rare-earth oxyhydrides, which have emerged during the last decade as an inorganic (and hence, in principle, durable) photochromic family of materials that can be prepared onto large area glass panes by magnetron sputtering. In this work, we will discuss in detail the photochromic effect in oxyhydrides, how to prepare and optimize photochromic coatings with excellent switching kinetics, as well as answer other frequently asked questions when it comes to the applications of rare earth oxyhydrides in glazing.
+Keywords: Chromogenic materials; Oxyhydrides; Photochromism; Smart windows
+
+Tao Li, Tao Ma, Wen Wang, Gang Xiao,
+An improved mathematical model for the photon-enhanced thermionic emission (PETE) device with an emphasis on the photon-electron conservation relationship,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112827,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112827.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001399)
+Abstract: Utilizing the quantum and thermal energy of solar photons simultaneously to realize broad solar spectrum utilization, photon-enhanced thermionic emission (PETE) exhibits high photoelectric conversion efficiency (PCE) potential, with maximum theoretical efficiencies of 47% under 3000 suns and exceeds the Shockley-Queisser limit for an ideal single-junction solar cell. Mathematical models have been proposed in the literature to investigate its operation laws and evaluate its power potential, while some did not consider the conservation relationship of photon-absorption and electron-emission comprehensively and their simulation results may deviate obviously from the actual situation. Herein, we develop both two zero-dimensional (0-D) and one-dimensional (1-D) models with the correction for the photon-electron conservation relationship based on the basic models of PETE. The results demonstrate that the modified models possess better predictions for the thermal current (emission electron flow from the cathode induced by heat). Moreover, the unreasonable negative values of quantum efficiency (QE) and photoelectron concentration can be eliminated at high temperatures. Based on the improved models, PETE shows a wider selection of cathode semiconductor materials since the cathode temperature is lower due to the larger thermal current. The maximum PCE of the 0-D model is 37% with 1.04 eV electron affinity and extremely high solar concentration ratios. For a practical silicon cathode PETE device, it is preferable to operate it under 50 suns in photon-enhanced thermionic regime and the maximum PCE is less than 4.5% due to silicon's poor photon absorption property.
+Keywords: Photon-enhanced thermionic emission (PETE); Improved mathematical model; Photon-electron conservation relationship; Zero-dimensional; One-dimensional modeling
+
+Yufen Chen, Songping Mo, Junhao Chen, Yuxin Yu, Lisi Jia, Ying Chen,
+A novel lauric acid in silicone oil phase change emulsion with enhanced thermal properties and stability prepared by emulsion inversion point method,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112855,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112855.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001673)
+Abstract: The temperature range within which phase change materials (PCM) in water emulsions can effectively function is limited to 0–100 °C. In contrast, non-aqueous emulsions offer a broader temperature range for heat storage and transfers, along with greater chemical stability. This research involved the preparation of a PCM in silicone oil phase change emulsion using the emulsion inversion point (EIP) method as an alternative to high-energy methods which known for their high energy consumption and low efficiency. The emulsion was produced by gradually adding silicone oil to a mixture of lauric acid and surfactant under low-speed stirring. The study focused on assessing dispersion stability and thermal properties of emulsions with varying PCM concentrations. Results showed that similar droplet sizes can be achieved compared to high-energy methods, with average droplet sizes ranging from 5.21 to 6.89 μm for emulsions containing 5%–20% lauric acid. The phase change enthalpy of the emulsions aligned with theoretical values, showing a supercooling below 3.0 °C when PCM concentration was between 10 and 20%. Additionally, the viscosity of the emulsions decreased as the PCM concentration increased. Moreover, the addition of nanoparticles increased thermal conductivity by 19.8%, with energy storage efficiency remaining at 97.3% after thermal cycling. The emulsions also demonstrated reduced pumping power requirements by 87.3% and 99.4% at 25 °C and 50 °C, respectively, compared to the base fluid, making them promising candidates for enhancing the utilization of renewable energy sources including solar energy.
+Keywords: Thermal energy storage; Phase change material; Non-aqueous emulsion; Stability; Thermal property
+
+Md Khalilur Rahman, Balasubrahmanyam Umashankar, Hassan Choucair, Kirsi Bourget, Tristan Rawling, Michael Murray,
+The inositol-requiring enzyme 1 (IRE1) endoplasmic reticulum stress pathway promotes MDA-MB-231 cell survival and renewal in response to the aryl-ureido fatty acid CTU,
+The International Journal of Biochemistry & Cell Biology,
+Volume 171,
+2024,
+106571,
+ISSN 1357-2725,
+https://doi.org/10.1016/j.biocel.2024.106571.
+(https://www.sciencedirect.com/science/article/pii/S1357272524000621)
+Abstract: Current treatment options for triple-negative breast cancer (TNBC) are limited to toxic drug combinations of low efficacy. We recently identified an aryl-substituted fatty acid analogue, termed CTU, that effectively killed TNBC cells in vitro and in mouse xenograft models in vivo without producing toxicity. However, there was a residual cell population that survived treatment. The present study evaluated the mechanisms that underlie survival and renewal in CTU-treated MDA-MB-231 TNBC cells. RNA-seq profiling identified several pro-inflammatory signaling pathways that were activated in treated cells. Increased expression of cyclooxygenase-2 and the cytokines IL-6, IL-8 and GM-CSF was confirmed by real-time RT-PCR, ELISA and Western blot analysis. Increased self-renewal was confirmed using the non-adherent, in vitro colony-forming mammosphere assay. Neutralizing antibodies to IL-6, IL-8 and GM-CSF, as well as cyclooxygenase-2 inhibition suppressed the self-renewal of MDA-MB-231 cells post-CTU treatment. IPA network analysis identified major NF-κB and XBP1 gene networks that were activated by CTU; chemical inhibitors of these pathways and esiRNA knock-down decreased the production of pro-inflammatory mediators. NF-κB and XBP1 signaling was in turn activated by the endoplasmic reticulum (ER)-stress sensor inositol-requiring enzyme 1 (IRE1), which mediates the unfolded protein response. Co-treatment with an inhibitor of IRE1 kinase and RNase activities, decreased phospho-NF-κB and XBP1s expression and the production of pro-inflammatory mediators. Further, IRE1 inhibition also enhanced apoptotic cell death and prevented the activation of self-renewal by CTU. Taken together, the present findings indicate that the IRE1 ER-stress pathway is activated by the anti-cancer lipid analogue CTU, which then activates secondary self-renewal in TNBC cells.
+Keywords: Pro-inflammatory mediators; NF-κB; XBP-1s; IRE1; Self-renewal; Mammosphere assay
+
+Chithra D. Palani, Xingguo Zhu, Manickam Alagar, Otis C. Attucks, Betty S. Pace,
+Bach1 inhibitor HPP-D mediates γ-globin gene activation in sickle erythroid progenitors,
+Blood Cells, Molecules, and Diseases,
+Volume 104,
+2024,
+102792,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102792.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000694)
+Abstract: Sickle cell disease (SCD) is the most common β-hemoglobinopathy caused by various mutations in the adult β-globin gene resulting in sickle hemoglobin production, chronic hemolytic anemia, pain, and progressive organ damage. The best therapeutic strategies to manage the clinical symptoms of SCD is the induction of fetal hemoglobin (HbF) using chemical agents. At present, among the Food and Drug Administration-approved drugs to treat SCD, hydroxyurea is the only one proven to induce HbF protein synthesis, however, it is not effective in all people. Therefore, we evaluated the ability of the novel Bach1 inhibitor, HPP-D to induce HbF in KU812 cells and primary sickle erythroid progenitors. HPP-D increased HbF and decreased Bach1 protein levels in both cell types. Furthermore, chromatin immunoprecipitation assay showed reduced Bach1 and increased NRF2 binding to the γ-globin promoter antioxidant response elements. We also observed increased levels of the active histone marks H3K4Me1 and H3K4Me3 supporting an open chromatin configuration. In primary sickle erythroid progenitors, HPP-D increased γ-globin transcription and HbF positive cells and reduced sickled erythroid progenitors under hypoxia conditions. Collectively, our data demonstrate that HPP-D induces γ-globin gene transcription through Bach1 inhibition and enhanced NRF2 binding in the γ-globin promoter antioxidant response elements.
+Keywords: Fetal hemoglobin; γ-Globin; NRF2; Bach1; Sickle cell disease; Antioxidant response element
+
+Yushika Aggarwal, JaeWoo Park, Wonsun Kim, Shital Sharma, HyeRyun Jeong, Myeong Gyu Kim, Junyoung Kil, Eun Ha Choi, Byoungchoo Park,
+Highly efficient self-powered CH3NH3Pbl3 perovskite photodiode with double-sided poly(methyl methacrylate) passivation layers,
+Solar Energy Materials and Solar Cells,
+Volume 270,
+2024,
+112815,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112815.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001272)
+Abstract: Hybrid organohalide perovskites have recently attracted significant attention due to their outstanding photovoltaic (PV) conversion capabilities in optoelectronic devices. Herein, to develop a highly sensitive and self-powered perovskite-based PV photodiode (PVPD), we implement the selective use of poly(methyl methacrylate) (PMMA) as noise-current-reducing passivation layers on both the front and rear sides of a CH3NH3PbI3 (MAPbI3) perovskite light-absorbing layer. It is found that the PMMA layers effectively suppress carrier recombinations at the interfaces, resulting in fairly high power conversion efficiency of 17.6%. Additionally, the double-sided PMMA-passivated MAPbI3 PVPD shows exceptional specific detectivity values (1.0 × 1014 Jones from the dark current and 1.3 × 1012 Jones from the noise current), significantly outperforming conventional MAPbI3 PVPDs without passivation layers. The device also exhibits a very wide linear dynamic response range of ∼139 dB, with rapid rise and decay response times of 57 and 18 μs, respectively. The double-sided PMMA-passivated MAPbI3 PVPD also is shown to be highly durable in terms of its dynamic responses even after a prolonged storage period of 1500 h. These results suggest that advanced interface engineering using double PMMA passivation layers holds great potential for developing high-performance self-powered perovskite photodetectors for a range of optoelectronic applications.
+Keywords: Organic/inorganic hybrid perovskite; Photovoltaic; Polymeric passivation layer; Photodetector
+
+Ziling Zhang, Qinqin Yang, Ming Jin, Jie Wang, Yuanyuan Chai, Luyong Zhang, Zhenzhou Jiang, Qinwei Yu,
+Tamoxifen upregulates the peroxisomal β-oxidation enzyme Enoyl CoA hydratase and 3-hydroxyacyl CoA hydratase ameliorating hepatic lipid accumulation in mice,
+The International Journal of Biochemistry & Cell Biology,
+2024,
+106585,
+ISSN 1357-2725,
+https://doi.org/10.1016/j.biocel.2024.106585.
+(https://www.sciencedirect.com/science/article/pii/S1357272524000761)
+Abstract: Tamoxifen is an estrogen receptor modulator that has been reported to alleviate hepatic lipid accumulation in mice, but the mechanism is still unclear. Peroxisome fatty acid β-oxidation is the main metabolic pathway for the overload of long-chain fatty acids. As long-chain fatty acids are a cause of hepatic lipid accumulation, the activation of peroxisome fatty acid β-oxidation might be a novel therapeutic strategy for metabolic associated fatty liver disease. In this study, we investigated the mechanism of tamoxifen against hepatic lipid accumulation based on the activation of peroxisome fatty acid β-oxidation. Tamoxifen reduced liver long-chain fatty acids and relieved hepatic lipid accumulation in high fat diet mice without sex difference. In vitro, tamoxifen protected primary hepatocytes against palmitic acid-induced lipotoxicity. Mechanistically, the RNA-sequence of hepatocytes isolated from the liver revealed that peroxisome fatty acid β-oxidation was activated by tamoxifen. Protein and mRNA expression of enoyl CoA hydratase and 3-hydroxyacyl CoA hydratase were significantly increased in vivo and in vitro. Small interfering RNA enoyl CoA hydratase and 3-hydroxyacyl CoA hydratase in primary hepatocytes abolished the therapeutic effects of tamoxifen in lipid accumulation. In conclusion, our results indicated that tamoxifen could relieve hepatic lipid accumulation in high fat diet mice based on the activation of enoyl CoA hydratase and 3-hydroxyacyl CoA hydratase-mediated peroxisome fatty acids β-oxidation.
+Keywords: Metabolic associated fatty liver disease; Tamoxifen; Peroxisome fatty acid β-oxidation; Enoyl CoA hydratase and 3-hydroxyacyl CoA hydratase; Long-chain fatty acids
+
+Shourui Ji, Yang Liu, Boyi Zhu, Xiaoshi Li, Yuhan Zhao, Tianrui Cui, Shuxuan Dong, Jinming Jian, Yilong Li, Yang Yi, Cheng Li, He Tian, Tian-Ling Ren,
+Super-sensitive graphene nano-fabric drum at the macroscale,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101765,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101765.
+(https://www.sciencedirect.com/science/article/pii/S2666386423006100)
+Abstract: Summary
+Achieving conversion of sound with both high sensitivity and efficiency is a challenging task due to the intrinsic mechanical and geometrical limitations of existing materials. Here, we present a graphene-based nano-fabric drum, fabricated via a laser reduction method, mimicking the structural properties of biological drums. This enhanced performance is achieved through optimized parameters such as reduced modulus, ultrathin thickness, and low pre-stress. In an optical fiber Fabry-Perot sensor, our graphene nano-fabric (GNF) drum demonstrates a record-high mechanical sensitivity of 354 nm/Pa compared to other state-of-the-art materials. Furthermore, an electrostatic microphone incorporating a large GNF drum of 2 cm exhibits a high attenuation factor of 2.2 near its resonant frequency. Finally, we present an intelligent auditory system for robotic interactions based on a GNF microphone, capable of high-performance audio recognition. These findings highlight the promising potential of next-generation acoustic human-machine interfaces.
+
+Stephen A. Maclean, Syed Raza, Hang Wang, Chiamaka Igbomezie, Jamin Liu, Nathan Makowski, Yuanyuan Ma, Yaxin Shen, Jason A. Rӧhr, Guo-Ming Weng, André D. Taylor,
+Investigation of flow rate in symmetric four-channel redox flow desalination system,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101761,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101761.
+(https://www.sciencedirect.com/science/article/pii/S2666386423006069)
+Abstract: Summary
+Flow rate influences overpotentials that cause energy losses in electrochemical and desalination systems, but its effect on redox flow desalination (RFD) of seawater remains unexplored. Here, we report the operational effect of flow rate on seawater desalination through parametric investigation of RFD using ferricyanide/ferrocyanide and elucidate its impact on overpotential using in situ electrochemical impedance spectroscopy. Increasing the flow rates of electrolyte channels reduces electrolyte-membrane interfacial resistances, promoting ionic fluxes across ion-exchange membranes. Intriguingly, we enhance the average salt removal rate by 16.7-fold (48.48 → 811.55 μg cm−2 min−1) and reduce energy consumption (∼145 → ∼95 kJ mol−1) with only 12.5 mM FeCN, when increasing flow rates of electrolyte channels (5 → 50 mL min−1) at 0.8 V and high-throughput productivity (699.3 L m−2 h−1). This improvement is due to the electrolyte-membrane interfacial resistance drop (∼25.0 → 1.3 Ω). These findings offer insight on the practical operation and analysis of RFD.
+Keywords: redox flow desalination; single-pass mode; seawater; flow rates; electrochemical impedance spectroscopy; parametric investigation
+
+Songcheng Han, Han Zhang, Jun Zhang, Yanli Qi,
+Enhancement in efficiency of solar photovoltaic power generation with the assistance of PVC/TiO2 reflective composite applied for double-sided power generation,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112882,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112882.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001946)
+Abstract: Solar photovoltaic power generation is a productive and environmentally friendly technique. The results of objective evaluations show that double-sided power generation is more efficient than single-sided power generation, with a possible increase of 5 %–30 %. Hence, it is necessary to identify a composite that reflects the exact sunlight waveband (300–1100 nm) onto the backside of photovoltaic panels used for double-sided power generation. Herein, two different crystalline types of titanium dioxide (TiO2), rutile (R–TiO2) and anatase (A-TiO2), were combined with plasticized polyvinyl chloride (PVC) to create composites. A comparative analysis was conducted with other commonly utilized reflective fillers, such as barium sulfate (BaSO4) and magnesium hydroxide (Mg(OH)2). As a result, the R–TiO2 was identified as the most appropriate substance to be blended with PVC for the production of PVC/R–TiO2 composite. As the quantity of R–TiO2 increased from 0 to 100 phr, reflectance in the distinctive waveband of 300–1100 nm of the PVC/R–TiO2 rose from 5.30 % to 82.97 %. Moreover, an improvement in the thermal conductivity of PVC/R–TiO2 sample was observed, which increased by 59.2 % from 0.179 W m−1 K−1 to 0.285 W m−1 K−1, indicating a positive effect on heat transfer. The rheological measurement showed that the amount of reflective filler was inversely proportional to the compatibility of the reflective filler with plasticized PVC in the overall composite system, whereas the thermogravimetric analysis indicated that the thermal stability of the composites improved as the number of reflective fillers increased. Substantially, PVC/R–TiO2 composites exhibit better performance in enhancing the power generation efficiency of solar photovoltaic panels.
+Keywords: Solar photovoltaic; Double-sided power generation; Polyvinyl chloride; Titanium dioxide; Composites; Selective high solar reflectance
+
+Hao Wang, Takanori Sugita, Kazuki Nakamura, Norihisa Kobayashi,
+Controllable intermittent potential method for reflectance enhancement of silver deposition-based electrochromic cell,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112830,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112830.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001429)
+Abstract: The reflectance of silver deposition-based electrochromic (EC) cells is affected by the surface structure of the silver deposits on the electrode. For the practical application of the EC cell, it is necessary to develop a method for the electrodeposition of silver on the ITO electrode for improving the reflectance of the silver deposition-based EC cell. Therefore, in this study, we propose a novel intermittent potential method, which is different from traditional constant potential coloring methods. The effectiveness of the proposed driving method was verified using a silver film with a high reflectance generated in three electrode-type EC cells. This study offers a potential method for improving the reflectance of silver deposition-based EC cells in a coloring state and provides valuable insights for the future development of practical high-reflectance type metal deposition-based EC devices.
+Keywords: Electrochromism; Silver; Electrodeposition; Reflectance; Intermittent potential method
+
+Li Li, Nida El Islem Guissi, Yusong Peng, Shuming Nie, Huiming Cai, Christopher J. Butch, Yiqing Wang,
+Butterfly oscillation of an ICG dimer enables ultra-high photothermal conversion efficiency,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101748,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101748.
+(https://www.sciencedirect.com/science/article/pii/S2666386423005933)
+Abstract: Summary
+The development of photothermal therapy (PTT) as a cancer therapy has been hampered by low photothermal conversion efficiency (PTCE), which reduces its efficacy for this application. Herein, we report the investigation of the photothermal properties of ICG-II, the dimer of indocyanine green (ICG), and show it to have an unexpectedly high PTCE of 95.6%. Based on density functional theory calculations, we attribute the high PTCE of ICG-II to changes in the relative energy levels of the occupied orbitals and a constrained “butterfly” oscillation around the dimer bond that facilitates nonradiative deexcitation. Through in vitro study, we demonstrate ICG-II to be highly biocompatible and stable to irradiation and temperatures needed for photothermal therapy. In vivo experiments show that direct injection of ICG-II followed by 2 min near-infrared (NIR) irradiation can completely eliminate xenograft tumors in mice. This work demonstrates that ICG-II is an attractive candidate for further preclinical development of photothermal agents and serves as a prototype for a class of rotationally constrained molecular rotors for PTT and other photochemical applications.
+Keywords: photothermal conversion efficiency; indocyanine green; photothermal therapy; dye dimer; molecular rotor design; photothermal agents; cancer treatment; non-radiative decay; ICG dimer; butterfly vibration
+
+Jiawei Du, Le Zhao, Xinyi Zhang, Jiangbo Wu, Xiaoze Du, Hongwei Wu,
+Synthesis and characterization of absorption-enhanced alumina solid particle materials for direct irradiation solar-thermal conversion,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112853,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112853.
+(https://www.sciencedirect.com/science/article/pii/S092702482400165X)
+Abstract: Based on solar-thermal application more than 1000 °C, a novel combination of sol-gel synthesis and stepwise calcination to prepare metal-ion doped alumina composite particles as heat transfer media were proposed, enhancing solar energy absorption and lowering preparation temperature. Investigations focused on the elemental distribution, phase composition, oxidation states, optical properties and thermal stability of the composites, which were doped with Cr, Co, Cu, Fe, and Mn metal ions in a 100:5 M ratio. The first-principles calculations elucidate the mechanism behind the impact of transition metal ions on alumina’s optical properties. Results show that introducing a small quantity of metal atoms results in new impurity energy levels and electron states around EF = 0. Specifically, the band gap energy of Cu- and Mn–Al2O3 decreases from 6.017 eV to 4.464 eV and 2.170 eV, respectively. Correspondingly, the absorptivity of these composite particles increases from around 20 %–76.6 %. And Tauc analysis indicates a decrease in the optical band gap of the particle materials from 5.37 eV to a range of 2.88–4.90 eV. Additionally, doping with Mn, Fe, and Cu accelerates the in-situ formation of α-Al2O3 crystals, with a phase transition temperature below 1000 °C and a crystallinity exceeding 93 %. Thermal stability tests show that the particles are highly stable, exhibiting a mere 0.49 % mass change between 30 °C and 1200 °C. The stepwise inert annealing strategy and metal-iron doping positively influence the optical performance of alumina, synthesizing long-term high-temperature stable alumina ceramic particles with absorptance enhancement and a low α-Al2O3 phase transition temperature. These attributes make a favorable choice for solar-thermal applications in direct irradiation.
+Keywords: Alumina particles; Solar absorption; Thermal stability; Direct irradiation
+
+Swanand R. Patange, Poonam R. Sutar, Ganapati D. Yadav,
+New frontiers in thermal energy storage: An experimental analysis of thermophysical properties and thermal stability of a novel ternary chloride molten salt,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112866,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112866.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001788)
+Abstract: It has been always a daunting task to develop thermal systems with a wide range of thermochemical properties and high stability. It presents a significant challenge, especially when aiming to utilize them for heat storage and transfer applications. In this regard, the thermal characteristics and thermal stability behaviour of molten salt mixture as a heat transfer fluid (HTF) at high temperatures were explored. A novel ternary eutectic salt mixture (base mixture) made of cuprous chloride (CuCl), potassium chloride (KCl) and sodium chloride (NaCl) was investigated as HTF for thermal energy storage (TES) system with a range up to 653 °C in a concentrated solar power (CSP) plant. To extend the temperature span and stability, the effect of an additive was investigated. Different compositions were studied in detail concerning the properties and stability regarding the additive. The molten salt with 7 % CaCl2 additive improved thermal stability and operating temperature from 653 °C to 700 °C. The transport characteristics and thermal stability of the eutectic mixture with and without the additive were measured by high-temperature thermal analyzers. The results indicated that the melting temperature decreased and the average specific heat capacity considerably increased with the addition of CaCl2 additive compared to the ternary chloride base mixture. As the temperature increased, the eutectic salt mixture exhibited a reduction in viscosity and density. The viscosity and density of the salt mixture with and without the additive were almost uniform at 700 °C. The average thermal conductivity of the ternary salt mixture with and without additives was 0.72 W/(m°C) which is much more than that of Solar and Hitec salts. In a 100 h experiment of long-period isothermal stability, the eutectic salt mixture showed less than 4 % weight loss at 700 °C. It was defined as the highest operating temperature at which the eutectic salt mixture remained stable. The stability and recyclability of the salt mixture were confirmed through the short-period stability test. The effect of the CaCl2 additive on thermal stability of base salt mixture was analyzed by X-ray Diffraction (XRD) and X-ray Photoelectron Spectroscopy (XPS) techniques. According to the results, this novel eutectic salt mixture had outstanding thermal stability up to 700 °C and could be employed as a viable TES material in CSP plants.
+Keywords: Ternary eutectic mixture; Molten salt; Heat transfer fluid; CSP; Thermal energy storage material; Short-long period thermal stability
+
+A.F. Violas, A.J.N. Oliveira, P.A. Fernandes, P.M.P. Salomé, J.P. Teixeira,
+CIGS bifacial solar cells with novel rear architectures: Simulation point of view and the creation of a digital twin,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112899,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112899.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002113)
+Abstract: The performance of bifacial Cu(In,Ga)Se2 (CIGS) cells does not yet reach the one of monofacial cells, with standard Mo rear contacts. By exploring optoelectronic simulations, this study addresses the impact of a transparent conducting oxide layer used as rear contact in CIGS solar cells. These simulations, which aim to create a digital twin of bifacial CIGS solar cells, offer insight into the impact of novel rear contact architectures. It was observed that with an indium tin oxide (ITO) rear contact the CIGS cell performance lacks in comparison to a Mo one due to an electrical barrier, under rear side illumination these devices may only reach 3.9 % in conversion efficiency. The implementation of dielectric rear passivation schemes have great performance benefits in cells with Mo rear contacts. Therefore, the same passivation strategy in ITO contacts is discussed and additional novel architectures are proposed, from which a design of alternated lines between dielectric and 15 nm Mo layers on ITO showed promising results. Such rear architectures aim to achieve i) a highly transparent rear contact, ii) an ohmic-like behaviour with CIGS, and iii) a low defective interface with rear passivation. The selenization of the complete 15 nm Mo in the proposed novel architecture during the CIGS growth was considered, resulting in transmittance values above 70 % and, notably, reaching the transparency of bare ITO in the infrared range. Such rear architecture may provide for bifacial CIGS solar cells with conversion efficiency values surpassing 20 and 15 % for front and rear side illumination, respectively, allowing to fully exploit bifaciality.
+Keywords: Bifacial; Transparent contact; SCAPS; CIGS; Rear architecture; Passivation
+
+Silvana Hof-Michel, Ljubinka Cigoja, Sabina Huhn, Christian Bökel,
+Rel governs loser elimination during stem cell competition in the Drosophila testis,
+European Journal of Cell Biology,
+Volume 103, Issue 1,
+2024,
+151375,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2023.151375.
+(https://www.sciencedirect.com/science/article/pii/S0171933523000900)
+Abstract: In the Drosophila testis, a group of stromal cells termed hub provides multiple niche signals for the surrounding germline and somatic stem cells. Stem cells of both populations compete for physical retention in the niche, and clones unable to transduce any one niche signal are rapidly eliminated from the stem cell pool by differentiation. We have mapped the transcriptomes of isolated somatic cyst stem cells and differentiated cyst cells, and found that the stem cells but not their differentiated progeny exhibit the signature of an innate immune response including the NF-κB transcription factor Relish (Rel). Related signalling pathways had previously implicated in cell competition in larval epithelia, prompting the question of whether NF-κB signalling was, despite the clear differences between the two competition scenarios, also involved in stem cell competition in the testis. Here we show i) that in the testis Rel is dispensable for stemness, ii) that loss of Rel or the upstream receptor Toll suppresses loser elimination following a variety of different triggers used to induce loser fate, and iii) that clonal Rel activation is sufficient for the displacement of neutral or winner cells from the niche, even if these cells otherwise retain stem cell properties.
+Keywords: Drosophila testis; Stem cells; Stem cell niche; Cell competition; Relish (Rel); Innate immune signalling
+
+Michael D. Galluzzo, Hans-Georg Steinrück, Christopher J. Takacs, Aashutosh Mistry, Lorena S. Grundy, Chuntian Cao, Suresh Narayanan, Eric M. Dufresne, Qingteng Zhang, Venkat Srinivasan, Michael F. Toney, Nitash P. Balsara,
+Probing transference and field-induced polymer velocity in block copolymer electrolytes,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101766,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101766.
+(https://www.sciencedirect.com/science/article/pii/S2666386423006112)
+Abstract: Summary
+Concentration polarization in an electrolyte comprising dissociated ions and a solvent is often modeled using concentrated solution theory developed by Newman. This theory is built upon two differential equations for electrolyte concentration and solvent velocity fields. We characterize the concentration and solvent velocity fields in a polystyrene-block-polyethylene oxide (SEO) block copolymer electrolyte using operando X-ray transmission measurements and X-ray photon correlation spectroscopy, respectively. Using calculations based on the assumption that the SEO chain behaves as a single species, we show that the experimental data are consistent with a cation transference number, t+0, ≈ 0.7. Previously published electrochemical experiments using small polarizations led to the conclusion that t+0 is less than 0.3. The discrepancy indicates that the block copolymer electrolyte cannot be approximated as a three-component system (cation, anion, and a single solvent), and frictional interactions involving the glassy polystyrene cannot be lumped with those involving rubbery poly(ethylene oxide) segments.
+Keywords: transference number; velocity fields; concentration fields; XPCS; X-ray transmission; block copolymer; battery electrolyte
+
+Snehal Mondal, Ashmita Jain, Santanu Maity,
+Exploring the potential of tin-based perovskite-silicon tandem solar cells through numerical analysis: A pathway to sustainable energy innovation,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112869,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112869.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001818)
+Abstract: “Necessity is the mother of invention.” The global imperative to transition from fossil fuels to renewable energy sources, driven by the pressing issue of climate change, highlights the significance of advancing solar energy technologies. While single junction solar cells have reached a peak efficiency of approximately 31 %, the pursuit of higher efficiency has led to the exploration of tandem solar cell architectures, including perovskite-silicon and all-perovskite configurations. However, the widespread use of lead in perovskite structures raises environmental and health concerns. In response to these challenges, this study proposes a novel approach by integrating a tin-based wide bandgap absorber layer with a silicon HIT solar cell (Heterojunction with Intrinsic Layer). The investigation consists of an extensive exploration of six different carrier transport layers (CTL) for the top perovskite layer, considering variations in thickness and defect density. A comprehensive analysis of charge carrier dynamics within the device is conducted to understand the role of defect density in influencing solar cell performance parameters. Simulation results show that the overall tandem device gives an encouraging PCE of 32.12 % in 2 T configuration due to its excellent high value of current density matching 17.63 mA/cm2 and open-circuit voltage of 2.19V. We sincerely hope that our work will open new avenues in the field of Solar Photovoltaics paving the way for future innovations.
+Keywords: Silicon-perovskite tandem; Lead free; Current matching; Capacitance spectroscopy; Impedance spectroscopy; Charge carrier dynamics; Hysteresis etc
+
+Chaofan Liu, Zhengxin Chen, Chunliang Ding, Shengde Jin, Jiafan Wang, Jiawei Feng, Jiang Wu, Heping Huang, Jia Lin, Jingfei Yu, Yuyue Quan, Kaiyuan Zhang,
+Accelerating the discovery of direct bandgap doped-spinel photovoltaic materials: A target-driven approach using interpretable machine learning,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112881,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112881.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001934)
+Abstract: The spinel structure, unifying tetrahedral and octahedral coordination within a single crystal lattice, emerges as a promising alternative to perovskite and traditional semiconductors, particularly in the context of photovoltaic applications. However, the majority of surveyed spinels exhibit an indirect bandgap, imposing substantial limitations on their utility. Consequently, doping is required to tailor indirect bandgap spinels into direct ones. In this study, leveraging machine learning (ML) algorithms, we design a target-driven framework to accelerate the ab initio predictions of unknown doped-spinels using elements from the periodic table. Utilizing this approach, we have introduced a novel machine learning classification model designed for the prediction of the direct-indirect bandgap nature in spinel materials. This pioneering model shows promising potential for achieving rapid and precise predictions, particularly in scenarios involving small dataset. Especially, a full list of potential 3449 (AxA′1-x)B2X4-type doped-spinels and 3809 A(BxB′2-x)X4-type doped-spinels with direct bandgaps is identified from the vast pool of unknown doped-spinel materials. Further, the application of interpretable ML extracts the first ionization energy of the B-site ion as the most important feature for the nature of bandgap, offering insightful design rules. This research provides a novel perspective on unraveling spinel materials, and the proposed design framework proves effective in identifying high-performance materials within a vast chemical space, all while minimizing computational costs.
+Keywords: Doped-spinels; Photovoltaic material design; Random forest classifier; Sequential target screening
+
+Ke Zhang, Longying Ye, Yanhui Jin, Yuan Chen, Shuting Jiang, Haixiao Xie, Lihong Yang, Mingshan Wang,
+Molecular and clinical characterization of two unrelated families with factor V deficiency, including a novel nonsense variant (p.Gln1532*),
+Blood Cells, Molecules, and Diseases,
+Volume 104,
+2024,
+102794,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102794.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000712)
+Abstract: Background
+Factor V (FV) is an essential cofactor in the coagulation cascade. The characterization of novel mutations is advantageous for the clinical management of FV-deficient patients.
+Methods
+Coagulation screening and thrombin generation assay were performed with the plate-poor plasma. All 25 exons of the F5 gene were amplified and sequenced. The ClustalX-2.1 software was applied to the multiple sequence alignment. The possible adverse effects of mutations were investigated with online bioinformatics software and protein modeling.
+Results
+Two unrelated families with FV deficiency were under investigation. Proband A was an 18-year-old youth with recurrent epistaxis. Proband B was a 29-year-old woman who did not present with any bleeding symptoms. Three heterozygous mutations (p.Gln1532*, p.Phe218Ser, and p.Asp2222Gly) were detected. Interestingly, they were compound heterozygotes and both contained the p.Asp2222Gly, a polymorphism. The thrombin generation assay showed that both patients had impaired ability of thrombin generation, and in particular, proband A was more severe. Conservation, pathogenicity and protein modeling studies all indicated that these three mutations could cause deleterious effects on the function and structure of FV.
+Conclusion
+These three mutations are responsible for the FV-deficient in two pedigrees. Moreover, the nonsense variant p.Gln1532* is first reported in the world.
+Keywords: Factor V deficiency; F5 gene; Novel mutation; Epistaxis
+
+Yunlai Yuan, Zhe Chen, Hui Peng, Xixiang Xu, Minghao Qu, Shi Yin, Xiaoning Ru, Wangping Wu, Lvzhou Li, Qinqin Wang, Jianning Ding,
+Study on the process of hydrogen-doped indium oxide for silicon heterojunction solar cell mass production,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112836,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112836.
+(https://www.sciencedirect.com/science/article/pii/S092702482400148X)
+Abstract: In this work, we conducted a comparative study on water vapor (H2O) process and hydrogen gas (H2) process to prepare the IMO:H films based on industrialized DC magnetron sputtering system. To dynamically control the residual H2O pressure, we installed a set of polycold coil and kept it turned on during the sputtering process. The film characteristics of Hall mobility, carrier density, sheet resistance, and transparency was investigated. The results revealed that the silicon heterojunction (SHJ) solar cell with H2 process had a higher Hall mobility and greater transparency in the 400–600 nm wavelength range resulting in a lower contact resistivity and a slight increase current density compared to the H2O process. The median efficiency (Eff) achieved with the H2 process improved by 0.09% absolute to 25.43%, mainly because of the increased Jsc and FF. And the IMO:H films with H2 process had a large basal spacing with (400) and (222) crystal planes resulting in maintaining a more stable and reliable structure at temperatures below 200 °C. After the optimization of TCO layer process, we manufactured the industrial-grade SHJ cells with max efficiency (Eff), Voc, Jsc, and fill factor (FF) values as high as 26.27%, 753 mV, 41 mA/cm2, and 86%, respectively. The IMO:H films with H2 process can thus be considered more suitable for large-scale production.
+Keywords: SHJ solar cell; Magnetron sputtering; IMO:H films; H2 process
+
+Chandany Sen, Haoran Wang, Muhammad Umair Khan, Jiexi Fu, Xinyuan Wu, Xutao Wang, Bram Hoex,
+Buyer aware: Three new failure modes in TOPCon modules absent from PERC technology,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112877,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112877.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001892)
+Abstract: The n-type tunnel oxide passivated contact (TOPCon) technology is going to be the leading industrial technology in 2024. However, there are still concerns about the reliability of TOPCon when used in the field, especially in glass/backsheet modules. This work investigates the impact of damp heat (DH) on the performance TOPCon and PERC glass/backsheet modules by varying bills of materials (BOM), such as polyolefin elastomer (POE), ethyl-vinyl acetate (EVA), and polymer backsheet options. It is found that PERC modules remain stable, with a maximum power loss (Pmax) of only 1–2%rel after 1000 h of DH testing, regardless of the BOM used. However, TOPCon modules experienced significant degradation with a drop in Pmax ranging from 4 to 65%rel after the same testing duration. Despite utilizing POE, an expensive encapsulant with a significantly lower water vapour transmission rate than EVA and devoid of acetic acid formation, a severe performance decline was observed in a specific POE variant within TOPCon modules, with a loss of power of up to 65%rel. Three types of failures were observed in TOPCon modules: point-localized failure, failure at/around the interconnection of ribbon wires and busbars, and failure throughout the whole area of cells/modules. These failures likely result from electrochemical reactions involving moisture, cell metallization, ribbon wires, contaminants, soldering flux, and additives released from POE. The observed findings underline two crucial points: 1) the vulnerability and potential failure of TOPCon solar cells when exposed to high humidity and contaminants, and 2) the high risk associated with certain POE types, which could potentially adversely affect TOPCon cells. Hence, it is crucial to exercise utmost caution and precision in handling and selecting encapsulation materials for TOPCon modules. Accordingly, urgent and extensive research efforts are crucial to substantially increase our comprehension and fortify the reliability of TOPCon cells against the pernicious effects of moisture and other contaminants.
+Keywords: PERC; TOPCon; Modules; Damp heat; Reliability; Failure mode
+
+Jay Prakash Bijarniya, Jahar Sarkar, Pralay Maiti,
+Experimental performance characteristics of the daytime radiative cooler at various surface orientations,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112906,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112906.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002186)
+Abstract: The daytime radiative cooling technology is becoming crucial with several prospective applications, either as a standalone or in conjunction with conventional cooling systems; however, the dilute cooling flux is a main drawback. The cooling flux can be enhanced by proper surface orientation (direction or azimuth and tilting or inclination), but it has not been studied extensively. Hence, this study describes the radiative cooler's angular and directional-dependent performance. The angular and directional dependent study is essential to emphasize the further development in the radiative coatings' suitable macro-scale geometry. An optimized polymer-particle composite structured daytime radiative cooler has been developed and tested with maximum temperature drop from the ambient as an objective function. The north-facing radiative cooler starts to perform better up to a 30° tilt angle; after that, its performance tends to decrease. The south-facing surfaces have reduced performance due to higher solar flux exposure as well as reduced sky exposure. A flat surface receives the maximum sky exposure since its horizontal placement does not interfere with the earth's objects. A maximum of 10.5 °C temperature drop and an average maximum of 5.5 °C are observed. North-facing tilt up to 30° is recommended in the northern hemisphere and vice-versa for best performance.
+Keywords: Daytime radiative cooling; Polymer-particle coating; Cooler surface azimuth; Cooler surface tilting; Sub-ambient temperature
+
+Claudio Casali, Luca Galgano, Lorena Zannino, Stella Siciliani, Margherita Cavallo, Giuliano Mazzini, Marco Biggiogera,
+Impact of heat and cold shock on epigenetics and chromatin structure,
+European Journal of Cell Biology,
+Volume 103, Issue 1,
+2024,
+151373,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2023.151373.
+(https://www.sciencedirect.com/science/article/pii/S0171933523000882)
+Abstract: Cells are continuously exposed to various sources of insults, among which temperature variations are extremely common. Epigenetic mechanisms, critical players in gene expression regulation, undergo alterations due to these stressors, potentially leading to health issues. Despite the significance of DNA methylation and histone modifications in gene expression regulation, their changes following heat and cold shock in human cells remain poorly understood. In this study, we investigated the epigenetic profiles of human cells subjected to hyperthermia and hypothermia, revealing significant variations. Heat shock primarily led to DNA methylation increments and epigenetic modifications associated with gene expression silencing. In contrast, cold shock presented a complex scenario, with both methylation and demethylation levels increasing, indicating different epigenetic responses to the opposite thermal stresses. These temperature-induced alterations in the epigenome, particularly their impact on chromatin structural organization, represent an understudied area that could offer important insights into genome function and potential prospects for therapeutic targets.
+Keywords: Heat shock; Cold shock; Epigenetics; Methylation; Histone post translational modifications; Chromatin condensation
+
+Antonella Nai, Celia Cordero-Sanchez, Emanuele Tanzi, Alessia Pagani, Laura Silvestri, Simona Maria Di Modica,
+Cellular and animal models for the investigation of β-thalassemia,
+Blood Cells, Molecules, and Diseases,
+Volume 104,
+2024,
+102761,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102761.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000384)
+Abstract: β-Thalassemia is a genetic form of anemia due to mutations in the β-globin gene, that leads to ineffective and extramedullary erythropoiesis, abnormal red blood cells and secondary iron-overload. The severity of the disease ranges from mild to lethal anemia based on the residual levels of globins production. Despite being a monogenic disorder, the pathophysiology of β-thalassemia is multifactorial, with different players contributing to the severity of anemia and secondary complications. As a result, the identification of effective therapeutic strategies is complex, and the treatment of patients is still suboptimal. For these reasons, several models have been developed in the last decades to provide experimental tools for the study of the disease, including erythroid cell lines, cultures of primary erythroid cells and transgenic animals. Years of research enabled the optimization of these models and led to decipher the mechanisms responsible for globins deregulation and ineffective erythropoiesis in thalassemia, to unravel the role of iron homeostasis in the disease and to identify and validate novel therapeutic targets and agents. Examples of successful outcomes of these analyses include iron restricting agents, currently tested in the clinics, several gene therapy vectors, one of which was recently approved for the treatment of most severe patients, and a promising gene editing strategy, that has been shown to be effective in a clinical trial. This review provides an overview of the available models, discusses pros and cons, and the key findings obtained from their study.
+Keywords: β-Thalassemia; Cellular models; Murine models; Erythropoiesis; Iron overload; Iron restriction
+
+Yahong Wang, Yunfei He, Yin Ren, Sisi Li, Lin He, Peng Ye, Luming Zhou, Zhenhua Wang, Rongli Gao, Wei Cai, Chunlin Fu,
+Effects of complexing agent on carrier transport property and photovoltaic performance of TiO2@MAPbI3 core-shell structured nanowire arrays,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112868,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112868.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001806)
+Abstract: The excellent properties of nanowire arrays are retained in the shell-core structured nanowire arrays, and the contact area between the core and shell is increased. However, perovskite layers are prone to a variety of defects during the covering process. A large number of explorations for perovskite interfacial defects have revealed that the use of complexing agents to modify the surface of the transport layer can eliminate or ameliorate these defects. Potassium sodium tartrate (PSTA) and ethylenediaminetetraacetic acid (EDTA) are commonly used complexing agents because of their strong complexing ability and stable nature. In this paper, the photovoltaic performance of perovskite solar cells was improved by modifying TiO2 core nanowire arrays with different complexing agents. When TiO2 was modified by PTSA and EDTA, the PCE of the devices reached 8.23 % and 8.76 %, respectively, which is 14.5 % and 21.8 % higher than that of the unmodified device (7.19 %). The complexing agent modification resulted in a higher degree of crystallization, larger grain size, and higher light absorption of the light-absorbing layer. As EDTA has a strong complexing ability, it can form stable coordination bonds with uncoordinated ions, resulting in an effective reduction of defective states in the device, which is conducive to carrier extraction and collection. It is shown that the photovoltaic performance and the carrier transport property of shell-core structured nanowire arrays can be optimized by complexing agent modification, which will provide some guidance for improving the photovoltaic performance of core-shell structured solar cells.
+Keywords: Solar cell; Perovskite; Core-shell structure; Nanowire array; Complexing agent
+
+Letu Siqin, Wenjing Xin, Ruijian Liu, Hongmei Luan, Lei Wang, Yiming Wang, Shuyu Li, Jingyuan Guo, Yu He, Jiayong Zhang, Bin Yao, Chengjun Zhu,
+Cu2ZnSn(S,Se)4 solar cells with over 10% power conversion efficiency enabled by dual passivation strategy,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112880,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112880.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001922)
+Abstract: Interfaces quality have always been considered the key factors in the fabrication of efficient Cu2ZnSn(S,Se)4 (CZTSSe) solar cells, and harmful defects at the interface can significantly reduce the performance of the device. Here, we propose a dual passivation strategy by adding Na to the surface of the absorber layer (CZTSSe) to passivate the CZTSSe/CdS interface and treating the buffer layer (CdS) using ultraviolet (UV) irradiation to passivate the CdS/ZnO interface. Due to the Na doping passivation, the absorber surface conductivity increases while the roughness decreases and detrimental defects that can lead to nonradiative recombination are reduced. The power conversion efficiency (PCE) of the cell is improved by about 1 percentage point by Na passivation. The contributions of open-circuit voltage (Voc), short-circuit current density (Jsc), and fill factor (FF) to the improvement of PCE have been quantified as 50.64%, −5.58%, and 54.94%, indicating that Na doping can significantly boost Voc and FF. UV-ozone passivation reduces residual carbon organics in the CdS buffer layer, weakens carrier recombination, allows for more light absorption, and widens the depletion region, which favors efficient carrier collection. The estimated contribution of Voc, Jsc, and FF to the PCE of the device is 8.78%, 119.59%, and −28.37%, respectively, demonstrating that UV-ozone passivation can significantly improve the Jsc of the device. The two passivation strategies complement each other's advantages and achieve a synergistic effect. Our prepared champion device exhibits a PCE of 10.69% and remarkable long-term stability.
+Keywords: CZTSSe solar cells; DMF; Surface sodium passivation; UV-Ozone passivation; Dual passivation strategy
+
+Sangram Ashok Savant, Gaia De Angelis, Swarnava Nandy, Esther Amstad, Sophia Haussener,
+Single emulsion drops for photocatalytic water splitting as a membrane-free approach to product separation,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101755,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101755.
+(https://www.sciencedirect.com/science/article/pii/S2666386423006008)
+Abstract: Summary
+The coevolution of hydrogen and oxygen during photocatalytic water splitting presents a challenge for efficient product separation. Here, we demonstrate membrane-free, drop-based photocatalytic water splitting with inherent product separation and competitive production rates. Drops composed of an aqueous solution containing a mediator and photocatalysts are surrounded by perfluorinated oil made (1) by mechanical agitation of a bulk mixture or (2) within a microfluidic device. The high oxygen solubility of the oil allows for inherent trapping of oxygen while immediately releasing hydrogen. We achieve average solar-to-hydrogen efficiencies of 0.024% ± 0.001% in the conventional suspension approach, 0.016% ± 0.002% in the bulk emulsion system, and 0.046% ± 0.008% if drops are irradiated in the microfluidic device. A three orders of magnitude decrease in the residence time of photocatalysts with a 1.34 times increase in production rate is possible in the microfluidic drop approach when compared to conventional suspensions. Oxygen is trapped and easily released by heating the oil effluent at 343 K.
+Keywords: photocatalytic water splitting; photocatalytic hydrogen generation; microfluidic device; Z-scheme photocatalysis; green hydrogen; drop-based photocatalysis; particle suspension reactors; H2 and O2 separation
+
+Hakan F. Öztop, Ezgi Gürgenç, Muhammed Gür,
+Thermophysical properties and enhancement behavior of novel B4C-nanoadditive RT35HC nanocomposite phase change materials: Structural, morphological, thermal energy storage and thermal stability,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112909,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112909.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002216)
+Abstract: This study aims to enhancement the thermal conductivity of RT35HC, as a commercial paraffin, by integrating boron carbide (B4C) nanoparticles for the first time, thereby producing B4C-nanoadditive nanocomposite PCMs. The B4C nanoparticles were reinforcement to RT35HC at mass fraction percentages (wt.%) of 0.5, 1, 1.5 and 2 by melting and physical mixing method. The structural and morphological characteristics of both pure and nanocomposite PCMs were examined using XRD, FT-IR, FE-SEM, and EDX. Thermal properties were investigated through DSC, TGA/DTA, and thermal conductivity measurements using the KD2-Pro device. The Gaussian process regression (GPR) model was used to analyze the Cp values in relation to temperature and additive ratio. Structural and morphological analysis results indicated a homogeneous distribution of nanoparticles within the PCM matrix, without any significant chemical or physical alterations. The introduction of B4C-nanoadditive did not markedly affect the melting and solidification temperatures. However, melting and solidification enthalpies decreased proportionally with increased nanoadditive ratios, with the greatest reductions being 7.44 % and 5.74 % at a 2 wt% nanoaddition rate, respectively. As the nanoadditive ratio increased, the thermal conductivity (k) and specific heat capacity (Cp) of RT35HC in both solid and liquid-phases enhanced significantly. Specifically, solid-phase (25 °C) k values increased by 67.51 % from 0.197 to 0.33, and liquid-phase (50 °C) k values by 15.29 % from 0.170 to 0.196. The highest Cp values in the solid and liquid-phases were measured as 3.01 and 2.49, respectively, in the nanocomposite with a high nanoadditive ratio. The GPR method yielded a success rate of 0.9015. Additionally, the nanocomposites exhibited enhanced thermal stability and higher thermal decomposition temperatures. Based on these characterizations, the fabricated B4C-nanoadditive nanocomposite PCMs show promise for application in TES and TM systems.
+Keywords: Phase change material; Thermal energy storage; RT35HC; B4C; Nanocomposite PCM
+
+Jie Chen, Yichuan Zhang, Quan Gao, Wei Wang, Liwei Zhu, Ghada E. Khedr, Qi Xing, Weiwei Shi, Jin Geng,
+Sequence-controlled glycooligomers for tumor targeting,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101749,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101749.
+(https://www.sciencedirect.com/science/article/pii/S2666386423005945)
+Abstract: Summary
+Cancers of diverse origins exhibit more rapid and greater carbohydrate uptake and consumption compared to normal cells, making carbohydrate an efficient cancer-targeting tool. Here, we report a glycooligomer construction methodology enabling efficient synthesis of sequence-controlled glycooligomers both in solution and on solid support. The uptake of the synthesized glycooligomers by cancerous cells is found to be significantly higher than most normal cells, and the tumor-targeting capability of the sequence-optimized glycooligomers is explored. The efficient cancer cell selectivity and in vivo tumor accumulation indicate its great potential for biomedical applications, such as targeted cancer diagnosis and therapy.
+Keywords: glycooligomers; sequence control; solid-phase synthesis; click chemistry; tumor targeting
+
+Xinyu Huang, Fangfei Li, Yuanji Li, Xiaohu Yang, Ming-Jia Li,
+Solar photothermal utilization of coupled latent heat storage: A numerical and optimization study,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112864,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112864.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001764)
+Abstract: The combination of Organic Rankine Cycle (ORC) and Latent Heat Thermal Energy Storage (LHTES) is a novel approach for effectively utilizing solar energy. However, the influence of solar energy fluctuations on the heat transfer process of LHTES systems is not yet clear. In this study, a sinusoidal heat source is applied to a rotating triple-tube LHTES system, and numerical analysis and model verification are conducted. The parameters of the sinusoidal heat source are optimized using the response surface method. The effects of heat source amplitude, half period, and rotation speed on the heat release time and heat release rate of LHTES are investigated, and corresponding quadratic regression equations are fitted. The optimized structure (rotation speed = 0.5 rpm, amplitude = 7.5 K, half-cycle = 100) obtained through the response surface method reduced the solidification time by 12.45% compared to the initial structure (rotation speed = 0.3 rpm, amplitude = 7.5 K, half-cycle = 100). The average temperature response and heat release rate increased by 28.34% and 16.25%, respectively. The sensible heat and total heat release within one solidification cycle increased by 12.17% and 1.87%, respectively. This study lays the foundation for the optimization design of LHTES systems and the integrated application of Organic Rankine Cycle.
+Keywords: Organic rankine cycle; Thermal energy storage; Solidification properties; Sinusoidal wall temperature; Optimization study
+
+Julian Weber, Leander Kniffki, Leon Gutmann, Jonas Huyeng, Elmar Lohmüller, Torsten Rößler,
+Investigating the impact of edge passivation on shingle solar modules,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112876,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112876.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001880)
+Abstract: This work deals with solar modules made from rectangular-shaped solar cell strips, so-called shingles, that are interconnected by overlapping one with another. For the fabrication of such modules, host solar cells are cut into several shingles resulting in unpassivated shingle cell edges and relevant recombination losses. As discussed in this work based on simulations, quantifying these losses on module level is not straightforward and is ideally done by referring to the pseudo fill factor pFF. In this context, it is shown that by passivating the cut edges of the shingles by depositing a dielectric layer, a significant pFF increase can be achieved both on shingle as well as on module level. Considering the highest respective pFF value found for modules with and without edge passivation, an increase of ΔpFF = 0.5%abs is reached. At the same time, no significant compromise of the interconnection quality is observed. These results are obtained for monofacial passivated emitter and rear cell (PERC) shingles. In short, this work is the first comprehensive analysis of experimental data on module level in the context of edge passivation. It demonstrates that the deposition of a dielectric passivation layer at the shingle's edges can boost pFF of shingle solar modules, while the current transit between the busbars of jointed shingles is not significantly hindered.
+Keywords: Shingle solar modules; Passivated edge technology (PET); Edge recombination; Pseudo fill factor; Interconnection; Electrically conductive adhesive (ECA)
+
+Tomas Ganz, Elizabeta Nemeth,
+Hypoferremia of inflammation: Innate host defense against infections,
+Blood Cells, Molecules, and Diseases,
+Volume 104,
+2024,
+102777,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102777.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000542)
+Abstract: Iron is an essential nutrient for microbes, plants and animals. Multicellular organisms have evolved multiple strategies to control invading microbes by restricting microbial access to iron. Hypoferremia of inflammation is a rapidly-acting organismal response that prevents the formation of iron species that would be readily accessible to microbes. This review takes an evolutionary perspective to explore the mechanisms and host defense function of hypoferremia of inflammation and its clinical implications.
+Keywords: Nutritional immunity; Hepcidin; Ferroportin; Interleukin-6; Non-transferrin bound iron
+
+M.J. Nunes, A.N. Carvalho, C. Sá-Lemos, M. Colaço, I. Cervenka, V. Ciraci, S.G. Santos, M.M. Ribeiro, M. Castanheira, P.R. Jannig, M.J. Gama, M. Castro-Caldas, C.M.P. Rodrigues, E. Rodrigues, J.L. Ruas,
+Sustained PGC-1α2 or PGC-1α3 expression induces astrocyte dysfunction and degeneration,
+European Journal of Cell Biology,
+Volume 103, Issue 1,
+2024,
+151377,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2023.151377.
+(https://www.sciencedirect.com/science/article/pii/S0171933523000924)
+Abstract: Peroxisome proliferator-activated receptor-gamma coactivator-1α (PGC-1α) transcriptional coactivators are key regulators of energy metabolism-related genes and are expressed in energy-demanding tissues. There are several PGC-1α variants with different biological functions in different tissues. The brain is one of the tissues where the role of PGC-1α isoforms remains less explored. Here, we used a toxin-based mouse model of Parkinson's disease (PD) and observed that the expression levels of variants PGC-1α2 and PGC-1α3 in the nigrostriatal pathway increases at the onset of dopaminergic cell degeneration. This increase occurs concomitant with an increase in glial fibrillary acidic protein levels. Since PGC-1α coactivators regulate cellular adaptive responses, we hypothesized that they could be involved in the modulation of astrogliosis induced by 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP). Therefore, we analysed the transcriptome of astrocytes transduced with expression vectors encoding PGC-1α1 to 1α4 by massively parallel sequencing (RNA-seq) and identified the main cellular pathways controlled by these isoforms. Interestingly, in reactive astrocytes the inflammatory and antioxidant responses, adhesion, migration, and viability were altered by PGC-1α2 and PGC-1α3, showing that sustained expression of these isoforms induces astrocyte dysfunction and degeneration. This work highlights PGC-1α isoforms as modulators of astrocyte reactivity and as potential therapeutic targets for the treatment of PD and other neurodegenerative disorders.
+Keywords: Parkinson’s disease; PGC-1α; Isoforms; Variants; PGC-1α2; PGC-1α3; Astrocyte reactivity; Adhesion; Migration; Viability
+
+Seunghee Park, Byeongnam Jo,
+Microencapsulated sodium nitrate with titanium-dioxide shell for high-temperature and high-density latent heat storage,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112905,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112905.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002174)
+Abstract: In this study, a molten salt, i.e., sodium nitrate (NaNO3), that melts at 308 °C is microencapsulated with titanium dioxide (TiO2) shells via water-limited surfactant-free sol-gel processes for high-temperature and high-density thermal energy storage. The effects of the catalyst and precursor concentrations are examined to determine the optimal conditions for the two materials to achieve microcapsules with outstanding thermal performance and thermal reliability. The morphological characteristics of the core–shell structures of the microcapsule are investigated using scanning electron microscopy, whereas its chemical composition is analyzed using Fourier transform infrared spectroscopy to corroborate the synthesis of robust TiO2 shells. Calcination heat-treatment is performed at 300 °C to induce a transition from amorphous to anatase such that the shell robustness is enhanced and the thermal reliability of the NaNO3@TiO2 microcapsule is secured. The thermal performance of the NaNO3@TiO2 microcapsule is determined via differential scanning calorimetry between 220 and 360 °C. The encapsulation ratio is calculated to be 72.7–69.0 %. Finally, the thermal reliability of the NaNO3@TiO2 microcapsule is examined using DSC for 50 repeated heating and cooling cycles.
+Keywords: Surfactant-free microencapsulation; Molten salt; Titanium dioxide; Thermal energy storage; Thermal reliability
+
+Xia Chen, Fang Liu, Yuanyuan Ren, Luyang Zhang, Yang Wan, Wenyu Yang, Xiaojuan Chen, Li Zhang, Yao Zou, Yumei Chen, Xiaofan Zhu, Ye Guo,
+Outcome of first or second transplantation using unrelated umbilical cord blood without ATG conditioning regimen for pediatric bone marrow failure disorders,
+Blood Cells, Molecules, and Diseases,
+Volume 104,
+2024,
+102793,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102793.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000700)
+Abstract: Background
+Unrelated umbilical cord blood transplantation (UCBT) for bone marrow failure (BMF) disorders using conditioning regimens without Anti-Thymocyte Globulin (ATG) has been used as an alternative transplantation for emerging patients without matched-sibling donors. Experience with this transplant modality in children is limited, especially as a secondary treatment for transplant failure patients.
+Procedure
+We retrospectively reviewed 17 consecutive bone marrow failure patients who underwent unrelated umbilical cord blood transplantation in our center and received conditioning regimens of Total Body Irradiation (TBI) or Busulfan (BU) + Fludarabine (FLU) + Cyclophosphamide (CY).
+Results
+Among the 17 BMF patients, 15 patients were treated with first cord blood transplantation and another 2 with secondary cord blood transplantation because of graft failure after first haploidentical stem cell transplantation at days +38 and +82. All patients engrafted with a median donor cell chimerism of 50 % at days +7 (range, 16 %–99.95 %) and finally rose to 100 % at days +30. Median time to neutrophil engraftment was 19 days (range, 12–30) and time to platelet engraftment was 32 days (range, 18–61). Pre-engraftment syndrome (PES) was found in 16 patients (94.11 %, 16/17). Cumulative incidence of grades II to IV acute GVHD was 58.8 % (95 % CI: 32.7–84.9 %), and 17.6 % (95 % CI: 2.6–37.9 %) of patients developed chronic GVHD. The 3-year overall survival (OS) and failure-free survival (FFS) rates were 92.86 ± 6.88 %.
+Conclusion
+UCBT is an effective alternative treatment for bone marrow failure pediatric patients. TBI/BU + FLU + CY regimen ensure a high engraftment rate for unrelated umbilical cord blood transplantation, which overcomes the difficulty of graft failure. Secondary salvage use of cord blood transplantation may still be useful for patients who have failed after other transplantation.
+Keywords: Bone marrow failure disorders; Unrelated umbilical cord blood transplantation; Graft failure
+
+Chuanxin Yang, Ronghui Han, Xiaoyu Guo, Shufen Zhang, Bingtao Tang, Yuang Zhang,
+Efficient daytime radiative cooling films originating from controllable multi-scattering effect,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112917,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112917.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002290)
+Abstract: Passive radiative cooling technology has received extensive attention as an environmentally friendly cooling solution. However, existing radiative coolers often suffer from complexities in preparation and high costs, limiting their practical applications. Here, a novel porous structure with randomly distributed microspheres is fabricated in a low-cost and simple method known as solvent volatilization-induced phase separation, employing polyvinylidene fluoride (PVDF) and monodispersed SiO2 microspheres. Utilizing the regulation of parameters such as the size of the pores and microspheres, controllable multi-scattering of light by the microstructures is achieved. The porous PVDF/SiO2 film, with an average solar reflectance of 93.8% and an average atmospheric window emissivity of 0.958, is self-supporting and exhibits excellent flexibility and mechanical strength. When applied to closed and windowed models, the porous PVDF/SiO2 film effectively lowers the internal temperatures by an average of 7.0 °C and 4.6 °C in summer, respectively, and by an average of 6.7 °C and 4.4 °C in spring. This work provides a viable strategy for achieving efficient radiative cooling and improving building energy management in a simple, cost-effective, and scalable manner.
+Keywords: Daytime radiative cooling; Porous polyvinylidene fluoride; SiO2 microsphere; Building cooling; Thermal management
+
+Weiwei Hou, Boshi Yu, Yubai Li, Xudong Yan, Qian Su, Xiaoyan Fang, Xiaoguang Zhou, Zhangbin Yu,
+PC (16:0/14:0) Ameliorates Hyperoxia-Induced Bronchopulmonary Dysplasia by Upregulating Claudin-1 and Promoting Alveolar Type II Cell Repair,
+The International Journal of Biochemistry & Cell Biology,
+2024,
+106587,
+ISSN 1357-2725,
+https://doi.org/10.1016/j.biocel.2024.106587.
+(https://www.sciencedirect.com/science/article/pii/S1357272524000797)
+Abstract: Bronchopulmonary dysplasia (BPD) remains a significant challenge in neonatal care, the pathogenesis of which potentially involves altered lipid metabolism. Given the critical role of lipids in lung development and the injury response, we hypothesized that specific lipid species could serve as therapeutic agents in BPD. This study aimed to investigate the role of the lipid Phosphatidylcholine (PC) (16:0/14:0) in modulating BPD pathology and to elucidate its underlying mechanisms of action. Our approach integrated in vitro and in vivo methodologies to assess the effects of PC (16:0/14:0) on the histopathology, cellular proliferation, apoptosis, and molecular markers in lung tissue. In a hyperoxia-induced BPD rat model, we observed a reduction in alveolar number and an enlargement in alveolar size, which were ameliorated by PC (16:0/14:0) treatment. Correspondingly, in BPD cell models, PC (16:0/14:0) intervention led to increased cell viability, enhanced proliferation, reduced apoptosis, and elevated surfactant protein C (SPC) expression. RNA sequencing revealed significant gene expression differences between BPD and PC (16:0/14:0) treated groups, with a particular focus on Cldn1 (encoding claudin 1), which was significantly enriched in our analysis. Our findings suggest that PC (16:0/14:0) might protect against hyperoxia-induced alveolar type II cell damage by upregulating CLDN1 expression, potentially serving as a novel therapeutic target for BPD. This study not only advances our understanding of the role of lipids in BPD pathogenesis, but also highlights the significance of PC (16:0/14:0) in the prevention and treatment of BPD, offering new avenues for future research and therapeutic development.
+Keywords: bronchopulmonary dysplasia; Phosphatidylcholine; PC (16:0/14:0); CLDN1; preterm infants
+
+Melanie Micali, Andrea Lo Mastro, Fiorella Tringali, Marco Leonardi, Salvatore Lombardo, Giuseppe Bengasi, Claudio Colletti, Marina Foti, Esther Alarcón Lladó, Maria Miritello, Giorgia Franzò, Antonio Terrasi,
+Zirconium doped indium oxide thin films as transparent electrodes for photovoltaic applications,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112875,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112875.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001879)
+Abstract: In this work we report on ultra-thin Zirconium doped In2O3 transparent conductive films grown at room temperature via RF-Magnetron co-sputtering. Samples from 15 nm to 90 nm thick, and low Zr atomic concentration (0.6–0.9 at.%), were annealed at T = 200 °C after the deposition. The phase-transition from amorphous to crystalline, confirmed by XRD measurements, leads to an improvement of both electrical and optical properties. The thinnest film (15 nm) shows electrical resistivity as low as 5 × 10−4 Ωcm, with carrier mobility of 20 cm2V−1s−1, and optical transmittance up to 80 % in visible and near-infrared range. IZrO electrode performances were tested through external quantum efficiency (EQE) measurements on a semi-finite Silicon Heterojunction bi-facial solar cell. The EQE values for 90 nm thick film are comparable to that of standard ITO when IZrO films are implemented as front electrodes. These results suggest that ultra-thin IZrO films may be successfully used to reduce costs and the amount of Indium used in Indium-based transparent conductive oxide layers for solar cells.
+Keywords: TCO; Photovoltaics; Transparent electrodes; Sputtering
+
+Takeshi Tayagaki, Sayaka Hirooka, Haruka Kobayashi, Kohei Yamamoto, Takurou N. Murakami, Masahiro Yoshita,
+Ion-migration analysis of degradation caused by outdoor exposure and accelerated stress testing in perovskite solar cells,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112879,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112879.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001910)
+Abstract: In this study, we conducted outdoor exposure testing and investigated the degradation mechanism of perovskite solar cells deployed in the field. We conducted a detailed failure analysis to identify specific degradation modes induced by outdoor exposure, using current–voltage curve measurements, maximum power evaluation, and mobile-ion analysis. This analysis revealed a significant change in the ion-migration current response of the devices after exposure. These changes suggest that the modification of mobile ions and formation of defects within the perovskite materials are likely the primary causes of degradation. Additionally, we compared the solar cell characteristics observed after the field test with the results of controlled indoor accelerated stress tests, which included exposure to visible light, ultraviolet (UV) irradiation, and thermal stress. Our findings highlight that the degradation patterns induced by UV irradiation at elevated temperatures closely resemble those caused by outdoor stress. We also discuss indoor test conditions that replicate the degradation phenomena experienced during outdoor exposure. This ability to replicate outdoor degradation phenomena under laboratory conditions is crucial for accelerating the development of robust and durable perovskite solar cells.
+Keywords: Accelerated stress test; Degradation; Ion migration; Outdoor exposure; Perovskite solar cell
+
+Tabish Alam,
+Development of correlations of Nusselt number and friction factor of solar thermal collector equipped with hybrid rib roughness,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112887,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112887.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001995)
+Abstract: In this advanced and comprehensive research, a pioneering hybrid rib configuration, amalgamating arc and V-shaped ribs, is precisely engineered to delve into the complex synergistic effects between this cutting-edge rib design and the heat transfer and fluid flow behavior within a solar thermal collector (STC) specifically utilized for direct air heating. The focal point of this investigation is the impact of the rib pattern on pivotal performance indicators, notably the Nusselt number (Nu) and the friction factor (f). This specific rib roughness design emanates from an exhaustive analysis of a spectrum of non-dimensional roughness parameters: the arc angle (α), the attack angle (β), the relative positioning of the V ribs (D/w), the relative spacing of the ribs (p/e), and the rib height (e/D). These parameters are studied within defined ranges: 30̊‐60̊, 30̊‐60̊, 0.2–1, 8–12, and 0.023–0.043, respectively. The results of highlight a significant improvement in heat transport, as indicated by a significant increase in the Nusselt number (Nu), which has risen impressively by a factor of 3.08. Furthermore, this paper presents development of correlations for Nu and f, taking into account the roughness parameters of the hybrid ribs and the flow Reynolds number, in order to precisely forecast these key performance measurements.
+Keywords: Solar thermal collector; Hybrid rib pattern; Artificial roughness; Angle of attack; Angle of arc
+
+Xue Zhou, Yage Chen, Min Cao, Meng Wang, Lirong Yao, Lei Zhang, Guoqiu Yuan,
+A split salt-resisting evaporator system for highly efficient solar desalination,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112908,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112908.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002204)
+Abstract: Solar-driven interface evaporation technology is expected to decrease heat loss and enhance solar thermal energy conversion efficiency. Despite its advantages, this technology still faces challenges, such as solar intermittence and interfacial salt accumulation during long-term operation. To address these issues, our study proposes a split solar desalination system comprising a heat collector module and a distillation module. The collector module consists of a metallic dovetail cavity and a phase-change energy storage material. The vulcanized dovetail cavity structure achieves broad-spectrum absorption and improves the photothermal conversion efficiency. The delay enthalpy of the phase change energy storage material effectively compensates for the intermittent heat loss caused by irradiation. The temperature-controlled motor brush water supply structure in the distillation module, combined with a gridded evaporation interface, prevents salt accumulation and achieves self-cleaning at the interface. Desalination of seawater in cloudy weather achieved freshwater productivity of 0.762 kgm−2 per hour, and there was no obvious salt accumulation at the evaporation interface. This work provides ideas for the practical application of solar-driven evaporation in the field of seawater desalination.
+Keywords: Solar evaporation; Salt-resistance; Split systems; Desalination
+
+Hongchen Meng, Xiaoyuan Wu, Fajun Ma, Qingguo Zeng, Lang Zhou,
+Structural optimization and growth of intrinsic hydrogenated amorphous silicon films by HWCVD,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112835,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112835.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001478)
+Abstract: Although the silicon heterojunction (SHJ) solar cell is the crystalline silicon solar cell with highest conversion efficiency at present, its higher cost of production line has been a factor restricting its industrial development. The use of hot wire chemical vapor deposition (HWCVD) technology instead of the mainstream plasma enhanced chemical vapor deposition (PECVD) technology for the deposition of amorphous silicon films can effectively reduce the cost of equipment and processing, and has a bright future. In recent years, i-a-Si:H films grown by PECVD have obtained great improvement in passivation quality, whereas HWCVD technology has been neglected in this field. This has significantly limited the development and application of HWCVD technology in SHJ cell production. In this work, we exploited the differences in the films properties and microstructures deposited by various hot-wire temperatures and successfully developed a structure for the high-passivation-quality i-a-Si:H film grown by HWCVD, consisting of a buffer layer and a double-layer bulk stack. By introducing the buffer layer grown with the 1650 °C hot-wire temperature and pure silane, the effective minority carrier lifetime was improved from 2.3 ms to 7.5 ms, and a cell efficiency enhancement of 0.4%abs was obtained. By depositing the bulk layer sequentially with hot-wire temperatures of 1800 °C and 1900 °C, the passivation quality and the conductance were both improved. An effective minority carrier lifetime of 8 ms and a further cell efficiency enhancement of 0.15%abs were obtained. Finally, SHJ solar cell efficiency of 24.35% was obtained with a home-made HWCVD-based pilot SHJ cell line.
+Keywords: SHJ solar cells; HWCVD; i-a-Si:H films; Passivation
+
+Byeonghwa Goh, Joonmyung Choi,
+A computational mechanics model for producing molecular assembly using molecularly woven pantographs,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101750,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101750.
+(https://www.sciencedirect.com/science/article/pii/S2666386423005957)
+Abstract: Summary
+The weave-based interlocking design has received considerable attention for preparing the patterned linkage of molecules via formation and dissociation of highly non-covalent bonds among molecules. Here, we design the mechanical behavior of a nanoscale pantograph structure in which tetraphenylethene derivatives are interlocked in the form of warp and weft strands in silico. The kinetics related to the width strain of the entire film are evaluated by quantifying the molecular-scale tilting deformation between the warp and weft strands following the inflow and outflow of methanol. The mechanical stiffness, structural durability, and deformation repeatability of the system caused by tightly interlocked molecular strands are investigated together. The cucurbituril hybrids present on the interface are successfully self-assembled into molecular bearings using the in-plane working stroke of the pantograph film.
+Keywords: molecular dynamics simulation; molecularly interlocked pantographs; dynamic characteristics; mechanical properties; molecular elements assembly
+
+I. García, A. Cano, P. Martín, V. Orejuela, I. Rey-Stolle,
+n/p and p/n InGaAs cells for high density TPV modules,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112863,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112863.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001752)
+Abstract: Designing TPV modules using smaller area cells contributes to mitigating the series resistance losses caused by the large currents typically handled. However, the areal losses caused by the larger number of interconnections required challenge the design of high compacity modules, which is necessary to maximize the output power density or the TPV efficiency. Here we propose using series connected n/p and p/n cells to minimize the areal losses, attain high compacity modules and facilitate the manufacturing of the interconnections. This approach relies on attaining high performance TPV cells of both polarities. We demonstrate state-of-the-art InGaAs n/p cells, and a matching performance, in terms of JSC and VOC, in p/n cells. We assess the effect of the higher emitter sheet resistance in the p/n design, caused by the low mobility of holes in InGaAs. A minimal TPV efficiency loss is projected by using higher shadowing factors that have a reduced impact on the TPV efficiency thanks to the ability to recycle photons reflected at the front metal. Furthermore, this small loss could be offset, and the overall TPV efficiency significantly improved, by the higher compacity achievable in these modules.
+
+Chenchen Geng, Min Zhang, Hang Wei, Jinxin Gu, Tao Zhao, Huan Guan, Shuhui Liang, Olga Boytsova, Shuliang Dou, Yanyu Chen, Yao Li, Zhaoshuo Tian,
+Tracking the optical constants of self-patterned VO2-based on smart windows during metal-insulator transition,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112892,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112892.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002046)
+Abstract: Vanadium dioxide (VO2) is widely recognized as a thermochromic material with enormous potential for application in smart windows for energy-efficient buildings. In this study, a bottom-up self-patterning approach was illustrated to fabricate the VO2 films with different thicknesses, which exhibited enhanced luminous transmittance (Tlum) and enlarged solar modulation ability (ΔTsol). By tracking the optical constants of the films throughout the thermochromic process, the changes generated at the microscopic level in the material could be associated with its macroscopic behavior when utilized as an energy-saving material. The results revealed that changing the film thickness affected not only the electron occupancy on V 3d-O 2p hybrid orbitals but also the electron-electron correlation energy and the associated band gap, which modulated the metal-insulator transition behavior and regulated the luminous transmittance.
+Keywords: Vanadium dioxide; Smart window; Thermochromic; Self-template method
+
+Emma R. McGuirk, Neha Koundinya, Priyashree Nagarajan, Shae B. Padrick, Bruce L. Goode,
+Direct observation of cortactin protecting Arp2/3-actin filament branch junctions from GMF-mediated destabilization,
+European Journal of Cell Biology,
+Volume 103, Issue 1,
+2024,
+151378,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2023.151378.
+(https://www.sciencedirect.com/science/article/pii/S0171933523000936)
+Abstract: How cells tightly control the formation and turnover of branched actin filament arrays to drive cell motility, endocytosis, and other cellular processes is still not well understood. Here, we investigated the mechanistic relationship between two binding partners of the Arp2/3 complex, glia maturation factor (GMF) and cortactin. Individually, GMF and cortactin have opposite effects on the stability of actin filament branches, but it is unknown how they work in concert with each other to govern branch turnover. Using TIRF microscopy, we observe that GMF’s branch destabilizing activities are potently blocked by cortactin (IC50 = 1.3 nM) and that this inhibition requires direct interactions of cortactin with Arp2/3 complex. The simplest model that would explain these results is competition for binding Arp2/3 complex. However, we find that cortactin and GMF do not compete for free Arp2/3 complex in solution. Further, we use single molecule analysis to show that cortactin’s on-rate (3 ×107 s−1 M−1) and off-rate (0.03 s−1) at branch junctions are minimally affected by excess GMF. Together, these results show that cortactin binds with high affinity to branch junctions, where it blocks the destabilizing effects of GMF, possibly by a mechanism that is allosteric in nature. In addition, the affinities we measure for cortactin at actin filament branch junctions (Kd = 0.9 nM) and filament sides (Kd = 206 nM) are approximately 20-fold stronger than previously reported. These observations contribute to an emerging view of molecular complexity in how Arp2/3 complex is regulated through the integration of multiple inputs.
+Keywords: Glia maturation factor; GMF; Cortactin; TIRF microscopy; Actin; Branch
+
+Sreehari Sreekumar, Adrian Pugsley, Supriya Chakrabarti, Neil Hewitt, Jayanta Deb Mondol, Nikhilkumar Shah,
+Experimental investigation on the performance of MXene/C-dot hybrid nanofluid-based photovoltaic/thermal system: An Energy, Exergy, and Enviro-Economic analysis,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112904,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112904.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002162)
+Abstract: Nanofluids (NFs) with exceptional heat transfer properties are increasingly being adopted in solar collectors as heat transfer fluid (HTF). Hybrid photovoltaic thermal systems are becoming more popular because they increase overall efficiency by producing both high- and low-grade electricity. This research focuses on the application of thermally efficient NFs for enhancing the thermal and electrical output of a photovoltaic/thermal (PV/T) system. Indoor experimental investigation was conducted on the PV/T system to find the thermally efficient HTF. Carbon quantum dot (C-dot), MXene and MXene/C-dot hybrid NFs were selected for experimentation. Thermo-economic factors (thermal conductivity, volumetric heat capacity, thermal property degradation rate, and cost) were used to optimise the NFs' concentration. Optimized C-dot, MXene, and hybrid NFs were used for experimentation in the PV/T system. Energy, exergy, and enviro-economic analysis was conducted on the PV/T system with each HTFs. The results show that the thermal efficiency of PV/T was enhanced by 5.39, 3.87, and 9.45 % with C-dot, MXene and hybrid NFs, respectively. Hottel-Whillier-Bliss (HWB) analysis was performed on the collector from the generated experimental data. The analysis states that at zero heat loss conditions, the thermal efficiency of the PV/T was enhanced by 5.4 % with the hybrid NF. The maximum CO2 emission from PV/T with C-dot, MXene, and hybrid NFs, were calculated to be around 2.024, 1.979, and 1.931 kgCO2/day, respectively. Emission cost reduction analysis states that the hybrid NF achieved the highest reduction of 0.02 $/day which was a considerable decrement of 13.5 % over the water-based PV/T system.
+Keywords: MXene; Carbon quantum dot; Hybrid nanofluid; Photovoltaic/thermal collector; Energy and exergy analysis; Enviro-economic analysis
+
+Xiaoqing Bao, Jiayou Xue, Xuke Yang, Jing Liu, Haozhe Yang, Zicheng Tang, Jiang Tang, Chao Chen, Xiangbin Zeng, Kanghua Li,
+Preparation and optimization of all-inorganic CdSe/ZnTe solar cells,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112878,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112878.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001909)
+Abstract: Cadmium selenide (CdSe) demonstrates high potential as a top cell material for Si-based tandem applications. However, obtaining high-quality CdSe thin films presents a significant challenge. Additionally, the intrinsic n-type conduction of CdSe desires a well-matched wide bandgap p-type partner to form a p-n junction for efficient photovoltaic applications. Herein, the vapor transport deposition method is employed to fabricate CdSe thin films with large grain sizes (∼2 μm), high crystallinity (with (002) preferred orientation), and strong band-edge photoluminescence. Moreover, zinc telluride (ZnTe), a II-VI group compound showing a low lattice mismatch of <0.7 % with CdSe, is explored as a p-type layer to construct solar cells. The properties of ZnTe thin film have been extensively studied and analyzed. By studying the annealing temperature (300 °C–550 °C), we obtained ZnTe film with a wide bandgap of 2.17 eV and conductivity of 1.4 × 10−5 S cm−1. To further enhance the carrier density of the ZnTe film, we employ a Cu doping strategy involving treatment with varying concentrations of CuBr solution (0 mg mL−1, 1 mg mL−1, 2.5 mg mL−1, 10 mg mL−1). Ultimately, a power conversion efficiency (PCE) of 2.03 % is achieved in CdSe/ZnTe solar cells. This is a primary exploration of all-inorganic CdSe/ZnTe solar cells, proving their potential for photovoltaic applications. Further optimization is deserved to achieve higher PCE.
+Keywords: Cadmium selenide; Zinc telluride; Vapor transport deposition; Thin film; Solar cells
+
+Birui Wu, Menghao Jin, Haodong Fan, Mingzhang Wei, Zhongshu Feng, Ziji Shao, Changqiu Yu, Bo Liu, Tiejun Zhou,
+Electrically manipulating exchange bias and realizing multiple remanent states in platinum/cobalt/iridium manganese heterostructures,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101757,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101757.
+(https://www.sciencedirect.com/science/article/pii/S2666386423006021)
+Abstract: Summary
+The current-induced spin-orbit torque (SOT) to manipulate exchange bias holds promise for advancement on full electrically controlled spintronic devices. However, the practical application of such manipulation is limited by the necessity of an auxiliary field. Here, by growing the platinum/cobalt/iridium manganese heterostructure on miscut aluminum oxide substrates, we demonstrate that SOT can fully switch both the perpendicular magnetization and the exchange bias without auxiliary fields. Magnetic characterization indicates a tilted anisotropy induced by the miscut surface that accounts for the electrical control of perpendicular magnetization and exchange bias. Reliable multiple remanent Hall resistances that mimic the synaptic plasticity behaviors for neuromorphic computing are further realized by applying consecutive current pulses. The quantitative evaluation shows that miscut angle has little effect on the SOT efficiency. Our work may promote innovative designs for next-generation spintronic devices with low power consumption.
+Keywords: miscut substrate; tilted anisotropy; field-free switching; exchange bias
+
+Wenli Fang, Zhangyan Jing, Yuan Li, Zhirang Zhang, Zhongda Lin, Zhaoxin Yang, Yishi Tian, Chi Zhang, Yumeng Ma, Linlin Hou, Fanqiang Meng, Xin Liang, Xudong Zhang,
+Harnessing enucleated cancer cells as Trojan horse cell vaccines,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101752,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101752.
+(https://www.sciencedirect.com/science/article/pii/S2666386423005970)
+Abstract: Summary
+Inactivated tumor cells preserve a whole spectrum of tumor antigens, including neoantigens that can elicit potent immune response. Nevertheless, avoiding tumorigenic risks while stimulating a robust anti-tumor immune response remains a pivotal challenge. Herein, we prepare enucleated cancer cells decorated with bacteria-derived vesicles (BDVs) carrying stimulator of interferon gene (STING) agonists as live cell vaccines. Enucleated cancer cells retain intact cell morphology excepting the nucleus. BDVs loaded with STING agonist cyclic guanosine monophosphate-adenosine monophosphate (cGAMP) are further conjugated to enucleated cancer cells to potentiate immunogenicity. Subcutaneous enucleated cancer cell-BDV-cGAMP vaccine inoculation effectively recruits and incents dendritic cells and macrophages to capture tumor antigens. Moreover, combining with anti-programmed cell death 1 antibodies further enhances M1 macrophage polarization, promoting tumor-specific T cell infiltration. Additionally, the live cell vaccines foster CD44+ CD62L− effector memory T cell and TCF1+ CD8+ stem cell-like memory T cell formation, which contribute to impeding melanoma progression and metastasis.
+Keywords: cancer vaccine; enucleated cell; bacteria-derived vesicles; STING agonists; TCF1
+
+Feifei Zhuang, Shaoyan Huang, Lei Liu,
+PYCR3 modulates mtDNA copy number to drive proliferation and doxorubicin resistance in triple-negative breast cancer,
+The International Journal of Biochemistry & Cell Biology,
+Volume 171,
+2024,
+106581,
+ISSN 1357-2725,
+https://doi.org/10.1016/j.biocel.2024.106581.
+(https://www.sciencedirect.com/science/article/pii/S1357272524000724)
+Abstract: Triple-negative breast cancer (TNBC) poses significant challenges in treatment due to its aggressive nature and limited therapeutic targets. Understanding the underlying molecular mechanisms driving TNBC progression and chemotherapy resistance is imperative for developing effective therapeutic strategies. Thus, in this study, we aimed to elucidate the role of pyrroline-5-carboxylate reductase 3 (PYCR3) in TNBC pathogenesis and therapeutic response. We observed that PYCR3 is significantly upregulated in TNBC specimens compared to normal breast tissues, correlating with a poorer prognosis in TNBC patients. Knockdown of PYCR3 not only suppresses TNBC cell proliferation but also reverses acquired resistance of TNBC cells to doxorubicin, a commonly used chemotherapeutic agent. Mechanistically, we identified the mitochondrial localization of PYCR3 in TNBC cells and demonstrated its impact on TNBC cell proliferation and sensitivity to doxorubicin through the regulation of mtDNA copy number and mitochondrial respiration. Importantly, Selective reduction of mtDNA copy number using the mtDNA replication inhibitor 2′, 3′-dideoxycytidine effectively recapitulates the phenotypic effects observed in PYCR3 knockout, resulting in decreased TNBC cell proliferation and the reversal of doxorubicin resistance through apoptosis induction. Thus, our study underscores the clinical relevance of PYCR3 and highlight its potential as a therapeutic target in TNBC management. By elucidating the functional significance of PYCR3 in TNBC, our findings contribute to a deeper understanding of TNBC biology and provide a foundation for developing novel therapeutic strategies aimed at improving patient outcomes.
+Keywords: Triple-negative breast cancer; Pyrroline-5-carboxylate reductase; Doxorubicin resistance; MtDNA copy number; Mitochondrial respiration
+
+Bowen Feng, Wei Chen, Guoguang Xing, Xingqian Chen, Haozhen Li, Zongheng Sun, Yiwen Zhang, Yaoping Liu, Xiaolong Du,
+Influence of inverted pyramid texturization on front metallization and performance of crystalline silicon solar cells,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112919,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112919.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002319)
+Abstract: The silicon surface texturing is an essential part for the fabrication of crystalline silicon solar cells to increase the conversion efficiency. By adjusting the etching texturing condition, inverted pyramid (IP) and upright pyramid (UP) texturization were prepared on crystalline silicon substrates for fabrication of PERC solar cells. The surface morphology not only affects the light trapping but also impacts electrode shading loss and front electrode contact interface. The IP texturization presents better anti-reflective performance due to more common light paths and narrower silver grids owing to less flow of Ag paste on concave blocked structure, both of which results in the higher short-circuit current density (Jsc). Yet in terms of front Ag/Si contact interface, the IP texturization causes more Ag crystallites and more surface recombination under the present condition suitable for UP texturization because of more edges on the upper part of IP, which leads to the lower open-circuit voltage (Voc). The final conversion efficiency of IP solar cells (23.61 %) is 0.06 % higher than that of UP solar cells (23.55 %). An improvement about 0.07 mA/cm2 of Jsc was achieved with IP samples and Voc has a decrease of 0.3 mV caused by the surface recombination on IP texturization. In summary, the structural characteristics of IP results in lower reflectivity and less electrode shading, while Ag/Si contact interface could be optimized by adjusting the processing condition, ultimately promising the higher efficiency.
+Keywords: Crystalline silicon solar cells; Inverted pyramids; Electrode shading loss; Electrode contact; Surface recombination; Emitter junction depth
+
+Guangze Nie, Rui Ma, Xiang Wang, Weiwei Wang, Qingrui Zhang, Tifeng Jiao,
+Rationally designed MoS2 nanosheet arrays on activated carbon fibers for rapid and selective lead removal,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101756,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101756.
+(https://www.sciencedirect.com/science/article/pii/S266638642300601X)
+Abstract: Summary
+Nanocomposites consisting of nanoparticles encapsulated within porous hosts have shown great potential as adsorbents for treating heavy-metal-containing wastewater. However, the large-scale application of these nanocomposites is often hindered by low nanoparticle utilization and slow adsorption kinetics. Here, we propose a synthetic strategy for fabricating the nanocomposite by rationally arranging MoS2 nanosheets onto activated carbon fiber (ACF) using a polydopamine (PDA) coating. The resulting nanocomposite features a vertically arranged MoS2 nanoarray, which enhances adsorption kinetics and accessibility to active sites. This nanocomposite demonstrates high efficacy in removing Pb(II) from water, as evidenced by its high adsorption capacity, rapid adsorption kinetics, and remarkable selectivity. XRD and XPS analyses confirm that this excellent adsorption performance is attributed to the abundant accessible active sites on MoS2 nanosheets and the presence of PDA coating. Furthermore, column adsorption experiments and adsorption-desorption cycles indicate its promising potential in engineering applications.
+Keywords: Pb(II) adsorption; MoS2-based nanocomposite; nanoparticle utilization; polydopamine coating
+
+Luca Gnocchi, Olatz Arriaga Arruti, Christophe Ballif, Alessandro Virtuani,
+A comprehensive physical model for the sensitivity of silicon heterojunction photovoltaic modules to water ingress,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101751,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101751.
+(https://www.sciencedirect.com/science/article/pii/S2666386423005969)
+Abstract: Summary
+Silicon heterojunction (SHJ)-solar modules—when encapsulated with ethylene vinyl acetate (EVA)—are known to be extremely sensitive to water ingress. The reason for this is, however, not clear. Here, we explain the root causes of this degradation mechanism specific to SHJ, proposing a detailed microscopic model. The role of EVA is instrumental in facilitating a faster water uptake in the module. However, additional observations led us to consider the role of glass in the degradation process. The moisture at the glass/encapsulant interface promotes a glass corrosion process, releasing sodium (Na) ions that, in combination with water, forms molecular Na hydroxide. This can percolate through the EVA, eventually reaching the solar cell. Na ions may act as recombination centers in the passivating layers or at the a-Si/c-Si interface, reducing the cell’s passivation properties. Finally, we propose strategies to reinforce the water resistance and overall reliability of SHJ solar modules.
+Keywords: sIlicon heterojunction; water ingress; EVA; reliability; degradation mechanism
+
+Fanbi Meng, Shuang Chen, Chunliang Liu, Muhammad Shoaib Khan, Yan Yan, Jun Wan, Yue Xia, Chenglin Sun, Mengnan Yang, Renping Hu, Kesheng Dai,
+The role of PKC in X-ray-induced megakaryocyte apoptosis and thrombocytopenia,
+Blood Cells, Molecules, and Diseases,
+Volume 104,
+2024,
+102798,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102798.
+(https://www.sciencedirect.com/science/article/pii/S107997962300075X)
+Abstract: Thrombocytopenia is a critical complication after radiation therapy and exposure. Dysfunction of megakaryocyte development and platelet production are key pathophysiological stages in ionizing radiation (IR)-induced thrombocytopenia. Protein kinase C (PKC) plays an important role in regulating megakaryocyte development and platelet production. However, it remains unclear how PKC regulates IR-induced megakaryocyte apoptosis. In this study, we found that pretreatment of PKC pan-inhibitor Go6983 delayed IR-induced megakaryocyte apoptosis, and inhibited IR-induced mitochondrial membrane potential and ROS production in CMK cells. Moreover, suppressing PKC activation inhibited cleaved caspase3 expression and reduced p38 phosphorylation levels, and IR-induced PKC activation might be regulated by p53. In vivo experiments confirmed that Go6983 promoted platelet count recovery after 21 days of 3 Gy total body irradiation. Furthermore, Go6983 reduced megakaryocyte apoptosis, increased the number of megakaryocyte and polyploid formation in bone marrow, and improved the survival rate of 6 Gy total body irradiation. In conclusion, our results provided a potential therapeutic target for IR-induced thrombocytopenia.
+Keywords: Protein kinase C; Irradiation damage; Megakaryocyte; Apoptosis; Platelet
+
+Gence Bektaş, Sercan Aslan, Ahmet Emin Keçeci, Vahdet Özyahni, Hasan Hüseyin Canar, Hasan Asav, Selin Seyrek, Pierre J. Verlinden, Raşit Turan,
+Influence of boron doping profile on emitter and metal contact recombination for n-PERT silicon solar cells,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112886,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112886.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001983)
+Abstract: Increasing interest in n-type silicon (Si) solar cells due to the high-quality material properties of the n-Si wafers, their relatively low sensitivity to donor-like impurities like iron and their resistance to light-induced degradation brings more recent attention to the studies on the p+ emitter and its metal contact. In this work, we investigate the effect of the Boron doping profile on the quality of p+ emitter and their contacts with screen-printed Ag/Al metal fingers. The emitters within the scope of this study are created with BBr3 diffusion in an atmospheric diffusion furnace on n-type Si wafers and also applied to n-PERT Si cells to analyze their effects on device performance. Our results highlight the significance of the doping profile for solar cell performance, as it considerably affects the contact resistivity at the emitter-metal interface and the saturation current densities for emitter (J0, emitter) and Ag/Al metal contacts (J0, AgAl). Reducing the Boron concentration within the emitter leads to a decrease in carrier recombination in the non-contacted region of the emitter, which in turn decreases J0, emitter. However, this reduction increases the recombination in the contacted areas of the emitter, consequently elevating the J0, AgAl, and increasing the contact resistance values. Besides, the power loss analysis and simulation results based on experimental values obtained for our best solar cells group show how much J0, emitter and J0, AgAl values contribute to and would improve solar cell efficiency. The manuscript presents a case study of experimental emitter doping profile optimization applicable to similar n-type PERT or TOPCon cells with varying design parameters.
+
+Zachary Gao Sun, Vikrant Yadav, Sorosh Amiri, Wenxiang Cao, Enrique M. De La Cruz, Michael Murrell,
+Cofilin-mediated actin filament network flexibility facilitates 2D to 3D actomyosin shape change,
+European Journal of Cell Biology,
+Volume 103, Issue 1,
+2024,
+151379,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2023.151379.
+(https://www.sciencedirect.com/science/article/pii/S0171933523000948)
+Abstract: The organization of actin filaments (F-actin) into crosslinked networks determines the transmission of mechanical stresses within the cytoskeleton and subsequent changes in cell and tissue shape. Principally mediated by proteins such as α-actinin, F-actin crosslinking increases both network connectivity and rigidity, thereby facilitating stress transmission at low crosslinking yet attenuating transmission at high crosslinker concentration. Here, we engineer a two-dimensional model of the actomyosin cytoskeleton, in which myosin-induced mechanical stresses are controlled by light. We alter the extent of F-actin crosslinking by the introduction of oligomerized cofilin. At pH 6.5, F-actin severing by cofilin is weak, but cofilin bundles and crosslinks filaments. Given its effect of lowering the F-actin bending stiffness, cofilin- crosslinked networks are significantly more flexible and softer in bending than networks crosslinked by α-actinin. Thus, upon local activation of myosin-induced contractile stress, the network bends out-of-plane in contrast to the in-plane compression as observed with networks crosslinked by α-actinin. Here, we demonstrate that local effects on filament mechanics by cofilin introduces novel large-scale network material properties that enable the sculpting of complex shapes in the cell cytoskeleton.
+Keywords: Cytoskeleton; Actin; Cofilin; α-actinin; Crosslinkers; Active Matter; Actomyosin; Bioinspired Material; 3D deformation; Non-equilibrium Dynamics
+
+Jinxu Zhao, Qijun Chen, Zitao Wang, Jianming Zheng, Chunye Xu,
+All-ionic liquid electrochromic devices based on viologen-type and ferrocene-type room-temperature ionic liquids with temperature adaptability and environmental friendliness,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112862,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112862.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001740)
+Abstract: Ionic liquids have been recognized as promising electrolytes in electrochromic devices (ECDs). However, the limited solubility of commercial electrochromic materials (ECMs) in ionic liquid effects the electrochromic performance of ECDs. This work synthesized viologen-type (Vio-IL) and ferrocene-type (Fc-IL) room-temperature ionic liquids (RTILs), which have melting points of −22.5 °C and −43.6 °C, respectively. ECDs prepared using these two RTILs exhibit superior optical modulation ability (ΔT = 79.4 %) and good cyclic stability (1000cycles 96.2 %). These two RTILs exhibit advantages because they can be miscible with commonly ionic liquids solvent. Further, ultra-thin (10 μm) ECDs prepared using these RTILs with 20 wt% ionic liquid diluent not only have good electrochromic performance (ΔT = 73.1 %, 1000cycles 95.6 %, 3.7 s for coloring and 13.3 s for bleaching) but also have a wide temperature working window (−30°C–70 °C). These ultra-thin and low-solvent ECDs have the potential to enable temperature adaptability and lightweight and eco-friendly smart windows.
+Keywords: Electrochromic; Ionic liquid; Viologen; Ultra-thin device
+
+Khulood Jamal Abbas, Amir Bahrami,
+Investigating the potential of WO3 and WS2 as Cd-free buffer layers in Sb2Se3-Based thin-film solar cells: A numerical study with SCAPS-1D software,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112891,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112891.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002034)
+Abstract: In this numerical study, the performance of thin-film solar cells (TFSCs) based on Sb2Se3 with WO3 and WS2 materials as Cd-free buffer layers was investigated using SCAPS-1D software. WO3 and WS2 were chosen for their suitable band gaps, good electrical conductivity, and optical transparency. The proposed solar cell structures, Au/Sb2Se3/WO3/ITO and Au/Sb2Se3/WS2/ITO were theoretically examined, considering various factors such as conduction band offset, absorber and buffer layer thickness, doping concentrations, series and shunt resistances, temperature, activation energy, and C–V characteristic. The conduction band offset at the absorber/buffer interface showed spike-like configurations, with values of 0.38 eV and 0.23 eV for the WO3 and WS2 buffer layers, respectively. The optimized thickness for the absorber layer in both structures was 1 μm, while for WO3 and WS2 buffer layers, it was 0.1 μm and 0.05 μm, respectively. The optimized acceptor and donor doping concentrations were 1 × 1016 cm−3 and 1 × 1018 cm−3, respectively. The efficiency of the proposed photovoltaic devices was found to be 9.538 % (with Voc = 0.561 V, Jsc = 30.856 mA/cm2, FF = 55.84 %) and 10.151 % (with Voc = 0.558 V, Jsc = 29.189 mA/cm2, FF = 62.34 %) for structures with WO3 and WS2 buffer layers, respectively. These results suggest that using non-toxic materials like WO3 and WS2 as buffer layers can be an efficient and environmentally friendly alternative to toxic CdS for fabricating cost-effective and highly efficient Sb2Se3-based TFSCs.
+Keywords: Thin-film solar cells; Sb2Se3; WO3 and WS2 buffer layers; SCAPS-1D simulation; Efficiency
+
+Xinyuan Wu, Xutao Wang, Weiguang Yang, Jianjun Nie, Jing Yuan, Muhammad Umair Khan, Alison Ciesla, Chandany Sen, Zhencong Qiao, Bram Hoex,
+Enhancing the reliability of TOPCon technology by laser-enhanced contact firing,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112846,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112846.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001582)
+Abstract: Tunneling oxide passivated contact (TOPCon) solar cells have made a considerable impact on the global photovoltaic (PV) market. Yet, its relatively poorer reliability compared to Passivated Emitter and Rear Contact (PERC) solar cells puts costly limitations on the module bill of materials that can be used. The use of silver/aluminum (Ag/Al) paste for front-side metallization is identified as a key factor contributing to the relatively poor reliability of TOPCon modules, particularly at high temperatures and humidity. However, very recently, laser-assisted firing techniques such as laser-enhanced contact optimization (LECO) that combine conventional co-firing at relatively low temperatures with a subsequent laser treatment have emerged as an appealing alternative to standard one-step cofiring. The main driver for laser-assisted firing is enabling higher power conversion efficiencies (PCE). This technique permits the application of screen printing pastes with considerably reduced levels of aluminum (Al), or even the complete exclusion of Al. Consequently, the enhancement in PCE values may not only boost PCE, but may also offer benefits in terms of reliability. This study investigates the impact of Jolywood Special Injected Metallization (JSIM) method on the reliability of TOPCon solar cells. Cell level damp heat testing at 85 °C and 85% relative humidity (DH85) with selected impurities reveals a significant improvement for the JSIM solar cells versus the standard baseline TOPCon cells. Baseline cells experienced rapid degradation, with a substantial (∼92%rel) loss in PCE attributed to a significant (∼13,000%rel) increase in series resistance (Rs) when exposed to sodium chloride (NaCl). Conversely, JSIM cells showcased remarkable resilience, displaying only a modest drop in PCE (∼3.6%rel) under similar conditions. This work clearly shows that laser-assisted firing processes such as JSIM also significantly improve the reliability of TOPCon solar cells. This improvement is due to the compatibility of these processes with screen printing pastes that have low or zero Al concentration for the TOPCon front. Consequently, this approach enables using more cost-effective materials for TOPCon modules, thereby reducing the overall cost of solar electricity.
+Keywords: TOPCon solar cells; Reliability; Damp-heat stability; Laser-assisted firing; Metallization; Glass-backsheet module
+
+Natália Sudan Parducci, Anali Del Milagro Bernabe Garnique, Keli Lima, Jorge Antonio Elias Godoy Carlos, Natasha Peixoto Fonseca, Lívia Bassani Lins de Miranda, Bruna Oliveira de Almeida, Eduardo Magalhães Rego, Fabiola Traina, João Agostinho Machado-Neto,
+Antineoplastic effects of pharmacological inhibitors of aurora kinases in CSF3RT618I-driven cells,
+Blood Cells, Molecules, and Diseases,
+Volume 104,
+2024,
+102799,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102799.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000761)
+Abstract: Myeloproliferative neoplasms (MPN) are consolidated as a relevant group of diseases derived from the malfunction of the hematopoiesis process and have as a particular attribute the increased proliferation of myeloid lineage. Among these, chronic neutrophilic leukemia (CNL) is distinguished, caused by the T618I mutation of the CSF3R gene, a trait that generates ligand-independent receptor activation and downstream JAK2/STAT signaling. Previous studies reported that mutations in BCR::ABL1 and JAK2V617F increased the expression of the aurora kinase A (AURKA) and B (AURKB) in Ba/F3 cells and their pharmacological inhibition displays antineoplastic effects in human BCR::ABL1 and JAK2V617F positive cells. Delimiting the current scenario, aspects related to the AURKA and AURKB as a potential target in CSF3RT618I-driven models is little known. In the present study, the cellular and molecular effects of pharmacological inhibitors of aurora kinases, such as aurora A inhibitor I, AZD1152-HQPA, and reversine, were evaluated in Ba/F3 expressing the CSF3RT618I mutation. AZD1152-HQPA and reversine demonstrated antineoplastic potential, causing a decrease in cell viability, clonogenicity, and proliferative capacity. At molecular levels, all inhibitors reduced histone H3 phosphorylation, aurora A inhibitor I and reversine reduced STAT5 phosphorylation, and AZD1152-HQPA and reversine induced PARP1 cleavage and γH2AX expression. Reversine more efficiently modulated genes associated with cell cycle and apoptosis compared to other drugs. In summary, our findings shed new insights into the use of AURKB inhibitors in the context of CNL.
+Keywords: Myeloproliferative neoplasms; Ba/F3 CSF3RT618I; Aurora kinase inhibitors; Cell signaling
+
+Taixi Feng, Jia Zhao, Guimin Lu,
+Machine learning model to efficiently predict the structure and properties of MgCl2–NaCl–KCl melts,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112903,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112903.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002150)
+Abstract: MgCl2–NaCl–KCl ternary melts hold great promise as thermal energy storage and heat transfer fluid for the next generation of concentrating solar power (CSP), offering major advantages such as high-temperature storage capacity, adjustable temperature ranges, and renewable usability. However, a critical challenge is the lack of an accurate model to analyze the structural and property aspects of this complex melt. In response, a machine learning-based model with high accuracy and applicability has been developed for this purpose. Based on DPMD techniques, the trained model is used to investigate the structure information, transport and thermal properties of the melt. Temperature and composition effects are introduced. Radial distribution functions, coordination numbers, and angular distribution functions are applied to investigate the microscopic ionic environment within the melt. Transport properties studied include density, self-diffusion coefficient, ionic conductivity, and viscosity, while thermal properties include heat capacity at constant pressure and volume and thermal conductivity. Our model accurately reproduces the results obtained from FPMD simulations and accurately predicts the macroscopic properties of the melt through validation. The high stability of the Mg2+-Cl- interactions is introduced, which remains relatively unaffected by temperature and concentration changes. The presence of MgCl53− species in the melt was observed. We are devoted to the development of AI for the CSP science field. Due to the application of machine learning strategies, our models have proven to have exceptional accuracy and ease of study for MgCl2–NaCl–KCl ternary melts, and they can provide valuable insights into their properties and ionic behaviors.
+Keywords: MgCl2–NaCl–KCl; Machine learning strategies; Local structure; Transport properties; Thermal properties
+
+Hiroki Ozawa, Ibuki Unno, Ryohei Sekine, Taichi Chisuga, Sohei Ito, Shogo Nakano,
+Development of evolutionary algorithm-based protein redesign method,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101758,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101758.
+(https://www.sciencedirect.com/science/article/pii/S2666386423006033)
+Abstract: Summary
+Several enzymes are already used on the industrial scale because of the development of various enzyme engineering approaches. In this study, we developed a protein redesign tool, GAOptimizer, to tackle the challenge. GAOptimizer is a genetic algorithm-based tool for optimizing mutation combinations to engineer diverse enzymes. The tool requires two input parameters influencing the mutation selection: fitness functions and sequence libraries. Both stability-based and non-stability-based scores can serve as fitness functions, and these scores are used to determine if the selected mutations are favorable in the design process. Sequence libraries are crucial in defining the sequence space for selecting mutation candidates. We use GAOptimizer on three distinct native enzymes to validate its utility for screening applicable enzymes. Functional analyses of the designed enzymes show that GAOptimizer can produce enzymes exhibiting superior properties to their native enzymes with a high success rate.
+Keywords: enzyme engineering; genetic algorithm; protein redesign; rational design; threonine dehydrogenase; alkaline phosphatase; S-hydroxynitrile lyase
+
+R. Carbajales, C. Sobrino, P. Alvaredo,
+Multi-principal element alloys for concentrating solar power based on molten salt,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112861,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112861.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001739)
+Abstract: Multi-principal element alloys (MPEAs) are characterized by good stability at elevated temperatures, positioning them as a promising alloy family for applications in extreme environments. In particular, their suitability for use in concentrating solar-thermal power (CSP) technology, where exposure to harsh conditions is prevalent, is highly attractive. In this study, the potential of employing MPEAs in components subjected to different environments, including solar salt (composed of 40%KNO3 and 60%NaNO3) at 560 °C, an air atmosphere at 780 °C, and a chloride mixture (46%MgCl2/ 39%KCl/ 15%NaCl) at the same temperature, is investigated. The investigated materials encompass an original Co-free composition, AlCrFeMoNiTi, and a eutectic composition, AlCoCrFeNi. MPEAs were obtained by arc melting, and their corrosion behavior and stability in the specified environments were thoroughly examined.
+Keywords: Multi-principal element alloys; Molten salts; CSP; Corrosion; HEA; Oxidation
+
+Xueqi Wang, Kai Sun, Han Wang,
+Point-of-care nucleic acid testing with a one-step branched-DNA-based functional carbon biosensor,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101753,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101753.
+(https://www.sciencedirect.com/science/article/pii/S2666386423005982)
+Abstract: Summary
+Nucleic acid biomarkers play important roles in early diagnosis, routine management, and prognosis of diseases. However, current nucleic acid testing (NAT) approaches either require cumbersome instruments or lack sensitivity for short detection time, making point-of-care (POC) NAT challenging. Here, we report an ultrasensitive carbon fiber paper (CFP)-based electrochemical biosensor with one-step branched DNA (bDNA)-based molecular signal amplification system for rapid, sensitive, and low-cost replication-free NAT. For nucleic acid quantification, the proposed biosensor exhibits a wide linear range of 10 aM–1 μM and a low limit of detection (LOD) of 1.4 aM. For fast semi-quantitative detection, the biosensor can evaluate the concentration of nucleic acids within 10 min with a threshold as low as 1 fM. Furthermore, the biosensor demonstrates negligible batch-to-batch variation with a relative standard deviation (RSD) of 4.25% at the cost of less than $1/device. The present one-step bDNA-based electrochemical biosensor serves as a promising and universal method for rapid, sensitive, and portable NAT.
+Keywords: nucleic acid testing; electrochemical biosensor; replication free; branched DNA; point-of-care testing
+
+Naif A.R. Almalki, Jamal S.M. Sabir, Abdulkhaleg Ibrahim, Mahmoud Alhosin, Amer H. Asseri, Raed S. Albiheyri, Ali T. Zari, Ahmed Bahieldin, Aqib Javed, Yves Mély, Ali Hamiche, Marc Mousli, Christian Bronner,
+UHRF1 poly-auto-ubiquitination induced by the anti-cancer drug, thymoquinone, is involved in the DNA repair machinery recruitment.,
+The International Journal of Biochemistry & Cell Biology,
+Volume 171,
+2024,
+106582,
+ISSN 1357-2725,
+https://doi.org/10.1016/j.biocel.2024.106582.
+(https://www.sciencedirect.com/science/article/pii/S1357272524000736)
+Abstract: DNA methylation is one of the most important epigenetic mark involved in many physiologic cellular processes and pathologies. During mitosis, the transmission of DNA methylation patterns from a mother to the daughter cells is ensured through the action of the Ubiquitin-like, containing PHD and RING domains, 1/DNA methyltransferase 1 (UHRF1/DNMT1) tandem. UHRF1 is involved in the silencing of many tumor suppressor genes (TSGs) via mechanisms that remain largely to be deciphered. The present study investigated the role and the regulation of UHRF1 poly-ubiquitination induced by thymoquinone, a natural anti-cancer drug, known to enhance or re-activate the expression of TSGs. We found that the auto-ubiquitination of UHRF1, induced by TQ, is mediated by reactive oxygen species, and occurs following DNA damage. We demonstrated that the poly-ubiquitinated form of UHRF1 is K63-linked and can still silence the tumor suppressor gene p16INK4A/CDKN2A. We further showed that TQ-induced auto-ubiquitination is mediated via the activity of Tip60. Since this latter is known as a nuclear receptor co-factor, we investigated if the glucocorticoid receptor (GR) might be involved in the regulation of UHRF1 ubiquitination. Activation of the GR, with dexamethasone, did not influence auto-ubiquitination of UHRF1. However, we could observe that TQ induced a K48-linked poly-ubiquitination of GR, probably involved in the proteosomal degradation pathway. Mass-spectrometry analysis of FLAG-HA-tagged UHRF1 identified UHRF1 partners involved in DNA repair and showed that TQ increased their association with UHRF1, suggesting that poly-ubiquitination of UHRF1 is involved in the DNA repair process. We propose that poly-ubiquitination of UHRF1 serves as a scaffold to recruit the DNA repair machinery at DNA damage sites.
+Keywords: UHRF1; DNA repair; ubiquitination; thymoquinone; p16INK4A; Ku70/80
+
+Chunli Ma, Wanan Cai, Tingting Zhou, Ce Zhang, Qiang Zhang, Haijun Niu, Wen Wang,
+Versatile polyamides with new triphenylamine monomer based on dinaphtho furan as core for electrochromic/electrofluorochromic device, TNP detection and memory storage,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112884,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112884.
+(https://www.sciencedirect.com/science/article/pii/S092702482400196X)
+Abstract: In order to obtain a versatile electrochromic (EC) and electrofluorochromic (EFC) material with good processability, stable redox properties, high optical contrast and fast response, a novel diamine monomer, N1, N1'-(dinaphtho[2,1-b:1',2'-d] furan-5,9-diyl) bis(N1-(4-methoxyphenyl) benzene- 1,4-diamine) (DNFTPA-NH2), which introducing an oxa[5]helicene core into two electron-rich triphenylamine (TPA) blocks is designed and synthesized. Subsequently, four polyamides (PAs) were obtained via polycondensation of diamine with dicarboxylic acids, denoted as DNFTPA-CA, DNFTPA-OA, DNFTPA-NA and DNFTPA-SA, respectively. The four PAs show excellent solution processability and thermal stability, and cyclic voltammograms (CV) with excellent redox reversibility. Among them, DNFTPA-SA shows marked optical contrast of 34 % at 831 nm and rapid switching time (color/bleach, 3.23s/0.39s) between 0 V and 1.0 V, with no significant decay after 5000 s cycle. DNFTPA-CA exhibits high fluorescence (PL) quantum efficiency of 27 %, which is sensitive to explosive trinitrophenol (TNP) with a low detection limit of 7.24 × 10−2 μM. Given the practical application, it is deemed necessary to prepare EC/EFC device. The findings demonstrate the value of PAs for practical applications in EC/EFC device. Moreover, PAs used in memory devices with sandwich structure of ITO/PAs/Al demonstrate non-volatile flash-type behavior with excellent stability within 10000 s and current switching ratios up to 103. Thus, it provides a facile strategy for the design of polymers in the devices of EC/EFC, PL sensing detection and memristor.
+Keywords: Electrochromic/electrofluorochromic device; Fluorescence sensor; Memristor; Polyamides
+
+Jui-Yung Chang, Chih-Chan Chiang, Cheng-Yang Liu, Yu-Bin Chen,
+Development of a Janus radiative cooler using a versatile fabrication process,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112918,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112918.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002307)
+Abstract: Radiative cooling is a passive heat dissipation technique that emits thermal radiation to outer space through the atmosphere window. A radiative cooler has one side facing the sky, and the other side extracts heat from hot targets. Excellent cooling performance of a cooler can be archived via broadband absorption on one side and wavelength-selective emission on the other side like a Janus structure. However, Janus radiative coolers are usually constructed with complicated structures that take tremendous effort and costly facility. This work thus proposes an alternative Janus radiative cooler, which can be fabricated using a versatile and cost-effective fabrication technique, the electrophoretic deposition. The same setup and procedure can deposit chitosan and carbon black thin films on each side of a metallic substrate to achieve dual functionality. Five measurement units were constructed, and fabricated samples were placed on the top surface of each. The cooler successfully lowered the heater temperature inside the unit. Temperature reduction of 5.6 °C and 0.2 °C can be achieved respectively during daytime and nighttime with the proposed cooler compared to the case without thin film depositions. The repeatability of results was validated, and numerical modeling was conducted to exhibit thermal fields. The proposed cooler is promising in diminishing energy demand as well as carbon emissions while taking cost-effectiveness, feasibility, and simplicity into consideration.
+Keywords: Carbon black; Chitosan; Electrophoretic deposition; Janus structure; Radiative cooling
+
+G.S. Sahoo, S. Bhattarai, E. Feddi, M. Verma, A.N.Z. Rashed, O. Saidani, G.P. Mishra,
+Unveiling the potential of lead-free Cs2AgBiBr6 (CABB) perovskite for solar cell application,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112873,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112873.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001855)
+Abstract: The remarkable structural stability and optoelectronic properties of Cs2AgBiBr6 (CABB) material have positioned it as a highly appealing candidate for the solar cell application. The research focused on modeling and examination of perovskite solar cells utilizing Cs2AgBiBr6 as the active material, incorporating various electron transport layers (ETL) and hole transport layers (HTL). The device structure comprised of ITO/ZnO:Al/ZnO/Cs2AgBiBr6/Cu2O/Au. This optimized device, shows Voc = 1.67 V, Jsc = 15.52 mA/cm2, fill factor (FF) = 71.32 %, and conversion efficiency = 18.5 %. Active layer defects and trap charges at the interface of the CABB layer can trap photo generated electrons and holes, permitting higher carrier recombination. That reduces both open circuit voltage and short circuit current density. The conversion efficiency deteriorates from 18.5 % to 2.65 % when the defect density increases from 1 × 1010/cm3 from 1 × 1016/cm3. Also trap charges and multiple trap charges play a vital role in the performance of the CABB solar cell.
+Keywords: Perovskite; Solar cell; CABB; Recombination; Absorption; Defect density; Trap charge
+
+Meryem Farchado, Gema San Vicente, Naia Barandica, Daniel Sánchez-Señorán, Ángel Morales,
+High performance selective solar absorber stable in air for high temperature applications,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112849,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112849.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001612)
+Abstract: A new selective solar absorber stable in air based on a novel multilayer configuration is designed for CSP applications with operating temperatures up to 550 °C. This configuration satisfies the higher operating temperature requirements of next-generation CSPs and prevents the current high-temperature failures due to oxidation. This material is made of six layers (SiO2/PtAl2O3/Pt/PtAl2O3/CuCoMnOx/SiO2), deposited on stainless steel and quartz by the cost-effective dip-coating methodology. A solar absorptance of 0.957 and a thermal emittance of 0.10 at 500 °C are achieved for the optimised material prepared on stainless steel 316L. The work presents the optimisation and characterisation of the solar absorber developed in stainless steel and its durability study with respect to thermal and constant condensation conditions on both stainless steel and quartz substrates. XRD analysis indicates the high crystallinity of each constituting layer except SiO2 (amorphous) and the depth profile by XPS confirms the sequence of the six layers that comprise the absorber. The multilayer stack shows outstanding thermal stability withstanding perfectly 3072 h at 500 °C in an open air atmosphere (PC < 0.01), independently of the substrate. The resistance to condensation test is directly dependent on the substrate. The designed CuCoMnOx–based selective absorber confirms its ability to be used in solar thermal systems. The material presented can be used in parabolic trough receivers with the advantage of maintaining its performance in case of vacuum loss. Moreover, its stability under condensation conditions directs a future line of research aimed at its application in solar tower receivers (Inconnel/AISI 347).
+Keywords: Selective absorber; Optical properties; Air thermal-stability; Condensation resistance; Dip-coating; CSP application
+
+Alexandra K. Stapley, Sydney A. McFarland, Joshua J. Vawdrey, Osemudiamhen D. Amienghemhen, Kendall J. Mitchell, Takeo Sasaki, David D. Allred, Walter F. Paxton,
+Photodegradation of self-immolating polymers as a potential solution to particulate contamination,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112902,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112902.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002149)
+Abstract: The ubiquity of particulate contamination requires dust mitigation techniques to provide low scatter surfaces and edges on sensitive optical devices in space. Poly(olefin sulfone)s have been shown to photodegrade with the assistance of a photobase generator when exposed to UV light (254 nm) and heat (120 °C). These may be applicable in minimizing dust on optical surfaces for space applications. However, their behavior in vacuum has not been fully characterized. We synthesized poly(2-methyl-1-pentene sulfone) (PMPS) and poly(1-hexene sulfone) (PHS) with and without a photobase generator. We studied the photodegradation (172 nm or 254 nm) of thin films in vacuum. Spectroscopic ellipsometry was used to quantify film thickness over time. The PMPS and PHS films both degraded when exposed to UV light in vacuum, though PHS to a lesser degree. We found that heat was not required to cause degradation, and that degradation occurred with UV irradiation even without a photobase generator. This investigation shows that poly(olefin sulfone)s could be used to protect optical surfaces until their deployment in space.
+Keywords: Poly(olefin sulfone); Thin films; Self-immolating polymers; Space instrumentation; Photodegradation; Photobase generator
+
+V. Arjun, K.P. Muthukumaran, A. Nithya, M. Yoshimura, S. Karuppuchamy,
+Nickel oxide incorporated CH3NH3PbI3 for stable and efficient planar perovskite solar cells,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112857,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112857.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001697)
+Abstract: Photovoltaic performance and stability are critical for the commercialization of perovskite solar cells (PSC). In this research article, NiO nanoparticles are directly incorporated into CH3NH3PbI3 to improve the photovoltaic properties and sustainability of perovskite solar cells. The NiO NPs have been successfully synthesised by hydrothermal method. The hydrothermally synthesised NiO incorporated CH3NH3PbI3 based Perovskite Solar Cells (NiO–CH3NH3PbI3 based PSC) shows a superior power conversion efficiency of 13.43 %, current density (Jsc) of 22.79 mA/cm2, an open circuit voltage (Voc) of 0.95 V and a Fill Factor (FF) of 0.64 compared with NiO free perovskite solar cell. Electrochemical Impedance Spectroscopy (EIS) investigation reveals the enhancement in the charge transport properties of the NiO–CH3NH3PbI3 based PSCs. The EIS results prove that NiO NPs have improved the perovskite layer quality, charge generation and collection, and charge transport properties. The strong PL quenching indicates the good charge separation/injection due to the formation of smart perovskite crystal structure in the NiO–CH3NH3PbI3 composite. The NiO–CH3NH3PbI3 based PSC along with a carbon back electrode has achieved impressive stability over 600 h.
+Keywords: Nickel oxide; Hydrothermal method; Perovskite solar cells
+
+Jiawen Ren, Wenjie Zhao, Jianhua Shi, Zhu Yan, Shuyi Chen, Yunren Luo, Guangyuan Wang, Anjun Han, Qiang Shi, Zhengyue Xia, Haoxin Fu, Dongming Zhao, Xiangrui Yu, Haiwei Huang, Rui Li, Liping Zhang, Wenzhu Liu, Zhengxin Liu, Fanying Meng,
+Predicting the lifetime of HJT modules towards the outdoor real-world environment,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112885,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112885.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001971)
+Abstract: The high-performance silicon solar cells can be manufactured with the unique amorphous/crystalline heterojunction (HJT) structure. In the field applications of the photovoltaics, the durability of HJT modules has become an issue which gets a lot of attention. In this work, it was found that the ultraviolet-induced (UV-induced) degradation is largely caused by the decrease in short-circuit current, and UV cut-off polyolefin elastomers (POE) can effectively suppress the attenuation rate. Additionally, temperature and humidity also affect the module degradation rate, which was revealed through a series of damp-heat (DH) acceleration tests. From the analytical calculations of the data of UV and DH tests, Arrhenius activation energy of 0.43 eV was successfully derived. Accordingly, the Peck model was applied, which indicates that the lifetime of HJT modules can be predicted in the case of the specific climate parameters, such as temperature, humidity and UV irradiation. Based on this model, lifetime of HJT modules is around 22 years due to its stronger annual UV irradiation of over 72 kWh/m2 and over 80 % relative humidity (RH) in Hainan. By contrast, fortunately, lifetime of over 30 years is predicted at the lower UV irradiation of 48 kWh/m2 in Daqing and lower humidity of less than 55%RH in Ningxia, which are the typical photovoltaic climate zones of China.
+Keywords: Lifetime prediction model; UV-Induced degradation; DH-Induced degradation; Accelerated life testing; Silicon heterojunction (HJT)
+
+Brígida Santos, Catarina Ginete, Elisângela Gonçalves, Mariana Delgadinho, Armandina Miranda, Paula Faustino, Ana Paula Arez, Miguel Brito,
+Characterization of a cohort of Angolan children with sickle cell anemia treated with hydroxyurea,
+Blood Cells, Molecules, and Diseases,
+Volume 105,
+2024,
+102822,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102822.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000992)
+Abstract: Background
+Sickle Cell Anemia (SCA) is a monogenic disease, although its severity and response to treatment are very heterogeneous.
+Objectives
+This study aims to characterize a cohort of Angolan children with SCA and evaluate their response to hydroxyurea (HU) treatment and the potential side effects and toxicity.
+Methods
+The study enrolled 215 patients between 3 and 12 years old before and after the administration of HU, at a fix dose of 20 mg/kg/day for 12 months.
+Results
+A total of 157 patients started HU medication and 141 of them completed the 12-month treatment. After initiating HU treatment, the frequency of clinical events decreased (transfusions 53.4 %, hospitalizations 47.1 %). The response to HU medication varied among patients, with some experiencing an increase in fetal hemoglobin (HbF) of <5 %. The mean increase in HbF was 11.9 %, ranging from 1.8 % to 31 %. Responders to HU treatment were 57 %, inadequate responders 38.7 % and non-adherent 4.2 %. No clinical side effects related to HU were reported. Hematological toxicities were transient and reversible. Children naïve to HU and with lower HbF reported higher number of hospitalizations caused by malaria infection. During HU treatment, the frequency of malaria episodes did not appear to be affected by HbF levels.
+Conclusions
+the present study provided a valuable contribution to the understanding of the clinical and laboratory profiles of Angolan children with SCA. These findings support the evidence that the implementation of prophylactic measures and treatment with HU is associated with increased survival in children with SCA.
+Keywords: Sickle cell anemia; Fetal hemoglobin; Hydroxyurea; Malaria; Angola
+
+Runguang Hu, Jinbing Zhang, Shuai Yuan, Dongli Hu, Qi Lei, Shuang Zhou, Jie Huang,
+Study on subgrain boundaries in cast monocrystalline silicon,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112845,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112845.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001570)
+Abstract: Cast monocrystalline silicon (mono-Si), also known as quasi-mono-Si, has been recognized for its potential as a high-performance crystalline silicon material due to its low manufacturing costs and high crystal quality. This study investigated the occurrence of high-density dislocation loops in cast mono-Si, which exhibited grid-like propagation caused mostly by subgrain boundaries. The study looked at the fundamental properties of these subgrain boundaries as well as the mechanisms that allow them to propagate in a grid-like pattern within cast mono-Si. Observations revealed differences in the crystallographic misorientation of subgrain boundaries across the ingot, ranging from 1 to 3°. Electron Beam Induced Current (EBIC) tests revealed strong recombination activity at these boundaries under typical conditions. As the temperature gradually decreases from 300 K to 80 K during EBIC testing, subgrain boundaries with shallower energy states emerge, which become more apparent in photoluminescence (PL) tests conducted on Si wafers cut from different heights of the ingot.
+Keywords: Cast monocrystalline silicon; Subgrain boundary; Dislocation; Multiplication
+
+Emily Franco, Kristine A. Karkoska, Patrick T. McGann,
+Inherited disorders of hemoglobin: A review of old and new diagnostic methods,
+Blood Cells, Molecules, and Diseases,
+Volume 104,
+2024,
+102758,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102758.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000359)
+Abstract: The genetic regulation of hemoglobin is complex and there are a number of genetic abnormalities that result in clinically important hemoglobin disorders. Here, we review the molecular pathophysiology of hemoglobin disorders and review both old and new methods of diagnosing these disorders. Timely diagnosis of hemoglobinopathies in infants is essential to coordinate optimal life-saving interventions, and accurate identification of carriers of deleterious mutations allows for genetic counseling and informed family planning. The initial laboratory workup of inherited disorders of hemoglobin should include a complete blood count (CBC) and peripheral blood smear, followed by carefully selected tests based on clinical suspicion and available methodology. We discuss the utility and limitations of the various methodologies to fractionate hemoglobin, including cellulose acetate and citrate agar hemoglobin electrophoresis, isoelectric focusing, high-resolution high-performance liquid chromatography, and capillary zone electrophoresis. Recognizing that most of the global burden of hemoglobin disorders exists in low- and middle-income countries, we review the increasingly available array of point-of-care-tests (POCT), which have an increasingly important role in expanding early diagnosis programs to address the global burden of sickle cell disease, including Sickle SCAN, HemoTypeSC, Gazelle Hb Variant, and Smart LifeLC. A comprehensive understanding of the molecular pathophysiology of hemoglobin and the globin genes, as well as a clear understanding of the utility and limitations of currently available diagnostic tests, is essential in reducing global disease burden.
+Keywords: Hemoglobin; Sickle cell; Thalassemia; Hematology; Diagnostics; Point of care
+
+Alexa Fernando, Matthias Kuipers, Georg Angenendt, Kai-Philipp Kairies, Matthieu Dubarry,
+Benchmark dataset for the study of the relaxation of commercial NMC-811 and LFP cells,
+Cell Reports Physical Science,
+Volume 5, Issue 1,
+2024,
+101754,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2023.101754.
+(https://www.sciencedirect.com/science/article/pii/S2666386423005994)
+Abstract: Summary
+Voltage relaxation can be a powerful indicator of lithium-ion battery characteristics, but variations in relaxation times complicate the widespread use of relaxation as an analytical tool. This study investigates the voltage relaxation behavior of commercial lithium-ion batteries, focusing on the impact of depth of discharge, rate, and temperature to gain a better understanding of relaxation and to improve state-of-charge estimation. Most of the data, available in a public dataset, are gathered using a unique protocol derived from intermittent titration techniques with an emphasis on ensuring that every rest is independent of the previous one. The findings demonstrate that relaxation behavior and open-circuit voltage settling times are influenced by depth of discharge, rate, current flow direction, and cell chemistry. In addition, the obtained dataset is used to test the validity of relaxation models to showcase the benefits of having a benchmark relaxation dataset available for validation of future open-circuit voltage forecasting studies.
+Keywords: lithium-ion batteries; voltage relaxation; open-circuit voltage; depth of discharge; temperature; LFP; NMC811
+
+Yu Song, Xiaolin Qiu, Huaxuan Liu, Yu Han,
+Microencapsulated phase change materials (MicroPCMs) with TiO2-modified natural polymer shell and macrocapsules containing MicroPCMs for thermal energy storage and UV-shielding,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112860,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112860.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001727)
+Abstract: Micro-encapsulated/macro-encapsulated phase change materials (Micro/MacroPCMs) are attractive environmental energy materials since they can be integrated into building materials, textile fabrics and heat-insulating materials to give their solar energy storage capacities and improve their temperature adjustment abilities. An innovative set of Micro/MacroPCMs has been designed using natural polymers, showcasing prowess in solar energy storage and UV protection. The eco-friendly bifunctional MicroPCMs are made up of paraffin as core and titanium dioxide (TiO2)-modified chitosan (CS) as shell. Their energy efficiency was elevated using a double emulsion technique. Alginate (ALG), an anionic polysaccharide, was selected as the matrix of the MacroPCMs to provide an enhanced combination with the cation polysaccharide CS shell. The surfaces and structures of the Micro/MacroPCMs were observed through SEM and image measurement (IM). Their chemical profile was deciphered using FTIR and XRD. Ultraviolet–visible spectrophotometry evaluated their UV resistance. DSC, TGA, and infrared thermography delved into their thermal attributes, while a texture analyzer revealed the mechanical strength of the MacroPCMs. The introduction of TiO2 resulted in a greater effective enthalpy and thermal stability. The energy storage ability of the MicroPCMs was further improved by using a double emulsification system. Notably, MicroPCMs crafted with TiO2-infused CS using the double emulsion approach stood out, boasting an impressive PCM content of 81.3 %, a melting enthalpy of 125.5 J/g, and commendable UV and thermal regulation capacities. With their robust thermal performance and mechanical resilience, these eco-friendly difunctional Micro/MacroPCMs emerge as prime contenders in solar energy conservation and temperature control applications.
+Keywords: PCMs; Micro/macroencapsulation; Chitosan; Energy storage; Ultraviolet shielding
+
+Yuexia Liu, Zunhai Liu, Zeyu Ren, Qiannan Han, Xinhao Chen, Jialu Han, Guiping Qiu, Chao Sun,
+NDUFA9 and its crotonylation modification promote browning of white adipocytes by activating mitochondrial function in mice,
+The International Journal of Biochemistry & Cell Biology,
+Volume 171,
+2024,
+106583,
+ISSN 1357-2725,
+https://doi.org/10.1016/j.biocel.2024.106583.
+(https://www.sciencedirect.com/science/article/pii/S1357272524000748)
+Abstract: Protein crotonylation plays a role in regulating cellular metabolism, gene expression, and other biological processes. NDUFA9 (NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9) is closely associated with the activity and function of mitochondrial respiratory chain complex I. Mitochondrial function and respiratory chain are closely related to browning of white adipocytes, it’s speculated that NDUFA9 and its crotonylation are associated with browning of white adipocytes. Firstly, the effect of NDUFA9 on white adipose tissue was verified in white fat browning model mice, and it was found that NDUFA9 promoted mitochondrial respiration, thermogenesis, and browning of white adipose tissue. Secondly, in cellular studies, it was discovered that NDUFA9 facilitated browning of white adipocytes by enhancing mitochondrial function, mitochondrial complex I activity, ATP synthesis, and mitochondrial respiration. Again, the level of NDUFA9 crotonylation was increased by treating cells with vorinostat (SAHA)+sodium crotonate (NaCr) and overexpressing NDUFA9, it was found that NDUFA9 crotonylation promoted browning of white adipocytes. Meanwhile, the acetylation level of NDUFA9 was increased by treating cells with SAHA+sodium acetate (NaAc) and overexpressing NDUFA9, the assay revealed that NDUFA9 acetylation inhibited white adipocytes browning. Finally, combined with the competitive relationship between acetylation and crotonylation, it was also demonstrated that NDUFA9 crotonylation promoted browning of white adipocytes. Above results indicate that NDUFA9 and its crotonylation modification promote mitochondrial function, which in turn promotes browning of white adipocytes. This study establishes a theoretical foundation for the management and intervention of obesity, which is crucial in addressing obesity and related medical conditions in the future.
+Keywords: Browning of white adipocytes; Mitochondrial; NDUFA9; Crotonylation modification; Acetylation modification
+
+Guijun Xu, Kai Yan, Le Wang, Shuai Lv, Anan Ma, Jia Li, Anyong Qing,
+A comparative experimental study on front and back laser cutting technology for mass separation of N-TOPCon crystal silicon solar cells,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112844,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112844.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001569)
+Abstract: Generally, the Thermal Laser Separation (TLS) technology is used to pre-groove from the back of the cell, which is the first process of half-cell module preparation. However, this benchmark practice may result in forming new leakage points in the grooves at both ends of the cell. Hence, we investigate the mechanism behind the formation of leakage points after grooving and the impact on N-TOPCon's cell efficiency and module power. It is discovered that the diffusion of P element is the main reason for the increase in the proportion of leakage points. The front cutting is accordingly proposed to alleviate problem. A comprehensive experimental study on its feasibility has been conducted. It has been confirmed that the leakage current under the reverse bias voltage is smaller, the data convergence is better, and the breakdown performance is more stable for N-TOPCon. Furthermore, the module power is higher.
+Keywords: Front-cutting; Half-cell; N-TOPCon; Thermal laser separation (TLS)
+
+Zohreh Shojaei, Maryam Abiri, Fatemeh Zafarghandi Motlagh, Masoume Amini, Samira Dabbagh Bagheri, Sadaf Asnavandi, Sedighe Asadi, Hamideh Bagherian, Sirous Zeinali,
+First report of a patient with homozygous hemoglobin Ernz: Evidence to support a non-pathogenic variant,
+Blood Cells, Molecules, and Diseases,
+Volume 104,
+2024,
+102797,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2023.102797.
+(https://www.sciencedirect.com/science/article/pii/S1079979623000748)
+Abstract: Hemoglobin Ernz (Hb Ernz) is a missense variant in β-globin caused by a Threonine to Asparagine substitution at the 123rd amino acid position and HBB c.371C > A in gene level. Hb Ernz has been classified as Uncertain Significance (VUS) by ACMG due to limited reports and the absence of any homozygote genotypes. In our study, we found eight cases of Hb Ernz by DNA sequencing of the β-globin gene during >20 years of Thalassemia Screening in individuals with borderline hematological parameters who were possible carriers of thalassemia or their spouses. We also report the first homozygote variant of Hb Ernz. Our findings suggest that the changes in hematological parameters observed in individuals with Hb Ernz are likely due to α-globin gene mutations rather than Hb Ernz itself. These findings support the reclassification of Hb Ernz as a benign variant in variant classification.
+Keywords: Hemoglobinopathy; Hemoglobin variants; Hemoglobin B; Hb Ernz; Uncertain significant
+
+Junjun Jia, Takashi Yagi, Yuzo Shigesato,
+Thermal conduction in polycrystalline or amorphous transparent conductive oxide films,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112872,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112872.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001843)
+Abstract: With the widespread utilization of transparent conductive oxides (TCO) in various electronic devices, it is beneficial to revisit the fundamentals of heat conduction to formulate a comprehensive physical understanding for thermal properties of TCOs with the aim of improving the thermal design of electronic devices. For degenerate polycrystalline TCO films, both free electrons and phonons act as heat carriers, where free electron contribution can be calculated based on the Wiedemann-Franz law.Interestingly, the phonon thermal conductivity remains almost constant for degenerated polycrystalline TCO films with different dopant concentrations, suggesting the existence of dopant-induced minimum phonon thermal conductivity. For degenerate amorphous TCO film, free electrons act as heat carriers along the conduction path formed by the orbital overlap of cations, which also obey the Wiedemann-Franz law. Moreover, the atomic vibration contribution to thermal conductivity almost keeps unchanged for amorphous TCO films deposited under different conditions, indicating the existence of a minimum thermal conductivity caused by the scattering of vibrational mode due to structural randomness appeared in the bond angle. We anticipate that these fundamental understanding can provide a guide for the discovery of TCO materials with optimized thermal properties.
+Keywords: Transparent conductive oxide; Electrical conduction; Thermal conduction; Amorphous transparent conductive oxide; Structural randomness
+
+Yanli Wang, Jinning Huang, Huijun Liu, Lingxu Yang, Chaoliu Zeng,
+Effect of chlorides and sulfates on the corrosion of SS347 and GH3539 in molten solar salt,
+Solar Energy Materials and Solar Cells,
+Volume 270,
+2024,
+112820,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112820.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001326)
+Abstract: Adding an appropriate amount of chloride or sulfate salts to molten nitrates is an effective way to improve the thermal stability temperature and energy density of solar salts. However, the corrosivity of the mixed solar salts is enhanced significantly. In this paper, the effect of chlorides and sulfates on the corrosion of SS347 and GH3539 in molten solar salt is investigated. The high oxygen pressure and basic environment in molten nitrates causes the formation of an external Fe oxides layer and inner FeCr2O4 layer for SS347. Unlike SS347, the corroded GH3539 presents an exclusive film of NiO and many core-shell structured nodules with Ni as core and NiO as shell, followed by a region of internal oxidation involving Ni, W and Cr. The additives chlorides produce an oxidation-chlorination environment, causing spallation of oxide scale from SS347, but without significant effect on GH3539 due to lower thermodynamic stabilities of Ni and W chlorides than Fe and Cr chlorides. The addition of sulfates to solar salt also harms the adhesion of the scale on SS347 to a certain extent. While the additives sulfides accelerate the corrosion of GH3539, forming a thick porous NiO layer and a serious internal sulfidation zone.
+Keywords: Corrosion; SS347; GH3539; Solar salt; Chloride; Sulfate
+
+Zongheng Sun, Wei Chen, Yiwen Zhang, Yaoping Liu, Xiaolong Du,
+Effect of nucleating agents on crystalline silicon textured structure: From upright pyramid to analogous inverted pyramid,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112867,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112867.
+(https://www.sciencedirect.com/science/article/pii/S092702482400179X)
+Abstract: For further improving the efficiency of solar cells, it is one of the mainstream approaches to obtain a novel textured surface structure with lower reflectivity, without affecting the existing industry processes. However, the current rapid texturing methods used in the industry can only achieve an upright pyramid structure. This study first analyzed how the rapid texturing process is achieved through texturing additives. Subsequently, based on this principle, we investigated the core component of the texturing additives—nucleating agent—and examined how its concentration influences the surface structure, leading to the development of an analogous inverted pyramid structure with advantageous reflectivity. To remove the damage layer generated at the top edges of the analogous inverted pyramid due to insufficient etching, a two-step texturing process was proposed. This process aims to protect the structure while effectively removing the damage layer. Ultimately, we applied the two-step texturing process to fabricate heterojunction solar cells with the analogous inverted pyramid textured surface, achieving an efficiency of 25.43 %, which is 0.19 % higher than conventional upright pyramid structure cells.
+Keywords: Analogous inverted pyramid; Nucleating agent; Light trapping structure; Alkaline texturing; Silicon solar cells
+
+Minkyung Shin, Ju Ho Lee, Intae Seo, Hyung-Won Kang, Ji-Hun Seo, Ho Jun Jin, Bong Hoon Kim, Robert C. Tenent, Seung Ho Han,
+Durability enhancement of all-solid-state electrochromic devices by adjusting the charge density ratio between electrochromic and counter electrode layers,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112901,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112901.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002137)
+Abstract: Owing to an increase in global warming, smart-window devices based on charge-balanced electrochromic devices (ECDs), which exhibit high potential to increase the thermal efficiency of buildings, have gained prominence. However, studies on the fabrication and cycling stability of charge-balanced ECDs are scarce. In this study, WO3 and NiOx films were deposited on indium–tin–oxide (ITO)-coated glass substrates by reactive direct-current magnetron sputtering, and the deposition time was varied to control the thickness and charge density of the thin films. Subsequently, the NiOx/ITO/glass and WO3/ITO/glass substrates were laminated with a Li-based polymeric electrolyte to fabricate all-solid-state ECDs comprising electrochromic (EC) and counter-electrode (CE) layers in charge-density ratios of 12.6, 6.4, 2.3, and 1.1. Changes in the electrochromic properties, device-layer microstructure, crystal structure, and elemental composition of the as-constructed ECDs before and after degradation were investigated to understand the influence of the charge-density ratio of the EC and CE layers on the long-term durability of ECDs. Increasing the charge-density ratio decreased the cycling stability of the device owing to changes in the microstructure and crystal structure of the NiOx layer in the microstructural deep-trap sites. Among all the ECDs, those comprising EC and CE layers with similar charge densities showed the most stable optical modulation and highest long-term durability. Finally, based on the aforementioned results, a degradation mechanism for charge-imbalanced all-solid-state ECDs was proposed. This study is expected to open new frontiers in designing optimal-performance electrochemical devices with a wide variety of potential applications.
+Keywords: All-solid-state electrochromic device; Complementary structure; Charge density ratio; Cycling stability; Deep trap; Irreversible reaction
+
+Sahar Hosseini, Juan F. Torres, Mahdiar Taheri, Kaoru Tsuda, Antonio Tricoli, Wojciech Lipiński, Joe Coventry,
+Aging mechanisms for high-temperature solar absorber coatings under extensive thermal cycling,
+Solar Energy Materials and Solar Cells,
+Volume 271,
+2024,
+112856,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112856.
+(https://www.sciencedirect.com/science/article/pii/S0927024824001685)
+Abstract: Solar absorber coatings play a crucial role in the efficiency and longevity of concentrating solar power systems. Thermal stresses caused by fluctuating solar conditions from the passage of clouds contribute to the degradation and failure of these coatings. This paper investigates how different factors in a thermal cycling test regime impact aging mechanisms. Two different thermal cycling tests were examined – rapid cycling (RC) and cycle and hold (CH) – and compared with isothermal test results. Varied test parameters include temperature ramp rate, depth of cycling, and holding time at peak temperature. Aging mechanisms were examined in the context of two distinctly different coatings, the well-known Pyromark 2500 coating and a recently developed coral-structured coating with hierarchical features. For Pyromark 2500, the results indicate that test conditions inducing higher thermal stresses accelerate the sintering and crystallisation rate. In particular, the combined cycle and hold test is shown to accelerate key aging mechanisms, including oxide layer growth, elemental diffusion, phase formation and crystallisation, and has significant influence on optical degradation and failure rates. The coral-structured coating demonstrated superior optical, morphological, and chemical stability compared to Pyromark 2500 samples under all test conditions. It is recommended that, where Pyromark 2500 is selected as a benchmark to compare to new coatings, a cycle and hold test is included in the testing program.
+
+Clarisse Lobo, Aderson Araújo, Alexandre de Albuquerque Antunes, Ana Cristina Silva Pinto, Ariadne Carvalho Godinho, Cassia Silvestre Mariano Pires, Cinthia Cristina Matheus, Xerez de Albuquerque, Daniele Campos Fontes Neves, Fábio de Lima Moreno, Giorgio Baldanzi, Grazziella Curado Siufi, Heloisa Helena Pereira Miranda, Jane Hankins, Joice Aragão, Josefina Aparecida Pellegrini Braga, Juliana Touguinha Neves Martins, Luciana Campos Costa Machado de Souza, Maria Stella Figueiredo, Mirella Rodrigues Oliveira, Patricia Santos Resende Cardoso, Patricia Costa Alves Pinto, Patricia Gomes Moura, Rodolfo Delfini Cançado, Paulo Ivo Cortez de Araujo, Sara Olalla Saad, Sandra Regina Loggetto, Teresa Cristina Cardoso Fonseca,
+Consensus of the Brazilian Association of Hematology, Hemotherapy and Cellular Therapy (ABHH) and the Brazilian Ministry of Health - General management of blood and blood products on the tests necessary for the release of exceptional medicines for sickle cell disease,
+Hematology, Transfusion and Cell Therapy,
+Volume 46, Issue 1,
+2024,
+Pages 67-71,
+ISSN 2531-1379,
+https://doi.org/10.1016/j.htct.2024.01.001.
+(https://www.sciencedirect.com/science/article/pii/S2531137924000105)
+Abstract: To date, hydroxyurea is the only effective and safe drug that significantly reduces morbidity and mortality of individuals with Sickle cell disease. Twenty years of real-life experience has demonstrated that hydroxyurea reduces pain attacks, vaso-occlusive events, including acute chest syndrome, the number and duration of hospitalizations and the need for transfusion. The therapeutic success of hydroxyurea is directly linked to access to the drug, the dose used and adherence to treatment which, in part, is correlated to the availability of hydroxyurea. This consensus aims to reduce the number of mandatory exams needed to access the drug, prioritizing the requesting physician's report, without affecting patient safety.
+Keywords: Sickle cell disease; Hydroxyurea; Access
+
+Jenan Dakheel Hamdi, Jalal M. Jalil, Ahmed Hameed Reja,
+Experimental and numerical analysis of multi-layer micro channel applied to parabolic solar concentrator,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112913,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112913.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002253)
+Abstract: There are numerous applications for micro-channel technology, but it has just a few applications in solar collectors. Therefore this research makes a clear contribution in this field by using a new design absorber in the concentrator, and the reflector was designed to focus the solar radiation on two sides. The solar concentrator system was attached to the tracking system to maintain the parabolic collector's perpendicularity to sun rays. This study investigates the experimental and numerical effects of the micro-channel technique on solar concentrator performance for different velocity values to meet the need for temperature differences, which gives Reynolds numbers varying from 1011 to 3273. The absorber plate was made from aluminum metal with 44 rectangular microchannels (0.3 m in length, 0.02 m in width, and 0.0009 m in height). The result indicated that the two-axis tracking system would increase output temperature by roughly 18 %. Outlet air temperature decreased significantly by 13.9 °C with changing flow rate from 0.009339 to 0.030235 kg/s. The highest efficiency was 91 % in March, 89 % in November, 80 % in February, 69.8 % in December and 65.5 % in January. A good agreement was obtained between numerical and experimental with a maximum deviation of 1.4, 1.7, 9.4 and 8.88 % for the glass cover, absorber plate, upper channel and lower channel, respectively.
+Keywords: Solar air heater; Micro-channel; Parabolic concentrator; Two-axis tracking; Absorber plate
+
+Kai Lv, Chengwu Shi, Nianwei He, Zihao Wang, Changsheng Ye, Yanqing Wang, Guiju Hu, Fuling Guo, Wangchao Chen,
+Composition engineering of antimony selenosulfide films using hydrothermal method for efficient solar cells,
+Solar Energy Materials and Solar Cells,
+Volume 272,
+2024,
+112889,
+ISSN 0927-0248,
+https://doi.org/10.1016/j.solmat.2024.112889.
+(https://www.sciencedirect.com/science/article/pii/S0927024824002010)
+Abstract: In this work, Sb2SeyS3-y films were prepared by hydrothermal method at 135 °C for 135 min. The influence of the growth solution volume, the mixing S source, the selenourea concentration and the etching by the N-butyldithiocarbamic acid (BDCA) solution in DMF on the thickness, the content of Sb–O, Se, S and the Se distribution in Sb2SeyS3-y films and the power conversion efficiency (PCE) of solar cells was systematically investigated. When the growth solution volume was 30 mL and the chemical composition of the growth solution was 25 mM antimony potassium tartrate (KSbC4H4O7·0.5H2O), 75 mM Na2S2O3, 5 mM thioacetamide, 10.5 mM selenourea, the PCE of Sb2SeyS3-y solar cells were 9.56 % and 9.41 ± 0.10 %. When Sb2SeyS3-y films were etching by BDCA for 10 min, the PCE of Sb2SeyS3-y solar cells were 10.13 % and 9.95 ± 0.16 %. The result revealed that the homogeneous extent of the Se distribution in Sb2SeyS3-y films can be improved by changing the hydrothermal process parameters and the chemical composition of the growth solution. And the etching by BDCA should be an efficient strategy for eliminating the surface defects and decreasing the gradient of the Se distribution in Sb2SeyS3-y films.
+Keywords: Sb2SeyS3-y thin film; Hydrothermal preparation; Etching by N-butyldithiocarbamic acid in DMF; Se distribution; Power conversion efficiency
+
+Philipp Radler, Martin Loose,
+A dynamic duo: Understanding the roles of FtsZ and FtsA for Escherichia coli cell division through in vitro approaches,
+European Journal of Cell Biology,
+Volume 103, Issue 1,
+2024,
+151380,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2023.151380.
+(https://www.sciencedirect.com/science/article/pii/S017193352300095X)
+Abstract: Bacteria divide by binary fission. The protein machine responsible for this process is the divisome, a transient assembly of more than 30 proteins in and on the surface of the cytoplasmic membrane. Together, they constrict the cell envelope and remodel the peptidoglycan layer to eventually split the cell into two. For Escherichia coli, most molecular players involved in this process have probably been identified, but obtaining the quantitative information needed for a mechanistic understanding can often not be achieved from experiments in vivo alone. Since the discovery of the Z-ring more than 30 years ago, in vitro reconstitution experiments have been crucial to shed light on molecular processes normally hidden in the complex environment of the living cell. In this review, we summarize how rebuilding the divisome from purified components – or at least parts of it - have been instrumental to obtain the detailed mechanistic understanding of the bacterial cell division machinery that we have today.
+Keywords: In vitro reconstitution; Bacterial cell division; FtsZ; FtsA
