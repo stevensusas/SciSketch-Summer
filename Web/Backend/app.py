@@ -8,6 +8,8 @@ from transformers import T5ForConditionalGeneration, T5Tokenizer
 from huggingface_hub import HfApi
 import requests
 import time
+from Icon_RAG import *
+
 
 app = Flask(__name__)
 CORS(app)
@@ -179,6 +181,11 @@ def predict():
         return jsonify(response), 200
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+    
+
+# Define Google Cloud Storage settings (Public Access for now)
+bucket_name = "scisketch_icon_search"
+icon_directory = "icons"
 
 @app.route('/inference', methods=['POST'])
 def inference():
@@ -201,6 +208,16 @@ def inference():
     for phrase in phrases:
         x_pred, y_pred = predict_coordinates(abstract, phrase)
         x_denorm, y_denorm = denormalize_coordinates(x_pred, y_pred, x_min, x_max, y_min, y_max)
+        
+        # Perform icon search and generate URL
+        similar_icons = search_similar_icons_by_text(phrase, 1)
+        if similar_icons and "ids" in similar_icons:
+            icon_path = similar_icons['metadatas'][0][0]['path']
+            absolute_url = generate_gcs_url(bucket_name, os.path.join(icon_directory, os.path.basename(icon_path)))
+        else:
+            absolute_url = None
+        
+        
         results.append({
             'text': phrase,
             'coordinates': {
@@ -212,7 +229,8 @@ def inference():
                     'x': float(x_denorm),
                     'y': float(y_denorm)
                 }
-            }
+            },
+            'icon_url': absolute_url  # added the icon url 
         })
     
     return jsonify({'results': results}), 200
