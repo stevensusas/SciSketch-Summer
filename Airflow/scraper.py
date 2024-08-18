@@ -7,9 +7,9 @@ from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 
 class ScienceDirectAPI:
-    def __init__(self, api_key, base_url='https://api.elsevier.com/content/search/sciencedirect'):
-        self.api_key = api_key
+    def __init__(self, base_url='https://api.elsevier.com/content/search/sciencedirect'):
         self.base_url = base_url
+        self.api_key ='7f59af901d2d86f78a1fd60c1bf9426a'
         self.headers = {
             'Accept': 'application/json',
             'X-ELS-APIKey': self.api_key,
@@ -18,13 +18,76 @@ class ScienceDirectAPI:
         self.session = requests.Session()
         retries = Retry(total=5, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
         self.session.mount('https://', HTTPAdapter(max_retries=retries))
+        
+        self.journals = [
+        "Cell",
+        "Cancer Cell",
+        "Cell Chemical Biology",
+        "Cell Genomics",
+        "Cell Host & Microbe",
+        "Cell Metabolism",
+        "Cell Reports",
+        "Cell Reports Medicine",
+        "Cell Stem Cell",
+        "Cell Systems",
+        "Current Biology",
+        "Developmental Cell",
+        "Immunity",
+        "Med",
+        "Molecular Cell",
+        "Neuron",
+        "Structure",
+        "American Journal of Human Genetics",
+        "Biophysical Journal",
+        "Biophysical Reports",
+        "Human Genetics and Genomics Advances",
+        "Molecular Plant",
+        "Molecular Therapy",
+        "Molecular Therapy Methods & Clinical Development",
+        "Molecular Therapy Nucleic Acids",
+        "Molecular Therapy Oncology",
+        "Plant Communications",
+        "Stem Cell Reports",
+        "Trends in Biochemical Sciences",
+        "Trends in Cancer",
+        "Trends in Cell Biology",
+        "Trends in Ecology & Evolution",
+        "Trends in Endocrinology & Metabolism",
+        "Trends in Genetics",
+        "Trends in Immunology",
+        "Trends in Microbiology",
+        "Trends in Molecular Medicine",
+        "Trends in Neurosciences",
+        "Trends in Parasitology",
+        "Trends in Pharmacological Sciences",
+        "Trends in Plant Science",
+        "Cell Reports Physical Science",
+        "Chem",
+        "Chem Catalysis",
+        "Device",
+        "Joule",
+        "Matter",
+        "Newton",
+        "Trends in Chemistry",
+        "Cell Reports Methods",
+        "Cell Reports Sustainability",
+        "Heliyon",
+        "iScience",
+        "One Earth",
+        "Patterns",
+        "STAR Protocols",
+        "Nexus",
+        "The Innovation",
+        "Trends in Biotechnology",
+        "Trends in Cognitive Sciences"
+    ]
 
     def get_results(self, query):
         response = self.session.put(self.base_url, headers=self.headers, json=query)
         response.raise_for_status()
         return response.json()
 
-    def retrieve_all_results(self, query, max_workers=5):
+    def retrieve_all_results(self, query, max_workers=11):
         all_results = []
         total_results = None
 
@@ -99,39 +162,73 @@ class ScienceDirectAPI:
 
         return df
 
-    def save_to_csv(self, df, filename='science_direct_results.csv'):
-        df.to_csv(filename, index=False)
-        print(f"Results saved to {filename}")
+    def scrape_all(self, max_workers=11):
+        all_dfs = []
+        for journal in self.journals:
+            print(f"Starting data retrieval for {journal}...")
+            query = {
+                "qs": "a OR b OR c OR d OR e OR f OR g OR h OR i OR j OR k OR l OR m OR n OR o OR p OR q OR r OR s OR t OR u OR v OR w OR x OR y OR z",
+                "pub": f'"{journal}"',
+                "filters": {
+                    "openAccess": False,
+                },
+                "display": {
+                    "offset": 0,
+                    "show": 100,
+                    "sortBy": "date"
+                }
+            }
+            df = self.retrieve_all_results(query)
+            all_dfs.append(df)
 
-# Example usage
+        # Concatenate all dataframes into a single dataframe
+        final_df = pd.concat(all_dfs, ignore_index=True)
+
+        # Filter rows to keep only those with exact matches in sourceTitle
+        final_df = final_df[final_df['sourceTitle'].isin(self.journals)]
+
+        # Apply the DOI API calls in a multithreaded way
+        final_df = self.apply_doi_api_multithreaded(final_df, max_workers=max_workers)
+
+        return final_df
+
+    def apply_doi_api_multithreaded(self, df, max_workers=11):
+        def API_call(doi):
+            prefix = "https://api.elsevier.com/content/object/doi/"
+            postfix = '/ref/fx1/high?apiKey='
+            end = '&httpAccept=*%2F*'
+            url = prefix + doi + postfix + self.api_key + end
+
+            response = requests.get(url)
+
+            if response.status_code == 200:
+                file_name = f'/Users/stevensu/Desktop/SciSketch-Summer/Graphical Abstracts/{doi}.jpg'
+                with open(file_name, 'wb') as file:
+                    file.write(response.content)
+                return True  # Graphical Abstract found
+            else:
+                return False  # Graphical Abstract not found
+
+        def process_row(row):
+            doi = row['doi']
+            row['GraphicalAbstract'] = API_call(doi)
+            return row
+
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = [executor.submit(process_row, row) for _, row in df.iterrows()]
+            for future in as_completed(futures):
+                row = future.result()
+                df.loc[df['doi'] == row['doi'], 'GraphicalAbstract'] = row['GraphicalAbstract']
+
+        return df
+
+# Example usage:
 if __name__ == "__main__":
-    API_KEY = '7f59af901d2d86f78a1fd60c1bf9426a'
-    sd_api = ScienceDirectAPI(API_KEY)
+    sd_api = ScienceDirectAPI()
+    df = sd_api.scrape_all()
+    
+    # Count the number of rows where 'GraphicalAbstract' is True
+    count_true = df['GraphicalAbstract'].sum()
 
-    query = {
-        "qs": "a OR b OR c OR d OR e OR f OR g OR h OR i OR j OR k OR l OR m OR n OR o OR p OR q OR r OR s OR t OR u OR v OR w OR x OR y OR z",
-        "pub": "\"Cell\"",
-        "filters": {
-            "openAccess": False,
-        },
-        "display": {
-            "offset": 0,
-            "show": 100,
-            "sortBy": "date"
-        }
-    }
-
-    print("Starting data retrieval...")
-    start_time = time.time()
-    df = sd_api.retrieve_all_results(query)
-    end_time = time.time()
-
-    print(f"Data retrieval completed. Time taken: {end_time - start_time:.2f} seconds")
-
-    print(f"\nDataFrame Summary:")
-    print(f"Total rows: {len(df)}")
-    print(f"Columns: {', '.join(df.columns)}")
-    print("\nFirst few rows:")
-    print(df.head())
-
-    sd_api.save_to_csv(df)
+    # Print the count
+    print(f"Number of rows with 'GraphicalAbstract' = True: {count_true}")
