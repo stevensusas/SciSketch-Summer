@@ -1,0 +1,1328 @@
+Vincent M. Le Corre, Tejas S. Sherkar, Marten Koopmans, L. Jan Anton Koster,
+Identification of the dominant recombination process for perovskite solar cells based on machine learning,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100346,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100346.
+(https://www.sciencedirect.com/science/article/pii/S266638642100031X)
+Abstract: Summary
+Over the past decade, perovskite solar cells have become one of the major research interests of the photovoltaic community, and they are now on the brink of catching up with the classical inorganic solar cells, with efficiency now reaching up to 25%. However, significant improvements are still achievable by reducing recombination losses. The aim of this work is to develop a fast and easy-to-use tool to pinpoint the main losses in perovskite solar cells. We use large-scale drift-diffusion simulations to get a better understanding of the light intensity dependence of the open-circuit voltage and how it correlates to the dominant recombination process. We introduce an automated identification tool using machine learning methods to pinpoint the dominant loss using the light intensity-dependent performances as an input. The machine learning was trained using >2 million simulations and gives an accuracy of the prediction up to 82%.
+Keywords: perovskite solar cell; machine learning; recombination; ideality factor
+
+Ana M. Daugherty,
+Hypertension-related risk for dementia: A summary review with future directions,
+Seminars in Cell & Developmental Biology,
+Volume 116,
+2021,
+Pages 82-89,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2021.03.002.
+(https://www.sciencedirect.com/science/article/pii/S1084952121000343)
+Abstract: Chronic hypertension, or high blood pressure, is the most prevalent vascular risk factor that accelerates cognitive aging and increases risk for Alzheimer’s disease and related dementia. Decades of observational and clinical trials have demonstrated that midlife hypertension is associated with greater gray matter atrophy, white matter damage commiserate with demyelination, and functional deficits as compared to normotension over the adult lifespan. Critically, hypertension is a modifiable dementia risk factor: successful blood pressure control with antihypertensive treatment improves outcomes as compared to uncontrolled hypertension, but does not completely negate the risk for dementia. This suggests that hypertension-related risk for neural and cognitive decline in aging cannot be due to elevations in blood pressure alone. This summary review describes three putative pathways for hypertension-related dementia risk: oxidative damage and metabolic dysfunction; systemic inflammation; and autonomic control of heart rate variability. The same processes contribute to pre-clinical hypertension, and therefore hypertension may be an early symptom of an aging nervous system that then exacerbates cumulative and progressive neurodegeneration. Current evidence is reviewed and future directions for research are outlined, including blood biomarkers and novel neuroimaging methods that may be sensitive to test the specific hypotheses.
+Keywords: Oxidative stress; Inflammation; Autonomic nervous system; Blood pressure; Aging; Alzheimer’s disease
+
+Qing-Jie Li, Emine Küçükbenli, Stephen Lam, Boris Khaykovich, Efthimios Kaxiras, Ju Li,
+Development of robust neural-network interatomic potential for molten salt,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100359,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100359.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000448)
+Abstract: Summary
+Molten salts are a promising class of ionic liquids for clean energy applications, such as nuclear and solar energy. However, efficient and accurate evaluation of salt properties from a fundamental, microscopic perspective remains a challenge. Here, we apply artificial neural networks to atomistic modeling of molten NaCl to accurately reproduce the properties from ab initio quantum mechanical calculations based on density functional theory (DFT). The obtained neural network interatomic potential (NNIP) effectively captures the effects of both long-range and short-range interactions, which are crucial for modeling ionic liquids. Extensive validations suggest that the NNIP is capable of predicting the structural, thermophysical, and transport properties of molten NaCl as well as properties of crystalline NaCl, demonstrating near-DFT accuracy and 103× higher efficiency in atomistic simulations. This application of NNIP suggests a paradigm shift from empirical/semiempirical/ab initio approaches to an efficient and accurate machine learning scheme in molten salt modeling.
+Keywords: nuclear energy; molten salts; thermophysical properties; atomistic simulations; machine learning
+
+Myriam C. Sander, Yana Fandakova, Markus Werkle-Bergner,
+Effects of age differences in memory formation on neural mechanisms of consolidation and retrieval,
+Seminars in Cell & Developmental Biology,
+Volume 116,
+2021,
+Pages 135-145,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2021.02.005.
+(https://www.sciencedirect.com/science/article/pii/S108495212100029X)
+Abstract: Episodic memory decline is a hallmark of cognitive aging and a multifaceted phenomenon. We review studies that target age differences across different memory processing stages, i.e., from encoding to retrieval. The available evidence suggests that age differences during memory formation may affect the quality of memory representations in an age-graded manner with downstream consequences for later processing stages. We argue that low memory quality in combination with age-related neural decline of key regions of the episodic memory network puts older adults in a double jeopardy situation that finally results in broader memory impairments in older compared to younger adults.
+Keywords: Episodic memory; Aging; Dedifferentation; Monitoring; Structural changes
+
+Angela Ugwu, Nneka Iloanusi, Ngozi Ugwu, Barth Chukwu, Osita Ezenwosu, Emmanuel Modebe, Augustine Duru, Anazoeze Madu, Ezinne Chibueze, Michael Igboke, Obiora Ejiofor, Chilota Efobi, Emmanuel Uchendu, Iheanyi Okpala,
+Pilot assessment of omega-3 fatty acids and potassium thiocyanate in sickle cell anemia patients with conditional peak systolic cerebral artery blood velocity,
+Blood Cells, Molecules, and Diseases,
+Volume 89,
+2021,
+102564,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102564.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000309)
+Abstract: Objective
+The purpose of this pilot study was to explore the effect of omega-3 fatty acids and potassium thiocyanate on conditional peak systolic cerebral artery blood velocity in children with sickle cell anemia (SCA).
+Methods
+Transcranial doppler ultrasonography (TCD) was done on 232 SCA children, and 21 found with conditional peak systolic blood velocity (PSV) of 200–249 cm/s in internal carotid, middle or anterior cerebral arteries. These were randomized to receive omega-3 fatty acids and potassium thiocyanate with standard treatment of SCA (test group, N = 14), or standard treatment only (control group, N = 7). After 3 months of treatment, PSV was measured again.
+Results
+Right middle cerebral artery PSV was significantly reduced in the test relative to the control groups (p = 0.04). PSV returned to normal in 79% of the test versus 43% of the control group; and increased to abnormal in one member of the control group, but none of the test group.
+Conclusions
+The pilot data suggest that in SCA, omega-3 fatty acids and potassium thiocyanate might reduce conditional blood velocity to normal, or prevent progression to abnormal values. A larger, randomized, clinical trial is required to further address the current gap in management of conditional TCD blood velocity.
+Keywords: Anemia sickle; Conditional velocity; Omega-3; Thiocyanate
+
+Arunima Kapoor, Daniel A. Nation,
+Role of Notch signaling in neurovascular aging and Alzheimer’s disease,
+Seminars in Cell & Developmental Biology,
+Volume 116,
+2021,
+Pages 90-97,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2020.12.011.
+(https://www.sciencedirect.com/science/article/pii/S1084952120302056)
+Abstract: The Notch signaling pathway is an evolutionarily conserved cell signaling system known to be involved in vascular development and function. Recent evidence suggests that dysfunctional Notch signaling could play a critical role in the pathophysiology of neurodegenerative diseases. We reviewed current literature on the role of Notch signaling pathway, and specifically Notch receptor genes and proteins, in aging, cerebrovascular disease and Alzheimer’s disease. We hypothesize that Notch signaling may represent a key point of overlap between age-related vascular and Alzheimer’s pathophysiology contributing to their comorbidity and combined influence on cognitive decline and dementia. Numerous findings from studies of genetics, neuropathology and cell culture models all suggest a link between altered Notch signaling and Alzheimer’s pathophysiology. Age-related changes in Notch signaling may also trigger neurovascular dysfunction, contributing to the development of neurodegenerative diseases; however, additional studies are warranted. Future research directly exploring the influence of aberrant Notch signaling in the development of Alzheimer’s disease is needed to better understand this mechanism.
+Keywords: Notch signaling; Vascular aging; Alzheimer’s disease
+
+Sami Khan, Jonathan Hwang, Yang-Shao Horn, Kripa K. Varanasi,
+Catalyst-proximal plastrons enhance activity and selectivity of carbon dioxide electroreduction,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100318,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100318.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303489)
+Abstract: Summary
+Electrochemical reduction of carbon dioxide (CO2RR) is an attractive approach toward converting CO2 to solar fuels. Novel catalyst chemistries and morphologies may provide high selectivity to both one-carbon (C1) and two-carbon (C2) products over hydrogen; however, the limited aqueous solubility of CO2 restricts the CO2RR current density. Here, we demonstrate how gasphilic bubble-trap surfaces enhance mass transfer and enrich and maintain CO2 concentration during CO2RR by forming a catalyst-proximal plastron layer, consequently increasing the CO2RR activity on both smooth and nanostructured copper as compared to the conventional headspace or bubbling modes of CO2 delivery. The H2 Faradaic efficiency is suppressed from 33% to 13% on smooth copper and from 62% to 33% on nanostructured copper, accompanied by enhanced formation of C2+ products, including ethylene, propanol, and ethanol, and >1% acetone and acetate. We highlight the importance of the catalyst-proximal plastron approach by comparing against recent aqueous-phase CO2RR studies.
+Keywords: CO2 electroreduction; gasphilic surfaces; plastron; copper; solar fuels; electrocatalysts; hydrophobicity; bubble capture
+
+Timothy M. Bahr, Diane M. Ward, Xuan Jia, Robin K. Ohls, Kendell R. German, Robert D. Christensen,
+Is the erythropoietin-erythroferrone-hepcidin axis intact in human neonates?,
+Blood Cells, Molecules, and Diseases,
+Volume 88,
+2021,
+102536,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102536.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000024)
+Abstract: In a two-part process, we assessed elements of the principal hormonal pathway regulating iron homeostasis in human neonates. Part 1: Quantifying erythropoietin (Epo), erythroferrone (ERFE), hepcidin, and relevant serum and erythrocytic iron-related metrics in umbilical cord blood from term (n = 13) and preterm (n = 10) neonates, and from neonates born to mothers with diabetes and obesity (n = 13); Part 2: Quantifying serum Epo, ERFE, and hepcidin before and following darbepoetin administration. Part 1: We measured Epo, ERFE and hepcidin in all cord blood samples. Epo and ERFE levels did not differ between the three groups. Preterm neonates had the lowest hepcidin levels, while neonates born to diabetic women with a very high BMI had the lowest ferritin and RET-He levels. Part 2: Following darbepoetin dosing, ERFE levels generally increased (p < 0.05) and hepcidin levels generally fell (p < 0.05). Our observations suggest that the Epo/ERFE/hepcidin axis is intact in the newborn period.
+Keywords: Iron; Supplementation; RET-He; Erythropoietin; Erythroferrone; Hepcidin
+
+Nurit Rosenberg, Rima Dardik, Hagit Hauschner, Sigal Nakav, Ortal Barel, Jacob Luboshitz, Joanne Yacobovich, Hannah Tamary, Gili Kenet,
+Mutations in RASGRP2 gene identified in patients misdiagnosed as Glanzmann thrombasthenia patients,
+Blood Cells, Molecules, and Diseases,
+Volume 89,
+2021,
+102560,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102560.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000267)
+Abstract: Introduction
+Glanzmann thrombasthenia (GT) is a severe inherited platelet function disorder (IPFD), presenting with bleeding diathesis and impaired platelet aggregation, is caused by mutations in the genes ITGA2B or ITGB3.
+Aim
+We aimed to study the genetic cause of IPFD mimicking GT.
+Methods
+During 2017–2019, 16 patients were referred to our tertiary center with bleeding symptoms, impaired platelet aggregation and normal platelet count and size.
+Results
+Using flow cytometry, 13/16 patients were diagnosed with GT, yet three patients displayed normal surface expression of the integrins αIIbβ3 and αvβ3, as well as normal integrin αIIbβ3 activation following incubation with the activating monoclonal antibody anti-LIBS6, while platelet activation following ADP or epinephrine was impaired. Whole exome sequencing detected 2 variants in RASGRP2 gene in all 3 patients.
+Discussion
+Both RASGRP2 mutations predicted frameshift, premature stop codon (p. I427Mfs*92 and p. R494Afs*54, respectively) and truncated calcium-sensing guanine nucleotide exchange factor [CalDAG-GEFI]- the major signaling molecule that regulates integrin-mediated aggregation and granule secretion, causing IPFD-18.
+Conclusion
+Patients who suffer from bleeding diathesis without immune dysregulation, may be mistakenly diagnosed as GT. Further studies are required to confirm the diagnosis of specific IPFD.
+Keywords: RASGRP2; Glanzmann thrombasthenia; Bleeding; Platelet; Mutation; IPFD-18
+
+Henshaw Uchechi Okoroiwu, Ifeyinwa Maryann Okafor, Enosakhare Aiyudubie Asemota, Christopher Ogar Ogar, Ikenna Kingsley Uchendu,
+Coping with COVID-19 pandemic in blood transfusion services in West Africa: the need to restrategize,
+Hematology, Transfusion and Cell Therapy,
+Volume 43, Issue 2,
+2021,
+Pages 119-125,
+ISSN 2531-1379,
+https://doi.org/10.1016/j.htct.2021.01.005.
+(https://www.sciencedirect.com/science/article/pii/S2531137921000274)
+Abstract: Introduction
+The West African region has been lagging in terms of the availability of, and accessibility to, safe blood. According to the 2016 World Health Organization (WHO) Global Status Report on Blood Safety and Availability, none of the West African countries met the WHO benchmark of 10 blood units per 1000 inhabitants. This study is aimed at discussing the blood transfusion status of West African countries in the pre-COVID-19 period and analyze the capacity to respond to the COVID-19 blood crisis, as well as to outline the panacea.
+Methods
+Secondary data were extracted from published reports, journal articles and web pages, reviewed and analyzed.
+Result
+All the West African countries have recorded confirmed COVID-19 cases and deaths. The confirmed cases have reached 55,697, with 1069 deaths and a fatality rate of 1.9%, as of June 17, 2020. The assessed countries lagged in most of the WHO benchmarks for effective blood transfusion services.
+Conclusion
+Blood transfusion services in the West African region lacked the basic benchmark practice and policy, are not coordinated and may find it hard to tackle the blood transfusion crisis created by the COVID-19 pandemic.
+Keywords: COVID-19; Coronavirus; SARS-CoV-2; Blood transfusion; West Africa
+
+Sandeep Budhiraja, Arun Dewan, Ritesh Aggarwal, Omender Singh, Deven Juneja, Sangeeta Pathak, Y.P. Singh, Ajay Gupta, Reeta Rai, Abhaya Indrayan, Vinitaa Jha, Rahul Naithani,
+Effectiveness of convalescent plasma in Indian patients with COVID-19,
+Blood Cells, Molecules, and Diseases,
+Volume 88,
+2021,
+102548,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102548.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000140)
+Abstract: Background
+Convalescent plasma (CP) is being used as a treatment option in hospitalized patients with COVID-19. Till date, there is conflicting evidence on efficacy of CP in reducing COVID-19 related mortality.
+Objective
+To evaluate the effect of CP on 28-day mortality reduction in patients with COVID-19.
+Methods
+We did a multi-centre, retrospective case control observational study from 1st May 2020 to 31st August 2020. A total of 1079 adult patients with moderate and severe COVID-19 requiring oxygen, were reviewed. Of these, 694 patients were admitted to ICU. Out of these, 333 were given CP along with best supportive care and remaining 361 received best supportive care only.
+Results
+In the overall group of 1079 patients, mortality in plasma vs no plasma group was statistically not significant (22.4% vs 18.5%; p = 0.125; OR = 1.27, 95% CI: 0.94‐–1.72). However, in patients with COVID-19 admitted to ICU, mortality was significantly lower in plasma group (25.5% vs 33.2%; p = 0.026; OR = 0.69, 95%CI: 0.50–0.96). This benefit of reduced mortality was most seen in age group 60 to 74 years (26.7% vs 43.0%; p = 0.004; OR = 0.48, 95% CI: 0.29–0.80), driven mostly by females of this age group (23.1% vs 53.5%; p = 0.013; OR = 0.26, 95% CI: 0.09–0.78). Significant difference in mortality was observed in patients with one comorbidity (22.3% vs 36.5%; p = 0.004; OR = 0.50, 95% CI: 0.31–0.80). Moreover, patients on ventilator had significantly lower mortality in the plasma arm (37.2% vs 49.3%; p = 0.009; OR = 0.61, 95% CI: 0.42–0.89); particularly so for patients on invasive mechanical ventilation (63.9% vs 82.9%; p = 0.014; OR = 0.37, 95% CI: 0.16–0.83).
+Conclusion
+The use of CP was associated with reduced mortality in COVID-19 elderly patients admitted in ICU, above 60 years of age, particularly females, those with comorbidities and especially those who required some form of ventilation.
+Keywords: Convalescent plasma therapy; COVID-19; ICU cases; Mortality; Subgroup analysis
+
+Marlène Le Tertre, Chandran Ka, Loann Raud, Isabelle Berlivet, Isabelle Gourlaouen, Gaëlle Richard, Kévin Uguen, Jian-Min Chen, Claude Férec, Yann Fichou, Gérald Le Gac,
+Splicing analysis of SLC40A1 missense variations and contribution to hemochromatosis type 4 phenotypes,
+Blood Cells, Molecules, and Diseases,
+Volume 87,
+2021,
+102527,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2020.102527.
+(https://www.sciencedirect.com/science/article/pii/S1079979620305647)
+Abstract: Hemochromatosis type 4, or ferroportin disease, is considered as the second leading cause of primary iron overload after HFE-related hemochromatosis. The disease, which is predominantly associated with missense variations in the SLC40A1 gene, is characterized by wide clinical heterogeneity. We tested the possibility that some of the reported missense mutations, despite their positions within exons, cause splicing defects. Fifty-eight genetic variants were selected from the literature based on two criteria: a precise description of the nucleotide change and individual evidence of iron overload. The selected variants were investigated by different in silico prediction tools and prioritized for midigene splicing assays. Of the 15 variations tested in vitro, only two were associated with splicing changes. We confirm that the c.1402G>A transition (p.Gly468Ser) disrupts the exon 7 donor site, leading to the use of an exonic cryptic splicing site and the generation of a truncated reading frame. We observed, for the first time, that the p.Gly468Ser substitution has no effect on the ferroportin iron export function. We demonstrate alternative splicing of exon 5 in different cell lines and show that the c.430A>G (p.Asn144Asp) variant promotes exon 5 inclusion. This could be part of a gain-of-function mechanism. We conclude that splicing mutations rarely contribute to hemochromatosis type 4 phenotypes. An in-depth investigation of exon 5 auxiliary splicing sequences may help to elucidate the mechanism by which splicing regulatory proteins regulate the production of the full length SLC40A1 transcript and to clarify its physiological importance.
+Keywords: Hemochromatosis type 4; Ferroportin disease; Missense variations; Pre-mRNA splicing; Phenotypic heterogeneity
+
+Johannes Mehringer, Tuan-Minh Do, Didier Touraud, Max Hohenschutz, Ali Khoshsima, Dominik Horinek, Werner Kunz,
+Hofmeister versus Neuberg: is ATP really a biological hydrotrope?,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100343,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100343.
+(https://www.sciencedirect.com/science/article/pii/S266638642100028X)
+Abstract: Summary
+Recently, an interesting effect of ATP on proteins has been reported: ATP can hinder the thermal aggregation of proteins, and it can prevent fibrillation of intrinsically disorder proteins. Consequently, ATP was considered to act “as a biological hydrotrope.” In this paper, we demonstrate that the interactions leading to the two aforementioned phenomena are quite different from the traditionally referred hydrotropy. In the case of the increase of aggregation prevention, we show that the relevant effect is a specific ion effect of a strongly hydrated and highly charged anion in the Hofmeister series. In the case of fibrillation suppression, the most important mechanism is the interaction of adenosine with the delocalized π-systems of amino acid residues in the protein. In regard to classical solubilization power of ATP for organic molecules, we find that ATP does not act as a classical hydrotrope, because it strongly decreases the solubility of hydrophobes.
+Keywords: hydrotrope; ATP; Hofmeister; fibrillation; Alzheimer’s disease; aggregation; MD simulation; kosmotrope; specific ion effects; stacking
+
+Abhaykumar Malind Gupta, Shashank Ojha, P. Nagaraju, Minal Poojary, Sumathi SH, Vimal Sathyan, Aamir Ansari,
+Impact of the novel coronavirus disease and lockdown on the packed red blood cells inventory management: An experience from a tertiary care oncology center in Western India,
+Hematology, Transfusion and Cell Therapy,
+Volume 43, Issue 2,
+2021,
+Pages 126-132,
+ISSN 2531-1379,
+https://doi.org/10.1016/j.htct.2020.11.008.
+(https://www.sciencedirect.com/science/article/pii/S253113792100002X)
+Abstract: Introduction
+The novel coronavirus disease has disrupted blood transfusion services worldwide. Despite blood transfusion services taking several precautionary measures to minimize the risks of COVID-19 during blood donations, donors became anxious regarding the risk of the COVID-19 infection during the donation and the blood transfusion services was facing the inevitable hazard of blood shortage.
+Methods
+The study was conducted at a tertiary care oncology hospital-based blood transfusion services and included analysis of blood donations, packed red blood cell units requirements, and packed red blood cell inventory in the pre lockdown and lockdown phase. New COVID-19 standard operating procedures with enhanced safety guidelines and donor confidence-building measures were implemented at the blood transfusion services.
+Results
+The total number of average monthly blood donations decreased in lockdown but the decrease was not statistically significant (238.5 vs. 197.8, P = 0.391). The requisitions for the packed red blood cell cross-matches (722.5 vs. 329.0, P = 0.001) and the packed red blood cell utilization (176.5 vs. 103.3, P = 0.028) for the hospital patients also decreased significantly due to the lockdown. In the lockdown phase, an expressive number of packed red blood cell units were outdated due to the unprecedented fall in the number of patients. In the post-lockdown phase, the packed red blood cell inventory was optimized with decreased outdating via a comprehensive approach. A special emphasis was given to the in-house donations. A second partial lockdown also decreased the blood donations.
+Conclusion
+Confidence-building in blood donors and the resolution of logistical issues were crucial for the efficient packed red blood cell inventory management in the lockdown. Implementation of COVID-19 preventive measures helped in the blood donor and blood transfusion services staff safety.
+Keywords: Blood donation; Blood inventory management; Blood transfusion services; COVID-19; Pandemic; Packed red blood cell
+
+Sina Witzel, Marvin Hoffmann, Matthias Rudolph, Marion Kerscher, Peter Comba, Andreas Dreuw, A. Stephen K. Hashmi,
+Excitation of aryl cations as the key to catalyst-free radical arylations,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100325,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100325.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000059)
+Abstract: Summary
+While Sandmeyer-type brominations/iodinations and Meerwein-type arylations are useful methodologies, they are not without their drawbacks. Here, we report an alternative catalyst- and additive-free access to Sandmeyer-type brominations/iodinations and to a diverse set of Meerwein-type arylations. The key for the highly selective transformations is the excitation of slowly and thermally formed aryldiazonium-derived aryl cations by blue LEDs, conditions that differ from the known photodissociation pathway. An excited singlet state (diradical character) of the cation is shown to be the key intermediate, which interacts with the solvent MeOH to eventually form the sp2-centered chain-initiating radical. Our results demonstrate a facile, mild, atom-economic, sustainable, and economically attractive route for a broad spectrum of aryl radical arylations, with methanol as the solvent and blue LED irradiation being the only restrictions. In addition, this methodology can be directly pursued from the abundant feedstock, the anilines.
+Keywords: catalyst-free; additive-free; Meerwein arylation; Sandmeyer-type reaction; photochemistry; excitation of aryl cations
+
+Samuel M. Dull, Shicheng Xu, Timothy Goh, Dong Un Lee, Drew Higgins, Marat Orazov, David M. Koshy, Per Erik Vullum, Sebastian Kirsch, Gerold Huebner, Jan Torgersen, Thomas F. Jaramillo, Fritz B. Prinz,
+Bottom-Up Fabrication of Oxygen Reduction Electrodes with Atomic Layer Deposition for High-Power-Density PEMFCs,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100297,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100297.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303234)
+Abstract: Summary
+As the platinum (Pt) loading in proton exchange membrane fuel cell cathodes is driven down to reduce costs, catalyst utilization becomes increasingly important. Here, we report an atomic layer deposition-facilitated electrode fabrication technique designed to improve the catalyst-ionomer interface. The ionomer solvent environment and carbon support nanoporosity are studied independently, and it is found that the combination of an agglomerated ionomer dispersion and a mesoporous support gives access to a high catalytic activity (mass activity [MA] = 0.31 A/mgPt with pure Pt) that can be maintained at high current densities. We hypothesize that the formulation results in Pt sufficiently withdrawn from the ionomer such that poisoning and transport losses are reduced. When paired with a low-resistance dispersion-cast membrane, a 0.1-mgPt/cm2 cathode can deliver a 0.65-V power density of 1.0 W/cm2 at 150 kPa and 80°C. The assembly also demonstrates impressive durability, losing only 33 mV after 30,000 cycles.
+Keywords: oxygen reduction; atomic layer deposition; membrane electrode assembly; ionomer-catalyst interaction; proton-exchange-membrane fuel cells
+
+Guangfa Wang, Zhenzhen Cai, Xincun Dou,
+Colorimetric logic design for rapid and precise discrimination of nitrate-based improvised explosives,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100317,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100317.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303477)
+Abstract: Summary
+Rapid and precise sensory arrays could help mitigate against terrorist attacks with improvised explosives. However, the complexity of data processing methods is one of the greatest barriers to the future development of sensory arrays. Here, we present a colorimetric logic design that makes full use of a YES/NO logic gate for rapid discrimination and a colorimetric decoder for further precise judgment. The identification ability of this logic design for the most popular improvised explosives (i.e., nitrate-based improvised explosives), including black powder (BP), ammonium nitrate (AN), urea nitrate (UN), and their related constituents, is verified by integrating different colorimetric hydrogel units into a sensory array. Although the resulting outcome validates this methodology effectively, it remains at proof-of-concept. That said, we believe that its application could also be extended to other fields, such as drug detection, environmental pollution, and diagnostic devices.
+Keywords: logic gate; colorimetric array; improvised explosive; mixture identification; trace detection; chemical sensing; semiquantitative analysis; nitrate; hydrogel; microfluidic
+
+Ning Wang, Xinglong Dong, Lingmei Liu, Dali Cai, Qingpeng Cheng, Jianjian Wang, Yilin Hou, Abdul-Hamid Emwas, Jorge Gascon, Yu Han,
+Probing the Catalytic Active Sites of Mo/HZSM-5 and Their Deactivation during Methane Dehydroaromatization,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100309,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100309.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303350)
+Abstract: Summary
+Molybdenum supported on zeolite HZSM-5 is the most studied catalyst for methane dehydroaromatization. However, the nature of its catalytic sites and their deactivation mechanisms remain unclear and controversial. Here, we report further insights into this system: first, the crystal size of HZSM-5 determines the form and location of the catalytic active MoCx species, and thus the catalyst performance; second, MoCx sites are preferentially deactivated over acid sites, when supported on nano-sized HZSM-5; third, MoCx particles that are traditionally considered detrimental to the reaction can serve as active sites, if they are properly protected from coke deposition. These findings lead us to develop an “encapsulation” strategy, which reconciles the deactivation rates of the MoCx and acid sites, enabling a full utilization of both sites, and consequently leading to a 10-fold increase in catalyst lifetime. Encapsulation also allows us to design experiments to confirm the catalytic role of the acid sites.
+Keywords: methane dehydroaromatization; Mo/HZSM-5; deactivation mechanisms; electron microscopy; “encapsulation” strategy
+
+José Carlos Jaime-Pérez, Marcela Hernández-Coronado, Lorena Salazar-Cavazos, Luis Javier Marfil-Rivera, David Gómez-Almaguer,
+A high transfusion burden following an ambulatory-allogeneic hematopoietic cell transplantation using reduced-intensity conditioning is associated with adverse outcomes,
+Blood Cells, Molecules, and Diseases,
+Volume 88,
+2021,
+102537,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102537.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000036)
+Abstract: Objectives
+Ambulatory allogeneic hematopoietic cell transplantation (allo-HCT) after reduced-intensity conditioning (RIC) is a cost-effective option for hematology patients. Data on the impact of transfusion burden in this setting are scarce; we analyzed this retrospectively.
+Methods
+A study of 177 HLA-identical and haploidentical allo-HCT recipients on an outpatient basis was conducted between 2013 and 2019. Packed red blood cell (PRBC) and platelet transfusions were documented from days 0–100 after HCT.
+Results
+A total of 121 patients (68.4%) required transfusion while 56 (31.6%) did not. In the multivariate analysis, a lower disease-free (DFS) and overall survival (OS) were documented for patients that received ≥9 total blood products (p = 0.018) (p = 0.014), those who required hospitalization (p = 0.001) (p < 0.001), had acute graft-versus-host disease (p = 0.016) (p = 0.004), and a high/very high Disease-Risk-Index (p = 0.002; p = 0.004), respectively. Transfusion of ≥5 PRBC units was associated with a lower OS (p = 0.027). The cumulative incidence of transplant-related mortality at two years for an HLA-identical transplant was 9.5% and for haploidentical, it was 27.1% (p = 0.027); this last group had significantly more transfusion demands than HLA-identical recipients (p = 0.029).
+Conclusion
+Increased blood product utilization is an independent predictor of decreased survival in ambulatory RIC allo-HCT recipients. Further evidence leading to individualized guidelines to transfuse in this complex scenario is needed.
+Keywords: Hematopoietic cell transplantation; Outpatient HCT; Haploidentical transplant; Allogeneic transplant; Reduced-intensity conditioning; Transfusion
+
+Chaoqiang Liao, Kaiwen Zeng, Hanlun Wu, Qingliang Zeng, Hao Tang, Lingyun Wang, Herbert Meier, Yongshu Xie, Derong Cao,
+Conjugating pillararene dye in dye-sensitized solar cells,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100326,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100326.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000060)
+Abstract: Summary
+The improvement of open-circuit voltage (VOC) is a crucial goal to develop efficient dye-sensitized solar cells (DSSCs). Here, conjugating pillar[5]arene dyes (PPI and PPII) are designed, synthesized, and applied in DSSCs. The presence of pillar[5]arene moiety in the dyes inhibits the dye aggregation and charge recombination in the DSSCs, leading to the enhancement of VOC. PPI with a single D-π-A backbone and a pillar[5]arene moiety achieves a VOC of 715 mV, which is much higher than the reference dye (VOC of 674 mV) with the same D-π-A backbone but no pillar[5]arene moiety. PPII with 2 D-π-A backbones also achieves a VOC of 746 mV and a much higher short-circuit photocurrent (JSC) than the reference dyes. In addition, the host-guest interaction can adjust the VOC and JSC by coupling dye with the imidazolium in electrolyte, as confirmed by the electrolyte engineering.
+Keywords: dye-sensitized solar cells; pillar[5]arene; phenothiazine; voltage; intermolecular aggregation; charge recombination; host-guest coupling
+
+Dechan Angmo, Giovanni DeLuca, Andrew D. Scully, Anthony S.R. Chesman, Aaron Seeber, Chuantian Zuo, Doojin Vak, Udo Bach, Mei Gao,
+A Lab-to-Fab Study toward Roll-to-Roll Fabrication of Reproducible Perovskite Solar Cells under Ambient Room Conditions,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100293,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100293.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303192)
+Abstract: Summary
+The low power-conversion efficiency (PCE) and reproducibility reported to date for roll-to-roll (R2R)-fabricated perovskite solar cells (PSCs) results from difficulty in controlling perovskite film quality. Here, we present a systematic comparison of the hot-deposition method, which induces crystal-growth-driven (CGD) film formation, and the anti-solvent method, which induces nucleation-driven (ND) film formation, for one-step perovskite film formation. Perovskite films produced by the two methods show markedly different micro-structural and optoelectronic properties; however, PCEs of CGD-type PSCs are only marginally lower than those of ND-type PSCs. Importantly, the average performance of PSCs incorporating a CGD-type perovskite layer is independent of humidity during fabrication and displays improved stability and reproducibility, prompting further investigation of upscaling potential. R2R-produced PSCs on plastic substrate with four slot-die-coated functional layers show superior reproducibility and micro-structural, optoelectronic, and photovoltaic properties comparable with those of glass-based PSCs, indicating excellent promise for translation to a manufacturing process.
+Keywords: roll to roll; slot die; hot deposition; anti-solvent; perovskite solar cells; flexible; ambient; crystallization; stability; reproducibility
+
+Hassan Awada, Arda Durmaz, Carmelo Gurnari, Ashwin Kishtagari, Misam Zawit, Simona Pagliuca, Valeria Visconte,
+Friend or foe? The case of Wilms' Tumor 1 (WT1) mutations in acute myeloid leukemia,
+Blood Cells, Molecules, and Diseases,
+Volume 88,
+2021,
+102549,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102549.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000152)
+Abstract: Wilms tumor 1 (WT1) gene is commonly mutated in acute myeloid leukemia (AML), particularly in younger age population. The mechanism through which WT1 mutations drive leukemogenesis have not been fully elucidated; however, recent studies reported an association with the epigenetic pathway. Here, we studied the phenotypic characteristics and somatic mutational profile of 114 WT1-mutant AML patients and focused on potential WT1 gene relations to other cooperative genomic events that may impact disease prognosis. Invariant phenotypic and genomic associations of WT1 mutations in AML were uncovered and rigorously described. Our findings help improving the current understanding and definition of WT1-mutant AML patients' characteristics and clinical outcomes.
+Keywords: WT1 mutations; Acute myeloid leukemia; Clinical associations
+
+Magnus S. Ågren, Lana Chafranska, Jens Ole Eriksen, Julie Lyng Forman, Morten J. Bjerrum, Peter Schjerling, Heidi F. Larsen, Elena Cottarelli, Lars N. Jorgensen, Lise Mette Rahbek Gjerdrum,
+Spatial expression of metallothionein, matrix metalloproteinase-1 and Ki-67 in human epidermal wounds treated with zinc and determined by quantitative immunohistochemistry: A randomised double-blind trial,
+European Journal of Cell Biology,
+Volume 100, Issue 3,
+2021,
+151147,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2020.151147.
+(https://www.sciencedirect.com/science/article/pii/S0171933520300868)
+Abstract: Reepithelialisation is fundamental to wound healing, but our current understanding largely relies on cellular and animal studies. The aim of the present randomised double-blind three-arm controlled trial was to correlate genuine epidermal wound healing with key proteins and topical zinc treatment in humans. Sixty wounds were produced using deroofed suction blisters in 30 healthy volunteers and randomised to topical zinc sulphate (n = 20), placebo (n = 20), or control (n = 20) treatment for 4 days. All wounds with perilesional skin were processed for automatic immunostaining of paraffin tissue sections with monoclonal antibodies against Ki-67, metallothionein (MT) and matrix metalloproteinase (MMP)-1. Protein expression was quantified by automated digital image analysis. Epidermal Ki-67 and MT labelling indices were increased in keratinocytes in the neoepidermis (∼1.1 mm) and at the wound edge (0.5 mm) compared to normal skin. Increased MMP-1 immunostaining was restricted to the neoepidermis. MT was robustly upregulated in the upper dermis of the wounds. Zinc treatment enhanced MMP-1 expression beneath the neoepidermis via paracrine mechanisms and MT under the neoepidermis and in the nonepithelialised wound bed via direct actions of zinc as indicated by the induction of MT2A mRNA but not MMP-1 mRNA in cultured normal human dermal fibroblasts by zinc sulphate. The present human study demonstrates that quantitative immunohistochemistry can identify proteins involved in reepithelialisation and actions of external compounds. Increased dermal MT expression may contribute to the anti-inflammatory activities of zinc and increased MMP-1 levels to promote keratinocyte migration.
+Keywords: Extracellular matrix; Keratinocyte biology; Wound healing; Metalloproteinases
+
+Lin Qiao, Qing Dai, Huamin Zhang, Xianfeng Li,
+Macro-scale Turing-shape membranes for energy storage,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100361,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100361.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000461)
+Abstract: Summary
+Turing patterns and reaction-diffusion models are of great significance in biological and chemical fields. However, Turing-shape materials together with their application are rarely investigated, since at present Turing patterns are typically formed by the reaction of small molecules in a viscous system. Herein, a facile route to fabricate membrane materials with macro-scale Turing patterns is proposed. Macromolecules, rather than small molecules, are chosen as reactants to generate chemical Turing patterns, which makes it easy to freeze and construct Turing-shape materials. The formation mechanism and influence factors of Turing patterns are discussed in detail via experimental investigation and numerical simulation. Turing-shape membranes are successfully applied to electrochemical energy storage and exhibit good performance benefiting from the rich surface area.
+Keywords: energy storage; Turing patterns; membranes; reaction-diffusion model; macromolecules
+
+Shaojun Xu, Xue Han, Yujie Ma, Thien D. Duong, Longfei Lin, Emma K. Gibson, Alena Sheveleva, Sarayute Chansai, Alex Walton, Duc-The Ngo, Mark D. Frogley, Chiu C. Tang, Floriana Tuna, Eric J.L. McInnes, C. Richard A. Catlow, Christopher Hardacre, Sihai Yang, Martin Schröder,
+Catalytic decomposition of NO2 over a copper-decorated metal–organic framework by non-thermal plasma,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100349,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100349.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000345)
+Abstract: Summary
+Efficient catalytic conversion of NO2 to non-harmful species remains an important target for research. State-of-the-art deNOx processes are based upon ammonia (NH3)-assisted selective catalytic reduction (NH3-SCR) over Cu-exchanged zeolites at elevated temperatures. Here, we describe a highly efficient non-thermal plasma (NTP) deNOx process catalyzed by a Cu-embedded metal-organic framework, Cu/MFM-300(Al), at room temperature. Under NTP activation at 25°C, Cu/MFM-300(Al) enables direct decomposition of NO2 into N2, NO, N2O, and O2 without the use of NH3 or other reducing agents. NO2 conversion of 96% with a N2 selectivity of 82% at a turnover frequency of 2.9 h−1 is achieved, comparable to leading NH3-SCR catalysts that use NH3 operating at 250°C–550°C. The mechanism for the rate-determining step (NO→N2) is elucidated by in operando diffuse reflectance infrared Fourier transform spectroscopy, and electron paramagnetic resonance spectroscopy confirms the formation of Cu2+⋯NO nitrosylic adducts on Cu/MFM-300(Al), which facilitates NO dissociation and results in the notable N2 selectivity.
+Keywords: low-temperature NOx reduction; NO2; non-thermal plasma; metal-organic framework; MFM-300(Al); DRIFTs; XAFS; EPR; catalysis; copper
+
+Jincheng Shi, Xiao Luo, Zhejun Liu, Junjie Fan, Zhouyang Luo, Changying Zhao, Xiaokun Gu, Hua Bao,
+Efficient and antifouling interfacial solar desalination guided by a transient salt capacitance model,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100330,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100330.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000102)
+Abstract: Summary
+Interfacial solar desalination has been considered as a promising strategy to address the challenge of freshwater scarcity because of its high solar-to-vapor efficiency. However, the high evaporation rate would be restrained if salt crystallization occurs on the evaporation interface. Herein, we propose a capacitance model to describe transient heat transfer and salt rejecting processes during interfacial evaporation. This model allows us to identify the water layer thickness as a new design parameter. With the new understanding, the downward water channel ratio can be minimized to reduce heat loss without salt fouling. Experimental demonstrations show the high efficiency and long-term stability of our design using extremely low-cost and easily accessible materials. The maximum daily freshwater yield is as high as 6.0 kg/m2 under natural sunlight. Our findings not only address the challenge of salt fouling but also provide insights into transient processes during interfacial evaporation.
+Keywords: interfacial solar desalination; salt rejection; antifouling; evaporation efficiency; freshwater productivity; low cost
+
+Akiko Nishiyama, Takahiro Shimizu, Amin Sherafat, William D. Richardson,
+Life-long oligodendrocyte development and plasticity,
+Seminars in Cell & Developmental Biology,
+Volume 116,
+2021,
+Pages 25-37,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2021.02.004.
+(https://www.sciencedirect.com/science/article/pii/S1084952121000288)
+Abstract: Oligodendrocyte precursor cells (OPCs) originate in localized germinal zones in the embryonic neural tube, then migrate and proliferate to populate the entire central nervous system, both white and gray matter. They divide and generate myelinating oligodendrocytes (OLs) throughout postnatal and adult life. OPCs express NG2 and platelet-derived growth factor receptor alpha subunit (PDGFRα), two functionally important cell surface proteins, which are also widely used as markers for OPCs. The proliferation of OPCs, their terminal differentiation into OLs, survival of new OLs, and myelin synthesis are orchestrated by signals in the local microenvironment. We discuss advances in our mechanistic understanding of paracrine effects, including those mediated through PDGFRα and neuronal activity-dependent signals such as those mediated through AMPA receptors in OL survival and myelination. Finally, we review recent studies supporting the role of new OL production and “adaptive myelination” in specific behaviours and cognitive processes contributing to learning and long-term memory formation. Our article is not intended to be comprehensive but reflects the authors’ past and present interests.
+Keywords: NG2; myelin; PDGF; AMPA receptor; Adaptive myelination; Learning and memory
+
+Adam Wegelius, Henrik Land, Gustav Berggren, Peter Lindblad,
+Semisynthetic [FeFe]-hydrogenase with stable expression and H2 production capacity in a photosynthetic microbe,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100376,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100376.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000667)
+Abstract: Summary
+Hydrogen (H2) is a promising future chemical energy carrier and feedstock with several renewable production options, including electrolyzers and biological/bioinspired systems. The top H2 producers in nature are [FeFe]-hydrogenases, high turnover metalloenzymes with a complex maturation process that can be circumvented by artificial synthetic activation. Here, we report the expression and activation of group A and D [FeFe]-hydrogenases in a photosynthetic host organism, the unicellular cyanobacterium Synechocystis PCC 6803. The hydrogenase from Solobacterium moorei (group A) facilitates high in vivo H2 production from purely photoautotrophically generated substrates and unmistakably links to the metabolism of the photosynthetic host. Cells harboring the non-native, semisynthetic enzyme retain their H2 production capacity for several days after synthetic activation. This work expands both the number and the diversity of [FeFe]-hydrogenases examined in a photosynthetic background and provides important insights for future investigations into the development and understanding of biological and biohybrid H2 production systems.
+Keywords: cyanobacteria; Synechocystis; hydrogen; biohydrogen; HydA; HydS; hydrogenase; artificial maturation; synthetic activation; synthetic biology
+
+Blake P. Finkenauer, Yao Gao, Xiaokang Wang, Yue Tian, Zitang Wei, Chenhui Zhu, David J. Rokke, Linrui Jin, Lei Meng, Yang Yang, Libai Huang, Kejie Zhao, Letian Dou,
+Mechanically robust and self-healable perovskite solar cells,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100320,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100320.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303507)
+Abstract: Summary
+Skin-like self-healing electronics have been pursued for decades with limited success. The trade off between excellent electronic properties and suitable rheological properties do not allow high-performance inorganic semiconductor materials to be self-healable. Here, we report a mechanically self-healable hybrid halide perovskite semiconductor. A molecularly tailored self-healing polymer is incorporated into a polycrystalline perovskite thin film to form a composite with a bi-continuous interpenetrating network. This composite heals using synergistic grain growth and solid diffusion processes at slightly elevated temperatures. Mechanically robust and self-healable perovskite solar cells are fabricated with power conversion efficiencies over 10% and excellent stability. The healable composite is presented in flexible devices retaining 94% of their power conversion efficiency after 3,000 bending cycles and 80% performance recovery after extreme bending. These results foreshadow the use of polymer-perovskite hybrid materials for ultra-flexible and wearable energy-harvesting devices and demonstrate the effectiveness of marrying dissimilar materials to achieve unique functionalities.
+Keywords: perovskite; self-healing; solar cells; flexible; durable; thin film; composite; polymer; stability; solution processing
+
+Xuefei Duan, Ji-Chang Ren, Xiaowei Zhang, Shuang Li, Wei Liu,
+Room-Temperature Thermoelectric Conversion by Dipole-Enhanced Rashba Spin-Orbit Coupling,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100284,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100284.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303106)
+Abstract: Summary
+The development of the Internet of Things requires devices that are light, wireless, and wearable. With no cable for power and limited space for a battery, powering these devices becomes a daunting challenge. Wearable devices that are self-powered through harvesting heat from surroundings may address this challenge; however, conventional thermoelectric materials suffer either from poor mechanical stability or low room-temperature conversion efficiency. Based on density functional theory and Boltzmann transport calculations, we propose that monolayer WSTe promises a wearable thermoelectric material that exploits the synergic effects between the Rashba-type spin-orbit coupling and out-of-plane electric dipole. The maximum calculated room-temperature ZT value reaches 0.41, which is among the best 2D wearable thermoelectrics. Moreover, monolayer WSTe should possess an in-plane stiffness of ∼100 N/m and a fracture point up to 25%. Our study may shed light on the synergistic effects of electric dipole and Rashba spin-splitting on thermoelectric conversion for wearable electronics.
+Keywords: thermoelectric; wearable devices; Janus-type transition metal chalcogenides; Rashba effect; electric dipole; electron-phonon coupling; in-plane flexibility
+
+Dongwang Yang, Hui Bai, Xianli Su, Zhi Li, Tingting Luo, Jun Li, Hao Tang, Hao Luo, Qingjie Zhang, Ctirad Uher, Jinsong Wu, Xinfeng Tang,
+Atomic mechanism of ionic confinement in the thermoelectric Cu2Se based on a low-cost electric-current method,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100345,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100345.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000308)
+Abstract: Summary
+In a fast ion-conductor Cu2Se, phase instability and the loss of Cu under operational conditions are the major impediments to its thermoelectric applications. Herein, a fast and low-cost pulse electric current method is developed to rapidly synthesize Cu2Se-based materials with high thermoelectric performance. The Cu2Se microstructures under an external current and high temperature close to the real working conditions have been investigated by both ex situ and in situ transmission electron microscopy. Due to the presence of Bi interstitials, dynamic Cu-ion fluctuation zones on the nanometer scale have been stabilized through the pinning effect of dislocations and the action of interfacial/boundary phases steric hindrance, both preventing Cu ions from escaping from the lattice. The hierarchical structure spanning from interstitial atoms to nanometer-scale precipitates, created by the pulse electric current method, forms a network of ion-blocking but electrically conducting barriers that greatly improve the stability of Cu2Se-based thermoelectric materials.
+Keywords: thermoelectric; chemical stability; Cu2Se; fast ion conductor; ionic confinement; pulse electric current; transmission electron microscopy; defect engineering; interface engineering; hierarchical structure
+
+Cheng Jiang, Yu Zhang, Mi Zhang, Na-Na Ma, Guang-Kuo Gao, Jian-Hui Wang, Meng-Meng Zhang, Yifa Chen, Shun-Li Li, Ya-Qian Lan,
+Exfoliation of covalent organic frameworks into MnO2-loaded ultrathin nanosheets as efficient cathode catalysts for Li-CO2 batteries,
+Cell Reports Physical Science,
+Volume 2, Issue 4,
+2021,
+100392,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100392.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000825)
+Abstract: Summary
+Rechargeable Li-CO2 batteries have been studied extensively as an attractive strategy for simultaneous energy storage and CO2 fixation to address the global environmental and energy crisis. However, state-of-the-art Li-CO2 systems still suffer from unsatisfactory performance. Here, we successfully exfoliated quinone-based covalent organic frameworks (COFs) into large-scale and ultrathin MnO2/2,6-diaminoanthraquinone-2,4,6-triformylphloroglucinol (DQTP)-COF-nanosheet (NS) hybrid materials. The obtained ultrathin nanosheets (as thin as 1.87 nm) synergistically integrate quinone-COF-NSs with MnO2 and serve as powerful cathode catalysts in Li-CO2 batteries. MnO2/DQTP-COF-NS-3 has a high discharge capacity of 42,802 mAh/g at 200 mA/g. Additionally, it is durable for higher-stress test with a negligible change of overpotential from 500 to 1,000 mA/g and is discharged/charged rapidly for 120 cycles at 1 A/g. Moreover, the CO2 activation mechanism is discussed and supported by density functional theory (DFT) calculations. This work may pave a new way for exploring porous crystalline materials as efficient cathode catalysts for Li-CO2 batteries.
+Keywords: covalent organic frameworks; nanosheets; MnO2; cathode catalyst; Li-CO2 battery
+
+Long Chen, Akram N. Alshawabkeh, Shayan Hojabri, Meng Sun, Guiyin Xu, Ju Li,
+A Robust Flow-Through Platform for Organic Contaminant Removal,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100296,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100296.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303222)
+Abstract: Summary
+Achieving the greatest cleanup efficiency with minimal footprint remains a paramount goal of the water treatment industry. Toxic organic compounds threaten drinking water safety and require effective pretreatment. Hydroxyl radicals produced by the Fenton process (Fe2+/H2O2) destroy organic contaminants based on their strong oxidation potential. An upgraded reaction using solid catalysts, referred to as the Fenton-like process, was recently adopted to avoid the ferric sludge generation during the conventional Fenton process. However, most heterogeneous Fenton-like catalysts operate optimally at pH 3–5 and quite weakly in near-neutral water bodies. Here, we evaluate the feasibility of an electrolytically localized acid compartment (referred to as the Ella process) produced by electrochemical water splitting under flow-through conditions to facilitate the Fenton-like process. The Ella process boosts the activity of an immobilized iron oxychloride catalyst >10-fold, decomposing organic pollutants at a high flow rate. The robust performance in complex water bodies further highlights the promise of this platform.
+Keywords: flow electrochemistry; pH regulation; Fenton-like catalysis; environmental remediation
+
+Ryan W. Tilluck, Soumen Ghosh, Matthew J. Guberman-Pfeffer, Jerome D. Roscioli, J.K. Gurchiek, Amy M. LaFountain, Harry A. Frank, José A. Gascón, Warren F. Beck,
+Interexciton nonradiative relaxation pathways in the peridinin-chlorophyll protein,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100380,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100380.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000709)
+Abstract: Summary
+Excitation energy transfer can be unusually efficient and structurally robust when mediated by molecular excitons, which arise in a photosynthetic light-harvesting protein when delocalized excitations of the electronic chromophores are created upon absorption of light. Here we report results from two-dimensional electronic spectroscopy and electronic structure calculations, revealing that excitation energy is transferred between the peridinin and chlorophyll excitons in the peridinin-chlorophyll protein from marine dinoflagellates over a delocalized, two-step pathway. Upon absorption of light by the peridinins in the strong, mid-visible absorption band, excitation energy is trapped by the chlorophylls in less than 50 fs at room temperature. The overall process is slowed only by a few fs upon replacement of chlorophyll a with chlorophyll b. The key step in the pathway transfers excitation from higher-energy peridinin excitons with more extensive delocalization to the lowest-energy peridinin exciton, which is delocalized only over peridinin 614 and the neighboring chlorophyll.
+Keywords: photosynthesis; light harvesting; energy transfer; quantum coherence; chlorophyll; carotenoids; solar energy; photocatalysis; nanomaterials; femtosecond spectroscopy
+
+Limin Zhou, Zihe Zhang, Lianmeng Cui, Fangyu Xiong, Qinyou An, Zhen Zhou, Xue-Feng Yu, Paul K. Chu, Kai Zhang,
+High-capacity and small-polarization aluminum organic batteries based on sustainable quinone-based cathodes with Al3+ insertion,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100354,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100354.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000394)
+Abstract: Summary
+Benefiting from high-volumetric-specific capacity and superior safety as well as abundant Al source, rechargeable aluminum batteries (ABs) have attracted much attention. However, the lack of cathode materials with the desirable capacity and Al3+ insertion/extraction kinetics has severely limited their practical implementation. Herein, we report organic 9,10-anthraquinone (AQ) as Al-storage cathode with favorable Al3+ uptake kinetics, which demonstrates a reversible capacity of 215.2 mAh g−1 and good cycling stability. The AQ achieves the reversible uptake/removal of Al3+ ions as manifested by a plateau voltage of 1.1 V and a voltage polarization of 0.1 V. Density functional theory (DFT) is performed to reveal the binding site of carbonyl group and the metallic state of Al-inserted configuration, which contribute to fast Al3+ diffusion kinetics and high electronic conductivity. This work provides insights and guidance on the design of organic electrodes for the Al-storage performance improvement.
+Keywords: aluminum batteries; organic materials; quinone-based electrode; small polarization; Al3+ insertion
+
+Pronamee Borah, Sumeet Mirgh, Sanjeev Kumar Sharma, Sachin Bansal, Ashish Dixit, Tuphan Kanti Dolai, Sweta Lunkad, Naveen Gupta, Gurmeet Singh, Aditi Jain, Divya Bansal, Dharma Choudhary, Vipin Khandelwal, Divya Doval, Meet Kumar, Rahul Bhargava, Amrita Chakrabarti, Mallikarjun Kalashetty, Amit Rauthan, Bilal Kazi, Prakas Kumar Mandal, Preethi Jeyaraman, Rahul Naithani,
+Effect of age, comorbidity and remission status on outcome of COVID-19 in patients with hematological malignancies,
+Blood Cells, Molecules, and Diseases,
+Volume 87,
+2021,
+102525,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2020.102525.
+(https://www.sciencedirect.com/science/article/pii/S1079979620305623)
+Abstract: Background
+There is scarcity of data on outcome of COVID-19 in patients with hematological malignancies. Primary objective of study was to analyse the 14-day and 28-day mortality. Secondary objectives were to correlate age, comorbidities and remission status with outcome.
+Methods
+Retrospective multicentre observational study conducted in 11 centres across India. Total 130 patients with hematological malignancies and COVID-19 were enrolled.
+Results
+Fever and cough were commonest presentation. Eleven percent patients were incidentally detected. Median age of our cohort was 49.5 years. Most of our patients had a lymphoid malignancy (n = 91). One-half patients (52%) had mild infection, while moderate and severe infections contributed to one-fourth each. Sixty seven patients (52%) needed oxygen For treatment of COVID-19 infection, half(n = 66) received antivirals. Median time to RT-PCR COVID-19 negativity was 17 days (7–49 days). Nearly three-fourth (n = 95) of our patients were on anticancer treatment at time of infection, of which nearly two-third (n = 59;64%) had a delay in chemotherapy. Overall, 20% (n = 26) patients succumbed. 14-day survival and 28-day survival for whole cohort was 85.4% and 80%, respectively. One patient succumbed outside the study period on day 39. Importantly, death rate at 1 month was 50% and 60% in relapse/refractory and severe disease cohorts, respectively. Elderly patients(age ≥ 60) (p = 0.009), and severe COVID-19 infection (p = 0.000) had a poor 14-day survival. The 28-day survival was significantly better for patients in remission (p = 0.04), non-severe infection (p = 0.00), and age < 60 years (p = 0.05).
+Conclusions
+Elderly patients with hematological malignancy and severe covid-19 have worst outcomes specially when disease is not in remission.
+Keywords: COVID-19; Hematology; Remission; Comorbidity; Survival
+
+Ritam Chatterjee, Biswajoy Ghosh, Mousumi Mandal, Debaleena Nawn, Satarupa Banerjee, Mousumi Pal, Ranjan Rashmi Paul, Swarnabindu Banerjee, Jyotirmoy Chatterjee,
+Pathophysiological relationship between hypoxia associated oxidative stress, Epithelial-mesenchymal transition, stemness acquisition and alteration of Shh/ Gli-1 axis during oral sub-mucous fibrosis and oral squamous cell carcinoma,
+European Journal of Cell Biology,
+Volume 100, Issue 1,
+2021,
+151146,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2020.151146.
+(https://www.sciencedirect.com/science/article/pii/S0171933520300856)
+Abstract: Oral sub-mucous fibrosis (OSF) is a pathophysiological state of oral cavity or oropharynx having a high chance of conversion to oral squamous cell carcinoma (OSCC). It involves fibrotic transformation of sub-epithelial matrix along with epithelial abnormalities. The present work aims to unveil the mechanistic domain regarding OSF to OSCC conversion exploring the scenario of hypoxia associated oxidative stress, epithelial-mesenchymal transition (EMT), metastasis and stemness acquisition. The study involves histopathological analysis of the diseased condition along with the exploration of oxidative stress status, assessment of mitochondrial condition, immunohistochemical analysis of HIF-1α, E-cadherin, vimentin, ERK, ALDH-1, CD133, Shh, Gli-1 and survivin expressions in the oral epithelial region together with the quantitative approach towards collagen deposition in the sub-epithelial matrix. Oxidative stress was found to be associated with type-II EMT in case of OSF attributing the development of sub-epithelial fibrosis and type-III EMT in case of OSCC favoring malignancy associated metastasis. Moreover, the acquisition of stemness during OSCC can also be correlated with EMT. Alteration of Shh and Gli-1 expression pattern revealed the mechanistic association of hypoxia with the phenotypic plasticity and disease manifestation in case of OSF as well as OSCC. Shh/ Gli-1 signaling can also be correlated with survivin mediated cytoprotective phenomenon under oxidative stress. Overall, the study established the correlative network of hypoxia associated oxidative stress, EMT and manifestation of oral pre-cancerous and cancerous condition in a holistic approach that may throw rays of hope in the therapeutic domain of the concerned diseases.
+Keywords: Oral sub-mucous fibrosis; Oral squamous cell carcinoma; Oxidative stress; Epithelial-mesenchymal transition; Stemness
+
+Vijayakumar Murugesan, Zimin Nie, Xin Zhang, Peiyuan Gao, Zihua Zhu, Qian Huang, Litao Yan, David Reed, Wei Wang,
+Accelerated design of vanadium redox flow battery electrolytes through tunable solvation chemistry,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100323,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100323.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000035)
+Abstract: Summary
+Operational stability of electrolytes is a persistent impediment in building redox flow battery technology. Stabilizing multiple vanadium oxidation states in aqueous solution is a primary challenge in designing reliable large-scale vanadium redox flow batteries (VRBs). Here we demonstrate that rationally selected ionic additives can stabilize the aqua vanadium solvate structures through preferential bonding and molecular interactions despite their relatively low concentrations (≤0.1 M). The competing cations (NH4+ and Mg2+) and bonding anions (SO42−, PO43−, and Cl−) introduced by bi-additives are used to tune the vanadium solvation chemistry and design an optimal electrolyte for VRB technology. Such molecular engineering of VRB electrolytes results in enhancement of the operational temperature window by 180% and energy density by more than 30% relative to traditional electrolytes. This work demonstrates that tunable solvation chemistry is a promising pathway to engineer an optimal electrolyte for targeted electrochemical systems.
+Keywords: redox flow battery; vanadium solvation; electrolyte stability; nucleation processes; additives design
+
+Natsumi Takei, Keisuke Sato, Yuki Takada, Rajan Iyyappan, Andrej Susor, Takehiro Yamamoto, Tomoya Kotani,
+Tdrd3 regulates the progression of meiosis II through translational control of Emi2 mRNA in mouse oocytes,
+Current Research in Cell Biology,
+Volume 2,
+2021,
+100009,
+ISSN 2590-2636,
+https://doi.org/10.1016/j.crcbio.2021.100009.
+(https://www.sciencedirect.com/science/article/pii/S2590263621000039)
+Abstract: After completion of meiosis I, the oocyte immediately enters meiosis II and forms a metaphase II (MII) spindle without an interphase, which is fundamental for generating a haploid gamete. Here, we identify tudor domain-containing protein 3 (Tdrd3) as a novel regulator of oocyte meiosis. Although early mitotic inhibitor 2 (Emi2) protein has been shown to ensure the meiosis I to II transition and the subsequent MII spindle formation by inhibiting the anaphase-promoting complex/cyclosome (APC/C), how it accumulates after meiosis I has remained unresolved. We isolated Tdrd3 as a protein binding specifically and directly to Emi2 mRNA. In GV-stage mouse oocytes, Emi2 mRNA assembled into RNA granules containing Tdrd3, while cyclin B1 mRNA, which was translated in early meiosis I, formed different granules. Knockdown of Tdrd3 attenuated Emi2 synthesis in meiosis II without affecting cyclin B1 synthesis in meiosis I. Moreover, Tdrd3-deficient oocytes entered interphase and failed to form an MII spindle after completion of meiosis I. These defects were rescued by GFP-Emi2 expressed after meiosis I. Taken together, our results demonstrate the importance of Tdrd3-mediated translational control of Emi2 mRNA, which promotes Emi2 synthesis in meiosis II, for the progression of meiosis.
+Keywords: Oocyte; Meiosis; Emi2; Cyclin B1; RNA granule; Translational control
+
+Eshwar Ravishankar, Melodi Charles, Yuan Xiong, Reece Henry, Jennifer Swift, Jeromy Rech, John Calero, Sam Cho, Ronald E. Booth, Taesoo Kim, Alex H. Balzer, Yunpeng Qin, Carr Hoi Yi Ho, Franky So, Natalie Stingelin, Aram Amassian, Carole Saravitz, Wei You, Harald Ade, Heike Sederoff, Brendan T. O’Connor,
+Balancing crop production and energy harvesting in organic solar-powered greenhouses,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100381,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100381.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000710)
+Abstract: Summary
+Adding semitransparent organic solar cells (ST-OSCs) to a greenhouse structure enables simultaneous plant cultivation and electricity generation, thereby reducing the greenhouse energy demand. However, there is a need to establish the impact of such systems on plant growth and indoor climate and to optimize system tradeoffs. In this work, we consider plant growth under OSCs and system-relevant design. We evaluate the growth of red leaf lettuce under ST-OSC filters and compare the impact of three different OSC active layers that have unique transmittance. We find no significant differences in the fresh weight and chlorophyll content of the lettuce grown under these OSC filters. In addition, OSCs provide an opportunity for further light and thermal management of the greenhouse through device design and optical coatings. The OSCs can thus affect plant growth, power generation, and thermal load of the greenhouse, and this design trade space is reviewed and exemplified.
+Keywords: semitransparent solar cells; organic photovoltaics; greenhouses; controlled environment agriculture; red leaf lettuce; DBR; energy balance modeling; transfer-matrix model; agrivoltaics; low emissivity
+
+Ping Duan, Kai Qu, Jin-Yun Wang, Biaofeng Zeng, Chun Tang, Hai-Feng Su, Qian-Chong Zhang, Wenjing Hong, Zhong-Ning Chen,
+Effective suppression of conductance in multichannel molecular wires,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100342,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100342.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000278)
+Abstract: Summary
+Although quantum effects have introduced fascinating properties to molecular circuits, exploring new features for molecular circuits remains a challenge. In this work, effective suppression of conductance in the parallel intramolecular circuit is identified, going beyond the well-known superposition effect. By introducing oligo(phenylene ethynylene) (OPE) as a high-conductivity channel (HCC) and [cis-Pt(PEt3)2]2+ coordinated with m-phenylethynyl as a low-conductivity channel (LCC), the single-molecule conductance measured by the scanning tunneling microscopy break junction (STM-BJ) technique demonstrates that, in the multichannel molecular wires, the conductance decreases progressively with the addition of the LCC. A theoretical investigation indicates that all channels participate in electron transport. The conductance suppression in the multichannel structures is ascribable to the higher contribution of the LCC than of the HCC to the conductive orbitals. This finding improves the understanding of electron transport theory at the molecular scale and provides a strategy to design parallel intramolecular circuits.
+Keywords: molecular electronics; parallel intramolecular circuit; single-molecule conductance; break junction; conductance suppression
+
+Keisuke Obata, Amel Mokeddem, Fatwa F. Abdi,
+Multiphase fluid dynamics simulations of product crossover in solar-driven, membrane-less water splitting,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100358,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100358.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000436)
+Abstract: Summary
+Efficient separation of product gases is essential for the safe operation of large-scale, solar-driven water-splitting devices. To date, most demonstration devices use membranes, but a membrane-less configuration that separates products via hydrodynamic control offers an attractive alternative without the complexity associated with using membranes. In the present study, multiphase fluid dynamics simulations are introduced to investigate product crossover in a membrane-less, solar-driven water-splitting device. Specific emphasis is placed on implementing a realistic tilt condition of the device and the buoyancy effects on product gas bubbles. Our simulations reveal that gas bubbles, often disregarded, can be a major source of crossover rather than dissolved gases. Controlling the bubble formation and characteristics (e.g., diameter) therefore plays an important role in achieving efficient product separation. Finally, universal design criteria to control the product crossover are further discussed based on dimensionless analysis.
+Keywords: solar water splitting; membrane-less electrolyzer; product separation; reactor design; multiphase fluid dynamics simulation; dimensionless analysis; gas crossover
+
+Harsh Agarwal, Jacob Florian, Bryan R. Goldsmith, Nirala Singh,
+The Effect of Anion Bridging on Heterogeneous Charge Transfer for V2+/V3+,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100307,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100307.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303337)
+Abstract: Summary
+Vanadium redox flow batteries suffer from inefficiencies partly due to the kinetics of the V2+/V3+ reaction, for which lack of mechanistic understanding hinders electrolyte and electrocatalyst design to improve reaction rates. Here, we provide insights into the V2+/V3+ reaction in HClO4, H2SO4, HCl, HBr, and HI. We identify the V2+ and V3+ structures in these electrolytes using extended X-ray absorption fine structure, UV-vis, and density functional theory; this includes the hydrated structures of V2+ and V3+ in water (i.e., without anion complexation). We show that V2+/V3+ kinetics correlate with the energy of vanadium intermediate bound to carbon through a bridging anion (∗[bridge−V3+]). The anion-induced kinetic enhancement is from a decreased activation energy because of changing ∗[bridge−V3+] energy. The ∗[bridge−V3+] energy increases in the order of anion polarizability (OH− < Cl− < Br− < I−), explaining previous reports that correlate anion polarizability with the kinetics of other 3d transition metal ion redox couples.
+Keywords: electrocatalysis; flow batteries; vanadium; kinetics; EXAFS; complex structure; inner-sphere reaction mechanism; anions; metal ion redox couples
+
+Vincent Mukwaya, Peipei Zhang, Lingshan Liu, Auphedeous Yinme Dang-i, Mei Li, Stephen Mann, Hongjing Dou,
+Programmable Membrane-Mediated Attachment of Synthetic Virus-like Nanoparticles on Artificial Protocells for Enhanced Immunogenicity,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100291,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100291.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303179)
+Abstract: Summary
+The programming of protocells to implement and control the functions of living cells through activated membrane receptor signaling remains a challenge for the development of protoliving technologies. Here, we report a synthetic protocell capable of inducing high levels of macrophage activation in vitro. An immunogenic protocell comprising hyaluronic acid (HA)-polymer membrane decorated with synthetic virus-like particles derived from the functionalization of core-shell polymer nanoparticles with a Toll-like receptor agonist (Pam3SK4) and cell/protocell membrane-binding lectin (WGA) is fabricated. While the non-decorated HA-based protocells and functionalized SVLPs alone initiate moderate levels of macrophage activation, co-presentation of WGA and Pam3SK4 on the protocell membrane results in hyperactivation of the phagocytes via a synergistic multi-receptor process. This work offers opportunities for developing chemically programmable soft microscale agents capable of eliciting cellular signal transduction and genetic outputs and provides a step toward implementing future therapeutic strategies based on cognate interactions at the cell-protocell interface.
+Keywords: interfacial assembly; polysaccharide/polymer nanoconjugates; polyccharidosomes; synthetic virus-like particles; synergistic macrophage activation; glycan-lectin interaction; cell/protocell cognate interaction
+
+Xiao You, Joseph C. Shirley, Euihyun Lee, Carlos R. Baiz,
+Short- and long-range crowding effects on water’s hydrogen bond networks,
+Cell Reports Physical Science,
+Volume 2, Issue 5,
+2021,
+100419,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100419.
+(https://www.sciencedirect.com/science/article/pii/S2666386421001090)
+Abstract: Summary
+Intracellular water is highly confined with approximately 40% of the cell volume occupied by biomolecules. Crowding alters water dynamics and interactions with biomolecules. In biochemical experiments, artificial crowders are commonly used to mimic intracellular environments, but their effects on biomolecules remain elusive. Here, we investigate the crowding effects by directly accessing the picosecond hydrogen-bond dynamics in crowded solutions using ultrafast two-dimensional infrared spectroscopy and all-atom molecular dynamics simulations. We quantify the effects of different crowding agents: small sugars; polysaccharides; and polyethylene glycol (PEG). Our results show that crowders introduce disorder within the first two solvation shells but stabilize ice-like order in water >1 nm from the crowder. The results show that accounting for crowder chemical structure, conformation, and crowder-solvent interactions is a key step toward a complete description of crowded solutions for in vitro for biomolecular studies.
+Keywords: water dynamics; macromolecular crowding; molecular dynamics simulation; ultrafast spectroscopy; 2D IR spectroscopy
+
+Frédéric B. Piel, Minesh Jobanputra, Meghan Gallagher, Jon Weber, Sandra G. Laird, Michael McGahan,
+Co-morbidities and mortality in patients with sickle cell disease in England: A 10-year cohort analysis using hospital episodes statistics (HES) data,
+Blood Cells, Molecules, and Diseases,
+Volume 89,
+2021,
+102567,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102567.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000334)
+Abstract: Patients with a primary diagnosis of sickle cell disease (SCD) with or without crisis during the 10-year period January 2009 to December 2018 were identified in the HES Admitted Patient Care (APC) dataset and matched with the Office for National Statistics (ONS) mortality dataset. Three sub-cohorts were defined: ‘crises’, ‘transfusions’ and ‘other SCD’. APC records were examined for co-morbidities commonly associated with SCD and 10-year mortality rates compared with the general population. After data cleaning and exclusions, 9503 patients remained (entire cohort), with 1171, 201, and 8131 in crises, transfusions, and other SCD sub-cohorts, respectively. Median numbers of co-morbidities per patient were 2 (Interquartile range (IQR): 1–4), 2 (IQR: 1–3), and 1 (IQR: 0–2) in the crises, transfusions, and other SCD sub-cohorts, respectively. The majority of patients in the crises (63.2%) and transfusions (56.3%) cohorts had ≥2 co-morbidities, compared with 25.3% in the other SCD sub-cohort. Crude 10-year mortality rate was 5.3% (entire cohort), compared with 8.0% (crises) and 11.4% (transfusions) sub-cohorts; all rates were substantially higher than in age-sex matched general population. Our study adds further evidence that morbidity and mortality associated with SCD in England is high.
+Keywords: Sickle cell disease; Co-morbidities; Mortality; NHS; Hospital episode statistics
+
+Qian Wu, Qingdian Mu, Zhidan Xia, Junxia Min, Fudi Wang,
+Manganese homeostasis at the host-pathogen interface and in the host immune system,
+Seminars in Cell & Developmental Biology,
+Volume 115,
+2021,
+Pages 45-53,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2020.12.006.
+(https://www.sciencedirect.com/science/article/pii/S1084952120302007)
+Abstract: Manganese serves as an indispensable catalytic center and the structural core of various enzymes that participate in a plethora of biological processes, including oxidative phosphorylation, glycosylation, and signal transduction. In pathogenic microorganisms, manganese is required for survival by maintaining basic biochemical activity and virulence; in contrast, the host utilizes a process known as nutritional immunity to sequester manganese from invading pathogens. Recent epidemiological and animal studies have shown that manganese increases the immune response in a wide range of vertebrates, including humans, rodents, birds, and fish. On the other hand, excess manganese can cause neurotoxicity and other detrimental effects. Here, we review recent data illustrating the essential role of manganese homeostasis at the host-pathogen interface and in the host immune system. We also discuss the accumulating body of evidence that manganese modulates various signaling pathways in immune processes. Finally, we discuss the key molecular players involved in manganese’s immune regulatory function, as well as the clinical implications with respect to cancer immunotherapy.
+Keywords: Manganese homeostasis; Host-pathogen interface; Immunotherapy; Neuroinflammation; Immunological pathways
+
+Ondřej Jurček,  Nonappa, Elina Kalenius, Pia Jurček, Juha M. Linnanto, Rakesh Puttreddy, Hennie Valkenier, Nikolay Houbenov, Michal Babiak, Miroslav Peterek, Anthony P. Davis, Radek Marek, Kari Rissanen,
+Hexagonal Microparticles from Hierarchical Self-Organization of Chiral Trigonal Pd3L6 Macrotetracycles,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100303,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100303.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303295)
+Abstract: Summary
+Construction of structurally complex architectures using inherently chiral, asymmetric, or multi-heterotopic ligands is a major challenge in metallosupramolecular chemistry. Moreover, the hierarchical self-organization of such complexes is unique. Here, we introduce a water-soluble, facially amphiphilic, amphoteric, chiral, asymmetric, and hetero-tritopic ligand derived from natural bile acid, ursodeoxycholic acid. We show that via the supramolecular transmetalation reaction, using nitrates of Cu(II) or Fe(III), and subsequently Pd(II), a superchiral Pd3L6 complex can be obtained. Even though several possible constitutional isomers of Pd3L6 could be formed, because of the ligand asymmetry and relative flexibility of carbamate-pyridyl moieties attached to the steroid scaffold, only a single product with C3 rotational symmetry was obtained. Finally, we demonstrate that these amphiphilic complexes can self-organize into hexagonal microparticles in aqueous media. This finding may lead to the development of novel self-assembled metal-organic functional materials made of natural, abundant, and relatively inexpensive steroidal compounds.
+Keywords: supramolecular chemistry; bile acid; palladium; heterotopic ligand; transmetalation; self-assembly; chirality; surfactant; self-organization; particle
+
+Michèle Roy, Elizabeth Stephens, Sophie Bouhour, Sophie Roux,
+RabGAP TBC1D25 is involved in human osteoclast activity,
+European Journal of Cell Biology,
+Volume 100, Issue 3,
+2021,
+151145,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2020.151145.
+(https://www.sciencedirect.com/science/article/pii/S0171933520300844)
+Abstract: The osteoclast cell polarization and the ruffled border formation during bone resorption are major vesicle trafficking events. Rab GTPases have been shown to be involved in these processes, however very little is known about their regulators, such as Rab GTPase activating proteins (RabGAPs). In osteoclasts, we previously identified two spliced isoforms of TBC1D25, encoding a RabGAP which had never been studied in these cells. Using in vitro cultures, we evaluated the expression of TBC1D25 in human osteoclasts. TBC1D25 was expressed at the sealing zone co-localizing with F-actin, with an annular distribution, and also at the ruffled membrane with a less intense colocalization with LAMP2 and cathepsin K, but none with Rab7 or V-ATPase. Inhibiting TBC1D25 expression significantly decreased bone resorption, as well as the formation of multinucleated cells and the number of nuclei per cell. These results suggest that TBC1D25 has a role in bone resorption via the regulation of osteoclast polarization and resorption, and multinucleation as well.
+Keywords: TBC1D25; RabGAP; Human osteoclasts; Bone resorption
+
+Keng Chen, Yilin Wang, Xiaoying Deng, Ling Guo, Chuanyue Wu,
+Extracellular matrix stiffness regulates mitochondrial dynamics through PINCH-1- and kindlin-2-mediated signalling,
+Current Research in Cell Biology,
+Volume 2,
+2021,
+100008,
+ISSN 2590-2636,
+https://doi.org/10.1016/j.crcbio.2021.100008.
+(https://www.sciencedirect.com/science/article/pii/S2590263621000027)
+Abstract: Proper control of mitochondrial morphology is crucial for many vital cellular processes including energy production, cell cycle and apoptosis. We show here that extracellular matrix (ECM) stiffness regulates mitochondrial morphology through integrin-dependent signaling pathways. ECM stiffening promotes mitochondrial fusion and concomitantly suppressed DRP1 expression and mitochondrial fission. Depletion of kindlin-2, an integrin-binding protein, inhibits ECM stiffening-induced mitochondrial fusion but fails to release ECM stiffening-induced suppression of DRP1 expression and mitochondrial fission. On the other hand, depletion of PINCH-1, a focal adhesion protein whose level is increased in response to ECM stiffening, does not significantly affect mitochondrial fusion but abolishes ECM stiffening-induced suppression of DRP1 expression and mitochondrial fission. Finally, overexpression of PINCH-1 is sufficient to override ECM softening-induced up-regulation of DRP1 expression and mitochondrial fission. Our results demonstrate a crucial role of ECM mechanics in regulation of mitochondrial dynamics and suggest that this regulation is mediated through two distinct signaling mechanisms, namely kindlin-2-dependent up-regulation of mitochondrial fusion and PINCH-1-dependent suppression of DRP1 expression and mitochondrial fission.
+Keywords: Extracellular matrix stiffness; Mitochondrial dynamics; Integrin; Kindlin-2; PINCH-1; DRP1
+
+Adriana Caballero, Amanda Orozco, Kuei Y. Tseng,
+Developmental regulation of excitatory-inhibitory synaptic balance in the prefrontal cortex during adolescence,
+Seminars in Cell & Developmental Biology,
+Volume 118,
+2021,
+Pages 60-63,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2021.02.008.
+(https://www.sciencedirect.com/science/article/pii/S108495212100032X)
+Abstract: The prefrontal cortex (PFC) is a cortical structure involved in a variety of complex functions in the cognitive and affective domains. The intrinsic function of the PFC is defined by the interaction of local glutamatergic and GABAergic neurons and their modulation by long-range inputs. The ensuing interactions generate a ratio of excitation and inhibition (E-I) in each output neuron, a balance which is refined during the adolescent to adult transition. In this short review, we aim to describe how an increase in GABAergic transmission during adolescence modifies the E-I ratio in adults. We further discuss how this new setpoint may change the dynamics of PFC networks observed during the transition to adulthood.
+Keywords: Prefrontal cortex; Adolescence; Synaptic activity; Excitatory-inhibitory balance
+
+Min Zhang, Helin Wang, Bo Peng, Donghao Ma, Miao Bai, Xiaoyu Tang, Shaowen Li, Wenyu Zhao, Siyuan Liu, Zhiqiao Wang, Kefan Zhou, Changchun Sun, Yue Ma,
+Macromolecular-level polymer brush layer enabling geometric customization of lithium deposits,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100324,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100324.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000047)
+Abstract: Summary
+Dendrite formation is the major hurdle limiting the deployment of energy-dense Li-metal batteries, including the solid-state prototypes. Through grafting polyether amine (PEA) brushes onto reduced graphene oxide (RGO) sheets, here, we present precise control over the metallic deposits according to the preset two-dimensional (2D) geometry. The experiment and simulation results reveal that the lithiophilic ether groups of PEA not only induce uniform nuclei distribution but also tailor the ion migration pathway along the optimized polymer chain, enabling conformal deposits propagation via a bionic “seedling technology.” The regulated Li deposition behaviors are further demonstrated in an energy-dense battery (2.1 mAh, Li(Ni0.85Co0.1Al0.05)O2|PEA grafted RGO) and all-solid-state prototype (LiFePO4|PEA grafted RGO with composite electrolyte). Their encouraging cycle performance, coupled with the wide range of applicability, affords great potential to customize the geometry of Li deposits according to the preset orientations.
+Keywords: PEA polymer; lithiophilicity; seedling technology; conformal propagation; all-solid-state battery
+
+Zhe Liu, Yunsong Li, Yanzhou Ji, Qinglin Zhang, Xingcheng Xiao, Yan Yao, Long-Qing Chen, Yue Qi,
+Dendrite-free Lithium Based on Lessons Learned from Lithium and Magnesium Electrodeposition Morphology Simulations,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100294,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100294.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303209)
+Abstract: Summary
+Electroplating is one of the most common processes to create smooth surfaces and thin coatings, but achieving smooth lithium (Li) plating without Li dendrite growth remains a challenge for developing next-generation Li-ion batteries based on Li metal anodes. One of the main reasons is our inability to directly model and predict the atomistic and mesoscale mechanisms underlying the complex electroplating process involving concurrent ionic transport, redox reactions, and development of morphological instability. Here we report a multiscale model integrating atomistic calculations of charge transfer physics with the mesoscale phase-field model to understand and predict morphological evolution for general metal electrodeposition processes. The results reveal that the difference in cation desolvation-induced exchange current is mainly responsible for the dramatically different dendritic Li plating and smooth magnesium (Mg) plating. This study provides a strategy for designing dendrite-free Li-ion battery anodes guided by a multiscale model integrating the phase-field method and atomistic calculations.
+Keywords: phase field model; density functional theory; multiscale modeling; electrochemical kinetics; batteries; electrodeposition; lithium electrode; magnesium electrode; dendrite growth
+
+Jackie Zorz, William D.L. Richardson, Audrey Laventure, Marianne Haines, Edward Cieplechowicz, Alireza Aslani, Agasteswar Vadlamani, Joule Bergerson, Gregory C. Welch, Marc Strous,
+Light manipulation using organic semiconducting materials for enhanced photosynthesis,
+Cell Reports Physical Science,
+Volume 2, Issue 4,
+2021,
+100390,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100390.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000801)
+Abstract: Summary
+Photosynthetic microorganisms, such as algae, are sources of bioproducts. Because they require only sunlight, water, and carbon dioxide to grow, they have potential for future mitigation of CO2 emissions. However, inefficient growth of these organisms remains an issue for realizing these emission reductions, primarily in terms of photosynthetic efficiency, photoinhibition, and photolimitation. Here, we show how use of light filtration through semi-transparent films comprised of organic π-conjugated molecules and organic photovoltaic devices has the potential to improve the photosynthesis efficiency of algae and the total power generation of a combined organic photovoltaic/algal system. Experimental data are used to fit a photosynthetic model predicting algal photosynthetic growth given light intensity and light transmission through an organic photovoltaic device. This work demonstrates the feasibility of using an “agrivoltaic” system combining photosynthetic growth with electricity-producing organic photovoltaics and provides a template for exploring other blended applications of these technologies.
+Keywords: light manipulation; photosynthesis; algae; cyanobacteria; organic solar cells; organic photovoltaics; solar energy; agrivoltaics; photosynthesis model; renewable energy
+
+Sonam Parakh, Julie D. Atkin,
+The Mitochondrial-associated ER membrane (MAM) compartment and its dysregulation in Amyotrophic Lateral Sclerosis (ALS),
+Seminars in Cell & Developmental Biology,
+Volume 112,
+2021,
+Pages 105-113,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2021.02.002.
+(https://www.sciencedirect.com/science/article/pii/S1084952121000264)
+Abstract: The endoplasmic reticulum (ER) and mitochondria connect at multiple contact sites to form a unique cellular compartment, termed the ‘mitochondria-associated ER membranes’ (MAMs). MAMs are hubs for signalling pathways that regulate cellular homeostasis and survival, metabolism, and sensitivity to apoptosis. MAMs are therefore involved in vital cellular functions, but they are dysregulated in several human diseases. Whilst MAM dysfunction is increasingly implicated in the pathogenesis of neurodegenerative diseases, its role in amyotrophic lateral sclerosis (ALS) is poorly understood. However, in ALS both ER and mitochondrial dysfunction are well documented pathophysiological events. Moreover, alterations to lipid metabolism in neurons regulate processes linked to neurodegenerative diseases, and a link between dysfunction of lipid metabolism and ALS has also been proposed. In this review we discuss the structural and functional relevance of MAMs in ALS and how targeting MAM could be therapeutically beneficial in this disorder.
+Keywords: ALS; MAM dysfunction; Lipid homeostasis
+
+Kouki Oka, Hiroyuki Nishide, Bjorn Winther-Jensen,
+Completely Solar-Driven Photoelectrochemical Water Splitting Using a Neat Polythiophene Film,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100306,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100306.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303325)
+Abstract: Summary
+π-Conjugated polymers are emerging as appealing photoelectrode materials for the photoelectrochemical hydrogen evolution reaction via water splitting, which has otherwise been extensively explored using inorganic semiconductors. Here, we report the performance of a pure organic semiconductor film as a catalyst for hydrogen production via visible light-driven water splitting. The neat and unsubstituted polythiophene film, characterized with a well-filled grain morphology of the crystalline polymer, is prepared by a facile polymerization method. The photovoltage of 1.38 V versus RHE at pH 12 enables solar-driven one-electron-per-photon water splitting in combination with a traditional water-oxidation catalyst to produce hydrogen and oxygen separately. The high photoelectrocatalytic hydrogen evolution rate of 1.02 mol(H2) h−1 g−1 or 0.75 mA/cm2 at 0 V versus RHE is also achieved with high durability. This study may open a new window for π-conjugated polymers for ultimately sustainable hydrogen production.
+Keywords: π-conjugated polymers; polythiophenes; photoelectrode; water splitting; hydrogen production; vapor phase polymerization; organic semiconductor; visible light
+
+Vanessa Nunes, Jorge G. Ferreira,
+From the cytoskeleton to the nucleus: An integrated view on early spindle assembly,
+Seminars in Cell & Developmental Biology,
+Volume 117,
+2021,
+Pages 42-51,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2021.03.006.
+(https://www.sciencedirect.com/science/article/pii/S1084952121000380)
+Abstract: Accurate chromosome segregation requires a complete restructuring of cellular organization. Microtubules remodel to assemble a mitotic spindle and the actin cytoskeleton rearranges to form a stiff actomyosin cortex. These cytoplasmic events must be spatially and temporally coordinated with mitotic chromosome condensation and nuclear envelope permeabilization, in order to ensure mitotic timing and fidelity. Here, we discuss the main cytoskeletal and nuclear events that occur during mitotic entry in proliferating animal cells, focusing on their coordinated contribution for early mitotic spindle assembly. We will also explore recent progress in understanding their regulatory biochemical and mechanical pathways.
+Keywords: Mitosis; Spindle; Nucleus; Cytoskeleton; Centrosome; Mechanotransduction
+
+Junjie Su, Chang Liu, Songlin Liu, Yingchun Ye, Yujue Du, Haibo Zhou, Su Liu, Wenqian Jiao, Lin Zhang, Chuanming Wang, Yangdong Wang, Zaiku Xie,
+High Conversion of Syngas to Ethene and Propene on Bifunctional Catalysts via the Tailoring of SAPO Zeolite Structure,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100290,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100290.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303167)
+Abstract: Summary
+Direct conversion of syngas to light olefins using bifunctional catalysts containing both oxides and zeolites represents a promising alternative in comparison with Fischer-Tropsch synthesis. It is still a great challenge to achieve highly selective production of ethylene and propylene at a satisfying CO conversion for potentially industrial applications. Here, we report that a high selectivity to ethylene and propylene can be achieved by tailoring silicoaluminophosphate zeolite structure and acid site strength. By comparing bifunctional catalysts composed of ZnCr oxide and different zeolites with 8-membered ring openings, we achieve the total selectivity of 76.4% in ethylene and propylene at a CO conversion as high as 38.2% by catalysts containing SAPO-17 zeolite (ERI framework). The detailed hydrocarbon distribution is nearly identical to that in the methanol-to-olefins reaction. The high selectivity can be rationalized due to both smaller 8-membered ring openings and the weaker Brønsted acid strength of SAPO-17 zeolites.
+Keywords: Syngas; bifunctional catalyst，SAPO-17 zeolites; light olefins
+
+Inga Wessels, Henrike J. Fischer, Lothar Rink,
+Update on the multi-layered levels of zinc-mediated immune regulation,
+Seminars in Cell & Developmental Biology,
+Volume 115,
+2021,
+Pages 62-69,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2020.11.005.
+(https://www.sciencedirect.com/science/article/pii/S1084952120301725)
+Abstract: The significance of zinc for an efficient immune response is well accepted. During zinc deficiency, an increase in the myeloid to lymphoid immune cells ratio was observed. This results in a disturbed balance of pro- and anti-inflammatory processes as well as defects in tolerance during infections. Consequently, instead of efficiently defending the body against invading pathogens, damage of host cells is frequently observed. This explains the increased susceptibility to infections and their severe progression observed for zinc deficient individuals as well as the association of autoimmune diseases with low serum zinc levels. Together with the advances in techniques for investigating cellular development, communication and intracellular metabolism, our understanding of the mechanisms underlying the benefits of zinc for human health and the detriments of zinc deficiency has much improved. As analyses of the zinc status and effects of zinc supplementation were more frequently included into clinical studies, our knowledge of the association of zinc deficiency to a variety of diseases was strongly improved. Still there are several areas in zinc biology that require further in-depth investigation such as the interaction with other nutritional elements, the direct association between zinc transportation, membrane-structure, receptors, and signaling as well as its role in cell degeneration. This article will describe our current understanding of the role of zinc during the immune response focusing on the most recent findings and underlying mechanisms. Research questions that need to be addressed in the future will be discussed as well.
+Keywords: Zinc; Zinc deficiency; Immune response; T cells; Innate immunity; B cells
+
+Shumin Miao, Paula Schäfer, Jessica Nojszewski, Felix Meyer, Sabine Windhorst,
+DIAPH1 regulates chromosomal instability of cancer cells by controlling microtubule dynamics,
+European Journal of Cell Biology,
+Volume 100, Issue 3,
+2021,
+151156,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2021.151156.
+(https://www.sciencedirect.com/science/article/pii/S0171933521000078)
+Abstract: Chromosomal instability (CIN) is a hallmark of cancer, resulting from misalignment and missegregation of chromosomes during meta- and anaphase, due to non-precise regulation of spindle-MT dynamics. Diaphanous Related Formin 1 (DIAPH1) is an actin nucleator and also binds microtubule (MT) with high affinity. In this study, we analyzed the role of DIAPH1 in regulation of spindle MT-dynamics and CIN in HT29 and HCT-116 colorectal cancer (CRC) cells. Our data show that down-regulation of DIAPH1 in these cell lines decreased spindle-MT speed by 50 % and the fraction of cells with misaligned and missegregated chromosomes was significantly increased. Furthermore, in HCT-116 DIAPH1 depleted cells deviation of chromosome number was elevated and the number of cells with micronuclei and cytosolic DNA was increased in both DIAPH1-knock down cell lines. In line with these results, database analysis revealed a significant correlation with low DIAPH1 mRNA expression and aneuploidy. Thus, DIAPH1 is substantially involved in the control of CIN in CRC cells. Since in vitro, DIAPH1 directly increased MT-polymerization, we assume that DIAPH1 controls CIN by regulating spindle-MT dynamics.
+Keywords: Chromosomal instability; Microtubule; Mitotic spindle; Diaphanous related formin 1; Colorectal cancer
+
+Manisha Jain, Prantar Chakrabarti, Tuphan Kanti Dolai, Pramit Ghosh, Prakas Kumar Mandal, Shuvra Neel Baul, Rajib De,
+Comparison of efficacy and safety of thalidomide vs hydroxyurea in patients with Hb E-β thalassemia - a pilot study from a tertiary care Centre of India,
+Blood Cells, Molecules, and Diseases,
+Volume 88,
+2021,
+102544,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102544.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000103)
+Abstract: Introduction
+Hemoglobin (Hb)-F inducers are known to improve Hb level and transfusion dependence in thalassemia. This pilot study was conducted to assess the efficacy and safety of Hb-F inducer thalidomide compared to hydroxyurea (HU) in Hb E-β thalassemia patients.
+Methods
+This was a prospective interventional single-centre study with 45 Hb E-beta thalassemia patients equally divided into group-I (thalidomide+folic acid), group-II (HU + folic acid) and group-III (folic acid). Response was assessed at various time intervals with 12-months follow up period. Primary end points were increment in Hb, Hb-F level and improvement in transfusion requirement; secondary end point were tolerability and safety.
+Results
+There was 100% responder (R: Hb-increment ≥1 g/dl) in group-I with 66.67% major responder (MaR: Hb-increment ≥2 g/dl), while there were 40% and 0% responder in group-II and III respectively. Hb-increment was significantly (p-value <0.0001) better in thalidomide arm compared to HU. The Hb-increment was attributable to both increase in Hb-F levels and reduction in ineffective erythropoiesis in thalidomide arm. Transfusion reduction was significantly better in group-I compared to group-II (100% vs 34%). No severe adverse effects was reported by patients of any group.
+Conclusion
+Thalidomide showed a persistent significant Hb-increment and transfusion independence in Hb E-β thalassemia patients compared to HU.
+Keywords: Hb E-β thalassemia; Hb-F inducers; Thalidomide; Hydroxyurea; Transfusion dependence
+
+Amita G. Ghadge, Pallave Dasari, Jennifer Stone, Erik W. Thompson, Rebecca L. Robker, Wendy V. Ingman,
+Pubertal mammary gland development is a key determinant of adult mammographic density,
+Seminars in Cell & Developmental Biology,
+Volume 114,
+2021,
+Pages 143-158,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2020.11.011.
+(https://www.sciencedirect.com/science/article/pii/S1084952120301841)
+Abstract: Mammographic density refers to the radiological appearance of fibroglandular and adipose tissue on a mammogram of the breast. Women with relatively high mammographic density for their age and body mass index are at significantly higher risk for breast cancer. The association between mammographic density and breast cancer risk is well-established, however the molecular and cellular events that lead to the development of high mammographic density are yet to be elucidated. Puberty is a critical time for breast development, where endocrine and paracrine signalling drive development of the mammary gland epithelium, stroma, and adipose tissue. As the relative abundance of these cell types determines the radiological appearance of the adult breast, puberty should be considered as a key developmental stage in the establishment of mammographic density. Epidemiological studies have pointed to the significance of pubertal adipose tissue deposition, as well as timing of menarche and thelarche, on adult mammographic density and breast cancer risk. Activation of hypothalamic-pituitary axes during puberty combined with genetic and epigenetic molecular determinants, together with stromal fibroblasts, extracellular matrix, and immune signalling factors in the mammary gland, act in concert to drive breast development and the relative abundance of different cell types in the adult breast. Here, we discuss the key cellular and molecular mechanisms through which pubertal mammary gland development may affect adult mammographic density and cancer risk.
+Keywords: Mammary gland development; Puberty; Mammographic density; Adipose tissue; Thelarche; Menarche
+
+Vallari Shukla, Miya Kudo Høffding, Eva R. Hoffmann,
+Genome diversity and instability in human germ cells and preimplantation embryos,
+Seminars in Cell & Developmental Biology,
+Volume 113,
+2021,
+Pages 132-147,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2020.12.007.
+(https://www.sciencedirect.com/science/article/pii/S1084952120302019)
+Abstract: Genome diversity is essential for evolution and is of fundamental importance to human health. Generating genome diversity requires phases of DNA damage and repair that can cause genome instability. Humans have a high incidence of de novo congenital disorders compared to other organisms. Recent access to eggs, sperm and preimplantation embryos is revealing unprecedented rates of genome instability that may result in infertility and de novo mutations that cause genomic imbalance in at least 70% of conceptions. The error type and incidence of de novo mutations differ during developmental stages and are influenced by differences in male and female meiosis. In females, DNA repair is a critical factor that determines fertility and reproductive lifespan. In males, aberrant meiotic recombination causes infertility, embryonic failure and pregnancy loss. Evidence suggest germ cells are remarkably diverse in the type of genome instability that they display and the DNA damage responses they deploy. Additionally, the initial embryonic cell cycles are characterized by a high degree of genome instability that cause congenital disorders and may limit the use of CRISPR-Cas9 for heritable genome editing.
+Keywords: Genome instability; Aneuploidy; CNVs; Rearrangements; Human oocytes and embryos; Genomic disorders; DNA damage response
+
+Michelle Monje, Ragnhildur Thóra Káradóttir,
+The bright and the dark side of myelin plasticity: Neuron-glial interactions in health and disease,
+Seminars in Cell & Developmental Biology,
+Volume 116,
+2021,
+Pages 10-15,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2020.11.009.
+(https://www.sciencedirect.com/science/article/pii/S108495212030183X)
+Abstract: Neuron-glial interactions shape neural circuit establishment, refinement and function. One of the key neuron-glial interactions takes place between axons and oligodendroglial precursor cells. Interactions between neurons and oligodendrocyte precursor cells (OPCs) promote OPC proliferation, generation of new oligodendrocytes and myelination, shaping myelin development and ongoing adaptive myelin plasticity in the brain. Communication between neurons and OPCs can be broadly divided into paracrine and synaptic mechanisms. Following the Nobel mini-symposium “The Dark Side of the Brain” in late 2019 at the Karolinska Institutet, this mini-review will focus on the bright and dark sides of neuron-glial interactions and discuss paracrine and synaptic interactions between neurons and OPCs and their malignant counterparts.
+
+Zhixin Chen, Lijue Chen, Guopeng Li, Yaorong Chen, Chun Tang, Longyi Zhang, Jiangpeng Liu, Lina Chen, Yang Yang, Jia Shi, Junyang Liu, Haiping Xia, Wenjing Hong,
+Control of quantum interference in single-molecule junctions via Jahn-Teller distortion,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100329,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100329.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000096)
+Abstract: Summary
+Quantum interference offers a unique opportunity to tune the charge transport through molecular devices and materials at the phase-coherent scale. Herein, we propose a direct way to suppress interference between two transmission paths in a meta-connected benzene ring by blocking a particular transmission path using Jahn-Teller distortion. By modification of two hydroxyls to introduce intramolecular hydrogen bonds, the conductance of single-molecule junctions with the meta-connected benzene ring is enhanced by ∼45 times and the transition from through-bond to through-space transport was observed from the flicker noise analysis. The significant difference in the charge transport originated from blocking of the transmission path due to Jahn-Teller distortion of both the electronic and the configurational structure of the benzene ring, leading to the disappearance of the destructive quantum interference feature in both experimental and theoretical results. Our findings may offer a new strategy for controlling quantum interference in future molecular devices and materials.
+Keywords: molecular electronics; quantum interference; charge transport; Jahn-Teller distortion; transmission pathway
+
+Shijie Zhen, Pingchuan Shen, Jinshi Li, Zujin Zhao, Ben Zhong Tang,
+Giant single-molecule conductance enhancement achieved by strengthening through-space conjugation with thienyls,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100364,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100364.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000497)
+Abstract: Summary
+Exploring single-molecule wires with high conductance is of significant importance for constructing efficient molecular electronic devices. Contrary to the general method of increasing through-bond conjugation in conventional molecular wires, strengthening through-space conjugation is proposed herein to improve molecular conductance. A series of through-space conjugated molecular wires based on hexaphenylbenzene (HPB) are synthesized, and their crystal and electronic structures, conductance behaviors, and working mechanisms are investigated. The scanning tunneling microscopy-break junction technique discloses that, by replacing phenyls with thienyls in HPB, the molecular conductance is apparently boosted, with up to ∼239-fold enhancement, and becomes larger than that of the through-bond conjugated control molecule. The flicker noise analyses and theoretical calculation confirm that improved through-space conjugation with thienyls contributes significantly to high conductance. These findings demonstrate that the introduction of strong through-space conjugation is an effective and feasible approach to attain high molecular conductance.
+Keywords: single-molecule wire; through-space conjugation; multichannel conductance; scanning tunneling microscopy-break junction; hexaphenylbenzene
+
+Zongqi Guo, Lei Zhang, Deepak Monga, Howard A. Stone, Xianming Dai,
+Hydrophilic slippery surface enabled coarsening effect for rapid water harvesting,
+Cell Reports Physical Science,
+Volume 2, Issue 4,
+2021,
+100387,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100387.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000771)
+Abstract: Summary
+Water harvesting through the condensation of vapor in air has the potential to alleviate water scarcity in arid regions around the globe. When water vapor is condensed on a cooled surface, tiny water droplets act as thermal barriers. Thus, they must be removed rapidly for efficient water harvesting. Passive technologies for droplet removal rely on in-site growth and direct contact of densely distributed droplets. However, it is challenging to remove submicrometer droplets that lead to a poor water harvesting rate. Here, we present a coarsening effect to rapidly remove water droplets with diameters <20 μm from the hydrophilic slippery liquid-infused porous surface (SLIPS). We quantitatively study the driving and drag forces to enhance the rapid droplet size evolution. The self-propelled coarsening effect enables rapid droplet removal regardless of surface orientations, showing a promising approach compared to those on PEGylated hydrophilic surface, hydrophobic SLIPS, and superhydrophobic surface in water harvesting.
+Keywords: water harvesting; slippery surface; condensation; coarsening; droplet
+
+Yiqiang Jiang, Changhyeok Choi, Song Hong, Senlin Chu, Tai-Sing Wu, Yun-Liang Soo, Leiduan Hao, Yousung Jung, Zhenyu Sun,
+Enhanced electrochemical CO2 reduction to ethylene over CuO by synergistically tuning oxygen vacancies and metal doping,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100356,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100356.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000412)
+Abstract: Summary
+Electrochemical CO2 reduction to multi-carbon fuels and chemicals is intriguing but remains a challenge. Here, we report that a combination of Sn doping and creation of oxygen vacancies (VO) can synergistically boost CO2 reduction to C2H4 over CuO nanosheets with an onset potential of −0.7 V (versus reversible hydrogen electrode). The activity and selectivity of CuO can be easily tuned by manipulation of Sn dopant and VO contents. The Faradaic efficiency toward C2H4 formation over Sn-doped CuO(VO) approaches 48.5% ± 1.2%, which maintains stability over 24 h at a mild overpotential, in contrast to a maximum of 26.8% ± 2.2% over pristine CuO. The Sn-doped CuO(VO) catalyst presents an approximately 2.3-fold improvement in C2H4 current compared to undoped CuO at similar overpotentials. Theoretical calculations further show that doping of Vo-enriched CuO surface by Sn lowers the dimerization energy of adsorbed CO intermediate, thereby promoting C–C coupling to yield C2H4.
+Keywords: CO2 reduction; electrocatalysis; ethylene; copper oxide; Sn doping
+
+Immacolata Tartaglione, Crawford Strunk, Charles Antwi-Boasiako, Biree Andemariam, Raffaella Colombatti, Eugenia Vicky Asare, Connie M. Piccone, Deepa Manwani, Donna Boruchov, Fitz Tavernier, Fatimah Farooq, Sophia Akatue, Bianca Oteng, Rebekah Urbonya, Samuel Wilson, Ahmed Owda, Rose Bamfo, Gifty Dankwah Boatemaa, Sudha Rao, William Zempsky, Fredericka Sey, Baba PD Inusa, Silverio Perrotta, Catherine Segbefia, Andrew D. Campbell,
+Age of first pain crisis and associated complications in the CASiRe international sickle cell disease cohort,
+Blood Cells, Molecules, and Diseases,
+Volume 88,
+2021,
+102531,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2020.102531.
+(https://www.sciencedirect.com/science/article/pii/S1079979620305684)
+Abstract: Pain is a hallmark of Sickle Cell Disease (SCD) affecting patients throughout their life; the first pain crisis may occur at any age and is often the first presentation of the disease. Universal newborn screening identifies children with SCD at birth, significantly improving morbidity and mortality. Without early screening, diagnosis is generally made after disease manifestations appear. The Consortium for the Advancement of Sickle Cell Research (CASiRe) is an international collaborative group evaluating the clinical severity of subjects with SCD using a validated questionnaire and medical chart review, standardized across 4 countries (United States, United Kingdom, Italy and Ghana). We investigated the age of first pain crisis in 555 sickle cell subjects, 344 adults and 211 children. Median age of the first crisis in the whole group was 4 years old, 5 years old among adults and 2 years old among children. Patients from the United States generally reported the first crisis earlier than Ghanaians. Experiencing the first pain crisis early in life correlated with the genotype and disease severity. Early recognition of the first pain crisis could be useful to guide counseling and management of the disease.
+Keywords: Sickle cell disease; Pain crisis; Newborn screening; Complications
+
+Santu Bera, Xuewei Dong, Bankala Krishnarjuna, Shannon A. Raab, David A. Hales, Wei Ji, Yiming Tang, Linda J.W. Shimon, Ayyalusamy Ramamoorthy, David E. Clemmer, Guanghong Wei, Ehud Gazit,
+Solid-state packing dictates the unexpected solubility of aromatic peptides,
+Cell Reports Physical Science,
+Volume 2, Issue 4,
+2021,
+100391,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100391.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000813)
+Abstract: Summary
+The understanding and prediction of the solubility of biomolecules, even of the simplest ones, reflect an open question and unmet need. Short aromatic tripeptides are among the most highly aggregative biomolecules. However, in marked contrast, Ala-Phe-Ala (AFA) was surprisingly found to be non-aggregative and could be solubilized at millimolar concentrations. Here, aiming to uncover the underlying molecular basis of its high solubility, we explore in detail the solubility, aggregation propensity, and atomic-level structure of the tripeptide. We demonstrate an unexpectedly high water solubility of AFA reaching 672 mM, two orders of magnitude higher than reported previously. The single crystal structure reveals an anti-parallel β sheet conformation devoid of any aromatic interactions. This study provides clear mechanistic insight into the structural basis of solubility and suggests a simple and feasible tool for its estimation, bearing implications for design of peptide drugs, peptides materials, and advancement of peptide nanotechnology.
+Keywords: Aromatic peptide; aggregation; crystal packing-solubility relationship; mass spectrometry; NMR spectroscopy
+
+Pankaj Sharma, Prateek Bhatia, Minu Singh, Reena Das, Richa Jain, Deepak Bansal, Savita Verma Attri, Amita Trehan,
+A case series highlighting structured hematological, biochemical and molecular approach to clinical oral iron refractoriness in children: A pressing need for a 3-tier system for classification of variants in TMPRSS6 gene,
+Blood Cells, Molecules, and Diseases,
+Volume 89,
+2021,
+102569,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102569.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000358)
+Abstract: In current study, we discuss clinical oral iron refractoriness cases and highlight need for a classification system to define TMPRSS6 gene variants. Out of 231 cases of microcytic hypochromic anemia screened (Sept 2019–Dec 2020), 17 cases (7.35%) with unexplained iron refractoriness (URIDA) phenotype were enrolled after ruling out secondary causes and compliance related issues. 11 (65%) had absent/negligible response (0–0.4 g/dl Hb rise) while 6 (35%) partial (0.5–0.9 g/dl Hb rise) response to initial iron trial at 4–8 weeks. Of these 17 cases, inappropriate hepcidin levels (normal-high) were noted in 11/15 (73%) tested. TSAT/Hepcidin ratio was low in 13/15 (87%). Genetic analysis of TMPRSS6 gene by NGS revealed variations in 15/17 (88%) cases. 10/15 cases with variations harbored a common splice site INDEL that was noted to be pathogenic SNP (MAF-0.19) on case-control association study in combination with other known missense SNPs with an odds ratio of 6.38 and relative risk 2.66 (p- < 0.01).
+Keywords: URIDA; Iron; TMPRSS6; SNPs
+
+Maria Carolina Costa Melo Svidnicki, Moisés Alves Ferreira Filho, Marcelo Mendes Brandão, Marielza dos Santos, Renata de Oliveira Dias, Renato Sampaio Tavares, Guilherme Rossi Assis-Mendonça, Fabíola Traina, Sara Teresinha Olalla Saad,
+New germline GATA1 variant in females with anemia and thrombocytopenia,
+Blood Cells, Molecules, and Diseases,
+Volume 88,
+2021,
+102545,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102545.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000115)
+Abstract: Familial forms of bone marrow defects are rare disorders and description of new cases are valuable opportunities to clarify the molecular machinery that triggers hematopoiesis and blood formation, as well as risk to malignant transformation. We investigated the genetic scenario and possible patterns of transmission in a rare case of familial myeloid disorder with a history of exposure to pesticides. Blood counts of two proband sisters, age 41 and 42, revealed mild anemia, neutrophilia and thrombocytopenia with bone marrow finding mimicking primary myelofibrosis in the cellular phase. We analyzed the coding regions of 78 myeloid neoplasms-related genes and 16 encoding xenobiotic metabolizing genes using Next-Generation Sequencing. The GATA1 variant c.788C > T, p.T263M, located in the C-terminal zinc finger domain of GATA1, was detected in the DNA of the two sisters. The screening of the other kindreds also revealed the p.T263M variant in the mother and two daughters with the same bone marrow disorder. This is the first report of an alteration in the GATA1 CF domain causing anemia, thrombocytopenia and megakaryocyte proliferation with mild myelofibrosis, correlating a new GATA1 germline variant with myeloid disorder.
+Keywords: GATA1; Myeloid disorder; MDS/MPN; Mutation; Fibrosis
+
+Ankit Verma, Hiroki Kawakami, Hiroyuki Wada, Anna Hirowatari, Nobuhisa Ikeda, Yoshifumi Mizuno, Toshikazu Kotaka, Koichiro Aotani, Yuichiro Tabuchi, Partha P. Mukherjee,
+Microstructure and Pressure-Driven Electrodeposition Stability in Solid-State Batteries,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100301,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100301.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303271)
+Abstract: Summary
+Interfacial deposition stability at the Li-metal-solid electrolyte interface in all solid-state batteries is governed by the stress-transport-electrochemistry coupling in conjunction with the polycrystalline/amorphous solid electrolyte architecture. In this work, we delineate the optimal solid electrolyte microstructure comprising grains, grain boundaries, and voids possessing desirable ionic conductivity and elastic modulus for superior transport and strength. An analytical formalism is provided to discern the impact of external “stack” pressure-induced mechanical stress on electrodeposition stability; the stress magnitudes obtained are in the megapascal range, considerably diminishing the stress-kinetics effects. For experimental stack pressures ranging up to 10 MPa, the impact of stress on reaction kinetics is negligibly small, and electrolyte transport overpotentials dictate electrodeposition stability. High current density operation with stable deposition can be ensured with ample external pressure, high temperature, and low surface roughness operation for a low shear modulus ratio of the solid electrolyte to Li-metal.
+
+Vy Nguyen, Jared Smothers, Paul Ballhorn, Sravya Kottapalli, Anh Ly, Julia Villarreal, Kyoungtae Kim,
+Myosin V-mediated transport of Snc1 and Vps10 toward the trans-Golgi network,
+European Journal of Cell Biology,
+Volume 100, Issue 3,
+2021,
+151143,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2020.151143.
+(https://www.sciencedirect.com/science/article/pii/S0171933520300820)
+Abstract: Retrieval of cargo proteins from the endosome towards the trans-Golgi network (TGN) is a crucial intracellular process for cellular homeostasis. Its dysfunction is associated with pathogenesis of Alzheimer and Parkinson's diseases. Myosin family proteins are cellular motors walking along actin filaments by utilizing the chemical energy from ATP hydrolysis, known to involve in pleiotropic cellular trafficking pathways. However, the question of whether myosins play a role in the trafficking of Snc1 and Vps10 has not been addressed yet. The present study assesses the potential roles of all five yeast myosins in the recycling of two membrane cargo, Snc1 and Vps10. It appears that all myosins except Myo2 are not required for the Snc1 traffic, while it was found that Myo1 and 2 play important roles for Vps10 retrieval from the endosome and the vacuole. Multiple myo2 mutants harboring a point mutation in the actin binding or the cargo binding tail domain were characterized to demonstrate abnormal Vps10-GFP and GFP-Snc1 distribution phenotypes, suggesting a severe defect in their sorting and trafficking at the endosome. Furthermore, Vps10-GFP patches in all tested myo2 mutants were found to be near stationary with quantitative live cell imaging. Finally, we found that actin cables in the myo2 mutant cells were considerably disrupted, which may aggravate the trafficking of Vps10 from the endosome. Together, our results provide novel insights into the function of Myo-family proteins in the recycling traffic of Vps10 and Snc1 destined for the TGN.
+Keywords: ATPase; Intracellular trafficking; Myosin; Snc1; Time-lapse images; Vps10
+
+Tingting Fan, Wenchao Ma, Mingcan Xie, Huan Liu, Jiguang Zhang, Shuangli Yang, Pingping Huang, Yunyun Dong, Zhou Chen, Xiaodong Yi,
+Achieving high current density for electrocatalytic reduction of CO2 to formate on bismuth-based catalysts,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100353,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100353.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000382)
+Abstract: Summary
+Electrocatalytic reduction of CO2 to formate is an attractive avenue for CO2 utilization. Unfortunately, existing catalysts suffer from low faradic efficiency of formate production at high current density. Here, we report a general strategy for preparing the Bi2O2CO3 nanosheet (BOC-NS) with abundant oxygen vacancies through in situ electrically driven conversion of the BiPO4 precursor. The converted BOC-NS displays high faradic efficiency of formate (FEHCOO−) (∼100%) over a wide potential region in an H-type cell and achieves a formate partial current density of −930 mA cm−2 with a FEHCOO− of 93% at −1.55 VRHE in a flow cell. Experimental results and density functional theory (DFT) calculations confirm that the BOC-NS surface with abundant oxygen vacancies benefit formate production, which stems from fast reaction kinetics toward the formation of ∗OCHO intermediate on defective Bi2O2CO3 nanosheets. This work provides helpful guidance for designing efficient electrocatalysts via in situ electrochemical transformation.
+
+Andrew A. Wong, Shmuel M. Rubinstein, Michael J. Aziz,
+Direct visualization of electrochemical reactions and heterogeneous transport within porous electrodes in operando by fluorescence microscopy,
+Cell Reports Physical Science,
+Volume 2, Issue 4,
+2021,
+100388,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100388.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000783)
+Abstract: Summary
+Optical fluorescence microscopy is shown to enable both high spatial and temporal resolution of redox-dependent fluorescence in flowing electrolytes. We report the use of fluorescence microscopy coupled with electrochemistry to directly observe the reaction and transport of redox-active quinones within porous carbon electrodes in operando. We observe surprising electrolyte channeling features within several porous electrodes, leading to spatially distinguishable advection-dominated and diffusion-dominated regions. These results challenge the common assumption that transport in porous electrodes can be approximated by a homogeneous Darcy-like permeability, particularly at the length scales relevant to many electrochemical systems such as redox flow batteries. This work presents a new platform to provide highly resolved spatial and temporal insight into electrolyte reactions and transport behavior within porous electrodes.
+Keywords: fluorescence microscopy; electrochemistry; in operando imaging; heterogeneous flow; direct visualization
+
+Xiyuan Feng, Qing Guo, Jingwei Xiu, Zhiqin Ying, Kar Wei Ng, Limin Huang, Shuangpeng Wang, Hui Pan, Zikang Tang, Zhubing He,
+Close-loop recycling of perovskite solar cells through dissolution-recrystallization of perovskite by butylamine,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100341,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100341.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000266)
+Abstract: Summary
+Organic-inorganic lead halide perovskite solar cells (PSCs) have achieved impressive progress in both conversion efficiency and stability. However, the leakage risk of toxic lead in the fabrication and service of PSCs hinders their commercialization; hence, the management of lead is imperative. Here, we report a close-loop recycling strategy to collect the key materials involved in devices with butylamine (BA), even regenerating solar cells with recycled materials including perovskite absorbers and NiOx-coated ITO glass substrates. The regenerated devices show performance equivalent to that of fresh ones and nearly 18% PCE for the champions. The total recycling yield of lead is more than 98.9%. The recycling can be attributed to the unique interaction between lead halides and BA. Our strategy could move PSCs toward commercialization by effective close-loop recycling and refabrication of whole PSC devices.
+Keywords: perovskite solar cells; lead; lead recycling; dissolution; recrystallization; recycling; amines; coordination; liquefaction
+
+Danye Liu, Qing Zeng, Hui Liu, Chaoquan Hu, Dong Chen, Lin Xu, Jun Yang,
+Combining the core-shell construction with an alloying effect for high efficiency ethanol electrooxidation,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100357,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100357.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000424)
+Abstract: Summary
+Combining core-shell construction with an alloying effect is effective for optimizing the electronic and lattice strain effects for achieving highly catalytic efficiency for a given electrochemical reaction. Here, we report the use of core-shell Au@FePd nanoparticles with an Au core and a sub-nano FePd alloy shell to demonstrate this concept. The Au core modifies the electronic configuration of Pd atoms, while the Fe component in thin shells reduces the lattice expansion of Pd induced by the Au core, both of which endow the Pd shell with an appropriate d-band center, favorable for the electrooxidation of ethanol through the C1 pathway. In particular, the as-prepared core-shell Au@FePd nanoparticles at an optimized Fe:Pd ratio exhibit a mass activity of 13.3 A mg−1 and a specific activity of 20.2 mA cm−2 for the ethanol electrooxidation in an alkaline medium, which outperform those of a majority of the recently reported Pd-based electrocatalysts.
+Keywords: core-shell; sub-nano alloy shell; d-band center; ethanol electrooxidation; electrocatalyst
+
+Shuhe Han, Yanmei Shi, Changhong Wang, Cuibo Liu, Bin Zhang,
+Hollow cobalt sulfide nanocapsules for electrocatalytic selective transfer hydrogenation of cinnamaldehyde with water,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100337,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100337.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000229)
+Abstract: Summary
+Designing nanostructured electrocatalysts for selective transfer hydrogenation of α, β-unsaturated aldehydes with water as the hydrogen source is highly desirable. Here, a facile self-templating strategy is designed for the synthesis of CoS2 and CoS2-x nanocapsules (NCs) as efficient cathodes for selective transfer hydrogenation of cinnamaldehyde, a model α, β-unsaturated aldehyde. The hollow porous structures of NCs are rich in active sites and improve mass transfer, resulting in high turnover frequency. The specific adsorption of the styryl block on pristine CoS2 NCs is conducive to the selective formation of half-hydrogenated hydrocinnamaldehyde with 91.7% selectivity, and the preferential adsorption of the C = O group induced by sulfur vacancies on defective CoS2-x NCs leads to the full-hydrogenated hydrocinnamyl alcohol with 92.1% selectivity. A cross-coupling of carbon and hydrogen radicals may be involved in this electrochemical hydrogenation reaction. Furthermore, this selective hydrogenation method is also effective for other α, β-unsaturated aldehydes, illustrating the universality of the method.
+Keywords: α, β-unsaturated aldehydes; cobalt disulfide; nanocapsules; sulfur vacancy; electrocatalysis; hydrogenation; cinnamaldehyde; selectivity; using water as the hydrogen source; In situ ATR-IR; In situ Raman; nanostructures; density functional theory; radicals
+
+Wei Ma, Yang Li, Christopher Y.H. Chao, Chi Yan Tso, Baoling Huang, Weihong Li, Shuhuai Yao,
+Solar-assisted icephobicity down to −60°C with superhydrophobic selective surfaces,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100384,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100384.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000746)
+Abstract: Summary
+Engineering icephobic surfaces has been a long-standing effort to address the challenges of ice prevention and removal in our daily life and industrial applications. Superhydrophobic surfaces and photothermal effect have shown their distinct merits in anti-icing and deicing. It is highly desirable to exploit their mutual benefits to realize passive, durable, and sustainable icephobicity even at extremely low temperatures. We report on a superhydrophobic selective surface constructed with a hierarchical architecture to enable stable superhydrophobicity and high-efficiency solar-thermal conversion. The surface spectral selectivity is deliberately designed to maximize solar harvesting while minimizing the thermal re-radiation loss. The boosted solar-thermal conversion empowers remarkable anti-icing of a sessile droplet at a record-low temperature of −60°C under 1-sun illumination. The synergy of solar-thermal conversion and superhydrophobicity endows the surface with superior and durable icephobicity. Moreover, the presented icephobic surface shows great potential and broad impacts, owing to its all-solution-based scalable fabrication method.
+Keywords: solar-thermal; selective absorber; superhydrophobic; icephobic; anti-icing; deicing; solution process; scalable
+
+Bin Xin, Yusin Pak, Meng Shi, Somak Mitra, Xiaopeng Zheng, Osman M. Bakr, Iman S. Roqan,
+Micropump Fluidic Strategy for Fabricating Perovskite Microwire Array-Based Devices Embedded in Semiconductor Platform,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100304,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100304.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303301)
+Abstract: Summary
+Microfluidic technologies are used to precisely manipulate fluid flow to integrate solution-processed materials in semiconductor devices. Here, a microfluidic method for incorporating perovskite into semiconductor-based devices is developed by embedding perovskite microwires (MWs) in Si microchannel platforms. The method relies on pumping a solution containing perovskite from the source to be precisely injected into Si microchannel arrays using filter paper that acts as a mesh of nano-/micropumps, owing to the capillary forces. Mask-free laser interference lithography is used to fabricate Si microchannels. Advanced characterization demonstrates that high-quality MWs are confined perfectly within the microchannel platform. Theoretical simulation is used to study the microfluidic mechanism. A high-performance photodetector based on the perovskite/Si MW array is obtained. Owing to this method’s simplicity, low cost, and zero chemical waste, it could pave the way for manufacturing cost-effective miniaturized perovskite in semiconductor platforms for a wide range of applications, including lab-on-a-chip technology.
+Keywords: micro-/nanofluidic; micropump; laser interference lithography; fluid-processed nanowire arrays; perovskite-based optoelectronics
+
+Hal E. Broxmeyer, Scott Cooper, Janice S. Blum,
+Expression of gilt acts as a positive regulator of mouse hematopoietic progenitor cells,
+Blood Cells, Molecules, and Diseases,
+Volume 90,
+2021,
+102574,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102574.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000401)
+Abstract: Gamma interferon inducible lysosomal thiol reductase (GILT), is known to be involved in immunity, but its role in hematopoiesis has not been previously reported. Herein, we demonstrate using gilt knockout (−/−) mice that loss of gilt associates with decreased numbers and cycling status of femoral hematopoietic progenitor cells (CFU-GM, BFU-E, and CFU-GEMM) with more modest effects on splenic progenitor cells. Thus, GILT is associated with positive regulation of hematopoietic progenitor cells in mice, mainly in bone marrow.
+Keywords: Gilt; Bone marrow; Spleen; Hematopoietic progenitor cells; CFU-GM; BFU-E; CFU-GEMM
+
+Lyu Zhou, Haomin Song, Nan Zhang, Jacob Rada, Matthew Singer, Huafan Zhang, Boon S. Ooi, Zongfu Yu, Qiaoqiang Gan,
+Hybrid concentrated radiative cooling and solar heating in a single system,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100338,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100338.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000230)
+Abstract: Summary
+Radiative cooling is an emerging sustainable technology that does not require electricity to function. However, to realize sub-ambient cooling, the effects of the undesired incident solar energy must be minimized. Considering an ideal blackbody radiator at 300 K, the maximum cooling power density is ∼160 W/m2. Here, we report an architecture capable of overcoming this challenge by using two spectrally selective mirrors to simultaneously absorb the incident sunlight and re-direct the thermal emission from a vertically aligned emitter. With this configuration, both sides of the vertical emitter can be used together to realize a measured local cooling power density of over 270 W/m2 in a controlled laboratory environment. Under standard atmospheric pressure, we realized cooling that was 14°C below the ambient temperature in the laboratory environment and a more than 12°C temperature reduction in outdoor testing.
+Keywords: thermal management; radiative cooling; sky cooling; solar heating; solar spectral selection; hybrid cooling and heating integrated system; local cooling power density
+
+Dina G. Elsaied, Nashwa M. Noreldin, Mohamed A. Saad, Mervat A. Elkhatteb, Noha E. Esheba,
+Myeloid-derived suppressor cells anticipate sustained treatment response in newly-diagnosed and persistent primary immune thrombocytopenia,
+Blood Cells, Molecules, and Diseases,
+Volume 87,
+2021,
+102529,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2020.102529.
+(https://www.sciencedirect.com/science/article/pii/S1079979620305660)
+Abstract: Background
+Myeloid-Derived Suppressor Cells (MDSCs) are used as markers for short-term immune thrombocytopenia (ITP) course. This study aimed to assess their reliability to predict the sustained treatment response within 6 months.
+Methods
+We tested the sensitivity and specificity of MDSCs and proposed cut-off MDSCs values to predict the prognosis in newly diagnosed ITP. We enrolled 80 adults with primary ITP; 50 newly diagnosed (group I), 30 chronic (group II), and 20 controls (group III). Flow cytometry was used for peripheral blood MDSCs estimation with correlation, sensitivity, and specificity of MDSCs to predict sustained treatment response.
+Results
+After 6 days and 6 months of treatment, MDSCs were significantly higher than pre-treatment in group I, (P < 0.001, P < 0.001). MDSCs were significantly higher in group I compared to groups II and III, (P < 0.001 for both). Cut-off values were 15.75% and >5.9% at 6 days and 6 months respectively. MDSCs sensitivity was 85.7% and 100% and specificity was 94.44% and 100% at 6 days and 6 months.
+Conclusions
+MDSCs may constitute a reliable predictor for ITP initial and prolonged treatment response with good sensitivity and specificity. This may guide the use of a specific therapeutic agent as maintenance therapy or its replacement in practice.
+Keywords: Immune thrombocytopenia; Newly diagnosed ITP; Myeloid-derived suppressor cells; MDSCs; Treatment response
+
+Alexandra P. Navarro, Iain M. Cheeseman,
+Kinetochore assembly throughout the cell cycle,
+Seminars in Cell & Developmental Biology,
+Volume 117,
+2021,
+Pages 62-74,
+ISSN 1084-9521,
+https://doi.org/10.1016/j.semcdb.2021.03.008.
+(https://www.sciencedirect.com/science/article/pii/S1084952121000409)
+Abstract: The kinetochore plays an essential role in facilitating chromosome segregation during cell division. This massive protein complex assembles onto the centromere of chromosomes and enables their attachment to spindle microtubules during mitosis. The kinetochore also functions as a signaling hub to regulate cell cycle progression, and is crucial to ensuring the fidelity of chromosome segregation. Despite the fact that kinetochores are large and robust molecular assemblies, they are also highly dynamic structures that undergo structural and organizational changes throughout the cell cycle. This review will highlight our current understanding of kinetochore structure and function, focusing on the dynamic processes that underlie kinetochore assembly.
+Keywords: Kinetochore; Centromere; Mitosis
+
+Ding Yuan, Yuhai Dou, Chun-Ting He, Linping Yu, Li Xu, David Adekoya, Qingbing Xia, Jianmin Ma, Shi Xue Dou, Shanqing Zhang,
+Sulfur doping optimized intermediate energetics of FeCoOOH for enhanced oxygen evolution catalytic activity,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100331,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100331.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000114)
+Abstract: Summary
+Transition metal sulfides have been demonstrated to be more active electrocatalysts than the corresponding (hydr)oxides for oxygen evolution reaction (OER). The nature of active sites, however, remains unclear. Here, we study whether S could promote the OER activity of FeCoOOH and try to identify the catalytically active centers. Density functional theory suggests that two coordinating S could work synergistically with one adjacent Fe to optimize the electronic states of Co, resulting in decreased binding energy of OH∗ (ΔEOH) while little changed ΔEO, and thus significantly lowering the catalytic overpotential. Further experimental studies validate the synergistic effect between S and Fe on tuning the electronic structure and the greatly improved catalytic activity with a small overpotential of 225.3 mV to drive 20 mA cm−2. This study reveals the origin of the high catalytic activity of transition metal sulfides and provides insights into the design of efficient OER electrocatalysts.
+Keywords: doping; sulfur; atomically thin; electrocatalyst; intermediate; electronic structure; oxygen evolution reaction
+
+Mihai Lomora, Aitor Larrañaga, Cesar Rodriguez-Emmenegger, Brian Rodriguez, Ionel Adrian Dinu, Jose-Ramon Sarasua, Abhay Pandit,
+An engineered coccolith-based hybrid that transforms light into swarming motion,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100373,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100373.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000631)
+Abstract: Summary
+Translating energy into swarming motion for miniature entities remains a challenge. This translation requires simultaneously breaking the symmetry of the system to enable locomotion and a coupling effect between the objects that are part of the population to induce the collective motion. Here, we report on Robocoliths, engineered Emiliania huxleyi (EHUX) coccolith-based miniature hybrid entities capable of swarming behavior. EHUX coccoliths are characterized by an asymmetric morphology that allows breaking symmetry, playing a central role in generating a net force and directed motion. Their activation with the bioinspired material polydopamine not only endows the asymmetric coccoliths with advanced functionalities, such as thermal- and energy-harvesting responsiveness under visible light exposure to display a collective behavior (i.e., swarming), but it also provides a functional surface from which antifouling polymer brushes are grown. In this context, Robocoliths pave the way for the next generation of multifunctional swarming bio-micromachines.
+Keywords: Robocoliths; coccolith; polydopamine; polydopamine-coccolith hybrids; light-driven; temperature-generating; swarming micro-objects; antifouling polymer brushes
+
+Radu Custelcean, Kathleen A. Garrabrant, Pierrick Agullo, Neil J. Williams,
+Direct air capture of CO2 with aqueous peptides and crystalline guanidines,
+Cell Reports Physical Science,
+Volume 2, Issue 4,
+2021,
+100385,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100385.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000758)
+Abstract: Summary
+Negative emission technologies, including direct air capture (DAC) of carbon dioxide, are now considered essential for mitigating climate change, but existing DAC processes tend to have excessively high energy requirements, mostly associated with sorbent regeneration. Here, we demonstrate a promising approach to DAC that combines atmospheric CO2 absorption by an aqueous oligopeptide (e.g., glycylglycine) with bicarbonate crystallization by a simple guanidine compound (e.g., glyoxal-bis-iminoguanidine). In this phase-changing system, the peptide and the guanidine compounds work in synergy, and the cyclic CO2 capacity can be maximized by matching the pKa values of the two components. Compared with glycine, the simpler amino acid congener, the cyclic CO2 capacity of the glycylglycine peptide combined with glyoxal-bis-iminoguanidine is twice as high (0.16 mol/mol). The resulting DAC process has a significantly lower regeneration energy compared with state-of-the-art solvent-based DAC technologies.
+Keywords: CO2 capture; direct air capture; amino acids; peptides; guanidines; reactive crystallization
+
+Qian Guo, Chao Lei, Wenqian Chen, Jingya Zhang, Binbin Huang,
+Electric-Field-Driven Nanoparticles Produce Dual-Functional Bipolar Electrodes and Nanoelectrolytic Cells for Water Remediation,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100299,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100299.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303258)
+Abstract: Summary
+Advanced oxidation processes (AOPs) represent one of the most powerful strategies for dealing with the ever-growing water pollution problem. However, their application is hindered by high cost and risk of handling catalysts and sacrificial chemicals, as well as the low efficiency of electron transfer to peroxides. Here, we report that the addition of nanoparticles (NPs) into the electric field facilitates electron transfer on the surface of NPs to generate reactive oxidizing species (ROS) without the use of sacrificial chemicals. Electrostatic induction can drive the charge separation of individual NPs. Because of the polarization, NPs are turned into numerous bipolar electrodes, which activate the electrogenerated H2 and O2 to form ROS, thereby efficiently enabling their fast reaction with the adjacent pollutants. This discovery may provide a general methodology that is fundamental for AOPs and has wide applications for real-life water remediation.
+Keywords: electric field; advanced oxidation processes; AOPs; nanoparticle; bipolar electrode; nanoelectrolytic cell; water remediation; Fenton; electrochemical oxidation
+
+Joyce Ching Mei Lam, Shir Ying Lee, Pei Lin Koh, Sing Zern Fong, Nur Insyirah Abdul-Kadir, Chiew Ying Lim, Xiao Zhang, Rajat Bhattacharyya, Shui Yen Soh, Mei Yoke Chan, Ah Moy Tan, Ponnudurai Kuperan, Ai Leen Ang,
+Clinical and health-related quality of life outcomes of transfusion-dependent thalassaemia patients in Singapore,
+Blood Cells, Molecules, and Diseases,
+Volume 88,
+2021,
+102547,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102547.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000139)
+Abstract: Introduction
+Transfusion-dependent thalassaemia is associated with complications related to iron overload from frequent red cell transfusions which affect quality of life. We collected data on the clinical outcomes, complications, socioeconomic status and health-related quality of life (HRQoL) of transfusion-dependent thalassaemia patients in Singapore, and analysed the associations between clinical and socioeconomic factors with development of transfusion-related complications and HRQoL scores.
+Materials and methods
+This was a cross-sectional study of transfusion-dependent thalassaemia patients treated at four major public hospitals in Singapore. Clinical information was obtained from retrospective reviews of medical records. Socioeconomic data and patient-reported compliance to iron chelators were obtained from prospective interviews of patients or caregivers using a questionnaire. A validated, disease-specific HRQoL instrument, the TranQOL, was administered to patients and caregivers during a routine clinic or transfusion visit.
+Results
+Liver iron loading was the most common transfusion-related complication and occurred in 79% of patients. Cardiac iron loading was noted in 28.3% and endocrine complications were present in 34.2%. Liver iron loading was significantly associated with higher mean ferritin level. Cardiac iron loading was significantly associated with increasing age, higher mean ferritin level and type of iron chelator. Endocrine complications were associated with increasing age, higher mean ferritin level, type of iron chelator and poorer patient-reported compliance to iron chelators. The lowest TranQOL scores were reported by caregiver parents of patients aged less than 18 years. Lower TranQOL scores were significantly associated with increasing age, especially in the 31–50 age cohort, and with reception of social assistance.
+Conclusion
+The main morbidities noted in transfusion-dependent thalassaemia patients in Singapore are from complications associated with iron loading. The cohort of older thalassaemia patients aged 31–50 experienced significantly higher rates of cardiac iron loading, endocrine complications and lower TranQOL scores compared to younger age cohorts.
+Keywords: Thalassaemia; Complications; Clinical outcomes; Health-related quality of life; TranQOL
+
+Nating Yang, Yonghui Zhao, Hao Zhang, Weikai Xiang, Yuhan Sun, Shuai Yang, Yu Sun, Gaofeng Zeng, Kenichi Kato, Xiaopeng Li, Miho Yamauchi, Zheng Jiang, Tong Li,
+Sintering Activated Atomic Palladium Catalysts with High-Temperature Tolerance of ∼1,000°C,
+Cell Reports Physical Science,
+Volume 2, Issue 1,
+2021,
+100287,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100287.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303131)
+Abstract: Summary
+Sintering-induced aggregation of active metals is a major cause of catalyst deactivation. Catalysts that can operate above 800°C are rare. Here, we report an unusual noble metal catalyst with sintering-induced activation at temperatures up to 1,000°C. The catalyst consists of atomically dispersed palladium embedded in a reducible SnO2 support designated for lean methane combustion. High temperature reaction simultaneously causes favorable changes of palladium ensemble state combining synergistically with lattice oxygen activation. Such changes lead to at least one order of magnitude improvement of the intrinsic reactivity, which compensates the surface area loss. Extensive characterizations such as atom probe tomography, X-ray absorption spectroscopy, and isotope tracking together with theoretical calculations illustrate the structure and surface chemistry changes and their impacts on the reaction mechanism. The catalyst also shows notable long-term stability and facile regeneration after poisoning. Our work may provide new insights into designing active and thermally stable catalysts.
+Keywords: sintering-induced activation; isolated Pd single atoms; palladium ensembles; lattice oxygen activation; lean methane combustion; high-temperature tolerance
+
+Turkan Gamze Ulusoy Ghobadi, Amir Ghobadi, Merve Demirtas, Ruby Phul, Elif Akhuseyin Yildiz, Halime Gul Yaglioglu, Engin Durgun, Ekmel Ozbay, Ferdi Karadas,
+Pushing the limits in photosensitizer-catalyst interaction via a short cyanide bridge for water oxidation,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100319,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2020.100319.
+(https://www.sciencedirect.com/science/article/pii/S2666386420303490)
+Abstract: Summary
+The realization of high-performance, precious-metal-free, stable, and robust photoanodes for water oxidation is one of the bottlenecks for dye-sensitized water splitting. Herein, we integrate an organic photosensitizer, which absorbs visible light above 500 nm, with a Prussian blue (PB) network to sensitize a visible-light-absorbing semiconductor, WO3. Through comprehensive steady-state and ultrafast transient absorption studies, we show that the coupling of a photosensitizer to a catalyst through a short cyanide bridging group in a PB structure generates appropriate energy levels for an efficient charge transfer from the photosensitizer to the visible-light-absorbing semiconductor. The photoanode retains its structural integrity and high photoelectrochemical activity for at least 2 h of solar irradiation under mildly acidic conditions (pH 3), which reaches around 1.30 mA/cm2 at 1.23 VRHE. This work provides a simple recipe with a toolbox that can be extended to a variety of organic photosensitizers and semiconductors.
+Keywords: photosensitizer-catalyst; dye-sensitized water splitting; cyanide chemistry; ruthenium-free; water oxidation; Prussian blue; organic chromophore; WO3; photoelectrochemical; visible-light-absorbing semiconductors
+
+W.M. Manoj S. Bandara, A.J. Iresha S. Rathnayake, Nilaksha F. Neththikumara, Hemali W.W. Goonasekera, Vajira H.W. Dissanayake,
+Comparative Analysis of the Genetic Variants in Haematopoietic Stem/Progenitor and Mesenchymal Stem Cell Compartments in de novo Myelodysplastic Syndromes,
+Blood Cells, Molecules, and Diseases,
+Volume 88,
+2021,
+102535,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2021.102535.
+(https://www.sciencedirect.com/science/article/pii/S1079979621000012)
+Abstract: Myelodysplastic Syndromes (MDS) are hematological clonal disorders. Bone marrow (BM) mesenchymal stem cells (MSCs) interact with the haematopoietic stem and progenitor cells (HSPCs) to regulate haematopoiesis. We studied the genetic variation profiles of BM derived CD34+ HSPCs and MSCs of same patient in a South Asian de novo MDS cohort with 20 patients. A total of 42 genes (variants 471) and 38 genes (variants 232) were mutated in HSPCs and MSCs respectively and majority (97%) were distinct variants. Variants included both known and novel, with variants predicted as pathogenic. In both cell types, most frequently mutated genes were TET2, KDM6A, BCOR, EZH2 and ASXL. DNA methylation and chromatin remodeling were shown to be affected in both cell types with a high frequency. RNA splicing was affected more in HSPCs. Gene variants in the cohesion complex and epigenetic mechanisms were shown to co-exist. We report variant profile of MSCs and CD34+ HSPCs from a South Asian cohort, with novel variants with potential for further study as biomarkers in MDS. Distinct variants confined to each cellular compartment indicate that the genetic variations occur following lineage commitment.
+Keywords: Myelodysplastic syndromes; Myeloid neoplasms; Haematopoietic stem and progenitor cells; Mesenchymal stem cells; Genetic variants; Next generation sequencing; Variant calling
+
+Omar Niss, Robert B. Lorsbach, Mikaela Berger, Satheesh Chonat, Morgan McLemore, David Buchbinder, Timothy McCavit, Linda G. Shaffer, Jessica Simpson, Jeffrey H. Schwartz, Jessica Meznarich, Myesa Emberesh, Katie G. Seu, Wenying Zhang, Theodosia A. Kalfa, Ammar Husami, Theodosia Kalfa, Robert Lorsbach, Carolyn Lutzko, Adam Nelson, Omar Niss, Charles Quinn, Katie G. Seu, Wenying Zhang, Satheesh Chonat, David Buchbinder, Clarissa Johnson, Timothy McCavit, Linda G. Shaffer, Jennifer A. Rothman, Sweta Gupta, Mara Nuñez Toscano, Melissa Forouhar, Vinod K. Gidvani-Diaz, James B. Ball, Gavin D. Roach, KayeLyn Wagner, Sam Milanovich, James Boyer, Jane Chawla, Christine Moore Smith, Adrienne Lee, Jessica Simpson, Jeffrey H. Schwartz, Vlad C. Radulescu, Yasmina L. Abajas, A. Kim Ritchey, Jessica Meznarich, Hunter R. Underhill, Yaddanapudi Ravindranath, Morgan McLemore, Niketa C. Shah,
+Congenital dyserythropoietic anemia type I: First report from the Congenital Dyserythropoietic Anemia Registry of North America (CDAR),
+Blood Cells, Molecules, and Diseases,
+Volume 87,
+2021,
+102534,
+ISSN 1079-9796,
+https://doi.org/10.1016/j.bcmd.2020.102534.
+(https://www.sciencedirect.com/science/article/pii/S1079979620305714)
+Abstract: Congenital dyserythropoietic anemias (CDAs) are characterized by ineffective erythropoiesis and distinctive erythroblast abnormalities; the diagnosis is often missed or delayed due to significant phenotypic heterogeneity. We established the CDA Registry of North America (CDAR) to study the natural history of CDA and create a biorepository to investigate the pathobiology of this heterogeneous disease. Seven of 47 patients enrolled so far in CDAR have CDA-I due to biallelic CDAN1 mutations. They all presented with perinatal anemia and required transfusions during infancy. Anemia spontaneously improved during infancy in three patients; two became transfusion-independent rapidly after starting interferon-α2; and two remain transfusion-dependent at last follow-up at ages 5 and 30 y.o. One of the transfusion-dependent patients underwent splenectomy at 11 y.o due to misdiagnosis and returned to medical attention at 27 y.o with severe hemolytic anemia and pulmonary hypertension. All patients developed iron overload even without transfusions; four were treated with chelation. Genetic testing allowed for more rapid and accurate diagnosis; the median age of confirmed diagnosis in our cohort was 3 y.o compared to 17.3 y.o historically. In conclusion, CDAR provides an organized research network for multidisciplinary clinical and research collaboration to conduct natural history and biologic studies in CDA.
+Keywords: Congenital dyserythropoietic anemia; CDAN1; Anemia; Erythropoiesis; Rare disease registry
+
+Kevin J. Prince, Marco Nardone, Sean P. Dunfield, Glenn Teeter, Mirzo Mirzokarimov, Emily L. Warren, David T. Moore, Joseph J. Berry, Colin A. Wolden, Lance M. Wheeler,
+Complementary interface formation toward high-efficiency all-back-contact perovskite solar cells,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100363,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100363.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000485)
+Abstract: Summary
+All-back-contact (ABC) architectures for perovskite photovoltaics represent untapped potential for higher efficiency and enhanced durability compared to conventional planar architectures. Interface engineering can be more complex in ABC designs, because both the electron and hole transport layers (ETLs/HTLs) are simultaneously exposed during processing. Herein, we fabricate ABC perovskite solar cells with a non-stabilized current-voltage scan power conversion efficiency >10% by developing complementary interface processing. UV-ozone exposure followed by annealing increases the work function and reduces the defect density of the NiOx HTL and removed contamination from the TiO2 ETL, which increases voltage and current collection. We measure the chemical composition of each transport layer interface using photoelectron spectroscopy and then use the resulting trends to inform a two-dimensional drift-diffusion model. The model suggests that further reduction of charged interface defect density, increase in the hole selective contact work function, and passivation of the front surface will enable >20% of ABC devices.
+Keywords: metal halide perovskite; interface engineering; all-back-contact perovskite solar cells; interdigitated back contact; quasi-interdigitated electrodes; lateral heterojunction; nickel oxide; interface defects; drift-diffusion model
+
+Yuqing Huang, Irina A. Buyanova, Chanakarn Phansa, Maria E. Sandoval-Salinas, David Casanova, William K. Myers, Neil C. Greenham, Akshay Rao, Weimin M. Chen, Yuttapoom Puttisong,
+Competition between triplet pair formation and excimer-like recombination controls singlet fission yield,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100339,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100339.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000242)
+Abstract: Summary
+The ultimate goal for singlet fission is that each photo-excited singlet exciton, S1, will result in two triplet excitons with unity yield. However, the singlet fission is now recognized to be complicated, involving bright/dark excited states of different spin multiplicity. Identifying the role of such states is vital to optimize singlet fission yield but difficult due to their elusive spectral signature. Here, we develop an experimental protocol based on a refined magneto-optical probe to access the fast time evolution of various excited states. In diphenylhexatriene crystal, the S1 is found to undergo two competing processes—to form one of the two dark triplet pair intermediates having different exchange energies or to form a bright state, Sx, exhibiting excimer-like delayed photoluminescence. Our result provides a clear picture of a competition event in singlet fission, which is beneficial for the development and tailoring of singlet fission materials with high yield.
+Keywords: singlet fission; excimers; triplet pair states; trap states
+
+Rachel Carter, Todd A. Kingston, Robert W. Atkinson, Mukul Parmananda, Matthieu Dubarry, Conner Fear, Partha P. Mukherjee, Corey T. Love,
+Directionality of thermal gradients in lithium-ion batteries dictates diverging degradation modes,
+Cell Reports Physical Science,
+Volume 2, Issue 3,
+2021,
+100351,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100351.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000369)
+Abstract: Summary
+Intentionally applied interelectrode thermal gradients (ITGs) accelerate capacity loss in 35°C cells, and the directionality of the thermal gradient dictates the responsible degradation mode. By simulating cell self-heating at various temperatures and C-rates, we identify 35°C and C/5 as a condition that does not typically exhibit lithium (Li) plating under isothermal conditions but is sensitive to thermal gradients. When subjected to an ITG, we observe 77% capacity fade over 20 cycles when the negative electrode (NE) is warmer than the positive electrode (PE) (ΔTint = +2°C) and 100% capacity fade when the PE is warmer than the NE (ΔTint = −2°C). Incremental capacity analysis diagnoses PE degradation for ΔTint = +2°C and NE degradation for ΔTint = −2°C. Electrochemical impedance spectroscopy and postmortem optical investigation corroborate these findings. We identify ITGs as a means to achieve accelerated aging of Li-ion cells with the capability to dictate a limiting electrode and/or decouple degradation of each electrode.
+Keywords: accelerated aging; ultrafast charging; capacity loss; Li-ion battery; thermal gradient
+
+Wei-Tse Lee, Felix D. Bobbink, Antoine P. van Muyden, Kun-Han Lin, Clémence Corminboeuf, Reza R. Zamani, Paul J. Dyson,
+Catalytic hydrocracking of synthetic polymers into grid-compatible gas streams,
+Cell Reports Physical Science,
+Volume 2, Issue 2,
+2021,
+100332,
+ISSN 2666-3864,
+https://doi.org/10.1016/j.xcrp.2021.100332.
+(https://www.sciencedirect.com/science/article/pii/S2666386421000126)
+Abstract: Summary
+The use of methane as one of the cleanest energy sources has attracted significant public awareness, and methane production processes with less environmental impact than fracking are receiving considerable attention. Catalytic hydrocracking of plastic materials has been considered a potential clean alternative. However, catalysts that convert heterogeneous plastic feeds into a single product under industrially relevant conditions are lacking. Here, we describe a Ru-modified zeolite that catalytically transforms polyethylene, polypropylene, and polystyrene into grid-compatible methane (>97% purity), at 300°C–350°C using near-stoichiometric amounts of H2. Mechanistic studies reveal a chain-end initiation process with limited isomerization of plastic substrates. A Ru site-dominant mechanism is proposed based on these studies and density functional theory (DFT) computations. We foresee that such a plastic-to-methane process may increase the intelligent use of plastic waste via energy recovery. There is also the potential to accommodate emerging sustainable H2 production into existing natural gas networks, while integrating waste management, fuel production, and energy storage.
+Keywords: waste management; fuel production; heterogeneous catalysis; plastic waste; polymer conversion
+
+Rikako Konishi, Yuna Kurokawa, Kanna Tomioku, Tatsunori Masatani, Xuenan Xuan, Akikazu Fujita,
+Raft microdomain localized in the luminal leaflet of inner membrane complex of living Toxoplasma gondii,
+European Journal of Cell Biology,
+Volume 100, Issue 2,
+2021,
+151149,
+ISSN 0171-9335,
+https://doi.org/10.1016/j.ejcb.2020.151149.
+(https://www.sciencedirect.com/science/article/pii/S0171933520300881)
+Abstract: Membrane microdomains or rafts, sterol- and sphingolipid-rich microdomains in the plasma membrane have been studied extensively in mammalian cells. Recently, rafts were found to mediate virulence in a variety of parasites, including Toxoplasma gondii. However, it has been difficult to examine a two-dimensional distribution of lipid molecules at a nanometer scale. We tried to determine the distribution of glycosphingolipids GM1 and GM3, putative raft components in the T. gondii cell membrane in this study, using a rapid-frozen and freeze-fractured immuno-electron microscopy method. This method physically stabilized molecules in situ, to minimize the probability of artefactual disruption. Labeling of GM3, but not GM1, was observed in the exoplasmic (or luminal), but not the cytoplasmic, leaflet of the inner membrane complex (IMC) in T. gondii infected in human foreskin fibroblast-1 (HFF-1). No labeling was detected in any leaflet of the T. gondii plasma membrane. In contrast to HFF-1, T. gondii infected in mouse fibroblast (MF), labelings of both GM1 and GM3 were detected in the IMC luminal leaflet, although GM1′s gold labeling density was very low. The same freeze-fracture EM method showed that both GM1 and GM3 were expressed in the exoplasmic leaflet of the MF plasma membrane. However, labeling of only GM3, but not GM1, was detected in the exoplasmic leaflet of the HFF-1 plasma membrane. These results suggest that GM1 or GM3, localized in the IMC, is obtained from the plasma membranes of infected host mammalian cells. Furthermore, the localization of microdomains or rafts in the luminal leaflets of the intracellular confined space IMC organelle of T. gondii suggests a novel characteristic of rafts.
+Keywords: Microdomain; Lipid; Freeze–fracture; Electron microscopy; Nanometer scale
+
+Gil Cunha De Santis, Alfredo Mendrone, Dante Langhi, Dimas Tadeu Covas, Antônio Fabron, Afonso José Pereira Cortez, Carla Luana Dinardo, Eugênia Maria Amorim Ubiali, José Francisco Comenalli Marques, José Orlando Bordin, Marilia Alvares Rugani,
+Suggested guidelines for convalescent plasma therapy for the treatment of COVID-19,
+Hematology, Transfusion and Cell Therapy,
+Volume 43, Issue 2,
+2021,
+Pages 212-213,
+ISSN 2531-1379,
+https://doi.org/10.1016/j.htct.2021.03.001.
+(https://www.sciencedirect.com/science/article/pii/S2531137921000389)

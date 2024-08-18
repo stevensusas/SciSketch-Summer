@@ -1,0 +1,1276 @@
+Kateryna Maksymenko, Andreas Maurer, Narges Aghaallaei, Caroline Barry, Natalia Borbarán-Bravo, Timo Ullrich, Tjeerd M.H. Dijkstra, Birte Hernandez Alvarez, Patrick Müller, Andrei N. Lupas, Julia Skokowa, Mohammad ElGamacy,
+The design of functional proteins using tensorized energy calculations,
+Cell Reports Methods,
+Volume 3, Issue 8,
+2023,
+100560,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100560.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002047)
+Abstract: Summary
+In protein design, the energy associated with a huge number of sequence-conformer perturbations has to be routinely estimated. Hence, enhancing the throughput and accuracy of these energy calculations can profoundly improve design success rates and enable tackling more complex design problems. In this work, we explore the possibility of tensorizing the energy calculations and apply them in a protein design framework. We use this framework to design enhanced proteins with anti-cancer and radio-tracing functions. Particularly, we designed multispecific binders against ligands of the epidermal growth factor receptor (EGFR), where the tested design could inhibit EGFR activity in vitro and in vivo. We also used this method to design high-affinity Cu2+ binders that were stable in serum and could be readily loaded with copper-64 radionuclide. The resulting molecules show superior functional properties for their respective applications and demonstrate the generalizable potential of the described protein design approach.
+Keywords: protein design; energy calculation; discrete rotamer sampling; EGFR inhibitor; copper binder
+
+Yasi Pan, Huarong Chen, Xiang Zhang, Weixin Liu, Yanqiang Ding, Dan Huang, Jianning Zhai, Wenchao Wei, Jun Wen, Danyu Chen, Yunfei Zhou, Cong Liang, Nathalie Wong, Kwan Man, Alvin Ho-Kwan Cheung, Chi Chun Wong, Jun Yu,
+METTL3 drives NAFLD-related hepatocellular carcinoma and is a therapeutic target for boosting immunotherapy,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101144,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101144.
+(https://www.sciencedirect.com/science/article/pii/S2666379123002975)
+Abstract: Summary
+Non-alcoholic fatty liver disease (NAFLD) is an emerging risk factor of hepatocellular carcinoma (HCC). However, the mechanism and target therapy of NAFLD-HCC are still unclear. Here, we identify that the N6-methyladenosine (m6A) methyltransferase METTL3 promotes NAFLD-HCC. Hepatocyte-specific Mettl3 knockin exacerbated NAFLD-HCC formation, while Mettl3 knockout exerted the opposite effect in mice. Single-cell RNA sequencing revealed that METTL3 suppressed antitumor immune response by reducing granzyme B (GZMB+) and interferon gamma-positive (IFN-γ+) CD8+ T cell infiltration, thereby facilitating immune escape. Mechanistically, METTL3 mediates sterol regulatory element-binding protein (SREBP) cleavage-activating protein (SCAP) mRNA m6A to promote its translation, leading to the activation of cholesterol biosynthesis. This enhanced secretion of cholesterol and cholesteryl esters that impair CD8+ T cell function in the tumor microenvironment. Targeting METTL3 by single-guide RNA, nanoparticle small interfering RNA (siRNA), or pharmacological inhibitor (STM2457) in combination with anti-programmed cell death protein 1 (PD-1) synergized to reinvigorate cytotoxic CD8+ T cells and mediate tumor regression. Together, METTL3 is a therapeutic target in NAFLD-HCC, especially in conjunction with immune checkpoint blockade (ICB) therapy.
+
+Shanlin Ke, Yandong Xiao, Scott T. Weiss, Xinhua Chen, Ciarán P. Kelly, Yang-Yu Liu,
+A computational method to dissect colonization resistance of the gut microbiota against pathogens,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100576,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100576.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002205)
+Abstract: Summary
+The mammalian gut microbiome protects the host through colonization resistance (CR) against the incursion of exogenous and often harmful microorganisms, but identifying the exact microbes responsible for the gut microbiota-mediated CR against a particular pathogen remains a challenge. To address this limitation, we developed a computational method: generalized microbe-phenotype triangulation (GMPT). We first systematically validated GMPT using a classical population dynamics model in community ecology and demonstrated its superiority over baseline methods. We then tested GMPT on simulated data generated from the ecological network inferred from a real community (GnotoComplex microflora) and real microbiome data on two mouse studies on Clostridioides difficile infection. We demonstrated GMPT’s ability to streamline the discovery of microbes that are potentially responsible for microbiota-mediated CR against pathogens. GMPT holds promise to advance our understanding of CR mechanisms and facilitate the rational design of microbiome-based therapies for preventing and treating enteric infections.
+Keywords: gut microbiota; colonization resistance; causal inference; infectious diseases
+
+Ervin Tasnadi, Alex Sliz-Nagy, Peter Horvath,
+Structure preserving adversarial generation of labeled training samples for single-cell segmentation,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100592,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100592.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002448)
+Abstract: Summary
+We introduce a generative data augmentation strategy to improve the accuracy of instance segmentation of microscopy data for complex tissue structures. Our pipeline uses regular and conditional generative adversarial networks (GANs) for image-to-image translation to construct synthetic microscopy images along with their corresponding masks to simulate the distribution and shape of the objects and their appearance. The synthetic samples are then used for training an instance segmentation network (for example, StarDist or Cellpose). We show on two single-cell-resolution tissue datasets that our method improves the accuracy of downstream instance segmentation tasks compared with traditional training strategies using either the raw data or basic augmentations. We also compare the quality of the object masks with those generated by a traditional cell population simulation method, finding that our synthesized masks are closer to the ground truth considering Fréchet inception distances.
+Keywords: data augmentation; single-cell segmentation
+
+Qiuzhong Pan, Desheng Weng, Jiayong Liu, Zhaosheng Han, Yusheng Ou, Bushu Xu, Ruiqing Peng, Yi Que, Xizhi Wen, Jing Yang, Shi Zhong, Lun Zeng, Aiyuan Chen, Haiping Gong, Yanmei Lin, Jiewen Chen, Ke Ma, Johnson Y.N. Lau, Yi Li, Zhengfu Fan, Xing Zhang,
+Phase 1 clinical trial to assess safety and efficacy of NY-ESO-1-specific TCR T cells in HLA-A∗02:01 patients with advanced soft tissue sarcoma,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101133,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101133.
+(https://www.sciencedirect.com/science/article/pii/S2666379123002616)
+Abstract: Summary
+New York esophageal squamous cell carcinoma-1 (NY-ESO-1)-specific T cell receptor (TCR) T cell therapy is effective in tumors with NY-ESO-1 expression, but a safe and effective TCR-T cell therapeutic protocol remains to be improved. Here, we report a phase 1 investigational new drug clinical trial with TCR affinity-enhanced specific T cell therapy (TAEST16001) for targeting NY-ESO-1. Enrolled patients receive TAEST16001 cell infusion after dose-reduced lymphodepletion with cyclophosphamide (15 mg/kg/day × 3 days) combined with fludarabine (20 mg/m2/day × 3 days), and the TCR-T cells are maintained with low doses of interleukin-2 injection post-adoptive transfer. Analysis of 12 patients treated with the regimen demonstrates no treatment-related serious adverse events. The overall response rate is 41.7%. The median progression-free survival is 7.2 months, and the median duration of response is 13.1 months. The protocol of TAEST16001 cells delivers a safe and highly effective treatment for patients with advanced soft tissue sarcoma (ClinicalTrials.gov: NCT04318964).
+
+Joshua M. Wang, Runyu Hong, Elizabeth G. Demicco, Jimin Tan, Rossana Lazcano, Andre L. Moreira, Yize Li, Anna Calinawan, Narges Razavian, Tobias Schraink, Michael A. Gillette, Gilbert S. Omenn, Eunkyung An, Henry Rodriguez, Aristotelis Tsirigos, Kelly V. Ruggles, Li Ding, Ana I. Robles, D.R. Mani, Karin D. Rodland, Alexander J. Lazar, Wenke Liu, David Fenyö, François Aguet, Yo Akiyama, Shankara Anand, Meenakshi Anurag, Özgün Babur, Jasmin Bavarva, Chet Birger, Michael J. Birrer, Lewis C. Cantley, Song Cao, Steven A. Carr, Michele Ceccarelli, Daniel W. Chan, Arul M. Chinnaiyan, Hanbyul Cho, Shrabanti Chowdhury, Marcin P. Cieslik, Karl R. Clauser, Antonio Colaprico, Daniel Cui Zhou, Felipe da Veiga Leprevost, Corbin Day, Saravana M. Dhanasekaran, Marcin J. Domagalski, Yongchao Dou, Brian J. Druker, Nathan Edwards, Matthew J. Ellis, Myvizhi Esai Selvan, Steven M. Foltz, Alicia Francis, Yifat Geffen, Gad Getz, Tania J. Gonzalez Robles, Sara J.C. Gosline, Zeynep H. Gümüş, David I. Heiman, Tara Hiltke, Galen Hostetter, Yingwei Hu, Chen Huang, Emily Huntsman, Antonio Iavarone, Eric J. Jaehnig, Scott D. Jewell, Jiayi Ji, Wen Jiang, Jared L. Johnson, Lizabeth Katsnelson, Karen A. Ketchum, Iga Kolodziejczak, Karsten Krug, Chandan Kumar-Sinha, Jonathan T. Lei, Wen-Wei Liang, Yuxing Liao, Caleb M. Lindgren, Tao Liu, Weiping Ma, Fernanda Martins Rodrigues, Wilson McKerrow, Mehdi Mesri, Alexey I. Nesvizhskii, Chelsea J. Newton, Robert Oldroyd, Amanda G. Paulovich, Samuel H. Payne, Francesca Petralia, Pietro Pugliese, Boris Reva, Dmitry Rykunov, Shankha Satpathy, Sara R. Savage, Eric E. Schadt, Michael Schnaubelt, Stephan Schürer, Zhiao Shi, Richard D. Smith, Xiaoyu Song, Yizhe Song, Vasileios Stathias, Erik P. Storrs, Nadezhda V. Terekhanova, Ratna R. Thangudu, Mathangi Thiagarajan, Nicole Tignor, Liang-Bo Wang, Pei Wang, Ying Wang, Bo Wen, Maciej Wiznerowicz, Yige Wu, Matthew A. Wyczalkowski, Lijun Yao, Tomer M. Yaron, Xinpei Yi, Bing Zhang, Hui Zhang, Qing Zhang, Xu Zhang, Zhen Zhang,
+Deep learning integrates histopathology and proteogenomics at a pan-cancer level,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101173,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101173.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003269)
+Abstract: Summary
+We introduce a pioneering approach that integrates pathology imaging with transcriptomics and proteomics to identify predictive histology features associated with critical clinical outcomes in cancer. We utilize 2,755 H&E-stained histopathological slides from 657 patients across 6 cancer types from CPTAC. Our models effectively recapitulate distinctions readily made by human pathologists: tumor vs. normal (AUROC = 0.995) and tissue-of-origin (AUROC = 0.979). We further investigate predictive power on tasks not normally performed from H&E alone, including TP53 prediction and pathologic stage. Importantly, we describe predictive morphologies not previously utilized in a clinical setting. The incorporation of transcriptomics and proteomics identifies pathway-level signatures and cellular processes driving predictive histology features. Model generalizability and interpretability is confirmed using TCGA. We propose a classification system for these tasks, and suggest potential clinical applications for this integrated human and machine learning approach. A publicly available web-based platform implements these models.
+Keywords: computational pathology; cancer proteogenomics; cancer imaging; CPTAC; molecular diagnostics
+
+Gladys J. Keitany, Benjamin E.R. Rubin, Meghan E. Garrett, Andrea Musa, Jeff Tracy, Yu Liang, Peter Ebert, Amanda J. Moore, Jonathan Guan, Erica Eggers, Ninnia Lescano, Ryan Brown, Adria Carbo, Hussein Al-Asadi, Travers Ching, Austin Day, Rebecca Harris, Charles Linkem, Dimitry Popov, Courtney Wilkins, Lianqu Li, Jiao Wang, Chuanxin Liu, Li Chen, Jennifer N. Dines, Caroline Atyeo, Galit Alter, Lance Baldo, Anna Sherwood, Bryan Howie, Mark Klinger, Erik Yusko, Harlan S. Robins, Sharon Benzeno, Amy E. Gilbert,
+Multimodal, broadly neutralizing antibodies against SARS-CoV-2 identified by high-throughput native pairing of BCRs from bulk B cells,
+Cell Chemical Biology,
+Volume 30, Issue 11,
+2023,
+Pages 1377-1389.e8,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.07.011.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002398)
+Abstract: Summary
+TruAB Discovery is an approach that integrates cellular immunology, high-throughput immunosequencing, bioinformatics, and computational biology in order to discover naturally occurring human antibodies for prophylactic or therapeutic use. We adapted our previously described pairSEQ technology to pair B cell receptor heavy and light chains of SARS-CoV-2 spike protein-binding antibodies derived from enriched antigen-specific memory B cells and bulk antibody-secreting cells. We identified approximately 60,000 productive, in-frame, paired antibody sequences, from which 2,093 antibodies were selected for functional evaluation based on abundance, isotype and patterns of somatic hypermutation. The exceptionally diverse antibodies included RBD-binders with broad neutralizing activity against SARS-CoV-2 variants, and S2-binders with broad specificity against betacoronaviruses and the ability to block membrane fusion. A subset of these RBD- and S2-binding antibodies demonstrated robust protection against challenge in hamster and mouse models. This high-throughput approach can accelerate discovery of diverse, multifunctional antibodies against any target of interest.
+Keywords: Antibodies; SARS CoV-2; S2 antibodies; Antibody secreting cells; Cell fusion; High throughput sequencing; BCR pairSEQ; TruAB Discovery; Broadly neutralizing antibodies
+
+Yiyun Chen, Ran Huo, Weirong Kang, Yuwei Liu, Zheng Zhao, Weilun Fu, Ruochen Ma, Xiaomeng Zhang, Jihong Tang, Zhihan Zhu, Qingyang Lyu, Yi Huang, Mengli Yan, Biaobin Jiang, Ruichao Chai, Zhaoshi Bao, Zheng Hu, Weiping Wang, Tao Jiang, Yong Cao, Jiguang Wang,
+Tumor-associated monocytes promote mesenchymal transformation through EGFR signaling in glioma,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101177,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101177.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003300)
+Abstract: Summary
+The role of brain immune compartments in glioma evolution remains elusive. We profile immune cells in glioma microenvironment and the matched peripheral blood from 11 patients. Glioblastoma exhibits specific infiltration of blood-originated monocytes expressing epidermal growth factor receptor (EGFR) ligands EREG and AREG, coined as tumor-associated monocytes (TAMo). TAMo infiltration is mutually exclusive with EGFR alterations (p = 0.019), while co-occurring with mesenchymal subtype (p = 4.7 × 10−7) and marking worse prognosis (p = 0.004 and 0.032 in two cohorts). Evolutionary analysis of initial-recurrent glioma pairs and single-cell study of a multi-centric glioblastoma reveal association between elevated TAMo and glioma mesenchymal transformation. Further analyses identify FOSL2 as a TAMo master regulator and demonstrates that FOSL2-EREG/AREG-EGFR signaling axis promotes glioma invasion in vitro. Collectively, we identify TAMo in tumor microenvironment and reveal its driving role in activating EGFR signaling to shape glioma evolution.
+
+Xiaofeng Zhou, Xinjian Guo, Jingqi Han, Miaozhou Wang, Zhen Liu, Dengfeng Ren, Jiuda Zhao, Zhanquan Li,
+Cytochrome b561 regulates iron metabolism by activating the Akt/mTOR pathway to promote Breast Cancer Cells proliferation,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113760,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113760.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003087)
+Abstract: Breast cancer (BC) is the leading cause of cancer-related mortality in women, necessitating the development of novel therapeutic targets. While cytochrome b561 (CYB561) expression is associated with poor prognosis in BC, the precise role of CYB561 in BC and its potential mechanisms remain unclear. In the present study, we found that CYB561 plays an essential role in BC growth. CYB561 expression was up-regulated in surgically resected cancerous tissues and in six BC cell lines. Lentivirus-mediated CYB561 knockdown in BC cells significantly reduced their proliferation, migration, and invasiveness. CYB561 participates in the regulation of iron metabolism in BC. CYB561 knockdown reduced total iron content, increased ferrous iron content, and down-regulated the expression of proteins associated with iron metabolism (transferrin receptor 1, divalent metal transporter 1, and ferritin heavy chain 1). Conversely, up-regulation of CYB561 through co-incubation with exogenous iron (ferric ammonium citrate) produced contrary outcomes. Additionally, CYB561 activated the protein kinase B/mammalian target of rapamycin (Akt/mTOR) signaling pathway in BC cells. Down-regulation of CYB561 expression inhibited the Akt/mTOR signaling pathway activity. The application of an mTOR agonist (MHY1485) rescued this negative effect, as well as the inhibitory effect of CYB561 knockdown on cell proliferation. Importantly, the dual mTOR inhibitor MLN0128 (50 nM, 48 h) down-regulated CYB561 expression and the iron metabolism-related proteins transferrin receptor, divalent metal transporter 1, and ferritin heavy chain 1, whereas the mTOR agonist MHY1485 rescued the down-regulation of CYB561 knockdown on iron metabolism-related proteins. We conclude that CYB561 promotes the proliferation of BC cells by regulating iron metabolism through the activation of the Akt/mTOR signaling pathway.
+Keywords: Breast cancer; CYB561; Proliferation; Iron metabolism; Akt/mTOR pathway
+
+Ahmed Eltokhi, William A. Catterall, Tamer M. Gamal El-Din,
+Cell-cycle arrest at the G1/S boundary enhances transient voltage-gated ion channel expression in human and insect cells,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100559,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100559.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002035)
+Abstract: Summary
+Heterologous expression of recombinant ion channel subunits in cell lines is often limited by the presence of a low number of channels at the cell surface level. Here, we introduce a combination of two techniques: viral expression using the baculovirus system plus cell-cycle arrest at the G1/S boundary using either thymidine or hydroxyurea. This method achieved a manifold increase in the peak current density of expressed ion channels compared with the classical liposome-mediated transfection methods. The enhanced ionic current was accompanied by an increase in the density of gating charges, confirming that the increased yield of protein and ionic current reflects the functional localization of channels in the plasma membrane. This modified method of viral expression coordinated with the cell cycle arrest will pave the way to better decipher the structure and function of ion channels and their association with ion channelopathies.
+Keywords: neuroscience; electrophysiology; E-phys; voltage-gated ion channels; VGIC; biophysics; structural biology; membrane proteins
+
+Hirotaka Watanabe, Rei Murakami, Kazuya Tsumagari, Satoru Morimoto, Tadafumi Hashimoto, Kent Imaizumi, Iki Sonn, Kaoru Yamada, Yuko Saito, Shigeo Murayama, Takeshi Iwatsubo, Hideyuki Okano,
+Astrocytic APOE4 genotype-mediated negative impacts on synaptic architecture in human pluripotent stem cell model,
+Stem Cell Reports,
+Volume 18, Issue 9,
+2023,
+Pages 1854-1869,
+ISSN 2213-6711,
+https://doi.org/10.1016/j.stemcr.2023.08.002.
+(https://www.sciencedirect.com/science/article/pii/S2213671123003016)
+Abstract: Summary
+The APOE4 genotype is the strongest risk factor for the pathogenesis of sporadic Alzheimer’s disease (AD), but the detailed molecular mechanism of APOE4-mediated synaptic impairment remains to be determined. In this study, we generated a human astrocyte model carrying the APOE3 or APOE4 genotype using human induced pluripotent stem cells (iPSCs) in which isogenic APOE4 iPSCs were genome edited from healthy control APOE3 iPSCs. Next, we demonstrated that the astrocytic APOE4 genotype negatively affects dendritic spine dynamics in a co-culture system with primary neurons. Transcriptome analysis revealed an increase of EDIL3, an extracellular matrix glycoprotein, in human APOE4 astrocytes, which could underlie dendritic spine reduction in neuronal cultures. Accordingly, postmortem AD brains carrying the APOE4 allele have elevated levels of EDIL3 protein deposits within amyloid plaques. Together, these results demonstrate the novel deleterious effect of human APOE4 astrocytes on synaptic architecture and may help to elucidate the mechanism of APOE4-linked AD pathogenesis.
+Keywords: Alzheimer’s disease; induced pluripotent stem cells; iPSCs; apolipoprotein E; APOE; astrocyte
+
+Yebin Lu, Qizhen Chen, Shuai Zhu, Xuejun Gong,
+Hypoxia promotes immune escape of pancreatic cancer cells by lncRNA NNT-AS1/METTL3-HuR-mediated ITGB1 m6A modification,
+Experimental Cell Research,
+Volume 432, Issue 2,
+2023,
+113764,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113764.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003129)
+Abstract: Pancreatic cancer (PC) cell immune escape is a crucial element in PC malignant development. Some previous studies have reported that LncRNA NNT-AS1 played a carcinogenic role in various tumors. However, the effect of lncRNA NNT-AS1 in PC cell immune escape remains unclear. To evaluate PC cell immune escape, PC cells were co-cultured with CD8+ T cells under a hypoxic condition. PC cell proliferation and migration were evaluated using the colony formation assay and transwell assay. CD8+ T cell proliferation and aoptosis were measured using the carboxy fluorescein diacetate succinimidyl ester (CFSE) assay and flow cytometry. The secretion of antitumor cytokines was assessed using enzyme-linked immunosorbent assay (ELISA). The molecular interactions were analyzed using chromatin immunoprecipitation (ChIP), RNA immunoprecipitation (RIP), or dual-luciferase reporter gene assays. A tumor xenograft model was established to evaluate the effects of lncRNA NNT-AS1 on PC in vivo. It was found that lncRNA NNT-AS1 was highly expressed in PC, and its silencing inhibited hypoxia-induced PC cell growth and immune escape in vivo and in vitro. Mechanically, HIF-1α transcriptionally activated NNT-AS1 expression and NNT-AS1 increased ITGB1 stability and expression in a METTL3-HuR dependent manner. ITGB1 overexpression reversed the inhibitory effects of NNT-AS1 knockdown on hypoxia-induced PC cell immune escape. In conclusion, Hypoxia promoted PC cell immune escape through lncRNA NNT-AS1/METTL3-HuR-mediated m6A modification to increase ITGB1 expression, which provided a theoretical foundation and a potential therapeutic target for PC.
+Keywords: Hypoxia; Pancreatic cancer; Immune escape; m6A; lncRNA NNT-AS1
+
+Molly Smullen, Meagan N. Olson, Julia M. Reichert, Pepper Dawes, Liam F. Murray, Christina E. Baer, Qi Wang, Benjamin Readhead, George M. Church, Elaine T. Lim, Yingleong Chan,
+Reliable multiplex generation of pooled induced pluripotent stem cells,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100570,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100570.
+(https://www.sciencedirect.com/science/article/pii/S266723752300214X)
+Abstract: Summary
+Reprogramming somatic cells into pluripotent stem cells (iPSCs) enables the study of systems in vitro. To increase the throughput of reprogramming, we present induction of pluripotency from pooled cells (iPPC)—an efficient, scalable, and reliable reprogramming procedure. Using our deconvolution algorithm that employs pooled sequencing of single-nucleotide polymorphisms (SNPs), we accurately estimated individual donor proportions of the pooled iPSCs. With iPPC, we concurrently reprogrammed over one hundred donor lymphoblastoid cell lines (LCLs) into iPSCs and found strong correlations of individual donors’ reprogramming ability across multiple experiments. Individual donors’ reprogramming ability remains consistent across both same-day replicates and multiple experimental runs, and the expression of certain immunoglobulin precursor genes may impact reprogramming ability. The pooled iPSCs were also able to differentiate into cerebral organoids. Our procedure enables a multiplex framework of using pooled libraries of donor iPSCs for downstream research and investigation of in vitro phenotypes.
+Keywords: iPSCs; reprogramming; genomics; sequencing; bioinformatics; multiplex; deconvolution; organoids; flow cytometry; differentiation
+
+Peng Zhu, Jing Xiong, Ding Yuan, Xiang Li, Lili Luo, Ju Huang, Binbin Wang, Quanfang Nie, Shuli Wang, Liying Dang, Yan Chen, Shu Li, Yuhang An, Li Yang, Rong Liu, Yanping He, Xiong Li, Puxiang Chen, Honghao Zhou, Qing Li,
+ZNF671 methylation test in cervical scrapings for cervical intraepithelial neoplasia grade 3 and cervical cancer detection,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101143,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101143.
+(https://www.sciencedirect.com/science/article/pii/S2666379123002963)
+Abstract: Summary
+Effective triage of high-risk human papillomavirus (hrHPV)+ women is warranted to avoid unnecessary referral and overtreatment. Molecular triage tests have recently begun to impact cervical intraepithelial neoplasia grade 3 (CIN3) or cervical cancer (CC), termed CIN3+, detection. We find that zinc finger protein 671 methylation (ZNF671m) test has superior performance for CIN3+ detection in all single molecular triage tests, including HPV16/18 genotyping, paired box gene 1 methylation (PAX1m), and ZNF671m, in the training set. Using ZNF671m test instead of Thinprep cytologic test (TCT) as a single triage strategy or as a combined triage strategy with HPV16/18 genotyping has achieved comparable sensitivity but higher specificity for CIN3+ detection among 391 hrHPV+ women in the validation set. Little attention has been paid to the women with hrHPV− status but detected CIN3+. We find that the CIN3+ risk after a negative result could be reduced further by triage using ZNF671m in hrHPV− patients.
+Keywords: DNA methylation; ZNF671; hrHPV; ASCUS; CIN3+ detection; Thinprep cytologic test; cervical cancer
+
+Jie Wang, Lin-Xuan Ma, Yun-Wei Dong,
+Coping with harsh heat environments: molecular adaptation of metabolic depression in the intertidal snail Echinolittorina radiata,
+Cell Stress and Chaperones,
+Volume 28, Issue 5,
+2023,
+Pages 477-491,
+ISSN 1355-8145,
+https://doi.org/10.1007/s12192-022-01295-9.
+(https://www.sciencedirect.com/science/article/pii/S1355814523000044)
+Abstract: Harsh thermal environments in the rocky intertidal zone pose serious physiological and molecular challenges to the inhabitants. Metabolic depression is regarded as an energy-conserving feature of intertidal species. To understand the molecular mechanism of metabolic depression, we investigated physiological and transcriptomic responses in the intertidal snail Echinolittorina radiata. The metabolic rate and expression of most genes were insensitive to temperatures ranging from 33 to 45°C and then increased with further heating to 52 °C. Different from other genes, the genes involved in heat shock response (HSR) and oxidative stress response (OSR) (e.g., genes encoding heat shock protein 70 (HSP70) and cytochrome P450 protein (CYP450)) kept upregulating during metabolic depression. These high levels of HSR and OSR genes should be important for surviving the harsh thermal environments on the rocky shore. In the population experiencing more frequent moderate heat events, the depression breadth was larger, and the change in magnitude of upregulation was insensitive for HSR genes (e.g., HSP70s) but heat-sensitive for OSR genes (e.g., CYP450s) at the temperature of 37 to 45 °C. These findings indicate that both the thermal sensitivity of HSR and OSR genes and the insensitivity of metabolic genes are crucial for surviving extreme intertidal environments, and different populations of the same species rely on various physiological mechanisms to differing extents to deal with heat stress. The cellular stress response is not a “one size fits all” response across populations largely depending on local thermal regimes.
+Keywords: Heat stress; Heat shock response; Intertidal snail; Metabolic depression; Molecular adaptation; Thermal tolerance
+
+Jiao Wei, Daniel T. Baptista-Hon, Zi Wang, Gen Li, Tanja Herrler, Chuanchang Dai, Kai Liu, Baofu Yu, Xiaoxue Chen, Mei Yang, Dong Han, Yuanxu Gao, Ru-Lin Huang, Lifei Guo, Kang Zhang, Qingfeng Li,
+Bioengineered human tissue regeneration and repair using endogenous stem cells,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101156,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101156.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003099)
+Abstract: Summary
+We describe a general approach to produce bone and cartilaginous structures utilizing the self-regenerative capacity of the intercostal rib space to treat a deformed metacarpophalangeal joint and microtia. Anatomically precise 3D molds were positioned on the perichondro-periosteal or perichondral flap of the intercostal rib without any other exogenous elements. We find anatomically precise metacarpal head and auricle constructs within the implanted molds after 6 months. The regenerated metacarpal head was used successfully to surgically repair the deformed metacarpophalangeal joint. Auricle reconstructive surgery in five unilateral microtia patients yielded good aesthetic and functional results. Long-term follow-up revealed the auricle constructs were safe and stable. Single-cell RNA sequencing analysis reveal early infiltration of a cell population consistent with mesenchymal stem cells, followed by IL-8-stimulated differentiation into chondrocytes. Our results demonstrate the repair and regeneration of tissues using only endogenous factors and a viable treatment strategy for bone and tissue structural defects.
+Keywords: tissue regeneration; endogenous stem cells; cartilage regeneration; regeneration medicine; auricular reconstruction; joint reconstruction
+
+Shanru Li, Derek Liberti, Su Zhou, Yun Ying, Jun Kong, Maria C. Basil, Fabian L. Cardenas-Diaz, Kazushige Shiraishi, Michael P. Morley, Edward E. Morrisey,
+DOT1L regulates lung developmental epithelial cell fate and adult alveolar stem cell differentiation after acute injury,
+Stem Cell Reports,
+Volume 18, Issue 9,
+2023,
+Pages 1841-1853,
+ISSN 2213-6711,
+https://doi.org/10.1016/j.stemcr.2023.07.006.
+(https://www.sciencedirect.com/science/article/pii/S2213671123002680)
+Abstract: Summary
+AT2 cells harbor alveolar stem cell activity in the lung and can self-renew and differentiate into AT1 cells during homeostasis and after injury. To identify epigenetic pathways that control the AT2-AT1 regenerative response in the lung, we performed an organoid screen using a library of pharmacological epigenetic inhibitors. This screen identified DOT1L as a regulator of AT2 cell growth and differentiation. In vivo inactivation of Dot1l leads to precocious activation of both AT1 and AT2 gene expression during lung development and accelerated AT1 cell differentiation after acute lung injury. Single-cell transcriptome analysis reveals the presence of a new AT2 cell state upon loss of Dot1l, characterized by increased expression of oxidative phosphorylation genes and changes in expression of critical transcription and epigenetic factors. Taken together, these data demonstrate that Dot1l controls the rate of alveolar epithelial cell fate acquisition during development and regeneration after acute injury.
+Keywords: lung regeneration; DOT1L; alveolar stem cell; metabolism
+
+Karoline Friedl, Adrien Mau, Fanny Boroni-Rueda, Valentina Caorsi, Nicolas Bourg, Sandrine Lévêque-Fort, Christophe Leterrier,
+Assessing crosstalk in simultaneous multicolor single-molecule localization microscopy,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100571,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100571.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002151)
+Abstract: Summary
+Single-molecule localization microscopy (SMLM) can reach sub-50 nm resolution using techniques such as stochastic optical reconstruction microscopy (STORM) or DNA-point accumulation for imaging in nanoscale topography (PAINT). Here we implement two approaches for faster multicolor SMLM by splitting the emitted fluorescence toward two cameras: simultaneous two-color DNA-PAINT (S2C-DNA-PAINT) that images spectrally separated red and far-red imager strands on each camera, and spectral demixing dSTORM (SD-dSTORM) where spectrally close far-red fluorophores appear on both cameras before being identified by demixing. Using S2C-DNA-PAINT as a reference for low crosstalk, we evaluate SD-dSTORM crosstalk using three types of samples: DNA origami nanorulers of different sizes, single-target labeled cells, or cells labeled for multiple targets. We then assess if crosstalk can affect the detection of biologically relevant subdiffraction patterns. Extending these approaches to three-dimensional acquisition and SD-dSTORM to three-color imaging, we show that spectral demixing is an attractive option for robust and versatile multicolor SMLM investigations.
+Keywords: super resolution microscopy; multicolor; multitarget; fluorescence; spectral demixing; crosstalk; SMLM; STORM; dSTORM; DNA-PAINT
+
+Amanda L. Graboski, Mark E. Kowalewski, Joshua B. Simpson, Xufeng Cao, Mary Ha, Jianan Zhang, William G. Walton, Daniel P. Flaherty, Matthew R. Redinbo,
+Mechanism-based inhibition of gut microbial tryptophanases reduces serum indoxyl sulfate,
+Cell Chemical Biology,
+Volume 30, Issue 11,
+2023,
+Pages 1402-1413.e7,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.07.015.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002441)
+Abstract: Summary
+Indoxyl sulfate is a microbially derived uremic toxin that accumulates in late-stage chronic kidney disease and contributes to both renal and cardiovascular toxicity. Indoxyl sulfate is generated by the metabolism of indole, a compound created solely by gut microbial tryptophanases. Here, we characterize the landscape of tryptophanase enzymes in the human gut microbiome and find remarkable structural and functional similarities across diverse taxa. We leverage this homology through a medicinal chemistry campaign to create a potent pan-inhibitor, (3S) ALG-05, and validate its action as a transition-state analog. (3S) ALG-05 successfully reduces indole production in microbial culture and displays minimal toxicity against microbial and mammalian cells. Mice treated with (3S) ALG-05 show reduced cecal indole and serum indoxyl sulfate levels with minimal changes in other tryptophan-metabolizing pathways. These studies present a non-bactericidal pan-inhibitor of gut microbial tryptophanases with potential promise for reducing indoxyl sulfate in chronic kidney disease.
+Keywords: Gut-derived uremic toxins; indoxyl sulfate; tryptophanase; microbiome-targeted inhibition; mechanism-based inhibitor
+
+Xue Cai, Zhangzhi Xue, Fang-Fang Zeng, Jun Tang, Liang Yue, Bo Wang, Weigang Ge, Yuting Xie, Zelei Miao, Wanglong Gou, Yuanqing Fu, Sainan Li, Jinlong Gao, Menglei Shuai, Ke Zhang, Fengzhe Xu, Yunyi Tian, Nan Xiang, Yan Zhou, Peng-Fei Shan, Yi Zhu, Yu-ming Chen, Ju-Sheng Zheng, Tiannan Guo,
+Population serum proteomics uncovers a prognostic protein classifier for metabolic syndrome,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101172,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101172.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003257)
+Abstract: Summary
+Metabolic syndrome (MetS) is a complex metabolic disorder with a global prevalence of 20%–25%. Early identification and intervention would help minimize the global burden on healthcare systems. Here, we measured over 400 proteins from ∼20,000 proteomes using data-independent acquisition mass spectrometry for 7,890 serum samples from a longitudinal cohort of 3,840 participants with two follow-up time points over 10 years. We then built a machine-learning model for predicting the risk of developing MetS within 10 years. Our model, composed of 11 proteins and the age of the individuals, achieved an area under the curve of 0.774 in the validation cohort (n = 242). Using linear mixed models, we found that apolipoproteins, immune-related proteins, and coagulation-related proteins best correlated with MetS development. This population-scale proteomics study broadens our understanding of MetS and may guide the development of prevention and targeted therapies for MetS.
+Keywords: population proteomics; metabolic syndrome; DIA-MS; machine learning; prospective prediction; blood proteomics; diabetes; apolipoproteins; triglycerides; high-density lipoproteins
+
+Ye-Fan Hu, Terrence Tsz-Tai Yuen, Hua-Rui Gong, Bingjie Hu, Jing-Chu Hu, Xuan-Sheng Lin, Li Rong, Coco Luyao Zhou, Lin-Lei Chen, Xiaolei Wang, Chaobi Lei, Thomas Yau, Ivan Fan-Ngai Hung, Kelvin Kai-Wang To, Kwok-Yung Yuen, Bao-Zhong Zhang, Hin Chu, Jian-Dong Huang,
+Rational design of a booster vaccine against COVID-19 based on antigenic distance,
+Cell Host & Microbe,
+Volume 31, Issue 8,
+2023,
+Pages 1301-1316.e8,
+ISSN 1931-3128,
+https://doi.org/10.1016/j.chom.2023.07.004.
+(https://www.sciencedirect.com/science/article/pii/S1931312823002998)
+Abstract: Summary
+Current COVID-19 vaccines are highly effective against symptomatic disease, but repeated booster doses using vaccines based on the ancestral strain offer limited additional protection against SARS-CoV-2 variants of concern (VOCs). To address this, we used antigenic distance to in silico select optimized booster vaccine seed strains effective against both current and future VOCs. Our model suggests that a SARS-CoV-1-based booster vaccine has the potential to cover a broader range of VOCs. Candidate vaccines including the spike protein from ancestral SARS-CoV-2, Delta, Omicron (BA.1), SARS-CoV-1, or MERS-CoV were experimentally evaluated in mice following two doses of the BNT162b2 vaccine. The SARS-CoV-1-based booster vaccine outperformed other candidates in terms of neutralizing antibody breadth and duration, as well as protective activity against Omicron (BA.2) challenge. This study suggests a unique strategy for selecting booster vaccines based on antigenic distance, which may be useful in designing future booster vaccines as new SARS-CoV-2 variants emerge.
+Keywords: booster vaccine; vaccine seed strain selection; antigenic distance; COVID-19; SARS-CoV-2 variants; Omicron; SARS-CoV-1; immune imprinting; antigenic cartography; antigenic field
+
+Zhijie Wu, Shouguo Gao, Qingyan Gao, Bhavisha A. Patel, Emma M. Groarke, Xingmin Feng, Ash Lee Manley, Haoran Li, Daniela Ospina Cardona, Sachiko Kajigaya, Lemlem Alemu, Diego Quinones Raffo, Amanda K. Ombrello, Marcela A. Ferrada, Peter C. Grayson, Katherine R. Calvo, Daniel L. Kastner, David B. Beck, Neal S. Young,
+Early activation of inflammatory pathways in UBA1-mutated hematopoietic stem and progenitor cells in VEXAS,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101160,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101160.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003130)
+Abstract: Summary
+VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome is a pleiotropic, severe autoinflammatory disease caused by somatic mutations in the ubiquitin-like modifier activating enzyme 1 (UBA1) gene. To elucidate VEXAS pathophysiology, we performed transcriptome sequencing of single bone marrow mononuclear cells and hematopoietic stem and progenitor cells (HSPCs) from VEXAS patients. HSPCs are biased toward myeloid (granulocytic) differentiation, and against lymphoid differentiation in VEXAS. Activation of multiple inflammatory pathways (interferons and tumor necrosis factor alpha) occurs ontogenically early in primitive hematopoietic cells and particularly in the myeloid lineage in VEXAS, and inflammation is prominent in UBA1-mutated cells. Dysregulation in protein degradation likely leads to higher stress response in VEXAS HSPCs, which positively correlates with inflammation. TCR usage is restricted and there are increased cytotoxicity and IFN-γ signaling in T cells. In VEXAS syndrome, both aberrant inflammation and myeloid predominance appear intrinsic to hematopoietic stem cells mutated in UBA1.
+Keywords: VEXAS; single-cell RNA sequencing; inflammation; clonal hematopoiesis
+
+Yongqi Yue, Yuhe Wang, Chenglong Wen, Yingying Meng, Ying Peng, Xiao Li,
+Lnc-Malat1 promotes slow myofiber-type transformation through sponging miR-129-5p in C2C12 myotubes,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113761,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113761.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003099)
+Abstract: Long non-coding metastasis-associated lung adenocarcinoma transcript (lnc-Malat1) emerges as a novel regulator in skeletal muscle development, while its function and the related mechanism is not fully revealed yet. In this study, knockdown of lnc-Malat1 by siRNA significantly inhibited the expression of myoblast marker genes (MyHC, MyoD, and MyoG) and slow muscle fiber marker genes (MyHC I), together with repressed expression of mitochondria-related genes COX5A, ACADM, CPTA1, FABP3, and NDUFA1. Overexpression of lnc-Malat1 exerted an opposite effect, promoting myoblast differentiation and slow muscle fiber formation. Dual luciferase reporter assay revealed a direct interaction between lnc-Malat1 and miR-129-5p, and overexpression of lnc-Malat1 significantly inhibited miR-129-5p expression, thereby elevating the expression of Mef2a, miR-129-5p target protein. In addition, enforced expression of lnc-Malat1 restored the inhibitory effect of miR-129-5p on myoblast differentiation and MyHC I expression. Taken together, our results suggest that lnc-Malat1 promotes myoblast differentiation, and maintains the slow muscle fiber phenotype via adsorbing miR-129-5p.
+Keywords: Lnc-Malat1; miR-129-5p; Myoblast differentiation; Myofiber type
+
+Ana Elena Pérez-Cobas, Christophe Ginevra, Christophe Rusniok, Sophie Jarraud, Carmen Buchrieser,
+The respiratory tract microbiome, the pathogen load, and clinical interventions define severity of bacterial pneumonia,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101167,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101167.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003208)
+Abstract: Summary
+Bacterial pneumonia is a considerable problem worldwide. Here, we follow the inter-kingdom respiratory tract microbiome (RTM) of a unique cohort of 38 hospitalized patients (n = 97 samples) with pneumonia caused by Legionella pneumophila. The RTM composition is characterized by diversity drops early in hospitalization and ecological species replacement. RTMs with the highest bacterial and fungal loads show low diversity and pathogen enrichment, suggesting high biomass as a biomarker for secondary and/or co-infections. The RTM structure is defined by a “commensal” cluster associated with a healthy RTM and a “pathogen” enriched one, suggesting that the cluster equilibrium drives the microbiome to recovery or dysbiosis. Legionella biomass correlates with disease severity and co-morbidities, while clinical interventions influence the RTM dynamics. Fungi, archaea, and protozoa seem to contribute to progress of pneumonia. Thus, the interplay of the RTM equilibrium, the pathogen load dynamics, and clinical interventions play a critical role in patient recovery.
+Keywords: respiratory tract microbiome; pneumonia; Legionella pneumophila; microbial ecology; biomass; severity
+
+Thilo M. Buck, Peter M.J. Quinn, Lucie P. Pellissier, Aat A. Mulder, Aldo Jongejan, Xuefei Lu, Nanda Boon, Daniëlle Koot, Hind Almushattat, Christiaan H. Arendzen, Rogier M. Vos, Edward J. Bradley, Christian Freund, Harald M.M. Mikkers, Camiel J.F. Boon, Perry D. Moerland, Frank Baas, Abraham J. Koster, Jacques Neefjes, Ilana Berlin, Carolina R. Jost, Jan Wijnholds,
+CRB1 is required for recycling by RAB11A+ vesicles in human retinal organoids,
+Stem Cell Reports,
+Volume 18, Issue 9,
+2023,
+Pages 1793-1810,
+ISSN 2213-6711,
+https://doi.org/10.1016/j.stemcr.2023.07.001.
+(https://www.sciencedirect.com/science/article/pii/S2213671123002631)
+Abstract: Summary
+CRB1 gene mutations can cause early- or late-onset retinitis pigmentosa, Leber congenital amaurosis, or maculopathy. Recapitulating human CRB1 phenotypes in animal models has proven challenging, necessitating the development of alternatives. We generated human induced pluripotent stem cell (iPSC)-derived retinal organoids of patients with retinitis pigmentosa caused by biallelic CRB1 mutations and evaluated them against autologous gene-corrected hiPSCs and hiPSCs from healthy individuals. Patient organoids show decreased levels of CRB1 and NOTCH1 expression at the retinal outer limiting membrane. Proximity ligation assays show that human CRB1 and NOTCH1 can interact via their extracellular domains. CRB1 patient organoids feature increased levels of WDFY1+ vesicles, fewer RAB11A+ recycling endosomes, decreased VPS35 retromer complex components, and more degradative endolysosomal compartments relative to isogenic control organoids. Taken together, our data demonstrate that patient-derived retinal organoids enable modeling of retinal degeneration and highlight the importance of CRB1 in early endosome maturation receptor recycling in the retina.
+Keywords: CRB1; NOTCH1; RAB11A; VPS35; retromer; WDFY1; endolysosomal system; autophagy; cell polarity; organoids; retina
+
+Yuming Jiang, Kangneng Zhou, Zepang Sun, Hongyu Wang, Jingjing Xie, Taojun Zhang, Shengtian Sang, Md Tauhidul Islam, Jen-Yeu Wang, Chuanli Chen, Qingyu Yuan, Sujuan Xi, Tuanjie Li, Yikai Xu, Wenjun Xiong, Wei Wang, Guoxin Li, Ruijiang Li,
+Non-invasive tumor microenvironment evaluation and treatment response prediction in gastric cancer using deep learning radiomics,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101146,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101146.
+(https://www.sciencedirect.com/science/article/pii/S2666379123002999)
+Abstract: Summary
+The tumor microenvironment (TME) plays a critical role in disease progression and is a key determinant of therapeutic response in cancer patients. Here, we propose a noninvasive approach to predict the TME status from radiological images by combining radiomics and deep learning analyses. Using multi-institution cohorts of 2,686 patients with gastric cancer, we show that the radiological model accurately predicted the TME status and is an independent prognostic factor beyond clinicopathologic variables. The model further predicts the benefit from adjuvant chemotherapy for patients with localized disease. In patients treated with checkpoint blockade immunotherapy, the model predicts clinical response and further improves predictive accuracy when combined with existing biomarkers. Our approach enables noninvasive assessment of the TME, which opens the door for longitudinal monitoring and tracking response to cancer therapy. Given the routine use of radiologic imaging in oncology, our approach can be extended to many other solid tumor types.
+Keywords: tumor microenvironment; immunotherapy; deep learning; CT image; gastric cancer; radiomics; treatment response
+
+Lukas K. Peltner, Lars Gluthmann, Friedemann Börner, Simona Pace, Robert K. Hoffstetter, Christian Kretzer, Rosella Bilancia, Federica Pollastro, Andreas Koeberle, Giovanni Appendino, Antonietta Rossi, Marcia E. Newcomer, Nathaniel C. Gilbert, Oliver Werz, Paul M. Jordan,
+Cannabidiol acts as molecular switch in innate immune cells to promote the biosynthesis of inflammation-resolving lipid mediators,
+Cell Chemical Biology,
+Volume 30, Issue 12,
+2023,
+Pages 1508-1524.e7,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.08.001.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002490)
+Abstract: Summary
+Cannabinoids are phytochemicals from cannabis with anti-inflammatory actions in immune cells. Lipid mediators (LM), produced from polyunsaturated fatty acids (PUFA), are potent regulators of the immune response and impact all stages of inflammation. How cannabinoids influence LM biosynthetic networks is unknown. Here, we reveal cannabidiol (CBD) as a potent LM class-switching agent that stimulates the production of specialized pro-resolving mediators (SPMs) but suppresses pro-inflammatory eicosanoid biosynthesis. Detailed metabololipidomics analysis in human monocyte-derived macrophages showed that CBD (i) upregulates exotoxin-stimulated generation of SPMs, (ii) suppresses 5-lipoxygenase (LOX)-mediated leukotriene production, and (iii) strongly induces SPM and 12/15-LOX product formation in resting cells by stimulation of phospholipase A2-dependent PUFA release and through Ca2+-independent, allosteric 15-LOX-1 activation. Finally, in zymosan-induced murine peritonitis, CBD increased SPM and 12/15-LOX products and suppressed pro-inflammatory eicosanoid levels in vivo. Switching eicosanoid to SPM production is a plausible mode of action of CBD and a promising inflammation-resolving strategy.
+Keywords: cannabidiol; cannabinoids; lipid mediators; specialized pro-resolving mediators; 5-lipoxygenase; 15-lipoxygenase-1; inflammation; macrophages
+
+Patrícia C. Braga, Raquel L. Bernardino, Bárbara Guerra-Carvalho, David F. Carrageta, Pedro F. Oliveira, Anabela S. Rodrigues, Marco G. Alves,
+The progression from mild to severe hyperglycemia coupled with insulin resistance causes mitochondrial dysfunction and alters the metabolic secretome of epithelial kidney cells,
+Experimental Cell Research,
+Volume 431, Issue 2,
+2023,
+113744,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113744.
+(https://www.sciencedirect.com/science/article/pii/S0014482723002926)
+Abstract: Diabetic nephropathy (DN) and insulin resistance (IR) in kidney cells are considered main causes for end-stage renal failure. However, it is unclear how IR affects early stages of the disease. Here, we investigate the impact of mild (11 mM) and severe (22 mM) hyperglycemia, with and without induced IR, on cellular metabolism and mitochondrial bioenergetics in a human kidney cell line (HK-2). IR in HK-2 cells was induced with palmitic acid and cellular cytotoxicity was studied. We evaluated the impact of mild and severe hyperglycemia with and without IR on the metabolic secretome of the cells, their live-cell mitochondria function, mitochondrial membrane potential, and mitochondrial complex activities. Furthermore, we measured fatty acid oxidation and lipid accumulation. Cells cultured under mild hyperglycemic conditions exhibited increased mitochondrial bioenergetic parameters, such as basal respiration, ATP-linked production, maximal respiration capacity, and spare respiration capacity. However, these parameters decreased when cells were cultured under higher glucose concentrations when IR was induced. Our data suggests that progression from mild to severe hyperglycemia induces a metabolic shift, where gluconeogenic amino acids play a crucial role in supplying the energy requirements of HK-2. To our knowledge, this is the first study to evaluate the progression from mild to severe hyperglycemia allied to IR in human kidney cells. This work highlights that this progression leads to mitochondrial dysfunction and alters the metabolic profile of kidney cells. These results identify possible targets for early intervention in DN.
+Keywords: Diabetic nephropathy; Hyperglycemia; Insulin resistance; Metabolic reprogramming and mitochondria bioenergetics
+
+Gloria Somalo-Barranco, Antonio C. Pagano Zottola, Abdulrasheed O. Abdulrahman, Rami M. El Zein, Astrid Cannich, Lourdes Muñoz, Carme Serra, Atsuro Oishi, Giovanni Marsicano, Bernard Masri, Luigi Bellocchio, Amadeu Llebaria, Ralf Jockers,
+Mitochondria-targeted melatonin photorelease supports the presence of melatonin MT1 receptors in mitochondria inhibiting respiration,
+Cell Chemical Biology,
+Volume 30, Issue 8,
+2023,
+Pages 920-932.e7,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.07.009.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002374)
+Abstract: Summary
+The presence of signaling-competent G protein-coupled receptors in intracellular compartments is increasingly recognized. Recently, the presence of Gi/o protein-coupled melatonin MT1 receptors in mitochondria has been revealed, in addition to the plasma membrane. Melatonin is highly cell permeant, activating plasma membrane and mitochondrial receptors equally. Here, we present MCS-1145, a melatonin derivative bearing a triphenylphosphonium cation for specific mitochondrial targeting and a photocleavable o-nitrobenzyl group releasing melatonin upon illumination. MCS-1145 displayed low affinity for MT1 and MT2 but spontaneously accumulated in mitochondria, where it was resistant to washout. Uncaged MCS-1145 and exogenous melatonin recruited β-arrestin 2 to MT1 in mitochondria and inhibited oxygen consumption in mitochondria isolated from HEK293 cells only when expressing MT1 and from mouse cerebellum of WT mice but not from MT1-knockout mice. Overall, we developed the first mitochondria-targeted photoactivatable melatonin ligand and demonstrate that melatonin inhibits mitochondrial respiration through mitochondrial MT1 receptors.
+Keywords: melatonin; G protein-coupled receptors; melatonin receptors; mitochondria; mitochondria-targeted caged melatonin ligand; photopharmacology; mitochondrial respiration; intracellular signaling
+
+Lifei Wang, Rui Nie, Zhang Zhang, Weiwei Gu, Shuo Wang, Anqi Wang, Jiang Zhang, Jun Cai,
+A deep generative framework with embedded vector arithmetic and classifier for sample generation, label transfer, and clustering of single-cell data,
+Cell Reports Methods,
+Volume 3, Issue 8,
+2023,
+100558,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100558.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002023)
+Abstract: Summary
+Multiple-source single-cell datasets have accumulated quickly and need computational methods to integrate and decompose into meaningful components. Here, we present inClust (integrated clustering), a flexible deep generative framework that enables embedding auxiliary information, latent space vector arithmetic, and clustering. All functional parts are relatively modular, independent in implementation but interrelated at runtime, resulting in an all-in general framework that could work in supervised, semi-supervised, or unsupervised mode. We show that inClust is superior to most data integration methods in benchmark datasets. Then, we demonstrate the capability of inClust in the tasks of conditional out-of-distribution generation in supervised mode, label transfer in semi-supervised mode, and spatial domain identification in unsupervised mode. In these examples, inClust could accurately express the effect of each covariate, distinguish the query-specific cell types, or segment spatial domains. The results support that inClust is an excellent general framework for multiple-task harmonization and data decomposition.
+Keywords: general deep generative framework; data integration and decomposition; conditional out-of-distribution generation; label transfer and new type identification; spatial domain identification
+
+Bozeng Tang, Li Feng, Michelle T. Hulin, Pingtao Ding, Wenbo Ma,
+Cell-type-specific responses to fungal infection in plants revealed by single-cell transcriptomics,
+Cell Host & Microbe,
+Volume 31, Issue 10,
+2023,
+Pages 1732-1747.e5,
+ISSN 1931-3128,
+https://doi.org/10.1016/j.chom.2023.08.019.
+(https://www.sciencedirect.com/science/article/pii/S193131282300344X)
+Abstract: Summary
+Pathogen infection is a dynamic process. Here, we employ single-cell transcriptomics to investigate plant response heterogeneity. By generating an Arabidopsis thaliana leaf atlas encompassing 95,040 cells during infection by a fungal pathogen, Colletotrichum higginsianum, we unveil cell-type-specific gene expression, notably an enrichment of intracellular immune receptors in vasculature cells. Trajectory inference identifies cells that had different interactions with the invading fungus. This analysis divulges transcriptional reprogramming of abscisic acid signaling specifically occurring in guard cells, which is consistent with a stomatal closure dependent on direct contact with the fungus. Furthermore, we investigate the transcriptional plasticity of genes involved in glucosinolate biosynthesis in cells at the fungal infection sites, emphasizing the contribution of the epidermis-expressed MYB122 to disease resistance. This work underscores spatially dynamic, cell-type-specific plant responses to a fungal pathogen and provides a valuable resource that supports in-depth investigations of plant-pathogen interactions.
+Keywords: host-pathogen interaction; single-cell RNA-seq; plant immunity; immune response; antimicrobial metabolites; cell-type-specific gene expression; NLR; fungal pathogens; stomatal defense
+
+Anuj Anuj, Nina Reuven, Stefan G.E. Roberts, Ari Elson,
+BASP1 down-regulates RANKL-induced osteoclastogenesis,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113758,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113758.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003063)
+Abstract: The cytokine RANKL (Receptor Activator of NFκB Ligand) is the key driver of differentiation of monocytes/macrophages to form multi-nucleated, bone-resorbing osteoclasts, a process that is accompanied by significant changes in gene expression. We show that exposure to RANKL rapidly down-regulates expression of Brain Acid Soluble Protein 1 (BASP1) in cultured primary mouse bone marrow macrophages (BMMs), and that this reduced expression is causally linked to the osteoclastogenic process in vitro. Knocking down BASP1 expression in BMMs or eliminating its expression in these cells or in RAW 264.7 cells enhanced RANKL-induced osteoclastogenesis, promoted cell-cell fusion, and generated cultures containing larger osteoclasts with increased mineral degrading abilities relative to controls. Expression of exogenous BASP1 in BMMs undergoing osteoclastogenic differentiation produced the opposite effects. Upon exposure to RANKL, primary mouse BMMs in which BASP1 had been knocked down exhibited increased expression of the key osteoclastogenic transcription factor Nfatc1and of its downstream target genes Dc-stamp, Ctsk, Itgb3, and Mmp9 relative to controls. The knock-down cells also exhibited increased sensitivity to the pro-osteoclastogenic effects of RANKL. We conclude that BASP1 is a negative regulator of RANKL-induced osteoclastogenesis, which down-regulates the pro-osteoclastogenic gene expression pattern induced by this cytokine. Decreased expression of BASP1 upon exposure of BMMs to RANKL removes a negative regulator of osteoclastogenesis and promotes this process.
+Keywords: Osteoclast; Osteoclastogenesis; BASP1; RANKL; Differentiation; Bone
+
+Zoe Goldberger, Sylvie Hauert, Kevin Chang, Trevin Kurtanich, Aaron T. Alpar, Grégoire Repond, Yue Wang, Suzana Gomes, Raga Krishnakumar, Prabha Siddarth, Melody A. Swartz, Jeffrey A. Hubbell, Priscilla S. Briquez,
+Membrane-localized neoantigens predict the efficacy of cancer immunotherapy,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101145,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101145.
+(https://www.sciencedirect.com/science/article/pii/S2666379123002987)
+Abstract: Summary
+Immune checkpoint immunotherapy (ICI) can re-activate immune reactions against neoantigens, leading to remarkable remission in cancer patients. Nevertheless, only a minority of patients are responsive to ICI, and approaches for prediction of responsiveness are needed to improve the success of cancer treatments. While the tumor mutational burden (TMB) correlates positively with responsiveness and survival of patients undergoing ICI, the influence of the subcellular localizations of the neoantigens remains unclear. Here, we demonstrate in both a mouse melanoma model and human clinical datasets of 1,722 ICI-treated patients that a high proportion of membrane-localized neoantigens, particularly at the plasma membrane, correlate with responsiveness to ICI therapy and improved overall survival across multiple cancer types. We further show that combining membrane localization and TMB analyses can enhance the predictability of cancer patient response to ICI. Our results may have important implications for establishing future clinical guidelines to direct the choice of treatment toward ICI.
+Keywords: tumor mutational burden; cell membrane; neoantigens; immunotherapy; cancer; biomarkers
+
+Ken Kobayashi, Liang Han, Shan-Ni Lu, Kazuki Ninomiya, Naoki Isobe, Takanori Nishimura,
+Effects of hydrostatic compression on milk production-related signaling pathways in mouse mammary epithelial cells,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113762,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113762.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003105)
+Abstract: Abstract
+Mammary epithelial cells (MECs) secrete milk into the mammary alveolar lumen during lactation. The secreted milk accumulates in the alveolar lumen until milk ejection occurs, and excess milk accumulation downregulates milk production in alveolar MECs. Intramammary hydrostatic pressure also increases in the alveolar lumen in a manner dependent on milk accumulation. In this study, we investigated whether high hydrostatic compression directly affects lactating MECs, using a commercial compression device and a lactation culture model of MECs, which have milk production ability and less permeable tight junctions. High hydrostatic compression at 100 kPa for 8 h decreased β-casein and increased claudin-4 levels concurrently with inactivation of STAT5 and glucocorticoid receptor signaling pathways. In addition, high hydrostatic compression for 1 h inactivated STAT5 and activated p38 MAPK signaling. Furthermore, repeated rises and falls of the hourly hydrostatic compression induced activation of positive (Akt, mTOR) and negative (STAT3, NF-κB) signaling pathways for milk production concurrently with stimulation of casein and lactoferrin production in MECs. These results indicate that milk production-related signaling pathways in MECs change in response to hydrostatic compression. Hydrostatic compression of the alveolar lumen may directly regulate milk production in the alveolar MECs of lactating mammary glands.
+Keywords: Mammary epithelial cells; Hydrostatic compression; Casein; STAT5; Tight junctions
+
+Zhangjun Cheng, Nuo Cheng, Xuewu Tang, Facai Yang, Weihu Ma, Qiushi Yu, Haolan Tang, Qianru Xiao, Zhengqing Lei,
+miR-552 promotes the proliferation and metastasis of intrahepatic cholangiocarcinoma by targeting FOXO1,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113741,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113741.
+(https://www.sciencedirect.com/science/article/pii/S0014482723002896)
+Abstract: Intrahepatic cholangiocarcinoma (ICC) is a relatively rare but highly malignant cancer. Few effective systemic targeted therapies are available for patients with unresectable ICC, but there exists an urgent need to explore mechanisms underlying the initiation and progression of ICC. MicroRNA (miRNA) plays vital roles in the initiation, progression, and drug resistance of different cancers. Recently, the biological function of a novel miRNA, miR-552, has been widely analyzed in hepatocellular carcinoma and colorectal, cervical, gastric, and other cancers. However, its role in ICC has not yet been elucidated. In this study, we found that miR-552 expression was upregulated in ICC and that miR-552 predicted poor prognosis. Using functional studies, we found that miR-552 enhanced the proliferation and invasion ability of ICC cells. Mechanistic research identified that forkhead box O1 (FOXO1) is the target of miR-552 in ICC. Moreover, the combined panels of miR-552 and FOXO1 exhibited a better prognostic value for ICC patients than did miR-552 alone. In conclusion, these findings demonstrated that the miR-552/FOXO1 axis drove ICC progression, further suggesting that targeting this axis could be a novel therapeutic strategy for ICC.
+Keywords: Intrahepatic cholangiocarcinoma; miR-552; FOXO1; Prognosis; Progression
+
+Wataru Akahata, Takashi Sekida, Takuto Nogimori, Hirotaka Ode, Tomokazu Tamura, Kaoru Kono, Yoko Kazami, Ayaka Washizaki, Yuji Masuta, Rigel Suzuki, Kenta Matsuda, Mai Komori, Amber L. Morey, Keiko Ishimoto, Misako Nakata, Tomoko Hasunuma, Takasuke Fukuhara, Yasumasa Iwatani, Takuya Yamamoto, Jonathan F. Smith, Nobuaki Sato,
+Safety and immunogenicity of SARS-CoV-2 self-amplifying RNA vaccine expressing an anchored RBD: A randomized, observer-blind phase 1 study,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101134,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101134.
+(https://www.sciencedirect.com/science/article/pii/S2666379123002628)
+Abstract: Summary
+VLPCOV-01 is a lipid nanoparticle-encapsulated self-amplifying RNA (saRNA) vaccine that expresses a membrane-anchored receptor-binding domain (RBD) derived from the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike protein. A phase 1 study of VLPCOV-01 is conducted (jRCT2051210164). Participants who completed two doses of the BNT162b2 mRNA vaccine previously are randomized to receive one intramuscular vaccination of 0.3, 1.0, or 3.0 μg VLPCOV-01, 30 μg BNT162b2, or placebo. No serious adverse events have been reported. VLPCOV-01 induces robust immunoglobulin G (IgG) titers against the RBD protein that are maintained up to 26 weeks in non-elderly participants, with geometric means ranging from 5,037 (95% confidence interval [CI] 1,272–19,940) at 0.3 μg to 12,873 (95% CI 937–17,686) at 3 μg compared with 3,166 (95% CI 1,619–6,191) with 30 μg BNT162b2. Neutralizing antibody titers against all variants of SARS-CoV-2 tested are induced. VLPCOV-01 is immunogenic following low-dose administration. These findings support the potential for saRNA as a vaccine platform.
+Keywords: SARS-CoV-2; COVID-19; self-amplifying RNA; RBD antigen; booster vaccine; safety; immunogenicity
+
+Vilja Pietiäinen, Minttu Polso, Ede Migh, Christian Guckelsberger, Maria Harmati, Akos Diosdi, Laura Turunen, Antti Hassinen, Swapnil Potdar, Annika Koponen, Edina Gyukity Sebestyen, Ferenc Kovacs, Andras Kriston, Reka Hollandi, Katalin Burian, Gabriella Terhes, Adam Visnyovszki, Eszter Fodor, Zsombor Lacza, Anu Kantele, Pekka Kolehmainen, Laura Kakkola, Tomas Strandin, Lev Levanov, Olli Kallioniemi, Lajos Kemeny, Ilkka Julkunen, Olli Vapalahti, Krisztina Buzas, Lassi Paavolainen, Peter Horvath, Jussi Hepojoki,
+Image-based and machine learning-guided multiplexed serology test for SARS-CoV-2,
+Cell Reports Methods,
+Volume 3, Issue 8,
+2023,
+100565,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100565.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002096)
+Abstract: Summary
+We present a miniaturized immunofluorescence assay (mini-IFA) for measuring antibody response in patient blood samples. The method utilizes machine learning-guided image analysis and enables simultaneous measurement of immunoglobulin M (IgM), IgA, and IgG responses against different viral antigens in an automated and high-throughput manner. The assay relies on antigens expressed through transfection, enabling use at a low biosafety level and fast adaptation to emerging pathogens. Using severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) as the model pathogen, we demonstrate that this method allows differentiation between vaccine-induced and infection-induced antibody responses. Additionally, we established a dedicated web page for quantitative visualization of sample-specific results and their distribution, comparing them with controls and other samples. Our results provide a proof of concept for the approach, demonstrating fast and accurate measurement of antibody responses in a research setup with prospects for clinical diagnostics.
+Keywords: antibody response; COVID-19; high-content imaging; immunofluorescence assay; machine learning; SARS-CoV-2; serology; virus; cell-based assay; mini-IFA
+
+Alexander A. Wurm, Silke Brilloff, Sofia Kolovich, Silvia Schäfer, Elahe Rahimian, Vida Kufrin, Marius Bill, Zunamys I. Carrero, Stephan Drukewitz, Alexander Krüger, Melanie Hüther, Sebastian Uhrig, Sandra Oster, Dana Westphal, Friedegund Meier, Katrin Pfütze, Daniel Hübschmann, Peter Horak, Simon Kreutzfeldt, Daniela Richter, Evelin Schröck, Gustavo Baretton, Christoph Heining, Lino Möhrmann, Stefan Fröhling, Claudia R. Ball, Hanno Glimm,
+Signaling-induced systematic repression of miRNAs uncovers cancer vulnerabilities and targeted therapy sensitivity,
+Cell Reports Medicine,
+Volume 4, Issue 10,
+2023,
+101200,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101200.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003671)
+Abstract: Summary
+Targeted therapies are effective in treating cancer, but success depends on identifying cancer vulnerabilities. In our study, we utilize small RNA sequencing to examine the impact of pathway activation on microRNA (miRNA) expression patterns. Interestingly, we discover that miRNAs capable of inhibiting key members of activated pathways are frequently diminished. Building on this observation, we develop an approach that integrates a low-miRNA-expression signature to identify druggable target genes in cancer. We train and validate our approach in colorectal cancer cells and extend it to diverse cancer models using patient-derived in vitro and in vivo systems. Finally, we demonstrate its additional value to support genomic and transcriptomic-based drug prediction strategies in a pan-cancer patient cohort from the National Center for Tumor Diseases (NCT)/German Cancer Consortium (DKTK) Molecularly Aided Stratification for Tumor Eradication (MASTER) precision oncology trial. In conclusion, our strategy can predict cancer vulnerabilities with high sensitivity and accuracy and might be suitable for future therapy recommendations in a variety of cancer subtypes.
+Keywords: precision oncology; miRNA signatures; cancer driver; drug response; organoids; spheroids; target prediction
+
+Jacob Gadwa, Maria Amann, Thomas E. Bickett, Michael W. Knitz, Laurel B. Darragh, Miles Piper, Benjamin Van Court, Sanjana Bukkapatnam, Tiffany T. Pham, Xiao-Jing Wang, Anthony J. Saviola, Laura Codarri Deak, Pablo Umaña, Christian Klein, Angelo D’Alessandro, Sana D. Karam,
+Selective targeting of IL2Rβγ combined with radiotherapy triggers CD8- and NK-mediated immunity, abrogating metastasis in HNSCC,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101150,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101150.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003038)
+Abstract: Summary
+The implementation of cancer immunotherapies has seen limited clinical success in head and neck squamous cell carcinoma (HNSCC). Interleukin-2 (IL-2), which modulates the survival and functionality of lymphocytes, is an attractive target for new immunotherapies but one that is limited by presence of regulatory T cells (Tregs) expressing the high-affinity IL-2Rα. The bispecific immunocytokine PD1-IL2v preferentially delivers IL-2 signaling through IL-2Rβγ on PD-1-expressing cells. Selectively targeting the intermediate-affinity IL-2Rβγ can be leveraged to induce anti-tumor immune responses in effector T cells and natural killer (NK) cells while limiting the negative regulation of IL-2Rα activation on Tregs. Using radiation therapy (RT) in combination with PD1-IL2v improves local tumor control and survival, and controls metastatic spread in orthotopic HNSCC tumor models. PD1-IL2v drives systemic activation and expansion of circulating and tumor-infiltrating cytotoxic T cells and NK cells while limiting Treg-mediated immunosuppression. These data show that PD1-L2v induces durable systemic tumor control in HNSCC.
+Keywords: tumor immunology; head and neck cancer; immunotherapy; metastasis; radiation therapy; natural killer cells; cancer; IL-2; Tregs; immunocytokine
+
+Zander Claes, Mathieu Bollen,
+A split-luciferase lysate-based approach to identify small-molecule modulators of phosphatase subunit interactions,
+Cell Chemical Biology,
+Volume 30, Issue 12,
+2023,
+Pages 1666-1679.e6,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.07.018.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002428)
+Abstract: Summary
+An emerging strategy for the therapeutic targeting of protein phosphatases involves the use of compounds that interfere with the binding of regulatory subunits or substrates. However, high-throughput screening strategies for such interfering molecules are scarce. Here, we report on the conversion of the NanoBiT split-luciferase system into a robust assay for the quantification of phosphatase subunit and substrate interactions in cell lysates. The assay is suitable to screen small-molecule libraries for interfering compounds. We designed and validated split-luciferase sensors for a broad range of PP1 and PP2A holoenzymes, including sensors that selectively report on weak interaction sites. To facilitate efficient hit triaging in large-scale screening campaigns, deselection procedures were developed to eliminate assay-interfering molecules with high fidelity. As a proof-of-principle, we successfully applied the split-luciferase screening tool to identify small-molecule disruptors of the interaction between the C-terminus of PP1β and the ankyrin-repeat domain of the myosin-phosphatase targeting subunit MYPT1.
+Keywords: protein phosphatases; therapeutic targeting; drug screening; protein-protein interaction; split-luciferase; PP1; PP2A
+
+Shuai Yuan, Fengzhe Xu, Xue Li, Jie Chen, Jie Zheng, Christos S. Mantzoros, Susanna C. Larsson,
+Plasma proteins and onset of type 2 diabetes and diabetic complications: Proteome-wide Mendelian randomization and colocalization analyses,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101174,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101174.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003270)
+Abstract: Summary
+We conduct proteome-wide Mendelian randomization and colocalization analyses to decipher the associations of blood proteins with the risk of type 2 diabetes and diabetic complications. Genetic data on plasma proteome are obtained from 54,306 UK Biobank participants and 35,559 Icelanders. Summary-level data on type 2 diabetes are obtained from the DIAGRAM (DIAbetes Genetics Replication And Meta-analysis consortium) consortium (74,124 cases) and FinnGen study (33,043 cases). Data on 10 diabetic complications are obtained from FinnGen and corresponding studies. Among 1,886 proteins, genetically predicted levels of 47 plasma proteins are associated with type 2 diabetes. Eleven of these proteins have strong support of colocalization. Seventeen proteins are associated with at least one diabetic complication, although a few have colocalization support. HLA-DRA, AGER, HSPA1A, and HSPA1B are associated with most microvascular complications. This study reveals causal proteins for the onset of type 2 diabetes and diabetic complications, which enhances the understanding of molecular etiology and development of therapeutics.
+Keywords: colocalization; diabetic complication; Mendelian randomization; plasma protein; type 2 diabetes
+
+Ruosi Yao, Yan Zhang, Yindi Zeng, Yaxin Zhang, Linlin Liu, Jian Gao,
+Novel c-Myc G4 stabilizer EP12 promotes myeloma cytotoxicity by disturbing NF-κB signaling,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113759,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113759.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003075)
+Abstract: Multiple myeloma (MM) is a B-cell malignancy characterized by the excessive proliferation of bone marrow plasma cells and the production of abnormal immunoglobulins. Despite advances in therapeutic strategies, it remains an incurable disease. Recently, innovative anticancer drugs have been developed and approved, leading to improvements in MM therapy; however, drug resistance continues to be a major obstacle that results in treatment failure. Therefore, the development of novel agents is imperative to achieve superior therapeutic outcomes for relapsed/refractory multiple myeloma (MM) patients. Previously, we identified EP12 as a c-Myc G4 stabilizer that could induce cytotoxicity in MM cells in vitro. However, further investigation is required to elucidate the underlying molecular mechanisms and anti-MM activity of EP12 in vivo. In this study, we have discovered that the compound EP12 effectively inhibits primary myeloma growth in vivo by destabilizing c-Myc and disrupting the canonical nuclear factor-κB (NF-κB) signaling pathway. Overall, our findings suggest that EP12, as a potent c-Myc inhibitor, holds great promise as a therapeutic agent for MM.
+Keywords: Multiple myeloma; EP12; c-Myc G4; NF-κB signaling
+
+Zhen Liu, Mengfei Liu, Ying Liu, Ren Zhou, Amir Abliz, Wenqing Yuan, Chuanhai Guo, Lixin Zhang, Wei He, Hongchen Zheng, Yi Huang, Yaqi Pan, Fangfang Liu, Zhe Hu, Huanyu Chen, Hong Cai, Zhonghu He, Yang Ke,
+Absence of Lugol staining indicates initiation of esophageal squamous cell carcinoma: A combined genomic and epidemiologic study,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101168,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101168.
+(https://www.sciencedirect.com/science/article/pii/S266637912300321X)
+Abstract: Summary
+The genomic characteristics during the carcinogenic process of esophageal squamous cell carcinoma (ESCC) remain largely unknown. We report here the genomic characteristics of 106 esophageal tissues of various stages from a population-based screening cohort in China (“Endoscopic Screening for Esophageal Cancer in China” trial) and 57 ESCC tissues from a local hospital. A significant increase in somatic mutation and copy number alterations is observed in the non-dysplastic Lugol unstaining lesions (ND-LULs). Extensive clonal expansion has emerged in the ND-LULs to an extent similar to that in higher-stage lesions. The burden of genomic alterations correlates with the size of LULs in the ND-LULs. 8-year follow-up shows that ND-LULs harbor an increased risk of progression to ESCC (adjusted IRR6–10 mm vs. none = 4.66, adjusted IRR>10 mm vs. none = 40.70), and the risk is correlated with LUL size for both non-dysplastic and dysplastic lesions. Lugol unstaining can be the initial stage in the carcinogenic process of ESCC.
+Keywords: esophageal squamous cell carcinoma; Lugol-unstained lesions; LULs; genomic landscape; natural history
+
+Mattia Storti, Haythem Hsine, Clarisse Uwizeye, Olivier Bastien, Daniel P. Yee, Fabien Chevalier, Johan Decelle, Cécile Giustini, Daniel Béal, Gilles Curien, Giovanni Finazzi, Dimitri Tolleter,
+Tailoring confocal microscopy for real-time analysis of photosynthesis at single-cell resolution,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100568,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100568.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002126)
+Abstract: Summary
+Photoautotrophs’ environmental responses have been extensively studied at the organism and ecosystem level. However, less is known about their photosynthesis at the single-cell level. This information is needed to understand photosynthetic acclimation processes, as light changes as it penetrates cells, layers of cells, or organs. Furthermore, cells within the same tissue may behave differently, being at different developmental/physiological stages. Here, we describe an approach for single-cell and subcellular photophysiology based on the customization of confocal microscopy to assess chlorophyll fluorescence quenching by the saturation pulse method. We exploit this setup to (1) reassess the specialization of photosynthetic activities in developing tissues of non-vascular plants; (2) identify a specific subpopulation of phytoplankton cells in marine photosymbiosis, which consolidate energetic connections with their hosts; and (3) examine the link between light penetration and photoprotection responses inside the different tissues that constitute a plant leaf anatomy.
+Keywords: confocal microscopy; photoprotection; phytoplankton; non-vascular and vascular plants; light penetration; 3D reconstruction; fluorescence integration
+
+Nuerbiyemu Maimaitiaili, Yanxi Zeng, Peinan Ju, Gulinigeer Zhakeer, Guangxi E, Hongyun Yao, Yefei Shi, Ming Zhai, Jianhui Zhuang, Wenhui Peng, Deji Zhuoga, Qing Yu,
+NLRC3 deficiency promotes hypoxia-induced pulmonary hypertension development via IKK/NF-κB p65/HIF-1α pathway,
+Experimental Cell Research,
+Volume 431, Issue 2,
+2023,
+113755,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113755.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003038)
+Abstract: Hypoxia-induced pulmonary hypertension is a subgroup of type 3 pulmonary hypertension (PH) with the recommended treatment limited to oxygen therapy and lacks potential therapeutic targets. To investigate the role of NLRC3 in hypoxia-induced PH and its potential mechanism, we first collected lung tissues of high-altitude pulmonary hypertension (HAPH) patients. Immunohistochemistry and immunofluorescence showed that NLRC3 was downregulated and was mainly co-localized with the smooth muscle cells of the pulmonary vessels in HAPH patients. Besides, we found that NLRC3 was also expressed in endothelial cells in HAPH patients for the first time. Then, wild type (WT) and NLRC3 knockout (NLRC3−/−) mice were used to construct hypoxia models and primary pulmonary arterial smooth muscle cells (PASMCs) of rats and endothelial cells were cultured for verification. Right heart catheterization and echocardiography suggested that NLRC3 knockout promoted right ventricular systolic pressure (RVSP) up-regulation, right ventricular hypertrophy and fibrosis in hypoxia-induced mice. This study first demonstrated that NLRC3 deficiency promoted hypoxia-stimulated PASMCs proliferation, Human umbilical vein endothelial cells (HUVECs) apoptosis, migration and inflammation through IKK/NF-κB p65/HIF-1α pathway in vitro and in vivo, further promoted vascular remodeling and PH progression, which provided a new target for the treatment of hypoxia-induced PH.
+Keywords: Hypoxic pulmonary hypertension; NLRC3; Pulmonary arterial smooth muscle cells; Endothelial cells
+
+Yuan-Yuan Lu, Shi-Jin Li, Zhong Zhang, Shun He, Yue-Tong Guo, Mo-Na Hong, Shuai Shao, Rui-Qi Wang, Jia Zhang, Ji-Guang Wang, Ping-Jin Gao, Xiao-Dong Li,
+C-atrial natriuretic peptide (ANP)4-23 attenuates renal fibrosis in deoxycorticosterone-acetate-salt hypertensive mice,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113738,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113738.
+(https://www.sciencedirect.com/science/article/pii/S0014482723002860)
+Abstract: Epithelial-mesenchymal transition (EMT) plays a critical role in hypertension-induced renal fibrosis, a final pathway that leads to end-stage renal failure. C-Atrial natriuretic peptide (ANP)4-23, a specific agonist of natriuretic peptide receptor-C (NPR-C), has been reported to have protective effects against hypertension. However, the role of C-ANP4-23 in hypertension-associated renal fibrosis has not yet been elucidated. In this study, mice were randomly divided into SHAM group, DOCA-salt group and DOCA-salt + C-ANP4-23 group. Renal morphology changes, renal function and fibrosis were detected. Human proximal tubular epithelial cells (HK2) stimulated by aldosterone were used for cell function and mechanism study. The DOCA-salt treated mice exhibited hypertension, kidney fibrosis and renal dysfunction, which were attenuated by C-ANP4-23. Moreover, C-ANP4-23 inhibited DOCA-salt treatment-induced renal EMT as evidenced by decrease of the mesenchymal marker alpha-smooth muscle actin (ACTA2) and vimentin and increase of epithelial cell marker E-cadherin. In HK2 cells, aldosterone induced EMT response, which was also suppressed by C-ANP4-23. The key transcription factors (twist, snail, slug and ZEB1) involved in EMT were increased in the kidney of DOCA-salt-treated mice, which were also suppressed by C-ANP4-23. Mechanistically, C-ANP4-23 inhibited the aldosterone-induced translocation of MR from cytosol to nucleus without change of MR expression. Furthermore, C-ANP4-23 rescued the enhanced expression of NADPH oxidase (NOX) 4 and oxidative stress after aldosterone stimulation. Aldosterone-induced Akt and Erk1/2 activation was also suppressed by C-ANP4-23. Our data suggest that C-ANP4-23 attenuates renal fibrosis, likely through inhibition of MR activation, enhanced oxidative stress and Akt and Erk1/2 signaling pathway.
+Keywords: Natriuretic peptide receptor C; Hypertension; Renal fibrosis; Epithelial-to-mesenchymal transition; DOCA
+
+Xiaohui Li, Xiating Long, Liu Chen, Xiao Guo, Lining Lu, Lihua Hu, Zheng-Guo He,
+Mycobacterial phage TM4 requires a eukaryotic-like Ser/Thr protein kinase to silence and escape anti-phage immunity,
+Cell Host & Microbe,
+Volume 31, Issue 9,
+2023,
+Pages 1469-1480.e4,
+ISSN 1931-3128,
+https://doi.org/10.1016/j.chom.2023.07.005.
+(https://www.sciencedirect.com/science/article/pii/S1931312823003001)
+Abstract: Summary
+In eukaryotic cells, serine/threonine protein kinases (StpKs) play important roles in limiting viral infections. StpKs are commonly activated upon infections, inhibiting the expression of genes central for viral replication. Here, we report that a eukaryotic-like StpK7 encoded by MSMEG_1200 in M. smegmatis is required for mycobacteriophage TM4 to escape bacterial defense. stpK7 is located within a gene island, MSMEG_1191-MSMEG_1200, containing multiple anti-phage genes resembling the BREX (bacteriophage exclusion) phage-resistance system. StpK7 negatively regulates the expression of this gene island. Following phage TM4 infection, StpK7 is induced, directly phosphorylating the transcriptional regulator MSMEG_1198 and inhibiting its positive regulatory activity, thus reducing the expression of multiple downstream genes in the BREX-like gene island. Further analysis showed that genes within this anti-phage island critically regulate mycobacterial lipid hemostasis and phage adsorption. Collectively, this work characterizes a regulatory network driven by StpK7, which is utilized by phage TM4 to escape from the host defense against mycobacteria.
+Keywords: Ser/Thr protein kinase; phage; anti-phage defense; gene island; M. smegmatis
+
+Ali R. Ahmadi, George Atiee, Bart Chapman, Laurie Reynolds, John Sun, Andrew M. Cameron, Russell N. Wesson, James F. Burdick, Zhaoli Sun,
+A phase I, first-in-human study to evaluate the safety and tolerability, pharmacokinetics, and pharmacodynamics of MRG-001 in healthy subjects,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101169,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101169.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003221)
+Abstract: Summary
+Preclinical studies demonstrate that pharmacological mobilization and recruitment of endogenous bone marrow stem cells and immunoregulatory cells by a fixed-dose drug combination (MRG-001) improves wound healing, promotes tissue regeneration, and prevents allograft rejection. In this phase I, first-in-human study, three cohorts receive subcutaneous MRG-001 or placebo, every other day for 5 days. The primary outcome is safety and tolerability of MRG-001. Fourteen subjects received MRG-001 and seven received a placebo. MRG-001 is safe over the selected dose range. There are no clinically significant laboratory changes. The intermediate dose group demonstrates the most significant white blood cell, stem cell, and immunoregulatory cell mobilization. PBMC RNA sequencing and gene set enrichment analysis reveal 31 down-regulated pathways in the intermediate MRG-001 dose group compared with no changes in the placebo group. MRG-001 is safe across all dose ranges. MRG-001 may be a clinically useful therapy for immunoregulation and tissue regeneration (ClinicalTrials.gov: NCT04646603).
+Keywords: clinical trial; phase I; healthy volunteers; safety; MRG-001; stem cells; plerixafor; tacrolimus; pharmacokinetics; pharmacodynamics
+
+Ruiyan Kong, Juan Li, Fuli Liu, Yankun Ma, Hang Zhao, Hanfei Zhao, Meifang Ma, Zhouhua Li,
+A feedforward loop between JAK/STAT downstream target p115 and STAT in germline stem cells,
+Stem Cell Reports,
+Volume 18, Issue 10,
+2023,
+Pages 1940-1953,
+ISSN 2213-6711,
+https://doi.org/10.1016/j.stemcr.2023.08.007.
+(https://www.sciencedirect.com/science/article/pii/S2213671123003065)
+Abstract: Summary
+The maintenance of germline stem cells (GSCs) is essential for tissue homeostasis. JAK/STAT signaling maintains GSC fate in Drosophila testis. However, how JAK/STAT signaling maintains male GSC fate through its downstream targets remains poorly understood. Here, we identify p115, a tER/cis-Golgi golgin protein, as a putative downstream target of JAK/STAT signaling. p115 maintains GSC fate independent of GM130 and GRASP65. p115 localizes in cytosol, the ER and Golgi apparatus in germline cells and is required for the morphology of the ER and Golgi apparatus. Furthermore, depletion of p115 in GSCs results in aberrant spindle orientation. Mechanistically, p115 associates with and stabilizes STAT. Finally, ectopic expression of STAT completely restores GSC loss caused by p115 depletion. Collectively, JAK/STAT signaling and p115 form a feedforward loop to maintain male GSC fate. Our work provides new insights into the regulatory mechanism of how stem cell maintenance is properly controlled by JAK/STAT signaling.
+Keywords: germline stem cell; p115; Drosophila; maintenance; JAK/STAT; Stat92E; Dam-ID; testis; downstream target; spindle orientation
+
+Na Wang, Yu Qian, Ruixue Xia, Xinyan Zhu, Yangjie Xiong, Anqi Zhang, Changyou Guo, Yuanzheng He,
+Structural basis of CD97 activation and G-protein coupling,
+Cell Chemical Biology,
+Volume 30, Issue 11,
+2023,
+Pages 1343-1353.e5,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.08.003.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002751)
+Abstract: Summary
+CD97 (ADGRE5) is an adhesion G protein-coupled receptor (aGPCR) which plays crucial roles in immune system and cancer. However, the mechanism of CD97 activation and the determinant of G13 coupling selectivity remain unknown. Here, we present the cryo-electron microscopy structures of human CD97 in complex with G13, Gq, and Gs. Our structures reveal the stalk peptide recognition mode of CD97, adding missing information of the current tethered-peptide activation model of aGPCRs. For instance, a revised “FXφφφ” motif and a framework of conserved aromatic residues in the ligand-binding pocket. Importantly, structural comparisons of G13, Gq, and Gs engagements of CD97 reveal key determinants of G13 coupling selectivity, where a deep insertion of the α helix 5 and a closer contact with the transmembrane helix 6, 5, and 3 dictate coupling preferences. Taken together, our structural study of CD97 provides a framework for understanding CD97 signaling and the G13 coupling selectivity.
+Keywords: CD97; aGPCR; G13 coupling; G-protein coupling selectivity
+
+Kim Han, Komudi Singh, Allison M. Meadows, Rahul Sharma, Shahin Hassanzadeh, Jing Wu, Haley Goss-Holmes, Rebecca D. Huffstutler, Heather L. Teague, Nehal N. Mehta, Julian L. Griffin, Rong Tian, Javier Traba, Michael N. Sack,
+Boosting NAD preferentially blunts Th17 inflammation via arginine biosynthesis and redox control in healthy and psoriasis subjects,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101157,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101157.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003105)
+Abstract: Summary
+To evaluate whether nicotinamide adenine dinucleotide-positive (NAD+) boosting modulates adaptive immunity, primary CD4+ T cells from healthy control and psoriasis subjects were exposed to vehicle or nicotinamide riboside (NR) supplementation. NR blunts interferon γ (IFNγ) and interleukin (IL)-17 secretion with greater effects on T helper (Th) 17 polarization. RNA sequencing (RNA-seq) analysis implicates NR blunting of sequestosome 1 (sqstm1/p62)-coupled oxidative stress. NR administration increases sqstm1 and reduces reactive oxygen species (ROS) levels. Furthermore, NR activates nuclear factor erythroid 2-related factor 2 (Nrf2), and genetic knockdown of nrf2 and the Nrf2-dependent gene, sqstm1, diminishes NR amelioratory effects. Metabolomics analysis identifies that NAD+ boosting increases arginine and fumarate biosynthesis, and genetic knockdown of argininosuccinate lyase ameliorates NR effects on IL-17 production. Hence NR via amino acid metabolites orchestrates Nrf2 activation, augments CD4+ T cell antioxidant defenses, and attenuates Th17 responsiveness. Oral NR supplementation in healthy volunteers similarly increases serum arginine, sqstm1, and antioxidant enzyme gene expression and blunts Th17 immune responsiveness, supporting evaluation of NAD+ boosting in CD4+ T cell-linked inflammation.
+Keywords: NAD+ boosting; CD4+ T cell; Th17 cell; psoriasis; nicotinamide riboside; nrf2; arginine biosynthesis
+
+Xiaoyuan Wang, Chi Zhang, Na Dong, Hai'e Xu, Yi Zhou, Dawei Hou,
+E2F1-driven histone demethylase KDM6B enhances thyroid malignancy via manipulating TFEB-dependent autophagy axis,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113742,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113742.
+(https://www.sciencedirect.com/science/article/pii/S0014482723002902)
+Abstract: Aberrant epigenetic modifications or events regulate autophagy to influence tumor progression, which has gained increasing attention. KDM6B is an essential histone demethylase that participates in multiple processes of tumors, but its role in thyroid carcinoma (THCA) remains to be unknown. Here, in this study, we used the MTT assay to screen and validate that KDM6B is an essential demethylase for THCA. KDM6B promotes THCA proliferation, migration, invasion in vitro and in vivo. Transcriptional factor E2F1 directly binds to the promoter region of KDM6B and regulates its mRNA levels in THCA. E2F1 partially depended on KDM6B to exert its oncogenic functions. Mechanistically, KDM6B binds to TFEB promoter region and mediates the demethylation of H3K27me3. KDM6B depended on TFEB to activate a series of lysosomal-related genes. KDM6B enhances autophagy process, as evidenced by elevated p62 and Beclin-1 proteins. KDM6B depended on TFEB-driven autophagy activity to accelerate THCA progression. Lastly, targeting autophagy with 3-MA could notably abrogate growth of KDM6Bhigh THCA, but has mild influence on KDM6Blow THCA. Together, this study identified KDM6B as an essential epigenetic regulator for THCA, functioning as an autophagy regulator. The fundamental mechanisms underlying E2F1/KDM6B/TFEB axis provided novel vulnerabilities for THCA treatment.
+Keywords: KDM6B; TFEB; Autophagy; 3-MA; Thyroid carcinoma
+
+Ksenia Sokolova, Chandra L. Theesfeld, Aaron K. Wong, Zijun Zhang, Kara Dolinski, Olga G. Troyanskaya,
+Atlas of primary cell-type-specific sequence models of gene expression and variant effects,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100580,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100580.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002242)
+Abstract: Summary
+Human biology is rooted in highly specialized cell types programmed by a common genome, 98% of which is outside of genes. Genetic variation in the enormous noncoding space is linked to the majority of disease risk. To address the problem of linking these variants to expression changes in primary human cells, we introduce ExPectoSC, an atlas of modular deep-learning-based models for predicting cell-type-specific gene expression directly from sequence. We provide models for 105 primary human cell types covering 7 organ systems, demonstrate their accuracy, and then apply them to prioritize relevant cell types for complex human diseases. The resulting atlas of sequence-based gene expression and variant effects is publicly available in a user-friendly interface and readily extensible to any primary cell types. We demonstrate the accuracy of our approach through systematic evaluations and apply the models to prioritize ClinVar clinical variants of uncertain significance, verifying our top predictions experimentally.
+Keywords: deep learning; gene expression prediction; functional genomics; human disease; variant effects
+
+Hongchao Ji, Xue Lu, Shiji Zhao, Qiqi Wang, Bin Liao, Ludwig G. Bauer, Kilian V.M. Huber, Ray Luo, Ruijun Tian, Chris Soon Heng Tan,
+Target deconvolution with matrix-augmented pooling strategy reveals cell-specific drug-protein interactions,
+Cell Chemical Biology,
+Volume 30, Issue 11,
+2023,
+Pages 1478-1487.e7,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.08.002.
+(https://www.sciencedirect.com/science/article/pii/S245194562300274X)
+Abstract: Summary
+Target deconvolution is a crucial but costly and time-consuming task that hinders large-scale profiling for drug discovery. We present a matrix-augmented pooling strategy (MAPS) which mixes multiple drugs into samples with optimized permutation and delineates targets of each drug simultaneously with mathematical processing. We validated this strategy with thermal proteome profiling (TPP) testing of 15 drugs concurrently, increasing experimental throughput by 60x while maintaining high sensitivity and specificity. Benefiting from the lower cost and higher throughput of MAPS, we performed target deconvolution of the 15 drugs across 5 cell lines. Our profiling revealed that drug-target interactions can differ vastly in targets and binding affinity across cell lines. We further validated BRAF and CSNK2A2 as potential off-targets of bafetinib and abemaciclib, respectively. This work represents the largest thermal profiling of structurally diverse drugs across multiple cell lines to date.
+Keywords: target deconvolution; chemical proteomics; chemical biology; drug discovery; drug development; protein mass spectrometry; cellular thermal shift assay; proteome thermal profiling
+
+Yuqing Yan, Zhenhua Wang, Yi-Lu Zhou, Ziyun Gao, Lijun Ning, Ying Zhao, Baoqin Xuan, Yanru Ma, Tianying Tong, Xiaowen Huang, Muni Hu, Jing-Yuan Fang, Zhe Cui, Haoyan Chen, Jie Hong,
+Commensal bacteria promote azathioprine therapy failure in inflammatory bowel disease via decreasing 6-mercaptopurine bioavailability,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101153,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101153.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003063)
+Abstract: Summary
+Azathioprine (AZA) therapy failure, though not the primary cause, contributes to disease relapse and progression in inflammatory bowel disease (IBD). However, the role of gut microbiota in AZA therapy failure remains poorly understood. We found a high prevalence of Blautia wexlerae in patients with IBD with AZA therapy failure, associated with shorter disease flare survival time. Colonization of B. wexlerae increased inflammatory macrophages and compromised AZA’s therapeutic efficacy in mice with intestinal colitis. B. wexlerae colonization reduced 6-mercaptopurine (6-MP) bioavailability by enhancing selenium-dependent xanthine dehydrogenase (sd-XDH) activity. The enzyme sd-XDH converts 6-MP into its inactive metabolite, 6-thioxanthine (6-TX), thereby impairing its ability to inhibit inflammation in mice. Supplementation with Bacillus (B.) subtilis enriched in hypoxanthine phosphoribosyltransferase (HPRT) effectively mitigated B. wexlerae-induced AZA treatment failure in mice with intestinal colitis. These findings emphasize the need for tailored management strategies based on B. wexlerae levels in patients with IBD.
+Keywords: inflammatory bowel disease; microbiome; azathioprine therapy failure; biotransformation; 6-mercaptopurine
+
+Chiamaka Valerie Ukegbu, Ana Rita Gomes, Maria Giorgalli, Melina Campos, Alexander J. Bailey, Tanguy Rene Balthazar Besson, Oliver Billker, Dina Vlachou, George K. Christophides,
+Identification of genes required for Plasmodium gametocyte-to-sporozoite development in the mosquito vector,
+Cell Host & Microbe,
+Volume 31, Issue 9,
+2023,
+Pages 1539-1551.e6,
+ISSN 1931-3128,
+https://doi.org/10.1016/j.chom.2023.08.010.
+(https://www.sciencedirect.com/science/article/pii/S1931312823003359)
+Abstract: Summary
+Malaria remains one of the most devastating infectious diseases. Reverse genetic screens offer a powerful approach to identify genes and molecular processes governing malaria parasite biology. However, the complex regulation of gene expression and genotype-phenotype associations in the mosquito vector, along with sexual reproduction, have hindered the development of screens in this critical part of the parasite life cycle. To address this, we developed a genetic approach in the rodent parasite Plasmodium berghei that, in combination with barcode sequencing, circumvents the fertilization roadblock and enables screening for gametocyte-expressed genes required for parasite infection of the mosquito Anopheles coluzzii. Our results confirm previous findings, validating our approach for scaling up, and identify genes necessary for mosquito midgut infection, oocyst development, and salivary gland infection. These findings can aid efforts to study malaria transmission biology and to develop interventions for controlling disease transmission.
+Keywords: malaria transmission; signature-tagged mutagenesis; host-parasite interactions; gametocyte expression; ookinete gliding motility; ookinete vesicle trafficking; crystalloid; oocyst; sporozoite infectivity; salivary gland invasion
+
+Holly C. Armstrong, Debbie J.F. Russell, Simon E.W. Moss, Paddy Pomeroy, Kimberley A. Bennett,
+Fitness correlates of blubber oxidative stress and cellular defences in grey seals (Halichoerus grypus): support for the life-history-oxidative stress theory from an animal model of simultaneous lactation and fasting,
+Cell Stress and Chaperones,
+Volume 28, Issue 5,
+2023,
+Pages 551-566,
+ISSN 1355-8145,
+https://doi.org/10.1007/s12192-023-01332-1.
+(https://www.sciencedirect.com/science/article/pii/S1355814523000093)
+Abstract: Life-history-oxidative stress theory predicts that elevated energy costs during reproduction reduce allocation to defences and increase cellular stress, with fitness consequences, particularly when resources are limited. As capital breeders, grey seals are a natural system in which to test this theory. We investigated oxidative damage (malondialdehyde (MDA) concentration) and cellular defences (relative mRNA abundance of heat shock proteins (Hsps) and redox enzymes (REs)) in blubber of wild female grey seals during the lactation fast (n = 17) and summer foraging (n = 13). Transcript abundance of Hsc70 increased, and Nox4, a pro-oxidant enzyme, decreased throughout lactation. Foraging females had higher mRNA abundance of some Hsps and lower RE transcript abundance and MDA concentrations, suggesting they experienced lower oxidative stress than lactating mothers, which diverted resources into pup rearing at the expense of blubber tissue damage. Lactation duration and maternal mass loss rate were both positively related to pup weaning mass. Pups whose mothers had higher blubber glutathione-S-transferase (GST) expression at early lactation gained mass more slowly. Higher glutathione peroxidase (GPx) and lower catalase (CAT) were associated with longer lactation but reduced maternal transfer efficiency and lower pup weaning mass. Cellular stress, and the ability to mount effective cellular defences, could proscribe lactation strategy in grey seal mothers and thus affect pup survival probability. These data support the life-history-oxidative stress hypothesis in a capital breeding mammal and suggest lactation is a period of heightened vulnerability to environmental factors that exacerbate cellular stress. Fitness consequences of stress may thus be accentuated during periods of rapid environmental change.
+Keywords: Cellular stress; Cellular chaperone; Adipose; Trade off; Pinniped
+
+Li Zhang, Liping Luo, Qiaoyun Zheng, Wenfeng Wang, Zhongyang Huang, Jianda Hu, Yingyu Chen,
+Emodin derivative E35 and its combination with autophagy inhibitor against acute myeloid leukemia cells in vitro and in vivo,
+Experimental Cell Research,
+Volume 432, Issue 2,
+2023,
+113780,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113780.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003282)
+Abstract: Acute myeloid leukemia (AML) is an aggressive hematopoietic malignancy with poor prognosis and high recurrence rate. The discovery of more effective therapeutic strategies for AML plays a crucial role. The present work showed that E35, a novel derivative of emodin, significantly inhibited cell proliferation and induced autophagy and apoptosis in AML cells. Treatment with E35 markedly induced Beclin-1, LC3-II, cleaved Caspase-9 and PARP, and suppressed mitogen-activated protein kinase (MAPK) pathway. E35 exposure evoked autophagic activity prior to apoptosis induction, and autophagy inhibition by 3-methyladenine (3-MA) dramatically increased E35-induced apoptosis in both AML cell lines and patient-derived AML cells. Nevertheless, study on AML xenograft model showed that the combination E35 with 3-MA exhibited much more inhibitory effects on leukemia cell growth in vivo. No obvious adverse reactions occurred in the xenograft animals administered E35 alone or its cotreatment with 3-MA. These findings suggest that E35 could exert anti-leukemia effects, and that the combination of E35 and autophagy inhibitor might prove a more highly efficient strategy for AML treatment.
+Keywords: E35; Acute myeloid leukemia; Proliferation; Autophagy; Apoptosis
+
+Miri Varshavsky, Gil Harari, Benjamin Glaser, Yuval Dor, Ruth Shemer, Tommy Kaplan,
+Accurate age prediction from blood using a small set of DNA methylation sites and a cohort-based machine learning algorithm,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100567,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100567.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002114)
+Abstract: Summary
+Chronological age prediction from DNA methylation sheds light on human aging, health, and lifespan. Current clocks are mostly based on linear models and rely upon hundreds of sites across the genome. Here, we present GP-age, an epigenetic non-linear cohort-based clock for blood, based upon 11,910 methylomes. Using 30 CpG sites alone, GP-age outperforms state-of-the-art models, with a median accuracy of ∼2 years on held-out blood samples, for both array and sequencing-based data. We show that aging-related changes occur at multiple neighboring CpGs, with implications for using fragment-level analysis of sequencing data in aging research. By training three independent clocks, we show enrichment of donors with consistent deviation between predicted and actual age, suggesting individual rates of biological aging. Overall, we provide a compact yet accurate alternative to array-based clocks for blood, with applications in longitudinal aging research, forensic profiling, and monitoring epigenetic processes in transplantation medicine and cancer.
+Keywords: aging; DNA methylation; computational biology; machine learning; epigenetics
+
+Violetta A. Maltabe, Anna N. Melidoni, Dimitris Beis, Ioannis Kokkinopoulos, Nikolaos Paschalidis, Panos Kouklis,
+VE-CADHERIN is expressed transiently in early ISL1+ cardiovascular progenitor cells and facilitates cardiac differentiation,
+Stem Cell Reports,
+Volume 18, Issue 9,
+2023,
+Pages 1827-1840,
+ISSN 2213-6711,
+https://doi.org/10.1016/j.stemcr.2023.07.002.
+(https://www.sciencedirect.com/science/article/pii/S2213671123002643)
+Abstract: Summary
+Adherens junctions (AJs) provide adhesive properties through cadherins and associated cytoplasmic catenins and participate in morphogenetic processes. We examined AJs formed between ISL1+ cardiovascular progenitor cells during differentiation of embryonic stem cells (ESCs) in vitro and in mouse embryogenesis in vivo. We found that, in addition to N-CADHERIN, a percentage of ISL1+ cells transiently formed vascular endothelial (VE)-CADHERIN-mediated AJs during in vitro differentiation on days 4 and 5, and the same pattern was observed in vivo. Fluorescence-activated cell sorting (FACS) analysis extended morphological data showing that VE-CADHERIN+/ISL1+ cells constitute a significant percentage of cardiac progenitors on days 4 and 5. The VE-CADHERIN+/ISL1+ cell population represented one-third of the emerging FLK1+/PDGFRa+ cardiac progenitor cells (CPCs) for a restricted time window (days 4–6). Ablation of VE-CADHERIN during ESC differentiation results in severe inhibition of cardiac differentiation. Disruption of all classic cadherins in the VE-CADHERIN+ population via a cadherin dominant-negative mutant’s expression resulted in a dramatic decrease in the ISL1+ population and inhibition of cardiac differentiation.
+Keywords: Adherens Junctions; Cadherins; Cardiac progenitors; ISL1; VE-CADHERIN; N-CADHERIN; MEF2C; FLK1; Embryonic Stem Cells
+
+Dhanashree Mundhe, Rupa Mishra, Srikanta Basu, Sorab Dalal, Sanjeev Kumar, Tanuja Teni,
+ΔNp63 overexpression promotes oral cancer cell migration through hyperactivated Activin A signaling,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113739,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113739.
+(https://www.sciencedirect.com/science/article/pii/S0014482723002872)
+Abstract: Oral cancer is a common malignant tumor of the oral cavity that affects many countries with a prevalent distribution in the Indian subcontinent, with poor prognosis rate on account of locoregional metastases. Gain-of-function mutations in p53 and overexpression of its related transcription factor, p63 are both widely reported events in oral cancers. However, targeting these alterations remains a far-achieved aim due to lack of knowledge on their downstream signaling pathways. In the present study, we characterize the isoforms of p63 and using knockdown strategy, decipher the functions and oncogenic signaling of p63 in oral cancers. Using Microarray and Chromatin Immunoprecipitation experiments, we decipher a novel transcriptional regulatory axis between p63 and Activin A and establish its functional significance in migration of oral cancer cells. Using an orally bioavailable inhibitor of the Activin A pathway to attenuate oral cancer cell migration and invasion, we further demonstrate the targetability of this signaling axis. Our study highlights the oncogenic role of ΔNp63 – Activin A – SMAD2/3 signaling and provides a basis for targeting this oncogenic pathway in oral cancers.
+Keywords: Oral cancer; p63; Activin A; SMAD2/3; Vactosertib inhibitor; Cell migration
+
+Aohan Liu, Yuchen Guo, Jinhao Lyu, Jing Xie, Feng Xu, Xin Lou, Jun-hai Yong, Qionghai Dai,
+Automatic intracranial abnormality detection and localization in head CT scans by learning from free-text reports,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101164,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101164.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003178)
+Abstract: Summary
+Deep learning has yielded promising results for medical image diagnosis but relies heavily on manual image annotations, which are expensive to acquire. We present Cross-DL, a cross-modality learning framework for intracranial abnormality detection and localization in head computed tomography (CT) scans by learning from free-text imaging reports. Cross-DL has a discretizer that automatically extracts discrete labels of abnormality types and locations from reports, which are utilized to train an image analyzer by a dynamic multi-instance learning approach. Benefiting from the low annotation cost and a consequent large-scale training set of 28,472 CT scans, Cross-DL achieves accurate performance, with an average area under the receiver operating characteristic curve (AUROC) of 0.956 (95% confidence interval: 0.952–0.959) in detecting 4 abnormality types in 17 regions while accurately localizing abnormalities at the voxel level. An intracranial hemorrhage classification experiment on the external dataset CQ500 achieves an AUROC of 0.928 (0.905–0.951). The model can also help review prioritization.
+
+Younghoon Kim, Pooreum Seo, Eunhye Jeon, Inchul You, Kyubin Hwang, Namkyoung Kim, Jason Tse, Juhyeon Bae, Ha-Soon Choi, Stephen M. Hinshaw, Nathanael S. Gray, Taebo Sim,
+Targeted kinase degradation via the KLHDC2 ubiquitin E3 ligase,
+Cell Chemical Biology,
+Volume 30, Issue 11,
+2023,
+Pages 1414-1420.e5,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.07.008.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002362)
+Abstract: Summary
+Chemically induced protein degradation is a powerful strategy for perturbing cellular biochemistry. The predominant mechanism of action for protein degrader drugs involves an induced proximity between the cellular ubiquitin-conjugation machinery and a target. Unlike traditional small molecule enzyme inhibition, targeted protein degradation can clear an undesired protein from cells. We demonstrate here the use of peptide ligands for Kelch-like homology domain-containing protein 2 (KLHDC2), a substrate adapter protein and member of the cullin-2 (CUL2) ubiquitin ligase complex, for targeted protein degradation. Peptide-based bivalent compounds that can induce proximity between KLHDC2 and target proteins cause degradation of the targeted factors. The cellular activity of these compounds depends on KLHDC2 binding. This work demonstrates the utility of KLHDC2 for targeted protein degradation and exemplifies a strategy for the rational design of peptide-based ligands useful for this purpose.
+Keywords: PROTAC; targeted protein degradation; KLHDC2
+
+Manqi Zhou, Hao Zhang, Zilong Bai, Dylan Mann-Krzisnik, Fei Wang, Yue Li,
+Single-cell multi-omics topic embedding reveals cell-type-specific and COVID-19 severity-related immune signatures,
+Cell Reports Methods,
+Volume 3, Issue 8,
+2023,
+100563,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100563.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002072)
+Abstract: Summary
+The advent of single-cell multi-omics sequencing technology makes it possible for researchers to leverage multiple modalities for individual cells and explore cell heterogeneity. However, the high-dimensional, discrete, and sparse nature of the data make the downstream analysis particularly challenging. Here, we propose an interpretable deep learning method called moETM to perform integrative analysis of high-dimensional single-cell multimodal data. moETM integrates multiple omics data via a product-of-experts in the encoder and employs multiple linear decoders to learn the multi-omics signatures. moETM demonstrates superior performance compared with six state-of-the-art methods on seven publicly available datasets. By applying moETM to the scRNA + scATAC data, we identified sequence motifs corresponding to the transcription factors regulating immune gene signatures. Applying moETM to CITE-seq data from the COVID-19 patients revealed not only known immune cell-type-specific signatures but also composite multi-omics biomarkers of critical conditions due to COVID-19, thus providing insights from both biological and clinical perspectives.
+Keywords: SM; single-cell multiomics; VAE; variational autoencoder; ETM; embedding topipc model; DL; deep learning
+
+Musashi Kubiura-Ichimaru, Christopher Penfold, Kazuaki Kojima, Constance Dollet, Haruka Yabukami, Katsunori Semi, Yasuhiro Takashima, Thorsten Boroviak, Hideya Kawaji, Knut Woltjen, Aki Minoda, Erika Sasaki, Toshiaki Watanabe,
+mRNA-based generation of marmoset PGCLCs capable of differentiation into gonocyte-like cells,
+Stem Cell Reports,
+Volume 18, Issue 10,
+2023,
+Pages 1987-2002,
+ISSN 2213-6711,
+https://doi.org/10.1016/j.stemcr.2023.08.006.
+(https://www.sciencedirect.com/science/article/pii/S2213671123003053)
+Abstract: Summary
+Primate germ cell development remains largely unexplored due to limitations in sample collection and the long duration of development. In mice, primordial germ cell-like cells (PGCLCs) derived from pluripotent stem cells (PSCs) can develop into functional gametes by in vitro culture or in vivo transplantation. Such PGCLC-mediated induction of mature gametes in primates is highly useful for understanding human germ cell development. Since marmosets generate functional sperm earlier than other species, recapitulating the whole male germ cell development process is technically more feasible. Here, we induced the differentiation of iPSCs into gonocyte-like cells via PGCLCs in marmosets. First, we developed an mRNA transfection-based method to efficiently generate PGCLCs. Subsequently, to promote PGCLC differentiation, xenoreconstituted testes (xrtestes) were generated in the mouse kidney capsule. PGCLCs show progressive DNA demethylation and stepwise expression of developmental marker genes. This study provides an efficient platform for the study of marmoset germ cell development.
+Keywords: germ cells; marmosets; primate; iPSCs; gonocytes; PGCLCs; development; DNA methylation; mRNA transfection; SOX17
+
+Clarissa A. Whitehead, Andrew P. Morokoff, Andrew H. Kaye, Katharine J. Drummond, Theo Mantamadiotis, Stanley S. Stylli,
+Invadopodia associated Thrombospondin-1 contributes to a post-therapy pro-invasive response in glioblastoma cells,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113743,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113743.
+(https://www.sciencedirect.com/science/article/pii/S0014482723002914)
+Abstract: A critical challenge in the treatment of glioblastoma (GBM) is its highly invasive nature which promotes cell migration throughout the brain and hinders surgical resection and effective drug delivery. GBM cells demonstrate augmented invasive capabilities following exposure to the current gold standard treatment of radiotherapy (RT) and concomitant and adjuvant temozolomide (TMZ), resulting in rapid disease recurrence. Elucidating the mechanisms employed by post-treatment invasive GBM cells is critical to the development of more effective therapies. In this study, we utilized a Nanostring® Cancer Progression gene expression panel to identify candidate genes that may be involved in enhanced GBM cell invasion after treatment with clinically relevant doses of RT/TMZ. Our findings identified thrombospondin-1 (THBS1) as a pro-invasive gene that is upregulated in these cells. Immunofluorescence staining revealed that THBS1 localised within functional matrix-degrading invadopodia that formed on the surface of GBM cells. Furthermore, overexpression of THBS1 resulted in enhanced GBM cell migration and secretion of MMP-2, which was reduced with silencing of THBS1. The preliminary data demonstrates that THBS1 is associated with invadopodia in GBM cells and is likely involved in the invadopodia-mediated invasive process in GBM cells exposed to RT/TMZ treatment. Therapeutic inhibition of THBS1-mediated invadopodia activity, which facilitates GBM cell invasion, should be further investigated as a treatment for GBM.
+Keywords: Glioblastoma; GBM; Invadopodia; Invasion; Migration; Matrix metalloprotease; Radiotherapy; Temozolomide; Stupp
+
+Hiroshi Takata, Julie L. Mitchell, Julian Pacheco, Amélie Pagliuzza, Suteeraporn Pinyakorn, Supranee Buranapraditkun, Carlo Sacdalan, Louise Leyre, Sam Nathanson, Juyeon C. Kakazu, Jintana Intasan, Peeriya Prueksakaew, Nitiya Chomchey, Nittaya Phanuphak, Mark de Souza, Elias K. Haddad, Morgane Rolland, Sodsai Tovanabutra, Sandhya Vasan, Denise C. Hsu, Nicolas Chomont, Lydie Trautmann,
+An active HIV reservoir during ART is associated with maintenance of HIV-specific CD8+ T cell magnitude and short-lived differentiation status,
+Cell Host & Microbe,
+Volume 31, Issue 9,
+2023,
+Pages 1494-1506.e4,
+ISSN 1931-3128,
+https://doi.org/10.1016/j.chom.2023.08.012.
+(https://www.sciencedirect.com/science/article/pii/S1931312823003372)
+Abstract: Summary
+Before initiation of antiretroviral therapy (ART), HIV-specific CD8+ T cells are dysfunctional and short lived. To better understand the relationship between the HIV reservoir in CD4+ T cells and the magnitude and differentiation status of HIV-specific CD8+ T cells, we investigated these cells from acute and chronic HIV-infected individuals after 2 years of ART. Although both the HIV reservoir and the CD8+ T cell responses declined significantly after 2 years of ART, sustained HIV-specific CD8+ T cell responses correlated with a greater reduction of integrated HIV provirus. However, the magnitude of CD8+ T cells specific for HIV Gag, Pol, Nef, and Vif proteins positively associated with the active reservoir size during ART, measured as cell-associated RNA. Importantly, high HIV DNA levels strongly associate with maintenance of short-lived HIV-specific CD8+ T cells, regardless of ART initiation time. Our data suggest that the active reservoir maintains HIV-specific CD8+ T cell magnitude but prevents their differentiation into functional cells.
+Keywords: HIV; antiretroviral therapy; HIV reservoir; CD8 T cells; cell differentiation
+
+Yuhan Zhang, Junyi Hu, Kai Ji, Shengpeng Jiang, Yang Dong, Lin Sun, Jun Wang, Guangyuan Hu, Dawei Chen, Ke Chen, Zhen Tao,
+CD39 inhibition and VISTA blockade may overcome radiotherapy resistance by targeting exhausted CD8+ T cells and immunosuppressive myeloid cells,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101151,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101151.
+(https://www.sciencedirect.com/science/article/pii/S266637912300304X)
+Abstract: Summary
+Although radiotherapy (RT) has achieved great success in the treatment of non-small cell lung cancer (NSCLC), local relapses still occur and abscopal effects are rarely seen even when it is combined with immune checkpoint blockers (ICBs). Here, we characterize the dynamic changes of tumor-infiltrating immune cells after RT in a therapy-resistant murine tumor model using single-cell transcriptomes and T cell receptor sequencing. At the early stage, the innate and adaptive immune systems are activated. At the late stage, however, the tumor immune microenvironment (TIME) shifts into immunosuppressive properties. Our study reveals that inhibition of CD39 combined with RT preferentially decreases the percentage of exhausted CD8+ T cells. Moreover, we find that the combination of V-domain immunoglobulin suppressor of T cell activation (VISTA) blockade and RT synergistically reduces immunosuppressive myeloid cells. Clinically, high VISTA expression is associated with poor prognosis in patients with NSCLC. Altogether, our data provide deep insight into acquired resistance to RT from an immune perspective and present rational combination strategies.
+Keywords: NSCLC; radiotherapy; immunotherapy; scRNA-seq; CD8 T cells; TANs; tumor immune microenvironment
+
+Min Jia, Xuanyi Chen, Xuetao Shi, Yiling Fang, Yangnan Gu,
+Nuclear transport receptor KA120 regulates molecular condensation of MAC3 to coordinate plant immune activation,
+Cell Host & Microbe,
+Volume 31, Issue 10,
+2023,
+Pages 1685-1699.e7,
+ISSN 1931-3128,
+https://doi.org/10.1016/j.chom.2023.08.015.
+(https://www.sciencedirect.com/science/article/pii/S1931312823003402)
+Abstract: Summary
+The nucleocytoplasmic exchange is of fundamental importance to eukaryotic life and is mediated by karyopherins, a superfamily of nuclear transport receptors. However, the function and cargo spectrum of plant karyopherins are largely obscure. Here, we report proximity-labeling-based proteomic profiling of in vivo substrates of KA120, a karyopherin-β required for suppressing autoimmune induction in Arabidopsis. We identify multiple components of the MOS4-associated complex (MAC), a conserved splicing regulatory protein complex. Surprisingly, we find that KA120 does not affect the nucleocytoplasmic distribution of MAC proteins but rather prevents their protein condensation in the nucleus. Furthermore, we demonstrate that MAC condensation is robustly induced by pathogen infection, which is sufficient to activate defense gene expression, possibly by sequestrating negative immune regulators via phase transition. Our study reveals a noncanonical chaperoning activity of a plant karyopherin, which modulates the nuclear condensation of an evolutionarily conserved splicing regulatory complex to coordinate plant immune activation.
+Keywords: karyopherin; KA120; nuclear condensates; plant immunity; MOS4-associated complex; MAC; MAC3; biomolecular condensation; nuclear transport receptor
+
+Stephanie Stanelle-Bertram, Sebastian Beck, Nancy Kouassi Mounogou, Berfin Schaumburg, Fabian Stoll, Amirah Al Jawazneh, Zoé Schmal, Tian Bai, Martin Zickler, Georg Beythien, Kathrin Becker, Madeleine de la Roi, Fabian Heinrich, Claudia Schulz, Martina Sauter, Susanne Krasemann, Philine Lange, Axel Heinemann, Debby van Riel, Lonneke Leijten, Lisa Bauer, Thierry P.P. van den Bosch, Boaz Lopuhaä, Tobias Busche, Daniel Wibberg, Dirk Schaudien, Torsten Goldmann, Anna Lüttjohann, Jenny Ruschinski, Hanna Jania, Zacharias Müller, Vinicius Pinho dos Reis, Vanessa Krupp-Buzimkic, Martin Wolff, Chiara Fallerini, Margherita Baldassarri, Simone Furini, Katrina Norwood, Christopher Käufer, Nina Schützenmeister, Maren von Köckritz-Blickwede, Maria Schroeder, Dominik Jarczak, Axel Nierhaus, Tobias Welte, Stefan Kluge, Alice C. McHardy, Frank Sommer, Jörn Kalinowski, Susanne Krauss-Etschmann, Franziska Richter, Jan von der Thüsen, Wolfgang Baumgärtner, Karin Klingel, Benjamin Ondruschka, Alessandra Renieri, Gülsah Gabriel,
+CYP19A1 mediates severe SARS-CoV-2 disease outcome in males,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101152,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101152.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003051)
+Abstract: Summary
+Male sex represents one of the major risk factors for severe COVID-19 outcome. However, underlying mechanisms that mediate sex-dependent disease outcome are as yet unknown. Here, we identify the CYP19A1 gene encoding for the testosterone-to-estradiol metabolizing enzyme CYP19A1 (also known as aromatase) as a host factor that contributes to worsened disease outcome in SARS-CoV-2-infected males. We analyzed exome sequencing data obtained from a human COVID-19 cohort (n = 2,866) using a machine-learning approach and identify a CYP19A1-activity-increasing mutation to be associated with the development of severe disease in men but not women. We further analyzed human autopsy-derived lungs (n = 86) and detect increased pulmonary CYP19A1 expression at the time point of death in men compared with women. In the golden hamster model, we show that SARS-CoV-2 infection causes increased CYP19A1 expression in the lung that is associated with dysregulated plasma sex hormone levels and reduced long-term pulmonary function in males but not females. Treatment of SARS-CoV-2-infected hamsters with a clinically approved CYP19A1 inhibitor (letrozole) improves impaired lung function and supports recovery of imbalanced sex hormones specifically in males. Our study identifies CYP19A1 as a contributor to sex-specific SARS-CoV-2 disease outcome in males. Furthermore, inhibition of CYP19A1 by the clinically approved drug letrozole may furnish a new therapeutic strategy for individualized patient management and treatment.
+Keywords: COVID-19; male sex; CYP19A1; testosterone; estradiol; letrozole; lung health
+
+Moran Gershoni,
+Transgenerational transmission of environmental effects in livestock in the age of global warming,
+Cell Stress and Chaperones,
+Volume 28, Issue 5,
+2023,
+Pages 445-454,
+ISSN 1355-8145,
+https://doi.org/10.1007/s12192-023-01325-0.
+(https://www.sciencedirect.com/science/article/pii/S1355814523000081)
+Abstract: Recent decades provide mounting evidence for the continual increase in global temperatures, now termed “global warming,” to the point of drastic worldwide change in the climate. Climatic change is a long-term shift in temperatures and weather patterns, including increased frequency and intensity of extreme environmental events such as heat waves accompanied by extreme temperatures and high humidity. Climate change and global warming put several challenges to the livestock industry by directly affecting the animal’s production, reproduction, health, and welfare. The broad impact of global warming, and in particular heat stress, on-farm animals’ performance has been comprehensively studied. It has been estimated that the US livestock industry’s loss caused by heat stress is up to $2.4 billion annually. However, the long-term intergenerational and transgenerational effects of climatic change and global warming on farm animals are sparse. Transgenerational effects, which are mediated by epigenetic mechanisms, can affect the animal’s performance regardless of its immediate environment by altering its phenotypic expression to fit its ancestors’ environment. In many animal species, environmental effects are epigenetically encoded within a narrow time interval during the organism’s gametogenesis, and these epigenetic modifications can then be intergenerationally transmitted. Several epigenetic mechanisms mediate intergenerational transmission of environmental effects, typically in a parent-dependent manner. Therefore, exposure of the animal to an extreme climatic event and other environmental stressors during gametogenesis can undergo epigenetic stabilization in the germline and be passed to the offspring. As a result, the offspring might express a phenotype adjusted to fit the stressors experienced by their ancestors, regardless of their direct environment. The purpose of this perspective is to review current evidence for intergenerational and transgenerational transmission of environmental stress effects, specifically in the context of global warming and climate change, and to offer viewpoints on the possible impacts on the livestock industry.
+Keywords: Epigenetic inheritance; Climatic change; Global warming; Thermal stress; Environmental stressors; Transgenerational effects; Livestock
+
+Ziqian Xu, Wan Tang, Qiaoling Xie, Xinyu Cao, Mengni Zhang, Xiaoxun Zhang, Jin Chai,
+Dimethyl fumarate attenuates cholestatic liver injury by activating the NRF2 and FXR pathways and suppressing NLRP3/GSDMD signaling in mice,
+Experimental Cell Research,
+Volume 432, Issue 2,
+2023,
+113781,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113781.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003294)
+Abstract: The progression of cholestasis is characterized by excessive accumulation of bile acids (BAs) in the liver, which leads to oxidative stress (OS), inflammation and liver injury. There are currently limited treatments for cholestasis. Therefore, appropriate drugs for cholestasis treatment need to be developed. Dimethyl fumarate (DMF) has been widely used in the treatment of various diseases and exerts antioxidant and anti-inflammatory effects, but its effect on cholestatic liver disease remains unclarified. We fed mice 3,5-diethoxycarbonyl-1,4-dihydrocollidine or cholic acid to induce cholestatic liver injury and treated these mice with DMF to evaluate its protective ability. Alanine aminotransferase, aspartate aminotransferase, and total liver BAs were assessed as indicators of liver function. The levels of OS, liver inflammation, transporters and metabolic enzymes were also measured. DMF markedly altered the relative ALT and AST levels and enhanced the liver antioxidant capacity. DMF regulated the MST/NRF2 signaling pathway to protect against OS and reduced liver inflammation through the NLRP3/GSDMD signaling pathway. DMF also regulated the levels of BA transporters by promoting FXR protein expression. These findings provide new strategies for the treatment of cholestatic liver disorders.
+Keywords: Cholestasis; Dimethyl fumarate; Liver injury; NRF2; FXR
+
+Yu Tian, Liumei Liang, Junxiong Chen, Jiaqi Liu, Yixi Su, Mengchen Shi, Weiqian Li, Jingdan Zhang, Yanchun Feng, Lingyuan He, Huanliang Liu, Xiangling Yang,
+Knockdown LIMP2 inhibits colorectal cancer cells migration, invasion, and metastasis,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113757,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113757.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003051)
+Abstract: Colorectal cancer (CRC) is a common malignancy worldwide nowadays and liver metastasis is the primary cause of death in patients with CRC. Although lysosomal integral membrane protein 2 (LIMP2) has been reported to play important roles in gastric cancer and prostate cancer, its role in CRC remains unclear. The aim of this study was to investigate the function of LIMP2 in CRC invasion and migration, along with the potential underlying molecular mechanisms. We found that LIMP2 levels were higher in CRC tissues compared to adjacent normal tissues. Kaplan-Meier survival analysis showed that high expression of LIMP2 was associated with worse prognosis in CRC patients. Knockdown of LIMP2 significantly inhibited invasion, migration, and wound healing abilities of CRC cells in vitro, and inhibited CRC liver metastasis in vivo. Additionally, LIMP2 knockdown inhibited autophagy in CRC. Therefore, LIMP2 plays an important role in CRC progression. High expression of LIMP2 was associated with worse prognosis in CRC patients. Knockdown LIMP2 can effectively inhibit CRC cell migration and invasion in vitro and prevent liver metastasis in vivo. These findings suggest that LIMP2 may serve as an independent prognostic factor and potential therapeutic target for CRC.
+Keywords: LIMP2; Colorectal cancer; Migration; Autophagy
+
+Sloan A. Lewis, Brianna M. Doratt, Qi Qiao, Madison Blanton, Kathleen A. Grant, Ilhem Messaoudi,
+Integrated single cell analysis shows chronic alcohol drinking disrupts monocyte differentiation in the bone marrow,
+Stem Cell Reports,
+Volume 18, Issue 9,
+2023,
+Pages 1884-1897,
+ISSN 2213-6711,
+https://doi.org/10.1016/j.stemcr.2023.08.001.
+(https://www.sciencedirect.com/science/article/pii/S2213671123003004)
+Abstract: Summary
+Chronic heavy alcohol drinking (CHD) rewires monocytes and macrophages toward heightened inflammatory states with compromised antimicrobial defenses that persist after 1-month abstinence. To determine whether these changes are mediated through alterations in the bone marrow niche, we profiled monocytes and hematopoietic stem cell progenitors (HSCPs) from CHD rhesus macaques using a combination of functional assays and single cell genomics. CHD resulted in transcriptional profiles consistent with increased activation and inflammation within bone marrow resident monocytes and macrophages. Furthermore, CHD resulted in transcriptional signatures associated with increased oxidative and cellular stress in HSCP. Differentiation of HSCP in vitro revealed skewing toward monocytes expressing “neutrophil-like” markers with greater inflammatory responses to bacterial agonists. Further analyses of HSCPs showed broad epigenetic changes that were in line with exacerbated inflammatory responses within monocytes and their progenitors. In summary, CHD alters HSCPs in the bone marrow leading to the production of monocytes poised to generate dysregulated hyper-inflammatory responses.
+Keywords: alcohol; monocytes; progenitors; monopoiesis; myelopoiesis; non-human primates; bone marrow
+
+Asaf Azulay, Liel Cohen-Lavi, Lilach M. Friedman, Maureen A. McGargill, Tomer Hertz,
+Mapping antibody footprints using binding profiles,
+Cell Reports Methods,
+Volume 3, Issue 8,
+2023,
+100566,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100566.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002102)
+Abstract: Summary
+The increasing use of monoclonal antibodies (mAbs) in biology and medicine necessitates efficient methods for characterizing their binding epitopes. Here, we developed a high-throughput antibody footprinting method based on binding profiles. We used an antigen microarray to profile 23 human anti-influenza hemagglutinin (HA) mAbs using HA proteins of 43 human influenza strains isolated between 1918 and 2018. We showed that the mAb’s binding profile can be used to characterize its influenza subtype specificity, binding region, and binding site. We present mAb-Patch—an epitope prediction method that is based on a mAb’s binding profile and the 3D structure of its antigen. mAb-Patch was evaluated using four mAbs with known solved mAb-HA structures. mAb-Patch identifies over 67% of the true epitope when considering only 50–60 positions along the antigen. Our work provides proof of concept for utilizing antibody binding profiles to screen large panels of mAbs and to down-select antibodies for further functional studies.
+Keywords: monoclonal antibody; antibody profiling; antibody characterization; antigenic cartography; antibody footprints; epitope prediction; mAb-Patch
+
+Sean L. Kim, Michael A. Trembley, Keel Yong Lee, Suji Choi, Luke A. MacQueen, John F. Zimmerman, Lousanne H.C. de Wit, Kevin Shani, Douglas E. Henze, Daniel J. Drennan, Shaila A. Saifee, Li Jun Loh, Xujie Liu, Kevin Kit Parker, William T. Pu,
+Spatiotemporal cell junction assembly in human iPSC-CM models of arrhythmogenic cardiomyopathy,
+Stem Cell Reports,
+Volume 18, Issue 9,
+2023,
+Pages 1811-1826,
+ISSN 2213-6711,
+https://doi.org/10.1016/j.stemcr.2023.07.005.
+(https://www.sciencedirect.com/science/article/pii/S2213671123002679)
+Abstract: Summary
+Arrhythmogenic cardiomyopathy (ACM) is an inherited cardiac disorder that causes life-threatening arrhythmias and myocardial dysfunction. Pathogenic variants in Plakophilin-2 (PKP2), a desmosome component within specialized cardiac cell junctions, cause the majority of ACM cases. However, the molecular mechanisms by which PKP2 variants induce disease phenotypes remain unclear. Here we built bioengineered platforms using genetically modified human induced pluripotent stem cell-derived cardiomyocytes to model the early spatiotemporal process of cardiomyocyte junction assembly in vitro. Heterozygosity for truncating variant PKP2R413X reduced Wnt/β-catenin signaling, impaired myofibrillogenesis, delayed mechanical coupling, and reduced calcium wave velocity in engineered tissues. These abnormalities were ameliorated by SB216763, which activated Wnt/β-catenin signaling, improved cytoskeletal organization, restored cell junction integrity in cell pairs, and improved calcium wave velocity in engineered tissues. Together, these findings highlight the therapeutic potential of modulating Wnt/β-catenin signaling in a human model of ACM.
+Keywords: arrhythmogenic cardiomyopathy; human induced pluripotent stem cells; cardiac tissue engineering; disease modeling; cell pairs
+
+Joshua B. Benoit, Geoffrey Finch, Andrea L. Ankrum, Jennifer Niemantsverdriet, Bidisha Paul, Melissa Kelley, J.D. Gantz, Stephen F. Matter, Richard E. Lee, David L. Denlinger,
+Reduced male fertility of an Antarctic mite following extreme heat stress could prompt localized population declines,
+Cell Stress and Chaperones,
+Volume 28, Issue 5,
+2023,
+Pages 541-549,
+ISSN 1355-8145,
+https://doi.org/10.1007/s12192-023-01359-4.
+(https://www.sciencedirect.com/science/article/pii/S1355814523000111)
+Abstract: Climate change is leading to substantial global thermal changes, which are particularly pronounced in polar regions. Therefore, it is important to examine the impact of heat stress on the reproduction of polar terrestrial arthropods, specifically, how brief extreme events may alter survival. We observed that sublethal heat stress reduces male fecundity in an Antarctic mite, yielding females that produced fewer viable eggs. Females and males collected from microhabitats with high temperatures showed a similar reduction in fertility. This impact is temporary, as indicated by recovery of male fecundity following return to cooler, stable conditions. The diminished fecundity is likely due to a drastic reduction in the expression of male-associated factors that occur in tandem with a substantial increase in the expression of heat shock proteins. Cross-mating between mites from different sites confirmed that heat-exposed populations have impaired male fertility. However, the negative impacts are transient as the effect on fertility declines with recovery time under less stressful conditions. Modeling indicated that heat stress is likely to reduce population growth and that short bouts of non-lethal heat stress could have substantial reproductive effects on local populations of Antarctic arthropods.
+Keywords: Antarctic mite; Alaskozetes antarcticus; Reproduction; Climate change; Heat stress
+
+Xin Zhang, Xin Wu, Wei Yao, Yi-Hui Wang,
+A tumor-suppressing role of TSPYL2 in thyroid cancer: Through interacting with SIRT1 and repressing SIRT1/AKT pathway,
+Experimental Cell Research,
+Volume 432, Issue 1,
+2023,
+113777,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113777.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003257)
+Abstract: Thyroid cancer is one of the most common endocrine cancers. Testis-specific protein, Y-encoded-like 2 (TSPYL2) belongs to the TSPY family. Studies show that TSPYL2 plays as a cancer suppressor in several cancers. However, the role of TSPYL2 in thyroid cancer remains elusive. In the present study, the expression of TSPYL2 in human central papillary thyroid cancer (PTC) tissues and corresponding para-cancer tissues was detected by qPCR and Western blot. The gain- and loss-of-function studies for TSPYL2 were performed in TPC-1 cells and IHH-4 cells. The results showed that TSPYL2 expression was decreased in PTC tissues, and the low TSPYL2 expression was associated with more lymph node metastasis. Moreover, the results showed that knockdown of TSPYL2 promoted proliferation and enhanced the ability of migration and invasion of TPC-1 cells and IHH-4 cells, while TSPYL2 overexpression reversed it. TSPYL2 overexpression arrested cell cycle. We found that TSPYL2 silencing suppressed cell apoptosis, while overexpression of TSPYL2 reversed it. Co-IP results illustrated that TSPYL2 interacted with SIRT1. Knockdown of TSPYL2 increased the association between SIRT1 and AKT. Moreover, TSPYL2 expression inhibited AKT activation by upregulating the AKT acetylation level. In vivo, tumor xenograft experiments indicated that TSPYL2 suppressed the tumorigenic ability of thyroid cancer cells. Western blot results suggested that knockdown of TSPYL2 enhanced the phosphorylation level of AKT, while TSPYL2 overexpression reversed it. Taken together, our study suggested TSPYL2 could be a tumor suppressor in thyroid cancer by regulating SIRT1/AKT pathway.
+Keywords: TSPYL2; Papillary thyroid cancer; SIRT1; AKT; Cell cycle
+
+Duo Xu, Andre Neil Forbes, Sandra Cohen, Ann Palladino, Tatiana Karadimitriou, Ekta Khurana,
+Recapitulation of patient-specific 3D chromatin conformation using machine learning,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100578,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100578.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002229)
+Abstract: Summary
+Regulatory networks containing enhancer-gene edges define cellular states. Multiple efforts have revealed these networks for reference tissues and cell lines by integrating multi-omics data. However, the methods developed cannot be applied for large patient cohorts due to the infeasibility of chromatin immunoprecipitation sequencing (ChIP-seq) for limited biopsy material. We trained machine-learning models using chromatin interaction analysis with paired-end tag sequencing (ChIA-PET) and high-throughput chromosome conformation capture combined with chromatin immunoprecipitation (HiChIP) data that can predict connections using only assay for transposase-accessible chromatin using sequencing (ATAC-seq) and RNA-seq data as input, which can be generated from biopsies. Our method overcomes limitations of correlation-based approaches that cannot distinguish between distinct target genes of given enhancers or between active vs. poised states in different samples, a hallmark of network rewiring in cancer. Application of our model on 371 samples across 22 cancer types revealed 1,780 enhancer-gene connections for 602 cancer genes. Using CRISPR interference (CRISPRi), we validated enhancers predicted to regulate ESR1 in estrogen receptor (ER)+ breast cancer and A1CF in liver hepatocellular carcinoma.
+Keywords: cancer; regulatory network; chromatin accessibility; enhancer
+
+Mahil Rao, Meelad Amouzgar, James T. Harden, M. Gay Lapasaran, Amber Trickey, Brian Armstrong, Jonah Odim, Tracia Debnam, Carlos O. Esquivel, Sean C. Bendall, Olivia M. Martinez, Sheri M. Krams,
+High-dimensional profiling of pediatric immune responses to solid organ transplantation,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101147,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101147.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003002)
+Abstract: Summary
+Solid organ transplant remains a life-saving therapy for children with end-stage heart, lung, liver, or kidney disease; however, ∼33% of allograft recipients experience acute rejection within the first year after transplant. Our ability to detect early rejection is hampered by an incomplete understanding of the immune changes associated with allograft health, particularly in the pediatric population. We performed detailed, multilineage, single-cell analysis of the peripheral blood immune composition in pediatric solid organ transplant recipients, with high-dimensional mass cytometry. Supervised and unsupervised analysis methods to study cell-type proportions indicate that the allograft type strongly influences the post-transplant immune profile. Further, when organ-specific differences are considered, graft health is associated with changes in the proportion of distinct T cell subpopulations. Together, these data form the basis for mechanistic studies into the pathobiology of rejection and allow for the development of new immunosuppressive agents with greater specificity.
+Keywords: transplantation; pediatric; CyTOF; rejection; allograft
+
+Cason R. King, Yiping Liu, Katherine A. Amato, Grace A. Schaack, Clayton Mickelson, Autumn E. Sanders, Tony Hu, Srishti Gupta, Ryan A. Langlois, Judith A. Smith, Andrew Mehle,
+Pathogen-driven CRISPR screens identify TREX1 as a regulator of DNA self-sensing during influenza virus infection,
+Cell Host & Microbe,
+Volume 31, Issue 9,
+2023,
+Pages 1552-1567.e8,
+ISSN 1931-3128,
+https://doi.org/10.1016/j.chom.2023.08.001.
+(https://www.sciencedirect.com/science/article/pii/S1931312823003268)
+Abstract: Summary
+Host:pathogen interactions dictate the outcome of infection, yet the limitations of current approaches leave large regions of this interface unexplored. Here, we develop a novel fitness-based screen that queries factors important during the middle to late stages of infection. This is achieved by engineering influenza virus to direct the screen by programming dCas9 to modulate host gene expression. Our genome-wide screen for pro-viral factors identifies the cytoplasmic DNA exonuclease TREX1. TREX1 degrades cytoplasmic DNA to prevent inappropriate innate immune activation by self-DNA. We reveal that this same process aids influenza virus replication. Infection triggers release of mitochondrial DNA into the cytoplasm, activating antiviral signaling via cGAS and STING. TREX1 metabolizes the DNA, preventing its sensing. Collectively, these data show that self-DNA is deployed to amplify innate immunity, a process tempered by TREX1. Moreover, they demonstrate the power and generality of pathogen-driven fitness-based screens to pinpoint key host regulators of infection.
+Keywords: influenza virus; fitness-based screen; CRISPR activation; TREX1; mtDNA
+
+Ruth Hanssen, Chiara Auwerx, Maarja Jõeloo, Marie C. Sadler, Elana Henning, Julia Keogh, Rebecca Bounds, Miriam Smith, Helen V. Firth, Zoltán Kutalik, I. Sadaf Farooqi, Alexandre Reymond, Katherine Lawler,
+Chromosomal deletions on 16p11.2 encompassing SH2B1 are associated with accelerated metabolic disease,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101155,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101155.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003087)
+Abstract: Summary
+New approaches are needed to treat people whose obesity and type 2 diabetes (T2D) are driven by specific mechanisms. We investigate a deletion on chromosome 16p11.2 (breakpoint 2–3 [BP2–3]) encompassing SH2B1, a mediator of leptin and insulin signaling. Phenome-wide association scans in the UK (N = 502,399) and Estonian (N = 208,360) biobanks show that deletion carriers have increased body mass index (BMI; p = 1.3 × 10−10) and increased rates of T2D. Compared with BMI-matched controls, deletion carriers have an earlier onset of T2D, with poorer glycemic control despite higher medication usage. Cystatin C, a biomarker of kidney function, is significantly elevated in deletion carriers, suggesting increased risk of renal impairment. In a Mendelian randomization study, decreased SH2B1 expression increases T2D risk (p = 8.1 × 10−6). We conclude that people with 16p11.2 BP2–3 deletions have early, complex obesity and T2D and may benefit from therapies that enhance leptin and insulin signaling.
+Keywords: SH2B1; 16p11.2; CNVs; precision medicine; obesity; type 2 diabetes; UK Biobank
+
+Ilaria Marrocco, Suvendu Giri, Arturo Simoni-Nieves, Nitin Gupta, Anna Rudnitsky, Yuya Haga, Donatella Romaniello, Arunachalam Sekar, Mirie Zerbib, Roni Oren, Moshit Lindzen, Damon Fard, Yasuo Tsutsumi, Mattia Lauriola, Luca Tamagnone, Yosef Yarden,
+L858R emerges as a potential biomarker predicting response of lung cancer models to anti-EGFR antibodies: Comparison of osimertinib vs. cetuximab,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101142,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101142.
+(https://www.sciencedirect.com/science/article/pii/S2666379123002951)
+Abstract: Summary
+EGFR-specific tyrosine kinase inhibitors (TKIs), especially osimertinib, have changed lung cancer therapy, but secondary mutations confer drug resistance. Because other EGFR mutations promote dimerization-independent active conformations but L858R strictly depends on receptor dimerization, we herein evaluate the therapeutic potential of dimerization-inhibitory monoclonal antibodies (mAbs), including cetuximab. This mAb reduces viability of cells expressing L858R-EGFR and blocks the FOXM1-aurora survival pathway, but other mutants show no responses. Unlike TKI-treated patient-derived xenografts, which relapse post osimertinib treatment, cetuximab completely prevents relapses of L858R+ tumors. We report that osimertinib’s inferiority associates with induction of mutagenic reactive oxygen species, whereas cetuximab’s superiority is due to downregulation of adaptive survival pathways (e.g., HER2) and avoidance of mutation-prone mechanisms that engage AXL, RAD18, and the proliferating cell nuclear antigen. These results identify L858R as a predictive biomarker, which may pave the way for relapse-free mAb monotherapy relevant to a large fraction of patients with lung cancer.
+Keywords: adaptive mutability; EGFR; kinase inhibitors; lung cancer; monoclonal antibody; receptor tyrosine kinases; cetuximab; NSCLC; osimertinib
+
+Thu P. Nguyen, Min Fang, Jiwoong Kim, Baiyun Wang, Elisa Lin, Vishal Khivansara, Neha Barrows, Giomar Rivera-Cancel, Maria Goralski, Christopher L. Cervantes, Shanhai Xie, Johann M. Peterson, Juan Manuel Povedano, Monika I. Antczak, Bruce A. Posner, Colin J.B. Harvey, Brian T. Naughton, David G. McFadden, Joseph M. Ready, Jef K. De Brabander, Deepak Nijhawan,
+Inducible mismatch repair streamlines forward genetic approaches to target identification of cytotoxic small molecules,
+Cell Chemical Biology,
+Volume 30, Issue 11,
+2023,
+Pages 1453-1467.e8,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.07.017.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002453)
+Abstract: Summary
+Orphan cytotoxins are small molecules for which the mechanism of action (MoA) is either unknown or ambiguous. Unveiling the mechanism of these compounds may lead to useful tools for biological investigation and new therapeutic leads. In selected cases, the DNA mismatch repair-deficient colorectal cancer cell line, HCT116, has been used as a tool in forward genetic screens to identify compound-resistant mutations, which have ultimately led to target identification. To expand the utility of this approach, we engineered cancer cell lines with inducible mismatch repair deficits, thus providing temporal control over mutagenesis. By screening for compound resistance phenotypes in cells with low or high rates of mutagenesis, we increased both the specificity and sensitivity of identifying resistance mutations. Using this inducible mutagenesis system, we implicate targets for multiple orphan cytotoxins, including a natural product and compounds emerging from a high-throughput screen, thus providing a robust tool for future MoA studies.
+Keywords: Target Identification; Mechanism of Action; Forward Genetics; High throughput screens; Molecular Glue; Targeted protein degradation
+
+David Fernando Plaza, Julia Zerebinski, Ioanna Broumou, Maximilian Julius Lautenbach, Billy Ngasala, Christopher Sundling, Anna Färnert,
+A genomic platform for surveillance and antigen discovery in Plasmodium spp. using long-read amplicon sequencing,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100574,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100574.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002187)
+Abstract: Summary
+Many vaccine candidate proteins in the malaria parasite Plasmodium falciparum are under strong immunological pressure and confer antigenic diversity. We present a sequencing and data analysis platform for the genomic surveillance of the insertion or deletion (indel)-rich antigens merozoite surface protein 1 (MSP1), MSP2, glutamate-rich protein (GLURP), and CSP from P. falciparum using long-read circular consensus sequencing (CCS) in multiclonal malaria isolates. Our platform uses 40 PCR primers per gene to asymmetrically barcode and identify multiclonal infections in pools of up to 384 samples. With msp2, we validated the method using 235 mock infections combining 10 synthetic variants at different concentrations and infection complexities. We applied this strategy to P. falciparum isolates from a longitudinal cohort in Tanzania. Finally, we constructed an analysis pipeline that streamlines the processing and interpretation of epidemiological and antigenic diversity data from demultiplexed FASTQ files. This platform can be easily adapted to other polymorphic antigens of interest in Plasmodium or any other human pathogen.
+Keywords: genomic surveillance; long-read sequencing; antigen discovery; malaria epidemiology; merozoite surface protein 1; merozoite surface protein 2; glutamate-rich protein; circumsporozoite protein
+
+Sascha Röth, Nur Mehpare Kocaturk, Preethi S. Sathyamurthi, Bill Carton, Matthew Watt, Thomas J. Macartney, Kwok-Ho Chan, Albert Isidro-Llobet, Agnieszka Konopacka, Markus A. Queisser, Gopal P. Sapkota,
+Identification of KLHDC2 as an efficient proximity-induced degrader of K-RAS, STK33, β-catenin, and FoxP3,
+Cell Chemical Biology,
+Volume 30, Issue 10,
+2023,
+Pages 1261-1276.e7,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.07.006.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002337)
+Abstract: Summary
+Targeted protein degradation (TPD), induced by enforcing target proximity to an E3 ubiquitin ligase using small molecules has become an important drug discovery approach for targeting previously undruggable disease-causing proteins. However, out of over 600 E3 ligases encoded by the human genome, just over 10 E3 ligases are currently utilized for TPD. Here, using the affinity-directed protein missile (AdPROM) system, in which an anti-GFP nanobody was linked to an E3 ligase, we screened over 30 E3 ligases for their ability to degrade 4 target proteins, K-RAS, STK33, β-catenin, and FoxP3, which were endogenously GFP-tagged. Several new E3 ligases, including CUL2 diGly receptor KLHDC2, emerged as effective degraders, suggesting that these E3 ligases can be taken forward for the development of small-molecule degraders, such as proteolysis targeting chimeras (PROTACs). As a proof of concept, we demonstrate that a KLHDC2-recruiting peptide-based PROTAC connected to chloroalkane is capable of degrading HALO-GFP protein in cells.
+Keywords: RAS; STK33; β-catenin; FoxP3; PROTAC; KLHDC2; TPD; degron; E3 ligase; cancer
+
+HoJoon Lee, Stephanie U. Greer, Dmitri S. Pavlichin, Bo Zhou, Alexander E. Urban, Tsachy Weissman, Wen-Wei Liao, Mobin Asri, Jana Ebler, Daniel Doerr, Marina Haukness, Glenn Hickey, Shuangjia Lu, Julian K. Lucas, Jean Monlong, Haley J. Abel, Silvia Buonaiuto, Xian H. Chang, Haoyu Cheng, Justin Chu, Vincenza Colonna, Jordan M. Eizenga, Xiaowen Feng, Christian Fischer, Robert S. Fulton, Shilpa Garg, Cristian Groza, Andrea Guarracino, William T. Harvey, Simon Heumos, Kerstin Howe, Miten Jain, Tsung-Yu Lu, Charles Markello, Fergal J. Martin, Matthew W. Mitchell, Katherine M. Munson, Moses Njagi Mwaniki, Adam M. Novak, Hugh E. Olsen, Trevor Pesout, David Porubsky, Pjotr Prins, Jonas A. Sibbesen, Chad Tomlinson, Flavia Villani, Mitchell R. Vollger, Lucinda L. Antonacci-Fulton, Gunjan Baid, Carl A. Baker, Anastasiya Belyaeva, Konstantinos Billis, Andrew Carroll, Pi-Chuan Chang, Sarah Cody, Daniel E. Cook, Omar E. Cornejo, Mark Diekhans, Peter Ebert, Susan Fairley, Olivier Fedrigo, Adam L. Felsenfeld, Giulio Formenti, Adam Frankish, Yan Gao, Carlos Garcia Giron, Richard E. Green, Leanne Haggerty, Kendra Hoekzema, Thibaut Hourlier, Hanlee P. Ji, Alexey Kolesnikov, Jan O. Korbel, Jennifer Kordosky, HoJoon Lee, Alexandra P. Lewis, Hugo Magalhães, Santiago Marco-Sola, Pierre Marijon, Jennifer McDaniel, Jacquelyn Mountcastle, Maria Nattestad, Nathan D. Olson, Daniela Puiu, Allison A. Regier, Arang Rhie, Samuel Sacco, Ashley D. Sanders, Valerie A. Schneider, Baergen I. Schultz, Kishwar Shafin, Jouni Sirén, Michael W. Smith, Heidi J. Sofia, Ahmad N. Abou Tayoun, Françoise Thibaud-Nissen, Francesca Floriana Tricomi, Justin Wagner, Jonathan M.D. Wood, Aleksey V. Zimin, Alice B. Popejoy, Guillaume Bourque, Mark J.P. Chaisson, Paul Flicek, Adam M. Phillippy, Justin M. Zook, Evan E. Eichler, David Haussler, Erich D. Jarvis, Karen H. Miga, Ting Wang, Erik Garrison, Tobias Marschall, Ira Hall, Heng Li, Benedict Paten, Hanlee P. Ji,
+Pan-conserved segment tags identify ultra-conserved sequences across assemblies in the human pangenome,
+Cell Reports Methods,
+Volume 3, Issue 8,
+2023,
+100543,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100543.
+(https://www.sciencedirect.com/science/article/pii/S2667237523001807)
+Abstract: Summary
+The human pangenome, a new reference sequence, addresses many limitations of the current GRCh38 reference. The first release is based on 94 high-quality haploid assemblies from individuals with diverse backgrounds. We employed a k-mer indexing strategy for comparative analysis across multiple assemblies, including the pangenome reference, GRCh38, and CHM13, a telomere-to-telomere reference assembly. Our k-mer indexing approach enabled us to identify a valuable collection of universally conserved sequences across all assemblies, referred to as “pan-conserved segment tags” (PSTs). By examining intervals between these segments, we discerned highly conserved genomic segments and those with structurally related polymorphisms. We found 60,764 polymorphic intervals with unique geo-ethnic features in the pangenome reference. In this study, we utilized ultra-conserved sequences (PSTs) to forge a link between human pangenome assemblies and reference genomes. This methodology enables the examination of any sequence of interest within the pangenome, using the reference genome as a comparative framework.
+Keywords: pangenome; reference genome; structural variations; pan-conserved segment; structural polymorphism; k-mer
+
+Lanyu Jing, Kaiwen Zhou, Zilin Wang, Yuying Li, Yuanjian Fan, Ting Liu, Zhen Shan, Ying Lin,
+YTHDF1 shapes “cold” tumor and inhibits CD8+ T cells infiltration and function in breast cancer,
+Experimental Cell Research,
+Volume 432, Issue 2,
+2023,
+113778,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113778.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003269)
+Abstract: While YTH N6-methyladenosine RNA binding protein 1 (YTHDF1) was recognized as a crucial contributor in the development and immune-related regulation of various types of tumors, its function in the immune response of breast cancer has largely remained uninvestigated. Through analysis of public databases, we found YTHDF1 as a highly expressed gene in breast cancers and confirmed this finding in breast cancer cells and clinical specimens from our center. Subsequently, we examined the link between YTHDF1 expression and immune cells and molecules by utilizing immune-related public databases and algorithm. We further validated our findings through cellular and animal experiments, as well as RNA sequencing. YTHDF1 was found highly expressed in tumor tissues of breast cancer, which negatively correlated with patient survival. The downregulation of YTHDF1 promoted the expression of pro-inflammatory markers and improved the anti-cancer ability of immune cells in breast cancer. RNA sequencing analysis revealed that YTHDF1 knockdown resulted in enrichment of differential genes in signal transduction pathways. Additionally, in vitro experiments showed that immune cells had higher cytotoxicity against breast cancer cells with decreased YTHDF1 expression. Moreover, in vivo studies indicated that YTHDF1 promoted breast cancer growth while inhibiting CD8+ T cell infiltration and function. Our study demonstrates that YTHDF1 plays a crucial role in establishing a “cold” tumor microenvironment in breast cancer by inhibiting the release of pro-inflammatory cytokines from cancer cells. As a result, the infiltration and functional differentiation of anti-tumor CD8+ T cells are hindered, ultimately resulting in the immune evasion of breast cancer.
+
+Shraddha Rastogi, Chandana Haldar,
+Seasonal plasticity in immunocompetent cytokines (IL-2, IL-6, and TNF-α), myeloid progenitor cell (CFU-GM) proliferation, and LPS-induced oxido-inflammatory aberrations in a tropical rodent Funambulus pennanti: role of melatonin,
+Cell Stress and Chaperones,
+Volume 28, Issue 5,
+2023,
+Pages 567-582,
+ISSN 1355-8145,
+https://doi.org/10.1007/s12192-022-01313-w.
+(https://www.sciencedirect.com/science/article/pii/S1355814523000068)
+Abstract: In seasonal breeders, photoperiods regulate the levels of circulatory melatonin, a well-known immunomodulator and an antioxidant. Melatonin is known to play a complex physiological role in maintaining the immune homeostasis by affecting cytokine production in immunocompetent cells. In this study, we have quantified seasonal and temporal variations in immunocompetent cytokines—IL-2, IL-6, and TNF-α—and circulatory corticosterone along with in- vitro proliferation of bone marrow-derived granulocyte macrophage-colony forming unit (CFU-GM) progenitor cells of a tropical seasonal breeder Funambulus pennanti (northern palm squirrel). Transient variations in antioxidant status of seasonal breeders might be due to the fluctuations associated with immunity and inflammation. Further, to establish a direct immunomodulatory effect of photoperiod, we recorded the LPS-induced oxidative and inflammatory responses of squirrels by housing them in artificial photoperiodic chambers mimicking summer and winter seasons respectively. We observed a marked variation in cytokines level, melatonin, and corticosterone , and CFU-GM cell proliferation during summer and winter seasons. High Peripheral melatonin levels directly correlated with cytokine IL-2 levels, and inversely correlated with TNF-α, and circulatory corticosterone level. LPS-challenged squirrels housed in short photoperiod (10L:14D; equivalent to winter days) showed a marked reduction in the components of the inflammatory cascade, CRP, TNF-α, IL-6, NOx, NF-κB, Cox-2, and PGES, with an overall improvement in antioxidant status when compared to squirrels maintained under a long photoperiod (16L:8D; equivalent to summer days). Our results underline the impact of seasonality, photoperiod, and melatonin in maintaining an intrinsic redox-immune homeostasis which helps the animal to withstand environmental stresses.
+Keywords: Photoperiod, Melatonin; Cytokines; CFU-GM, LPS; Oxidative-inflammatory status
+
+Pengfei Ren, Xiaoying Shi, Zhiguang Yu, Xin Dong, Xuanxin Ding, Jin Wang, Liangdong Sun, Yilv Yan, Junjie Hu, Peng Zhang, Qianming Chen, Jing Zhang, Taiwen Li, Chenfei Wang,
+Single-cell assignment using multiple-adversarial domain adaptation network with large-scale references,
+Cell Reports Methods,
+Volume 3, Issue 9,
+2023,
+100577,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2023.100577.
+(https://www.sciencedirect.com/science/article/pii/S2667237523002217)
+Abstract: Summary
+The rapid accumulation of single-cell RNA-seq data has provided rich resources to characterize various human cell populations. However, achieving accurate cell-type annotation using public references presents challenges due to inconsistent annotations, batch effects, and rare cell types. Here, we introduce SELINA (single-cell identity navigator), an integrative and automatic cell-type annotation framework based on a pre-curated reference atlas spanning various tissues. SELINA employs a multiple-adversarial domain adaptation network to remove batch effects within the reference dataset. Additionally, it enhances the annotation of less frequent cell types by synthetic minority oversampling and fits query data with the reference data using an autoencoder. SELINA culminates in the creation of a comprehensive and uniform reference atlas, encompassing 1.7 million cells covering 230 distinct human cell types. We substantiate its robustness and superiority across a multitude of human tissues. Notably, SELINA could accurately annotate cells within diverse disease contexts. SELINA provides a complete solution for human single-cell RNA-seq data annotation with both python and R packages.
+Keywords: single-cell RNA sequencing; cell-type prediction; deep learning; domain adaptation; reference atlas; pretrained model
+
+Rui Wang, Yuwei Gou, Minzi Tang, Kai Wang, Hengdong He, Jing Yang, Yuan Yang, Yunhan Jing, Qianzi Tang,
+A mutator-derived prognostic eRNA signature provides insight into the pathogenesis of breast cancer,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113754,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113754.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003026)
+Abstract: Abundant evidence suggests that enhancer RNA (eRNA) is closely related to tumorigenesis, and the role of eRNA transcription in promoting genomic instability in cancers is gradually unveiled. However, research on the evaluation of the prognostic value and molecular mechanisms of genomic instability associated eRNAs in breast cancer is long overdue. Here, we integratively analyzed eRNA expression and somatic mutation profiles in breast cancer genome. We identified genomic instability associated eRNAs and developed a prognostic signature based on these eRNAs with the area under the curve (AUC) around 0.8 at 9-year survival. We further found the prognostic value of this signature is independent of common clinical factors and is better than TP53 status. Higher expression of genomic instability associated genes in the high-risk group was observed, suggesting that this eRNA signature may serve as an indicator of genomic instability in breast cancer. We found prognostic eRNA co-expressed genes are mainly enriched in Gene set ‘Breast Cancer 8P12–P11 Amplicon’, Gene set ‘Metabolism of lipids’ and GO process ‘Ubiquitin protein ligase binding’. Furthermore, 11 eRNA-signature regulated genes are identified by assessing promoter-enhancer interaction. Among these genes, F11R, BHLHE40, and NECTIN4 are previously reported oncogenes and EGOT is a tumor suppressor gene, indicating the direct roles of eRNAs in tumorigenesis.
+Keywords: Breast cancer; Enhancer RNA; Genomic instability; Biomarker
+
+Yutong Wu, Hongbo Ai, Yuhang Xi, Jiulin Tan, Ying Qu, Jianzhong Xu, Fei Luo, Ce Dou,
+Osteoclast-derived apoptotic bodies inhibit naive CD8+ T cell activation via Siglec15, promoting breast cancer secondary metastasis,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101165,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101165.
+(https://www.sciencedirect.com/science/article/pii/S266637912300318X)
+Abstract: Summary
+The bone microenvironment promotes cancer cell proliferation and dissemination. During periodic bone remodeling, osteoclasts undergo apoptosis, producing large numbers of apoptotic bodies (ABs). However, the biological role of osteoclast-derived ABs, which are residents of the bone-tumor niche, remains largely unknown. Here, we discover that AB-null MRL/lpr mice show resistance to breast cancer cell implantation, with more CD8+ T cell infiltrations and a higher survival rate. We uncover that the membranous Siglec15 on osteoclast-derived ABs binds with sialylated Toll-like receptor 2 (TLR2) and blocks downstream co-stimulatory signaling, leading to the inhibition of naive CD8+ T cell activation. In addition, our study shows that treatment with Siglec15 neutralizing antibodies significantly reduces the incidence of secondary metastases and improves the survival rate of mice with advanced breast cancer bone metastasis. Our findings reveal the immunosuppressive function of osteoclast-derived ABs in the bone-tumor niche and demonstrate the potential of Siglec15 as a common target for anti-resorption and immunotherapy.
+Keywords: breast cancer; bone microenvironment; apoptotic body; Siglec15; CD8+ T cell; secondary metastasis
+
+Mathieu Dubé, Olivier Tastet, Caroline Dufour, Gérémy Sannier, Nathalie Brassard, Gloria-Gabrielle Delgado, Amélie Pagliuzza, Corentin Richard, Manon Nayrac, Jean-Pierre Routy, Alexandre Prat, Jacob D. Estes, Rémi Fromentin, Nicolas Chomont, Daniel E. Kaufmann,
+Spontaneous HIV expression during suppressive ART is associated with the magnitude and function of HIV-specific CD4+ and CD8+ T cells,
+Cell Host & Microbe,
+Volume 31, Issue 9,
+2023,
+Pages 1507-1522.e5,
+ISSN 1931-3128,
+https://doi.org/10.1016/j.chom.2023.08.006.
+(https://www.sciencedirect.com/science/article/pii/S1931312823003311)
+Abstract: Summary
+Spontaneous transcription and translation of HIV can persist during suppressive antiretroviral therapy (ART). The quantity, phenotype, and biological relevance of this spontaneously “active” reservoir remain unclear. Using multiplexed single-cell RNAflow-fluorescence in situ hybridization (FISH), we detect active HIV transcription in 14/18 people with HIV on suppressive ART, with a median of 28/million CD4+ T cells. While these cells predominantly exhibit abortive transcription, p24-expressing cells are evident in 39% of participants. Phenotypically diverse, active reservoirs are enriched in central memory T cells and CCR6- and activation-marker-expressing cells. The magnitude of the active reservoir positively correlates with total HIV-specific CD4+ and CD8+ T cell responses and with multiple HIV-specific T cell clusters identified by unsupervised analysis. These associations are particularly strong with p24-expressing active reservoir cells. Single-cell vDNA sequencing shows that active reservoirs are largely dominated by defective proviruses. Our data suggest that these reservoirs maintain HIV-specific CD4+ and CD8+ T responses during suppressive ART.
+Keywords: HIV; antiretroviral therapy; viral reservoirs; spontaneously active reservoirs; viral transcription; viral translation; flow cytometric fluorescence in situ RNA hybridization; HIV-specific CD4 T cell responses; HIV-specific CD8 T cell responses
+
+Christine K.I. Jordan, Rebecca L. Brown, Max L.Y. Larkinson, Richard P. Sequeira, Andrew M. Edwards, Thomas B. Clarke,
+Symbiotic Firmicutes establish mutualism with the host via innate tolerance and resistance to control systemic immunity,
+Cell Host & Microbe,
+Volume 31, Issue 9,
+2023,
+Pages 1433-1449.e9,
+ISSN 1931-3128,
+https://doi.org/10.1016/j.chom.2023.07.008.
+(https://www.sciencedirect.com/science/article/pii/S1931312823003037)
+Abstract: Summary
+The intestinal microbiota regulates immunity across organ systems. Which symbionts control systemic immunity, the mechanisms they use, and how they avoid widespread inflammatory damage are unclear. We uncover host tolerance and resistance mechanisms that allow Firmicutes from the human microbiota to control systemic immunity without inducing immunopathology. Intestinal processing releases Firmicute glycoconjugates that disseminate, resulting in release of cytokine IL-34 that stimulates macrophages and enhances defenses against pneumonia, sepsis, and meningitis. Despite systemic penetration of Firmicutes, immune homeostasis is maintained through feedback control whereby IL-34-mediated mTORC1 activation in macrophages clears polymeric glycoconjugates from peripheral tissues. Smaller glycoconjugates evading this clearance mechanism are tolerated through sequestration by albumin, which acts as an inflammatory buffer constraining their immunological impact. Without these resistance and tolerance mechanisms, Firmicutes drive catastrophic organ damage and cachexia via IL-1β. This reveals how Firmicutes are safely assimilated into systemic immunity to protect against infection without threatening host viability.
+Keywords: microbiota; systemic immunity; tolerance; infectious disease
+
+Yinuo Wang, Aihua Mao, Jingwei Liu, Pengjie Li, Shaoqin Zheng, Tong Tong, Zexu Li, Haijiao Zhang, Lanjing Ma, Jiahui Lin, Zhongqiu Pang, Qing Han, Fukang Qi, Xinjun Zhang, Maorong Chen, Xi He, Xi Zhang, Teng Fei, Bi-Feng Liu, Daming Gao, Liu Cao, Qiang Wang, Yiwei Li, Ren Sheng,
+USP10 strikes down β-catenin by dual-wielding deubiquitinase activity and phase separation potential,
+Cell Chemical Biology,
+Volume 30, Issue 11,
+2023,
+Pages 1436-1452.e10,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.07.016.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002465)
+Abstract: Summary
+Wnt/β-catenin signaling is a conserved pathway crucially governing development, homeostasis, and oncogenesis. Discoveries of its regulators hold great values in both basic and translational research. Through screening, we identified a deubiquitinase, USP10, as a critical modulator of β-catenin. Mechanistically, USP10 binds to key scaffold Axin1 via conserved motifs and stabilizes Axin1 through K48-linked deubiquitination. Surprisingly, USP10 physically tethers Axin1 and β-catenin and promotes the phase separation for β-catenin suppression regardless of the enzymatic activity. Function-wise, USP10 enzymatic activity preferably regulates embryonic development and both the enzymatic activity and physical function jointly control intestinal homeostasis by antagonizing β-catenin. In colorectal cancer, USP10 substantially represses cancer growth mainly through physical promotion of phase separation and correlates with Wnt/β-catenin magnitude clinically. Collectively, we discovered USP10 functioning in multiple biological processes against β-catenin and unearthed the enzyme-dependent and -independent “dual-regulating” mechanism. These two functions of USP10 work in parallel and are context dependent.
+Keywords: USP10; Wnt/β-catenin; ubiquitination; phase separation
+
+Xiaojia Huang, Jinna Wu, Yizhuo Wang, Zhuoyu Xian, Jia Li, Ni Qiu, Hongsheng Li,
+FOXQ1 inhibits breast cancer ferroptosis and progression via the circ_0000643/miR-153/SLC7A11 axis,
+Experimental Cell Research,
+Volume 431, Issue 1,
+2023,
+113737,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113737.
+(https://www.sciencedirect.com/science/article/pii/S0014482723002859)
+Abstract: Dysregulation of ferroptosis is involved in breast cancer progression and therapeutic responses. Inducing ferroptosis can be a potential therapeutic strategy for breast cancer treatment. Forkhead box Q1 (FOXQ1) is an oncogenic transcription factor that highly expressed and related with poor outcomes in various tumors. However, the specific effects of FOXQ1 on ferroptosis in breast cancer is unclear. In this study, we intended to explore the functions and potential mechanisms of FOXQ1 in breast cancer ferroptosis. By CCK-8, colony formation, wound healing, transwell and ferroptosis related assays, we explored the functions of FOXQ1 in breast cancer ferroptosis and progression. Through bioinformatics analysis of public database, luciferase reporter assay, RIP and ChIP assay, we investigated the potential mechanisms of FOXQ1 in breast cancer ferroptosis and progression. We found that FOXQ1 was overexpressed in breast cancer and associated with worse survival. Additionally, inhibition of FOXQ1 suppressed breast cancer ferroptosis and progression. Mechanically, we confirmed that FOXQ1 could bind to the promoter of circ_0000643 host gene to increase the levels of circ_0000643, which could sponge miR-153 and enhance the expression of SLC7A11, leading to reduced cell ferroptosis in breast cancer cells. Targeting the FOXQ1/circ_0000643/miR-153/SLC7A11 axis could be a promising strategy in breast cancer treatment.
+Keywords: FOXQ1; circ_0000643; miR-153; SLC7A11; Ferroptosis
+
+Yuanyuan Qu, Zhenmei Yao, Ning Xu, Guohai Shi, Jiaqi Su, Shiqi Ye, Kun Chang, Kai Li, Yunzhi Wang, Subei Tan, Xiaoru Pei, Yijiao Chen, Zhaoyu Qin, Jinwen Feng, Jiacheng Lv, Jiajun Zhu, Fahan Ma, Shaoshuai Tang, Wenhao Xu, Xi Tian, Aihetaimujiang Anwaier, Sha Tian, Wenbo Xu, Xinqiang Wu, Shuxuan Zhu, Yu Zhu, Dalong Cao, Menghong Sun, Hualei Gan, Jianyuan Zhao, Hailiang Zhang, Dingwei Ye, Chen Ding,
+Plasma proteomic profiling discovers molecular features associated with upper tract urothelial carcinoma,
+Cell Reports Medicine,
+Volume 4, Issue 9,
+2023,
+101166,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101166.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003191)
+Abstract: Summary
+Upper tract urothelial carcinoma (UTUC) is often diagnosed late and exhibits poor prognosis. Limited data are available on potential non-invasive biomarkers for disease monitoring. Here, we investigate the proteomic profile of plasma in 362 UTUC patients and 239 healthy controls. We present an integrated tissue-plasma proteomic approach to infer the signature proteins for identifying patients with muscle-invasive UTUC. We discover a protein panel that reflects lymph node metastasis, which is of interest in identifying UTUC patients with high risk and poor prognosis. We also identify a ten-protein classifier and establish a progression clock predicting progression-free survival of UTUC patients. Finally, we further validate the signature proteins by parallel reaction monitoring assay in an independent cohort. Collectively, this study portrays the plasma proteomic landscape of a UTUC cohort and provides a valuable resource for further biological and diagnostic research in UTUC.
+Keywords: plasma proteomics; mass spectrometry; DIA; upper tract urothelial carcinoma; prognosis
+
+Yao-Wen Chang, Huey-Wen Hsiao, Ju-Pei Chen, Sheue-Fen Tzeng, Chin-Hsien Tsai, Chun-Yi Wu, Hsin-Hua Hsieh, Santiago J. Carmona, Massimo Andreatta, Giusy Di Conza, Mei-Tzu Su, Pandelakis A. Koni, Ping-Chih Ho, Hung-Kai Chen, Muh-Hwa Yang,
+A CSF-1R-blocking antibody/IL-10 fusion protein increases anti-tumor immunity by effectuating tumor-resident CD8+ T cells,
+Cell Reports Medicine,
+Volume 4, Issue 8,
+2023,
+101154,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101154.
+(https://www.sciencedirect.com/science/article/pii/S2666379123003075)
+Abstract: Summary
+Strategies to increase intratumoral concentrations of an anticancer agent are desirable to optimize its therapeutic potential when said agent is efficacious primarily within a tumor but also have significant systemic side effects. Here, we generate a bifunctional protein by fusing interleukin-10 (IL-10) to a colony-stimulating factor-1 receptor (CSF-1R)-blocking antibody. The fusion protein demonstrates significant antitumor activity in multiple cancer models, especially head and neck cancer. Moreover, this bifunctional protein not only leads to the anticipated reduction in tumor-associated macrophages but also triggers proliferation, activation, and metabolic reprogramming of CD8+ T cells. Furthermore, it extends the clonotype diversity of tumor-infiltrated T cells and shifts the tumor microenvironment (TME) to an immune-active state. This study suggests an efficient strategy for designing immunotherapeutic agents by fusing a potent immunostimulatory molecule to an antibody targeting TME-enriched factors.
+Keywords: colony-stimulating factor 1-receptor; immunotherapy; interleukin-10; macrophage; CD8 T cell; tumor microenvironment; TCR repertoire; head and neck cancer
+
+Shikhar Sharma, Chi-Yeh Chung, Sean Uryu, Jelena Petrovic, Joan Cao, Amanda Rickard, Nataliya Nady, Samantha Greasley, Eric Johnson, Oleg Brodsky, Showkhin Khan, Hui Wang, Zhenxiong Wang, Yong Zhang, Konstantinos Tsaparikos, Lei Chen, Anthony Mazurek, John Lapek, Pei-Pei Kung, Scott Sutton, Paul F. Richardson, Eric C. Greenwald, Shinji Yamazaki, Rhys Jones, Karen A. Maegley, Patrick Bingham, Hieu Lam, Alexandra E. Stupple, Aileen Kamal, Anderly Chueh, Anthony Cuzzupe, Benjamin J. Morrow, Bin Ren, Catalina Carrasco-Pozo, Chin Wee Tan, Dharmesh D. Bhuva, Elizabeth Allan, Elliot Surgenor, François Vaillant, Havva Pehlivanoglu, Hendrik Falk, James R. Whittle, Janet Newman, Joseph Cursons, Judy P. Doherty, Karen L. White, Laura MacPherson, Mark Devlin, Matthew L. Dennis, Meghan K. Hattarki, Melanie De Silva, Michelle A. Camerino, Miriam S. Butler, Olan Dolezal, Patricia Pilling, Richard Foitzik, Paul A. Stupple, H. Rachel Lagiakos, Scott R. Walker, Soroor Hediyeh-Zadeh, Stewart Nuttall, Sukhdeep K. Spall, Susan A. Charman, Theresa Connor, Thomas S. Peat, Vicky M. Avery, Ylva E. Bozikis, Yuqing Yang, Ming Zhang, Brendon J. Monahan, Anne K. Voss, Tim Thomas, Ian P. Street, Sarah-Jane Dawson, Mark A. Dawson, Geoffrey J. Lindeman, Melissa J. Davis, Jane E. Visvader, Thomas A. Paul,
+Discovery of a highly potent, selective, orally bioavailable inhibitor of KAT6A/B histone acetyltransferases with efficacy against KAT6A-high ER+ breast cancer,
+Cell Chemical Biology,
+Volume 30, Issue 10,
+2023,
+Pages 1191-1210.e20,
+ISSN 2451-9456,
+https://doi.org/10.1016/j.chembiol.2023.07.005.
+(https://www.sciencedirect.com/science/article/pii/S2451945623002349)
+Abstract: Summary
+KAT6A, and its paralog KAT6B, are histone lysine acetyltransferases (HAT) that acetylate histone H3K23 and exert an oncogenic role in several tumor types including breast cancer where KAT6A is frequently amplified/overexpressed. However, pharmacologic targeting of KAT6A to achieve therapeutic benefit has been a challenge. Here we describe identification of a highly potent, selective, and orally bioavailable KAT6A/KAT6B inhibitor CTx-648 (PF-9363), derived from a benzisoxazole series, which demonstrates anti-tumor activity in correlation with H3K23Ac inhibition in KAT6A over-expressing breast cancer. Transcriptional and epigenetic profiling studies show reduced RNA Pol II binding and downregulation of genes involved in estrogen signaling, cell cycle, Myc and stem cell pathways associated with CTx-648 anti-tumor activity in ER-positive (ER+) breast cancer. CTx-648 treatment leads to potent tumor growth inhibition in ER+ breast cancer in vivo models, including models refractory to endocrine therapy, highlighting the potential for targeting KAT6A in ER+ breast cancer.
+Keywords: KAT6A; KAT6B; CTx-648; PF-9363; epigenetics; breast cancer; resistance; estrogen receptor; cell cycle
+
+Yang Yang, Xuege Yang, Yating Huang, Sujuan Liu, Yanmei Niu, Li Fu,
+Resistance exercise alleviates dexamethasone-induced muscle atrophy via Sestrin2/MSTN pathway in C57BL/6J mice,
+Experimental Cell Research,
+Volume 432, Issue 1,
+2023,
+113779,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2023.113779.
+(https://www.sciencedirect.com/science/article/pii/S0014482723003270)
+Abstract: Aim
+It has long been recognized that resistance exercise can substantially increase skeletal muscle mass and strength, but whether it can protect against glucocorticoid-induced muscle atrophy and its potential mechanism is yet to be determined. This study aimed to investigate the protective effects of resistance exercise in dexamethasone-induced muscle atrophy and elucidate the possible function of exercise-induced protein Sestrin2 in this process.
+Methods
+Eight-week-old male C57BL/6J mice carried out the incremental mouse ladder exercise for 11 weeks. Two weeks before the end of the intervention, mice were daily intraperitoneally injected with dexamethasone. Body composition, muscle mass, and exercise performance were examined to evaluate muscle atrophy. In vitro, C2C12 cells were used for RT-qPCR, Western Blot, and immunofluorescence experiments to elucidate the potential mechanism.
+Results
+Our results showed that long-term resistance exercise is an effective intervention for dexamethasone-induced muscle atrophy. We also found that Sestrin2 plays a vital role in dexamethasone-induced muscle atrophy. In both animal (P = .0006) and cell models (P = .0266), dexamethasone intervention significantly reduced the protein expression of Sestrin2, which was increased (P = .0112) by resistance exercise. Inversely, overexpression of Sestrin2 improved (P < .0001) dexamethasone-induced myotube cell atrophy by reducing the activation of the ubiquitin-proteasome pathway via inhibiting Forkhead box O3 (FoxO3a) and myostatin (MSTN)/small mother against decapentaplegic (Smad) signaling pathways.
+Conclusion
+Taken together, our results indicated that Sestrin2 may serve as an effective molecule that mimics the protective effect of resistance exercise on dexamethasone-induced muscle atrophy.
+Keywords: Resistance exercise; Sestrin2; Skeletal muscle atrophy; FoxO3a; Protein degradation; Myostatin
