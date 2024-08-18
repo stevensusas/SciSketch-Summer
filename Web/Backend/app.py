@@ -8,6 +8,8 @@ from transformers import T5ForConditionalGeneration, T5Tokenizer
 from huggingface_hub import HfApi
 import requests
 import time
+from Icon_RAG import *
+
 
 app = Flask(__name__)
 CORS(app)
@@ -88,7 +90,7 @@ with app.app_context():
 
 @app.route('/api/documents/<document_id>', methods=['GET'])
 def get_document(document_id):
-    document = db.session.get(Document, document_id)
+    document = db.session.get(Document, document_id) #the document_id is the primary key
     if document is None:
         return jsonify({"name": "Untitled Document", "content": ""})
     return jsonify({"name": document.name, "content": json.loads(document.content)})
@@ -179,6 +181,11 @@ def predict():
         return jsonify(response), 200
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+    
+
+# Define Google Cloud Storage settings (Public Access for now)
+bucket_name = "scisketch_icon_search"
+icon_directory = "icons"
 
 @app.route('/inference', methods=['POST'])
 def inference():
@@ -189,30 +196,38 @@ def inference():
         return jsonify({'error': 'Failed to get phrases from Hugging Face API'}), response.status_code
     
     phrases_response = response.json()
+    
+    # Extract the generated text
     if isinstance(phrases_response, dict) and 'generated_text' in phrases_response:
-        phrases = [phrases_response['generated_text']]
-    elif isinstance(phrases_response, list):
-        phrases = [item['generated_text'] for item in phrases_response if 'generated_text' in item]
+        generated_text = phrases_response['generated_text']
+    elif isinstance(phrases_response, list) and len(phrases_response) > 0 and 'generated_text' in phrases_response[0]:
+        generated_text = phrases_response[0]['generated_text']
     else:
         return jsonify({'error': 'Unexpected response format from Hugging Face API'}), 500
     
+    # Split the generated text by commas and strip whitespace
+    phrases = [phrase.strip() for phrase in generated_text.split(',') if phrase.strip()]
+    
     abstract = input_data.get('inputs')
     results = []
+    
     for phrase in phrases:
         x_pred, y_pred = predict_coordinates(abstract, phrase)
         x_denorm, y_denorm = denormalize_coordinates(x_pred, y_pred, x_min, x_max, y_min, y_max)
+        
+        # Perform icon search and generate URL
+        similar_icons = search_similar_icons_by_text(phrase, 1)
+        if similar_icons and "ids" in similar_icons:
+            icon_path = similar_icons['metadatas'][0][0]['path']
+            absolute_url = generate_gcs_url(bucket_name, os.path.join(icon_directory, os.path.basename(icon_path)))
+        else:
+            absolute_url = None
+
         results.append({
-            'text': phrase,
-            'coordinates': {
-                'normalized': {
-                    'x': float(x_pred),
-                    'y': float(y_pred)
-                },
-                'denormalized': {
-                    'x': float(x_denorm),
-                    'y': float(y_denorm)
-                }
-            }
+            'phrase': phrase,
+            'x': float(x_denorm),
+            'y': float(y_denorm),
+            'icon_url': absolute_url  # added the icon url 
         })
     
     return jsonify({'results': results}), 200
