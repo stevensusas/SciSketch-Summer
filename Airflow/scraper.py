@@ -206,6 +206,7 @@ class ScienceDirectAPI:
             df = df[df['sourceTitle'] == journal]  # Ensure we only have results for this journal
             self.db.upload_dataframe(df, table_name)
             logging.info(f"Uploaded data for {journal} to table {table_name}")
+
     def get_graphical_abstract(self):
         tables = self.db.list_tables()
         today_tables = [table for table in tables if self.date.replace('-', '_') in table]
@@ -225,31 +226,23 @@ class ScienceDirectAPI:
                     try:
                         response = self.session.get(url)
                         if response.status_code == 200:
-                            return (doi, True)  # Graphical Abstract found
+                            return True  # Graphical Abstract found
                         elif response.status_code == 429:
                             retry_after = response.headers.get('Retry-After', backoff_time)
                             logging.warning(f"Rate limit hit. Backing off for {retry_after} seconds...")
                             time.sleep(int(retry_after))  # Use Retry-After header if available
-                            backoff_time = min(backoff_time * 2, 3600)  # Exponential backoff with max cap of 1 hour
+                            backoff_time = 1
                         else:
-                            return (doi, False)  # Graphical Abstract not found
+                            return False  # Graphical Abstract not found
                     except requests.exceptions.RequestException as e:
                         logging.error(f"Failed to fetch graphical abstract for DOI {doi}: {e}")
-                        return (doi, False)  # Mark as failed
-
-            num_cpus = os.cpu_count() or 1
-            max_workers = min(num_cpus * 2, 20)
-            logging.info(f"Using {max_workers} workers based on CPU count of {num_cpus}.")
+                        return False  # Mark as failed
 
             results = {}
-            with ThreadPoolExecutor(max_workers=max_workers) as executor:
-                future_to_doi = {executor.submit(API_call, row['doi']): row['doi'] for _, row in df.iterrows()}
-
-                with tqdm(total=len(df), desc=f"Processing DOIs for {table}", unit="doi") as pbar:
-                    for future in as_completed(future_to_doi):
-                        doi, result = future.result()
-                        results[doi] = result
-                        pbar.update(1)
+            for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Processing DOIs for {table}", unit="doi"):
+                doi = row['doi']
+                result = API_call(doi)
+                results[doi] = result
 
             df['GraphicalAbstract'] = df['doi'].map(results)
             self.db.upload_dataframe(df, table)
@@ -264,6 +257,5 @@ class ScienceDirectAPI:
 # Example usage:
 if __name__ == "__main__":
     sd_api = ScienceDirectAPI()
-    sd_api.scrape_all()
     result = sd_api.get_graphical_abstract()
     print(result)
