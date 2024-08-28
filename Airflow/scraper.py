@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 class ScienceDirectAPI:
     def __init__(self, base_url='https://api.elsevier.com/content/search/sciencedirect'):
         self.base_url = base_url
-        self.api_key = '7f59af901d2d86f78a1fd60c1bf9426a'
+        self.api_key = 'd81d98cad3552d6739cda469edb54e97'
         self.headers = {
             'Accept': 'application/json',
             'X-ELS-APIKey': self.api_key,
@@ -88,7 +88,7 @@ class ScienceDirectAPI:
             "Trends in Cognitive Sciences"
         ]
         self.db = MySQLConnector()
-        self.date = date.today().strftime('%Y-%m-%d')
+        self.date = '2024-08-27'
 
     def get_results(self, query):
         response = self.session.put(self.base_url, headers=self.headers, json=query)
@@ -226,23 +226,30 @@ class ScienceDirectAPI:
                     try:
                         response = self.session.get(url)
                         if response.status_code == 200:
-                            return True  # Graphical Abstract found
+                            return (doi, True)  # Graphical Abstract found
                         elif response.status_code == 429:
                             retry_after = response.headers.get('Retry-After', backoff_time)
                             logging.warning(f"Rate limit hit. Backing off for {retry_after} seconds...")
                             time.sleep(int(retry_after))  # Use Retry-After header if available
-                            backoff_time = 1
+                            backoff_time = min(backoff_time * 2, 3600)  # Exponential backoff with max cap of 1 hour
                         else:
-                            return False  # Graphical Abstract not found
+                            return (doi, False)  # Graphical Abstract not found
                     except requests.exceptions.RequestException as e:
                         logging.error(f"Failed to fetch graphical abstract for DOI {doi}: {e}")
-                        return False  # Mark as failed
+                        return (doi, False)  # Mark as failed
+
+            max_workers = 10  # Set maximum number of workers to 10
+            logging.info(f"Using {max_workers} workers for processing.")
 
             results = {}
-            for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Processing DOIs for {table}", unit="doi"):
-                doi = row['doi']
-                result = API_call(doi)
-                results[doi] = result
+            with ThreadPoolExecutor(max_workers=max_workers) as executor:
+                future_to_doi = {executor.submit(API_call, row['doi']): row['doi'] for _, row in df.iterrows()}
+
+                with tqdm(total=len(df), desc=f"Processing DOIs for {table}", unit="doi") as pbar:
+                    for future in as_completed(future_to_doi):
+                        doi, result = future.result()
+                        results[doi] = result
+                        pbar.update(1)
 
             df['GraphicalAbstract'] = df['doi'].map(results)
             self.db.upload_dataframe(df, table)
@@ -253,6 +260,7 @@ class ScienceDirectAPI:
             logging.info(f"Number of rows with 'GraphicalAbstract' = True in {table}: {count_true}")
 
         return "Graphical abstract processing completed for all tables."
+
 
 # Example usage:
 if __name__ == "__main__":
