@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 class ScienceDirectAPI:
     def __init__(self, base_url='https://api.elsevier.com/content/search/sciencedirect'):
         self.base_url = base_url
-        self.api_key = '7f59af901d2d86f78a1fd60c1bf9426a'
+        self.api_key = 'd81d98cad3552d6739cda469edb54e97'
         self.headers = {
             'Accept': 'application/json',
             'X-ELS-APIKey': self.api_key,
@@ -88,7 +88,7 @@ class ScienceDirectAPI:
             "Trends in Cognitive Sciences"
         ]
         self.db = MySQLConnector()
-        self.date = date.today().strftime('%Y-%m-%d')
+        self.date = '2024-08-27'
 
     def get_results(self, query):
         response = self.session.put(self.base_url, headers=self.headers, json=query)
@@ -206,6 +206,7 @@ class ScienceDirectAPI:
             df = df[df['sourceTitle'] == journal]  # Ensure we only have results for this journal
             self.db.upload_dataframe(df, table_name)
             logging.info(f"Uploaded data for {journal} to table {table_name}")
+
     def get_graphical_abstract(self):
         tables = self.db.list_tables()
         today_tables = [table for table in tables if self.date.replace('-', '_') in table]
@@ -237,9 +238,8 @@ class ScienceDirectAPI:
                         logging.error(f"Failed to fetch graphical abstract for DOI {doi}: {e}")
                         return (doi, False)  # Mark as failed
 
-            num_cpus = os.cpu_count() or 1
-            max_workers = min(num_cpus * 2, 20)
-            logging.info(f"Using {max_workers} workers based on CPU count of {num_cpus}.")
+            max_workers = 10  # Set maximum number of workers to 10
+            logging.info(f"Using {max_workers} workers for processing.")
 
             results = {}
             with ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -261,9 +261,9 @@ class ScienceDirectAPI:
 
         return "Graphical abstract processing completed for all tables."
 
+
 # Example usage:
 if __name__ == "__main__":
     sd_api = ScienceDirectAPI()
-    sd_api.scrape_all()
     result = sd_api.get_graphical_abstract()
     print(result)
