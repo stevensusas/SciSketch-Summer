@@ -43,4 +43,74 @@ Then, I used PyTorch to modify T5 for specific finetuning tasks:
 To deploy the model quickly and scalably in a MVP beta testing version to quickly gain user feedback and iterate & improve, we will be hosting the finetuned model on cloud servers for inference and the frontend in Google Workspace Add-on so people can use it as a plug-in for Google Docs. However, we are also building a full-stack webapp with the MERN-stack, with the graphic editting view built with Fabric.js and the text editting view built with Quill.js, so that in the long-term we can have our own webapp for developing more features. 
 
 
+## Dev Workflow
+
+### Backend Dev
+Navigate to Backend dev directory:
+
+```
+cd Web/Backend
+```
+
+Create a virtual environment:
+```
+python3 -m venv scisketch-backend-dev
+```
+Activate the virtual environment:
+
+MacOS:
+```
+source scisketch-backend-dev/bin/activate
+```
+
+Windows:
+```
+scisketch-backend-dev\Scripts\activate
+```
+
+Install all dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+Run Flask server on localhost:
+
+```
+python app.py
+```
+
+### Data Infra Dev
+
+```
+cd Airflow
+```
+
+Create a virtual environment:
+```
+python3 -m venv scisketch-data-dev
+```
+Activate the virtual environment:
+
+MacOS:
+```
+source scisketch-data-dev/bin/activate
+```
+
+Windows:
+```
+scisketch-data-dev\Scripts\activate
+```
+
+Install all dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+Run data scraping script:
+
+```
+python scraper.py
+```
 
