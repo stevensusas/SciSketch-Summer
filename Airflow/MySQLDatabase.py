@@ -104,6 +104,21 @@ class MySQLConnector:
             print(f"Error fetching table names: {e}")
             return []
 
+    def execute_query(self, query):
+        """
+        Executes a given SQL query and returns the results.
+        :param query: SQL query to execute
+        :return: List of tuples containing the query results
+        """
+        try:
+            with self.connection.cursor() as cursor:
+                cursor.execute(query)
+                results = cursor.fetchall()
+                return results
+        except pymysql.MySQLError as e:
+            print(f"Error executing query: {e}")
+            return []
+
     def preview_table(self, table_name, limit=5):
         """
         Previews the content of a specified table.

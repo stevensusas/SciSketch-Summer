@@ -208,10 +208,29 @@ class ScienceDirectAPI:
             logging.info(f"Uploaded data for {journal} to table {table_name}")
 
     def get_graphical_abstract(self):
-        tables = self.db.list_tables()
-        today_tables = [table for table in tables if self.date.replace('-', '_') in table]
+    # Get tables without GraphicalAbstract column
+        query = """
+        SELECT table_name
+        FROM information_schema.tables
+        WHERE table_schema = 'scisketch'
+        AND table_type = 'BASE TABLE'
+        AND table_name NOT IN (
+            SELECT table_name
+            FROM information_schema.columns
+            WHERE table_schema = 'scisketch'
+            AND column_name = 'GraphicalAbstract'
+        );
+        """
+        tables_to_process = [row[0] for row in self.db.execute_query(query)]
 
-        for table in today_tables:
+        logging.info(f"Tables to process: {tables_to_process}")
+
+        # Determine max workers
+        machine_workers = os.cpu_count() or 1
+        max_workers = max(10, machine_workers)
+        logging.info(f"Using {max_workers} workers for processing.")
+
+        for table in tables_to_process:
             logging.info(f"Processing graphical abstracts for table: {table}")
             df = self.db.fetch_table(table)
 
@@ -238,9 +257,6 @@ class ScienceDirectAPI:
                         logging.error(f"Failed to fetch graphical abstract for DOI {doi}: {e}")
                         return (doi, False)  # Mark as failed
 
-            max_workers = 10  # Set maximum number of workers to 10
-            logging.info(f"Using {max_workers} workers for processing.")
-
             results = {}
             with ThreadPoolExecutor(max_workers=max_workers) as executor:
                 future_to_doi = {executor.submit(API_call, row['doi']): row['doi'] for _, row in df.iterrows()}
@@ -259,7 +275,7 @@ class ScienceDirectAPI:
             count_true = df['GraphicalAbstract'].eq(True).sum()
             logging.info(f"Number of rows with 'GraphicalAbstract' = True in {table}: {count_true}")
 
-        return "Graphical abstract processing completed for all tables."
+        return "Graphical abstract processing completed for all tables without existing GraphicalAbstract column."
 
 
 # Example usage:
