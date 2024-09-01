@@ -19,7 +19,7 @@ function App() {
         <Route path="/login" element={<LoginSignUp />} />
         <Route path="/home" element={<Home />} />
         <Route
-          path="/documents"
+          path="/documents"   
           element={<Navigate to={`/documents/${uuidV4()}`} />}
         />
         <Route path="/diagrams/:id" element={<EditDiagram />} />
