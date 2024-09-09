@@ -9,6 +9,7 @@ from tqdm import tqdm
 import os
 from MySQLDatabase import MySQLConnector
 from datetime import date
+from S3_uploader import S3_uploader
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -24,7 +25,7 @@ class ScienceDirectAPI:
         self.session = requests.Session()
         retries = Retry(total=5, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
         self.session.mount('https://', HTTPAdapter(max_retries=retries))
-
+        self.S3 = S3_uploader()
         self.journals = [
             "Cell",
             "Cancer Cell",
@@ -208,7 +209,7 @@ class ScienceDirectAPI:
             logging.info(f"Uploaded data for {journal} to table {table_name}")
 
     def get_graphical_abstract(self):
-    # Get tables without GraphicalAbstract column
+        # Get tables without GraphicalAbstract column
         query = """
         SELECT table_name
         FROM information_schema.tables
@@ -234,7 +235,7 @@ class ScienceDirectAPI:
             logging.info(f"Processing graphical abstracts for table: {table}")
             df = self.db.fetch_table(table)
 
-            def API_call(doi):
+            def API_call(doi, pii):
                 prefix = "https://api.elsevier.com/content/object/doi/"
                 postfix = '/ref/fx1/high?apiKey='
                 end = '&httpAccept=*%2F*'
@@ -245,21 +246,27 @@ class ScienceDirectAPI:
                     try:
                         response = self.session.get(url)
                         if response.status_code == 200:
-                            return (doi, True)  # Graphical Abstract found
+                            # If API call is successful (status code 200), try to upload the image to S3
+                            try:
+                                self.S3.upload_image_response(response.content, pii)
+                                return (doi, 1)  # Upload successful, return 1 for GraphicalAbstract
+                            except Exception as e:
+                                logging.error(f"Failed to upload image to S3 for DOI {doi}: {e}")
+                                return (doi, 0)  # Upload failed, return 0 for GraphicalAbstract
                         elif response.status_code == 429:
                             retry_after = response.headers.get('Retry-After', backoff_time)
                             logging.warning(f"Rate limit hit. Backing off for {retry_after} seconds...")
                             time.sleep(int(retry_after))  # Use Retry-After header if available
                             backoff_time = min(backoff_time * 2, 3600)  # Exponential backoff with max cap of 1 hour
                         else:
-                            return (doi, False)  # Graphical Abstract not found
+                            return (doi, 0)  # API call failed, no graphical abstract found
                     except requests.exceptions.RequestException as e:
                         logging.error(f"Failed to fetch graphical abstract for DOI {doi}: {e}")
-                        return (doi, False)  # Mark as failed
+                        return (doi, 0)  # Mark as failed if the API call fails
 
             results = {}
             with ThreadPoolExecutor(max_workers=max_workers) as executor:
-                future_to_doi = {executor.submit(API_call, row['doi']): row['doi'] for _, row in df.iterrows()}
+                future_to_doi = {executor.submit(API_call, row['doi'], row['pii']): row['doi'] for _, row in df.iterrows()}
 
                 with tqdm(total=len(df), desc=f"Processing DOIs for {table}", unit="doi") as pbar:
                     for future in as_completed(future_to_doi):
@@ -267,16 +274,16 @@ class ScienceDirectAPI:
                         results[doi] = result
                         pbar.update(1)
 
+            # Populate the 'GraphicalAbstract' column with 1 or 0 based on the upload success
             df['GraphicalAbstract'] = df['doi'].map(results)
             self.db.upload_dataframe(df, table)
             logging.info(f"Updated table {table} with graphical abstract information")
 
-            # Count and log the number of rows where 'GraphicalAbstract' is True
-            count_true = df['GraphicalAbstract'].eq(True).sum()
-            logging.info(f"Number of rows with 'GraphicalAbstract' = True in {table}: {count_true}")
+            # Count and log the number of rows where 'GraphicalAbstract' is 1 (successful upload)
+            count_true = df['GraphicalAbstract'].eq(1).sum()
+            logging.info(f"Number of rows with 'GraphicalAbstract' = 1 (successful upload) in {table}: {count_true}")
 
         return "Graphical abstract processing completed for all tables without existing GraphicalAbstract column."
-
 
 # Example usage:
 if __name__ == "__main__":

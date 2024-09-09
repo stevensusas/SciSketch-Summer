@@ -1,1 +1,3 @@
 *.csv
+.env
+scisketch-data-dev/
