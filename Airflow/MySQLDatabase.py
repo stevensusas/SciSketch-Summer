@@ -164,6 +164,187 @@ class MySQLConnector:
             print(f"Error checking if table exists: {e}")
             return False
 
+    def drop_duplicates_in_doi(self):
+        """
+        Drops duplicates in the 'doi' column for all tables in the database, handling cases where 'id' is not present.
+        """
+        try:
+            # Fetch all table names
+            tables = self.list_tables()
+
+            for table in tables:
+                print(f"Processing table: {table}")
+                
+                # Check if the 'doi' column exists in the current table
+                query = f"""
+                SELECT COUNT(*) 
+                FROM information_schema.columns 
+                WHERE table_name = '{table}' 
+                AND column_name = 'doi'
+                """
+                result = self.execute_query(query)
+
+                if result[0][0] > 0:
+                    # Check if the 'id' column exists in the table
+                    query = f"""
+                    SELECT COUNT(*) 
+                    FROM information_schema.columns 
+                    WHERE table_name = '{table}' 
+                    AND column_name = 'id'
+                    """
+                    id_exists = self.execute_query(query)[0][0] > 0
+                    
+                    if id_exists:
+                        # If the 'id' column exists, use it to drop duplicates
+                        print(f"Dropping duplicates in 'doi' column for table {table} using 'id'...")
+
+                        # Step 1: Identify duplicate 'doi' values and the minimum 'id' for each group
+                        duplicate_query = f"""
+                        SELECT id
+                        FROM `{table}`
+                        WHERE id NOT IN (
+                            SELECT MIN(id)
+                            FROM `{table}`
+                            GROUP BY doi
+                            HAVING COUNT(doi) > 1
+                        );
+                        """
+                        ids_to_delete = self.execute_query(duplicate_query)
+
+                        # Step 2: Delete the duplicates based on identified 'id's
+                        if ids_to_delete:
+                            ids_to_delete_str = ",".join([str(row[0]) for row in ids_to_delete])
+                            delete_query = f"DELETE FROM `{table}` WHERE id IN ({ids_to_delete_str});"
+                            self.execute_query(delete_query)
+                            print(f"Duplicates dropped in table: {table}")
+                        else:
+                            print(f"No duplicates found in table: {table}")
+
+                    else:
+                        # If the 'id' column doesn't exist, we'll handle it by identifying duplicates without 'id'
+                        print(f"Dropping duplicates in 'doi' column for table {table} without 'id'...")
+
+                        # Step 1: Create a temporary table with unique DOI records
+                        temp_table_name = f"{table}_temp"
+                        create_temp_table = f"""
+                        CREATE TEMPORARY TABLE `{temp_table_name}` AS
+                        SELECT * FROM `{table}`
+                        WHERE doi IN (
+                            SELECT doi FROM `{table}`
+                            GROUP BY doi
+                            HAVING COUNT(doi) = 1
+                        );
+                        """
+                        self.execute_query(create_temp_table)
+
+                        # Step 2: Delete all records from the original table
+                        delete_all = f"DELETE FROM `{table}`;"
+                        self.execute_query(delete_all)
+
+                        # Step 3: Insert the unique records back into the original table
+                        insert_unique = f"INSERT INTO `{table}` SELECT * FROM `{temp_table_name}`;"
+                        self.execute_query(insert_unique)
+
+                        print(f"Duplicates dropped in table: {table}")
+
+                else:
+                    print(f"Skipping table {table}, no 'doi' column found.")
+
+        except pymysql.MySQLError as e:
+            print(f"Error dropping duplicates: {e}")
+
+
+
+    def count_true_in_graphical_abstract(self):
+        """
+        For all tables in the database, list the number of rows where the GraphicalAbstract column contains TRUE,
+        as well as the total count across all tables.
+        """
+        try:
+            tables = self.list_tables()  # Get all table names
+            total_true_count = 0  # To store the total count of TRUE across all tables
+
+            # Iterate through each table
+            for table in tables:
+                # Check if the table contains a 'GraphicalAbstract' column
+                query = f"""
+                SELECT COUNT(*) 
+                FROM information_schema.columns 
+                WHERE table_name = '{table}' 
+                AND column_name = 'GraphicalAbstract'
+                """
+                result = self.execute_query(query)
+
+                if result[0][0] > 0:  # If 'GraphicalAbstract' column exists
+                    # Count the number of TRUE values in the 'GraphicalAbstract' column
+                    query = f"""
+                    SELECT COUNT(*) 
+                    FROM `{table}` 
+                    WHERE GraphicalAbstract = TRUE;
+                    """
+                    count_result = self.execute_query(query)
+                    count_true = count_result[0][0]
+                    total_true_count += count_true
+                    print(f"Table: {table} | Count of TRUE in 'GraphicalAbstract': {count_true}")
+                else:
+                    print(f"Table {table} does not have a 'GraphicalAbstract' column. Skipping...")
+
+            print(f"Total number of TRUE values across all tables: {total_true_count}")
+            return total_true_count
+
+        except pymysql.MySQLError as e:
+            print(f"Error counting TRUE values in 'GraphicalAbstract': {e}")
+    
+    def check_for_duplicate_doi(self):
+        """
+        Checks all tables in the database and returns the names of tables that contain duplicate entries in the 'doi' column.
+        :return: List of table names that contain duplicate 'doi' entries
+        """
+        tables_with_duplicates = []  # To store table names with duplicate 'doi' values
+        try:
+            # Fetch all table names
+            tables = self.list_tables()
+
+            # Iterate through each table and check if it has duplicate entries in the 'doi' column
+            for table in tables:
+                # Check if the 'doi' column exists in the table
+                query = f"""
+                SELECT COUNT(*)
+                FROM information_schema.columns
+                WHERE table_name = '{table}'
+                AND column_name = 'doi'
+                AND table_schema = '{self.database}';
+                """
+                result = self.execute_query(query)
+
+                if result[0][0] > 0:  # If the 'doi' column exists
+                    # Query to check for duplicates in the 'doi' column
+                    duplicate_query = f"""
+                    SELECT doi
+                    FROM `{table}`
+                    GROUP BY doi
+                    HAVING COUNT(doi) > 1;
+                    """
+                    duplicates = self.execute_query(duplicate_query)
+
+                    if duplicates:
+                        tables_with_duplicates.append(table)
+                        print(f"Table {table} contains duplicate 'doi' entries.")
+                else:
+                    print(f"Table {table} does not contain a 'doi' column.")
+
+            return tables_with_duplicates
+
+        except pymysql.MySQLError as e:
+            print(f"Error checking for duplicate 'doi' entries: {e}")
+            return []
+
+
     def __del__(self):
         """Ensures the connection is closed when the object is deleted."""
         self.close_connection()
+
+if __name__ == "__main__":
+    # Initialize the MySQLConnector
+    db = MySQLConnector()
+    db.count_true_in_graphical_abstract()
