@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "contour"
+version = "0.1.0"
+description = ""
+authors = ["stevensusas <hanqisu@sas.upenn.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+opencv-python = "^4.10.0.84"
+matplotlib = "^3.9.2"
+keras-ocr = "^0.9.3"
+tensorflow = "^2.17.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
